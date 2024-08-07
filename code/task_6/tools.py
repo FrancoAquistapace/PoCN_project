@@ -1,0 +1,224 @@
+'''
+Here we will define all of the functions and tools that we need in order to reproduce the graphs
+and results for the Song-Havlin-Makse paper.
+'''
+# ------ Necessary packages ---------
+import numpy as np 
+import networkx as nx
+# -----------------------------------
+
+
+# ---- Graph creation and growth ----
+# Function to initialize a star graph
+def star_graph(N):
+    '''
+    Params:
+        N : int
+            Number of nodes in the graph. Must be
+            greater than 1.
+    Output:
+        Returns a star graph with N nodes as a 
+        networkx Graph object.
+    '''
+    # Check that the graph has at least N=2
+    if N < 2:
+        print('Error: N must be greater than 1.')
+        
+    # Build the edges
+    edge_list = []
+    for i in range(N-1):
+        edge_list.append([0,i+1])
+        
+    # Build graph and return it
+    G = nx.from_edgelist(edge_list)
+    return G
+
+
+# Function for Mode I growth: hub-hub attraction
+def attraction_growth_step(graph, m):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to apply the growth step.
+        m : int
+            Multiplicative constant for number of 
+            new nodes. Must be greater than 0.
+    Output:
+        Returns a grown version of the given graph, using
+        a hub-hub attraction mode. In this case, all of the
+        previous edges of the netowrk are kept. Then, m*k 
+        new nodes are added connected to each previous node
+        with degree k. 
+    '''
+    # Gather old nodes and get the biggest node label
+    old_nodes = list(graph.nodes)
+    max_label = np.max(old_nodes)
+
+    # Store current node number
+    current_node = max_label + 1
+    
+    # Generate new nodes and egdes at the same time
+    G_new = graph.copy()
+    for i in old_nodes:
+        # Get degree of old node
+        k = graph.degree[i]
+        # Add m*k new nodes
+        for j in range(m*k):
+            # Use current node label
+            G_new.add_edge(i, current_node)
+            # Update node label
+            current_node += 1
+
+    return G_new
+
+
+# Function for Mode II growth: hub-hub repulsion
+def repulsion_growth_step(graph, m, seed=42):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to apply the growth step.
+        m : int
+            Multiplicative constant for number of 
+            new nodes. Must be greater than 0.
+        seed : int (optional)
+            Random seed used during growth process.
+    Output:
+        Returns a grown version of the given graph, using
+        a hub-hub repulsion mode. In this case, all of the
+        previous edges of the netowrk are erased. Then, m*k 
+        new nodes are added connected to each previous node
+        with degree k. Finally the old connections are replaced
+        by connections between new neighbors of the old nodes, 
+        respectively.
+    '''
+    # Initialize random generator with the seed
+    np.random.seed(seed)
+    
+    # Gather old nodes and get the biggest node label
+    old_nodes = list(graph.nodes)
+    max_label = np.max(old_nodes)
+
+    # Store current node number
+    current_node = max_label + 1
+
+    # Keep track of new nodes, and old nodes to which 
+    # they are connected
+    new_nodes = dict()
+
+    # Generate new nodes and egdes at the same time
+    G_new = graph.copy()
+    for i in old_nodes:
+        new_nodes[i] = []
+        
+        # Get degree of old node
+        k = graph.degree[i]
+        # Add m*k new nodes
+        for j in range(m*k):
+            # Use current node label
+            G_new.add_edge(i, current_node)
+
+            # Save new node info
+            new_nodes[i].append(current_node)
+            
+            # Update node label
+            current_node += 1
+
+    # Now, we need to replace the old edges by 
+    # non-hub edges 
+    for edge in list(graph.edges):
+        u, v = edge[0], edge[1]
+        # Find new nodes connected to u and v
+        u_new = np.random.choice(new_nodes[u])
+        v_new = np.random.choice(new_nodes[v])
+
+        # Replace old edge with new one
+        G_new.remove_edge(u, v)
+        G_new.add_edge(u_new, v_new)
+
+    return G_new
+
+
+# Function for a stochastic growth step
+def stochastic_growth_step(graph, m, e, seed=42):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to apply the growth step.
+        m : int
+            Multiplicative constant for number of 
+            new nodes. Must be greater than 0.
+        e : float 
+            Determines the fraction of Mode I growth
+            (equal to e) and Mode II growth (given by
+            1 - e). Must be between 0 and 1.
+        seed : int (optional)
+            Random seed used during growth process.
+    Output:
+        Returns a grown version of the given graph, using
+        a hub-hub repulsion mode. In this case, all of the
+        previous edges of the netowrk are erased. Then, m*k 
+        new nodes are added connected to each previous node
+        with degree k. Finally the old connections are replaced
+        by connections between new neighbors of the old nodes, 
+        respectively.
+    '''
+    # Check that e is between 0 and 1
+    if e < 0 or e > 1:
+        print('Error: e must be between 0 and 1.')
+        return 
+        
+    # Initialize random generator with the seed
+    np.random.seed(seed)
+    
+    # Gather old nodes and get the biggest node label
+    old_nodes = list(graph.nodes)
+    max_label = np.max(old_nodes)
+
+    # Store current node number
+    current_node = max_label + 1
+
+    # Keep track of new nodes, and old nodes to which 
+    # they are connected
+    new_nodes = dict()
+
+    # Generate new nodes and egdes at the same time
+    G_new = graph.copy()
+    for i in old_nodes:
+        new_nodes[i] = []
+        
+        # Get degree of old node
+        k = graph.degree[i]
+        # Add m*k new nodes
+        for j in range(m*k):
+            # Use current node label
+            G_new.add_edge(i, current_node)
+
+            # Save new node info
+            new_nodes[i].append(current_node)
+            
+            # Update node label
+            current_node += 1
+
+    # Now, we need to replace the old edges by 
+    # non-hub edges, with probability p = 1 - e
+    for edge in list(graph.edges):
+        # Check if old edge is to be replaced or not
+        if np.random.uniform() < (1-e):
+            u, v = edge[0], edge[1]
+            # Find new nodes connected to u and v
+            u_new = np.random.choice(new_nodes[u])
+            v_new = np.random.choice(new_nodes[v])
+    
+            # Replace old edge with new one
+            G_new.remove_edge(u, v)
+            G_new.add_edge(u_new, v_new)
+
+    return G_new
+# -----------------------------------
+
+
+
+# -------- Graph Analysis -----------
+
+# -----------------------------------
