@@ -220,5 +220,66 @@ def stochastic_growth_step(graph, m, e, seed=42):
 
 
 # -------- Graph Analysis -----------
+# Function to get the (k_1, k_2) pairs of a graph
+def degree_pairs(graph):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to apply the growth step.
+    Output:
+        Returns a list containing the k_1, k_2 degree 
+        pairs of the given graph.
+    '''
+    # Init empty results
+    res = []
+    
+    # Iterate over all edges of the graph
+    edges = list(graph.edges)
+    for edge in edges:
+        u, v = edge[0], edge[1]
+        # Get degrees k_u and k_v and save to results
+        k_u = graph.degree[u]
+        k_v = graph.degree[v]
+        res.append([k_u, k_v])
 
+    return res
+
+
+# Function to get P(k_1, k_2) in a frequentist approach
+def P_joint_deg(measures):
+    '''
+    Params:
+        measures : list or array
+            Iterable containing the measurements of 
+            (k_1, k_2) pairs.
+    Output:
+        Returns a matrix A of size (k_max, k_max) where
+        k_max is the maximum degree identified in the
+        measures. Each element A_ij of the matrix is the
+        frequency of occurrence of the pair k_1=i+1,
+        k_2=j+1.
+    '''
+    # Turn measures into numpy array
+    measures = np.array(measures)
+
+    # Init P joint as count matrix
+    k_max = np.max(measures)
+    A = np.zeros(shape=(k_max, k_max))
+    # Iterate only over unique values
+    unique_k_1 = list(np.unique(measures))
+    for k_1 in unique_k_1:
+        # Get pairs with k_1
+        k_1_mask = (measures[:,0] == k_1)
+        k_1_pairs = measures[k_1_mask,:]
+
+        # Iterate over unique k_2 values 
+        k_2_vals = np.unique(k_1_pairs[:,1])
+        for k_2 in k_2_vals:
+            # Get counts and save them to matrix
+            k_2_counts = np.sum(k_1_pairs[:,1] == k_2)
+            A[k_1-1, k_2-1] += k_2_counts
+        
+    # Normalize by totality of measures to get frequency
+    A = A / np.sum(A)
+    return A
 # -----------------------------------
