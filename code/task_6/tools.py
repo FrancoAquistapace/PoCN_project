@@ -5,6 +5,7 @@ and results for the Song-Havlin-Makse paper.
 # ------ Necessary packages ---------
 import numpy as np 
 import networkx as nx
+from scipy.interpolate import griddata
 # -----------------------------------
 
 
@@ -322,9 +323,10 @@ def P_joint_deg(measures):
     # Turn measures into numpy array
     measures = np.array(measures)
 
-    # Init P joint as count matrix
+    # Init lists of values and counts, along with k_max
+    k_pairs = []
+    k_counts = []
     k_max = np.max(measures)
-    A = np.zeros(shape=(k_max, k_max))
     # Iterate only over unique values
     unique_k_1 = list(np.unique(measures))
     for k_1 in unique_k_1:
@@ -335,12 +337,27 @@ def P_joint_deg(measures):
         # Iterate over unique k_2 values 
         k_2_vals = np.unique(k_1_pairs[:,1])
         for k_2 in k_2_vals:
-            # Get counts and save them to matrix
+            # Get counts and save them
             k_2_counts = np.sum(k_1_pairs[:,1] == k_2)
-            A[k_1 - 1, k_2 - 1] *= 0
-            A[k_1 - 1, k_2 - 1] += k_2_counts
-            A[k_2 - 1, k_1 - 1] *= 0
-            A[k_2 - 1, k_1 - 1] += k_2_counts
+            k_pairs.append([k_1, k_2])
+            k_counts.append(k_2_counts)
+
+    # Turn k pairs into array, and add switched version
+    k_pairs = np.array(k_pairs)
+    k_pairs_extra = k_pairs.copy()
+    k_pairs_extra[:,0] = k_pairs[:,1]
+    k_pairs_extra[:,1] = k_pairs[:,0]
+    k_pairs = np.vstack([k_pairs, k_pairs_extra])
+
+    # Duplicate counts as well
+    k_counts_extra = k_counts.copy()
+    k_counts.extend(k_counts_extra)
+
+    # Define a grid
+    grid_x, grid_y = np.mgrid[1:k_max:k_max*1j, 1:k_max:k_max*1j]
+
+    A = griddata(k_pairs, k_counts, (grid_x, grid_y), method='linear', 
+                 fill_value=0)
         
     # Normalize by totality of measures to get frequency
     A = A / np.sum(A)
