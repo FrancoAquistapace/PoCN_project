@@ -276,6 +276,60 @@ def minimal_model_graph(init_N, n_iters, m, e, seed=42):
 
     # Return graph and data
     return G, data
+
+
+# Function to randomize a graph via edge swapping
+def randomize_graph(graph, n_iters):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to apply the randomization.
+        n_iters : int
+            Number of iterations to use for swapping
+            the graph edges.
+    Output:
+        Returns a randomized version of the graph but
+        conserving the original degree distribution. The
+        randomization is performed by picking at random
+        two edges (A, B) and (C, D), and swapping the
+        ends so that the new edges are (A, D) and (C, B).
+        If these edges already exist, the operation is 
+        cancelled and a new set of pairs is chosen. This
+        is done for n_iters.
+    '''
+    # Initialize new graph
+    G_new = graph.copy()
+    swap_status = []
+    # Iterate and perform the swapping
+    for i in range(n_iters):
+        # Get current edges
+        G_edges = list(G_new.edges)
+
+        # Try until successful 
+        swap_done = False
+        while not swap_done:
+            # Pick two random edges
+            r_idx = np.random.randint(low=0, high=len(G_edges), size=2)
+            AB, CD = G_edges[r_idx[0]], G_edges[r_idx[1]]
+            # Build new edges
+            AD, BC = (AB[0], CD[1]), (CD[0], AB[1])
+
+            # Check if new edges already exist
+            if (AD in G_edges) or (BC in G_edges):
+                pass
+    
+            else:
+                # Perform removal of old edges
+                G_new.remove_edge(AB[0], AB[1])
+                G_new.remove_edge(CD[0], CD[1])
+
+                # And addition of new edges
+                G_new.add_edge(AD[0], AD[1])
+                G_new.add_edge(BC[0], BC[1])
+                
+                swap_done = True
+
+    return G_new
 # -----------------------------------
 
 
@@ -307,12 +361,15 @@ def degree_pairs(graph):
 
 
 # Function to get P(k_1, k_2) in a frequentist approach
-def P_joint_deg(measures):
+def P_joint_deg(measures, grid_mode='log'):
     '''
     Params:
         measures : list or array
             Iterable containing the measurements of 
             (k_1, k_2) pairs.
+        grid_mode : str (optional)
+            Grid mode to use when building domain
+            for interpolation. Default is log.
     Output:
         Returns a matrix A of size (k_max, k_max) where
         k_max is the maximum degree identified in the
@@ -354,7 +411,12 @@ def P_joint_deg(measures):
     k_counts.extend(k_counts_extra)
 
     # Define a grid
-    grid_x, grid_y = np.mgrid[1:k_max:k_max*1j, 1:k_max:k_max*1j]
+    if grid_mode == 'linear':
+        grid_x, grid_y = np.mgrid[1:k_max:k_max*1j, 1:k_max:k_max*1j]
+    elif grid_mode == 'log':
+        x_dom = np.logspace(start=0, stop=np.log10(k_max), num=k_max)
+        y_dom = np.logspace(start=0, stop=np.log10(k_max), num=k_max)
+        grid_x, grid_y = np.meshgrid(x_dom, y_dom)
 
     A = griddata(k_pairs, k_counts, (grid_x, grid_y), method='linear', 
                  fill_value=0)
