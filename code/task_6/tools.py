@@ -361,67 +361,126 @@ def degree_pairs(graph):
 
 
 # Function to get P(k_1, k_2) in a frequentist approach
-def P_joint_deg(measures, grid_mode='log'):
+# with only observed values
+def P_joint_deg_emp(measures, k_limit):
     '''
     Params:
         measures : list or array
             Iterable containing the measurements of 
             (k_1, k_2) pairs.
-        grid_mode : str (optional)
-            Grid mode to use when building domain
-            for interpolation. Default is log.
+        k_limit : int
+            Maximum degree to consider when gathering
+            degree-degree counts.
+
     Output:
-        Returns a matrix A of size (k_max, k_max) where
-        k_max is the maximum degree identified in the
-        measures. Each element A_ij of the matrix is the
-        frequency of occurrence of the pair k_1=i+1,
-        k_2=j+1.
+        Returns a matrix A of size (k_unique, k_unique) where
+        k_unique is the number of unique degrees identified in 
+        the measures up to k_limit. Each element A_ij of the 
+        matrix is the frequency of occurrence of the pair k_i,
+        k_j. The elements A_ij are calculated in a frequentist 
+        manner, only for the observed degree pairs. Also returns
+        the corresponding degree for each row/column.
     '''
     # Turn measures into numpy array
     measures = np.array(measures)
 
-    # Init lists of values and counts, along with k_max
-    k_pairs = []
-    k_counts = []
-    k_max = np.max(measures)
+    # Init list of values and A, along with k_unique
+    k_vals = list(np.unique(measures))
+    k_vals = [k for k in k_vals if k <= k_limit] # Filter
+    
+    k_unique = len(k_vals)
+    A = np.zeros(shape=(k_unique, k_unique))
+    
     # Iterate only over unique values
-    unique_k_1 = list(np.unique(measures))
-    for k_1 in unique_k_1:
+    for i, k_1 in enumerate(k_vals):
         # Get pairs with k_1
         k_1_mask = (measures[:,0] == k_1)
-        k_1_pairs = measures[k_1_mask,:]
+        
+        # Proceed if pairs were found
+        if np.sum(k_1_mask) > 0:
+            k_1_pairs = measures[k_1_mask,:]
+            # Iterate over unique k_2 values 
+            for j, k_2 in enumerate(k_vals):
+                # Get counts and save them
+                k_2_counts = np.sum(k_1_pairs[:,1] == k_2)
+                A[i, j] += k_2_counts
+                # If not diagonal, save also the transpose
+                if i != j:
+                    A[j, i] += k_2_counts
+        
+    # Normalize by totality of measures to get frequency
+    A = A / np.sum(A)
+    return A, k_vals
 
-        # Iterate over unique k_2 values 
-        k_2_vals = np.unique(k_1_pairs[:,1])
-        for k_2 in k_2_vals:
-            # Get counts and save them
-            k_2_counts = np.sum(k_1_pairs[:,1] == k_2)
-            k_pairs.append([k_1, k_2])
-            k_counts.append(k_2_counts)
 
-    # Turn k pairs into array, and add switched version
-    k_pairs = np.array(k_pairs)
-    k_pairs_mask = k_pairs[:,0] != k_pairs[:,1]
-    k_pairs_extra = k_pairs[k_pairs_mask].copy()
-    k_pairs_extra[:,0] = k_pairs[k_pairs_mask][:,1]
-    k_pairs_extra[:,1] = k_pairs[k_pairs_mask][:,0]
-    k_pairs = np.vstack([k_pairs, k_pairs_extra])
+# Function to get P(k_1, k_2) in a frequentist approach
+# with interpolation
+def P_joint_deg_interp(measures, k_max, grid_mode='log', samples=1000):
+    '''
+    Params:
+        measures : list or array
+            Iterable containing the measurements of 
+            (k_1, k_2) pairs.
+        k_max : int
+            Maximum degree to consider.
+        grid_mode : str (optional)
+            Grid mode to use when building domain
+            for interpolation. Default is log.
+        samples : int (optional)
+            Number of samples to use when building
+            interpolation domain.
+    Output:
+        Returns a matrix A of size (k_max, k_max). 
+        Each element A_ij of the matrix is the
+        frequency of occurrence of the pair k_1=i,
+        k_2=j in the given graph. Elements not 
+        observed in the measurements are inferred
+        from a bivariate spline interpolation.
+    '''
+    # Turn measures into numpy array
+    measures = np.array(measures)
 
-    # Duplicate counts as well
-    k_counts_extra = k_counts.copy()
-    k_counts.extend(k_counts_extra)
+    # Init list of values and M, along with k_unique
+    k_vals = list(np.unique(measures))
+    k_vals = [k for k in k_vals if k <= k_max] # Filter
+    
+    k_unique = len(k_vals)
+    M = np.zeros(shape=(k_unique, k_unique))
+    
+    # Iterate only over unique values
+    for i, k_1 in enumerate(k_vals):
+        # Get pairs with k_1
+        k_1_mask = (measures[:,0] == k_1)
+        
+        # Proceed if pairs were found
+        if np.sum(k_1_mask) > 0:
+            k_1_pairs = measures[k_1_mask,:]
+            # Iterate over unique k_2 values 
+            for j, k_2 in enumerate(k_vals):
+                # Get counts and save them
+                k_2_counts = np.sum(k_1_pairs[:,1] == k_2)
+                M[i, j] += k_2_counts
+                # If not diagonal, save also the transpose
+                if i != j:
+                    M[j, i] += k_2_counts
 
     # Define a grid
     if grid_mode == 'linear':
-        grid_x, grid_y = np.mgrid[1:k_max:k_max*1j, 1:k_max:k_max*1j]
+        x_dom = np.linspace(start=1, stop=k_max, num=samples)
+        y_dom = np.linspace(start=1, stop=k_max, num=samples)
+        grid_x, grid_y = np.meshgrid(x_dom, y_dom, indexing='ij')
     elif grid_mode == 'log':
-        x_dom = np.logspace(start=0, stop=np.log10(k_max), num=k_max)
-        y_dom = np.logspace(start=0, stop=np.log10(k_max), num=k_max)
-        grid_x, grid_y = np.meshgrid(x_dom, y_dom)
-
-    A = griddata(k_pairs, k_counts, (grid_x, grid_y), method='linear', 
-                 fill_value=0)
+        x_dom = np.logspace(start=0, stop=np.log10(k_max), num=samples)
+        y_dom = np.logspace(start=0, stop=np.log10(k_max), num=samples)
+        grid_x, grid_y = np.meshgrid(x_dom, y_dom, indexing='ij')
         
+    # Build interpolator
+    M_dom = np.array(k_vals)
+    rbs = RectBivariateSpline(M_dom, M_dom, M, kx=3, ky=3)
+    
+    # Evaluate at every point in the domain
+    A = rbs.ev(grid_x, grid_y)
+    
     # Normalize by totality of measures to get frequency
     A = A / np.sum(A)
     return A
