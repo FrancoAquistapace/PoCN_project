@@ -5,7 +5,7 @@ and results for the Song-Havlin-Makse paper.
 # ------ Necessary packages ---------
 import numpy as np 
 import networkx as nx
-from scipy.interpolate import griddata
+from scipy.interpolate import RectBivariateSpline
 # -----------------------------------
 
 
