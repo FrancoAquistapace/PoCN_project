@@ -401,9 +401,10 @@ def P_joint_deg(measures, grid_mode='log'):
 
     # Turn k pairs into array, and add switched version
     k_pairs = np.array(k_pairs)
-    k_pairs_extra = k_pairs.copy()
-    k_pairs_extra[:,0] = k_pairs[:,1]
-    k_pairs_extra[:,1] = k_pairs[:,0]
+    k_pairs_mask = k_pairs[:,0] != k_pairs[:,1]
+    k_pairs_extra = k_pairs[k_pairs_mask].copy()
+    k_pairs_extra[:,0] = k_pairs[k_pairs_mask][:,1]
+    k_pairs_extra[:,1] = k_pairs[k_pairs_mask][:,0]
     k_pairs = np.vstack([k_pairs, k_pairs_extra])
 
     # Duplicate counts as well
