@@ -330,6 +330,107 @@ def randomize_graph(graph, n_iters):
                 swap_done = True
 
     return G_new
+
+
+# Function to normalize a graph via box-covering,
+# as done by Song-Havlin-Makse
+def normalization_step(graph, l_B):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph to normalize. 
+        l_B : int
+            Characteristic length to use for the
+            normalization via box-covering.
+    Output:
+        Returns a normalized version of the given
+        graph. The normalization is done via the 
+        box-covering algorithm used by Song-Havlin-
+        Makse.
+    '''
+    # Get list of current unexplored nodes
+    current_nodes = list(graph.nodes)
+    
+    # Get all shortest paths with length <= l_B
+    s_paths = dict(nx.all_pairs_shortest_path_length(graph, 
+                                                     cutoff=l_B))
+    
+    # Initialize empty boxes
+    boxes = []
+    current_box = []
+    
+    # Iterate until finished
+    finished = False
+    in_box = False # Check variable
+    box_node = -1
+    i = 0
+    while not finished:
+        # Safeguard
+        i += 1
+        if i == 100:
+            finished = True
+    
+        # If we are not working inside a box: 
+        if not in_box:
+            # Pick a random node
+            box_node = np.random.choice(current_nodes)
+            # Init new box
+            current_box = [box_node]
+            # Delete picked node from available list
+            current_nodes.remove(box_node)
+            in_box = True
+            
+        else:
+            # Check if there are neighbors within l_B - 1
+            # of every other node in the box
+            new_nodes = current_nodes.copy()
+            for n_new in new_nodes:
+                add_node = True # Add by default
+                for n_box in current_box:
+                    # If node distance is >= l_B, cancel add
+                    # condition
+                    if n_new in s_paths[n_box]:
+                        if s_paths[n_box][n_new] >= l_B:
+                            add_node = False
+                    else:
+                        add_node = False
+    
+                # If all checks have passed, add node to box
+                if add_node:
+                    current_box.append(n_new)
+                    # Remove node from available
+                    current_nodes.remove(n_new)
+    
+            # After all nodes are checked, finish box
+            in_box = False
+            boxes.append(current_box)
+    
+        # If there are no more nodes to analyze, finish loop
+        if len(current_nodes) < 1:
+            finished = True
+    
+    # Now that the box-covering is finished, we can build the 
+    # normalized graph
+    new_graph = nx.Graph()
+    
+    # Add nodes
+    for i in range(len(boxes)):
+        new_graph.add_node(i)
+    
+    # Add edges
+    for i in range(len(boxes)-1):
+        for j in range(i+1, len(boxes)):
+            b1, b2 = boxes[i], boxes[j]
+            # Do not add edge by default
+            add_edge = False
+            for n1 in b1:
+                for n2 in b2:
+                    if n2 in s_paths[n1]:
+                        add_edge = True
+            if add_edge:
+                new_graph.add_edge(i, j)
+
+    return new_graph
 # -----------------------------------
 
 
