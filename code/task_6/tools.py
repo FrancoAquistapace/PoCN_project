@@ -365,11 +365,6 @@ def normalization_step(graph, l_B):
     box_node = -1
     i = 0
     while not finished:
-        # Safeguard
-        i += 1
-        if i == 100:
-            finished = True
-    
         # If we are not working inside a box: 
         if not in_box:
             # Pick a random node
