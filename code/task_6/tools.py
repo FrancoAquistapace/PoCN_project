@@ -431,6 +431,31 @@ def normalization_step(graph, l_B):
 
 
 # -------- Graph Analysis -----------
+# Function the get the observed degree frequencies
+def degree_frequencies(graph):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph for which to get the degree
+            frequencies.
+    Output:
+        Returns the unique degree values found in
+        the graph, and their respective frequencies.
+    '''
+    # Get all degree data points
+    k_all = np.array(graph.degree)[:,1]
+    # Turn data into counts
+    k_counts = [[k, np.sum(k_all == k)] for k in np.unique(k_all)]
+    k_counts = np.array(k_counts)
+    # Get unique k values
+    k_values = k_counts[:,0]
+    # Get frequencies
+    k_freqs = k_counts[:,1] / np.sum(k_counts[:,1])
+
+    return k_values, k_freqs
+
+
+    
 # Function to get the (k_1, k_2) pairs of a graph
 def degree_pairs(graph):
     '''
