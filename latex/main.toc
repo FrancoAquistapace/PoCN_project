@@ -1,0 +1,13 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Task title...}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}A section...}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Another section...}{1}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Task title...}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}A section...}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Another section...}{5}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Task title...}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}A section...}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Another section...}{6}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Task title...}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}A section...}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Another section...}{7}{section.4.2}%
