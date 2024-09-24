@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  30 JUL 2024 13:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  24 SEP 2024 12:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1225,8 +1225,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-
-No file main.aux.
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -1247,6 +1246,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count407
@@ -1286,11 +1286,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
 LaTeX Info: Redefining \nameref on input line 10.
+ (./main.out) (./main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 \c@lstlisting=\count414
- (/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
@@ -1329,7 +1331,7 @@ tim
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./sections/front_page.tex
-<images/logo.png, id=31, 2309.62875pt x 1043.9pt>
+<images/logo.png, id=79, 2309.62875pt x 1043.9pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 8.
@@ -1368,7 +1370,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 9.
-<images/areas_of_physics.png, id=32, 2007.5pt x 1129.21875pt>
+<images/areas_of_physics.png, id=80, 2007.5pt x 1129.21875pt>
 File: images/areas_of_physics.png Graphic file (type png)
 <use images/areas_of_physics.png>
 Package pdftex.def Info: images/areas_of_physics.png  used on input line 38.
@@ -1380,14 +1382,15 @@ Overfull \hbox (36.37883pt too wide) in paragraph at lines 36--48
 
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./images/logo.png> <./images/areas_of_physics.png>])
+ <./images/logo.png> <./images/areas_of_physics.png>]) (./main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
  [1
 
 
-] (./sections/task1.tex
+]
+(./sections/task1.tex
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 13.
@@ -1429,71 +1432,53 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]) (./sections/task2.tex
+[2]) (./sections/task2.tex
 Chapter 2.
 
-Package natbib Warning: Citation `barrat2008dynamical' on page 5 undefined on i
+Package natbib Warning: Citation `barrat2008dynamical' on page 3 undefined on i
 nput line 17.
 
 
-Package natbib Warning: Citation `de2013mathematical' on page 5 undefined on in
+Package natbib Warning: Citation `de2013mathematical' on page 3 undefined on in
 put line 17.
 
 
-Package natbib Warning: Citation `weforumProtectingCritical' on page 5 undefine
+Package natbib Warning: Citation `weforumProtectingCritical' on page 3 undefine
 d on input line 17.
 
-[5
+[3
 
 ]) (./sections/task3.tex
 Chapter 3.
 
-Package natbib Warning: Citation `barrat2008dynamical' on page 6 undefined on i
+Package natbib Warning: Citation `barrat2008dynamical' on page 4 undefined on i
 nput line 17.
 
 
-Package natbib Warning: Citation `de2013mathematical' on page 6 undefined on in
+Package natbib Warning: Citation `de2013mathematical' on page 4 undefined on in
 put line 17.
 
 
-Package natbib Warning: Citation `weforumProtectingCritical' on page 6 undefine
+Package natbib Warning: Citation `weforumProtectingCritical' on page 4 undefine
 d on input line 17.
 
-[6
+[4
 
-]) (./sections/task4.tex
+]) (./sections/SM.tex
 Chapter 4.
 
-Package natbib Warning: Citation `barrat2008dynamical' on page 7 undefined on i
-nput line 17.
+Package natbib Warning: Citation `barrat2008dynamical' on page 5 undefined on i
+nput line 7.
 
 
-Package natbib Warning: Citation `de2013mathematical' on page 7 undefined on in
-put line 17.
+Package natbib Warning: Citation `de2013mathematical' on page 5 undefined on in
+put line 7.
 
 
-Package natbib Warning: Citation `weforumProtectingCritical' on page 7 undefine
-d on input line 17.
+Package natbib Warning: Citation `weforumProtectingCritical' on page 5 undefine
+d on input line 7.
 
-[7
+[5
 
 ])
 No file main.bbl.
@@ -1501,28 +1486,19 @@ No file main.bbl.
 Package natbib Warning: There were undefined citations.
 
 (./main.aux)
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  EC12430922F0DA8A620EE61E4D68289C;1503.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 003CD556117AD394523E752AAAA86DDE;1875.
  ) 
 Here is how much of TeX's memory you used:
- 28022 strings out of 478994
- 499331 string characters out of 5858184
- 1117763 words of memory out of 5000000
- 44881 multiletter control sequences out of 15000+600000
+ 28040 strings out of 478994
+ 499518 string characters out of 5858184
+ 1112361 words of memory out of 5000000
+ 44894 multiletter control sequences out of 15000+600000
  480067 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,129p,1193b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exi
+ 117i,11n,129p,1193b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
 st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
-, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 , replaced by a fixed one
@@ -1540,10 +1516,10 @@ lmbxi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 l/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/20
 21/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dis
 t/fonts/type1/public/lm/lmri12.pfb>
-Output written on main.pdf (9 pages, 1242458 bytes).
+Output written on main.pdf (7 pages, 1241901 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 119 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 23 named destinations out of 1000 (max. 500000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
