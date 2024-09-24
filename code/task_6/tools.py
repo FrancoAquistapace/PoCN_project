@@ -4,6 +4,7 @@ and results for the Song-Havlin-Makse paper.
 '''
 # ------ Necessary packages ---------
 import numpy as np 
+import pandas as pd
 import networkx as nx
 from scipy.interpolate import RectBivariateSpline
 # -----------------------------------
@@ -613,4 +614,35 @@ def P_joint_deg_interp(measures, k_max, grid_mode='log', samples=1000):
     # Normalize by totality of measures to get frequency
     A = A / np.sum(A)
     return A
+# -----------------------------------
+
+
+
+# --------- Miscellaneous -----------
+# Function to save a graph into a csv file
+# as (node_from, node_to, weight)
+def save_graph(graph, path):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph to save.
+        path : str
+            Path of the file to save the graph into.
+    Output:
+        Saves the given graph into a csv file with
+        the following row format:
+            node_from, node_to, weight
+        Where weight is simply set to 1 for each edge,
+        but is kept for consistency.
+    '''
+    # Get edges
+    g_arr = np.array(graph.edges)
+    # Save edges into a dictionary
+    g_dict = {'node_from':g_arr[:,0], 'node_to':g_arr[:,1], 
+              'weight':[1 for i in range(g_arr.shape[0])]}
+    # Turn dictionary into a pandas DataFrame
+    g_df = pd.DataFrame(g_dict)
+    g_df.to_csv(path, index=False) 
+
+    
 # -----------------------------------
