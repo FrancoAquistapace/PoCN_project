@@ -427,6 +427,101 @@ def normalization_step(graph, l_B):
                 new_graph.add_edge(i, j)
 
     return new_graph
+
+
+# A more efficient version of the previous function
+def normalization_step_opt(graph, l_B):
+    '''
+    Params:
+        graph : networkx Graph
+            Graph to normalize. 
+        l_B : int
+            Characteristic length to use for the
+            normalization via box-covering.
+    Output:
+        Returns a normalized version of the given
+        graph. The normalization is done via the 
+        box-covering algorithm used by Song-Havlin-
+        Makse.
+    '''
+    # Get list of current unexplored nodes
+    current_nodes = list(graph.nodes)
+    
+    # Initialize empty boxes and neighbor dict
+    boxes = []
+    current_box = []
+    all_neighs = dict()
+    
+    # Iterate until finished
+    finished = False
+    in_box = False # Check variable
+    box_node = -1
+    i = 0
+    while not finished:
+        # If we are not working inside a box: 
+        if not in_box:
+            # Pick a random node
+            box_node = np.random.choice(current_nodes)
+            # Init new box
+            current_box = [box_node]
+            # Delete picked node from available list
+            current_nodes.remove(box_node)
+            in_box = True
+            
+        else:
+            # Check if any neighboring node of a node already 
+            # in the box could also belong 
+            for n_box in current_box:
+                # Only keep neighbors not already in the box
+                n_neighs = [n for n in graph.neighbors(n_box) if n in current_nodes]
+                # Save in a dict
+                all_neighs[n_box] = n_neighs.copy()
+                # Only proceed if there are n_neighs
+                if len(n_neighs) == 0:
+                    continue
+                for n_new in n_neighs:
+                    add_node = True # Add by default
+                    for n_2 in current_box:
+                        n_lgth = nx.shortest_path_length(graph, source=n_new, target=n_2)
+                        if n_lgth > l_B:
+                            add_node = False
+                            break
+                        
+                    if add_node:
+                        current_box.append(n_new)
+                        # Remove node from available
+                        current_nodes.remove(n_new)
+    
+            # After all nodes are checked, finish box
+            in_box = False
+            boxes.append(current_box)
+    
+        # If there are no more nodes to analyze, finish loop
+        if len(current_nodes) < 1:
+            finished = True
+    
+    # Now that the box-covering is finished, we can build the 
+    # normalized graph
+    new_graph = nx.Graph()
+    
+    # Add nodes
+    for i in range(len(boxes)):
+        new_graph.add_node(i)
+    
+    # Add edges
+    for i in range(len(boxes)-1):
+        for j in range(i+1, len(boxes)):
+            b1, b2 = boxes[i], boxes[j]
+            # Do not add edge by default
+            add_edge = False
+            for n1 in b1:
+                for n2 in b2:
+                    if n2 in all_neighs[n1]:
+                        add_edge = True
+            if add_edge:
+                new_graph.add_edge(i, j)
+
+    return new_graph
 # -----------------------------------
 
 
@@ -644,5 +739,5 @@ def save_graph(graph, path):
     g_df = pd.DataFrame(g_dict)
     g_df.to_csv(path, index=False) 
 
-    
+
 # -----------------------------------
