@@ -732,11 +732,20 @@ def save_graph(graph, path):
     '''
     # Get edges
     g_arr = np.array(graph.edges)
-    # Save edges into a dictionary
-    g_dict = {'node_from':g_arr[:,0], 'node_to':g_arr[:,1], 
-              'weight':[1 for i in range(g_arr.shape[0])]}
+
+    # Check if the network has a single node
+    if g_arr.shape[0] == 0:
+        g_dict = {'node_from':[0], 'node_to':[0],
+                'weight':[0]}
+
+    else:
+        # Save edges into a dictionary
+        g_dict = {'node_from':g_arr[:,0], 'node_to':g_arr[:,1], 
+                'weight':[1 for i in range(g_arr.shape[0])]}
+
     # Turn dictionary into a pandas DataFrame
     g_df = pd.DataFrame(g_dict)
+    
     g_df.to_csv(path, index=False) 
 
 
