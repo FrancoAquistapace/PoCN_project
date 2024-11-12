@@ -14,7 +14,7 @@ N_init = [5] # Number of initial nodes in the star graph
 N_samples = 10 # Number of samples
 seed = 42 # Initial random seed
 
-L_B = [1,2,3,4,5,6,8,12,16,20,24,28,32] # List of normalization lengths to use
+L_B = [i+1 for i in range(32)] # List of normalization lengths to use
 
 # Normalize the graphs and save them
 folder_path = '../../data/task_6/'
@@ -48,14 +48,14 @@ for n_init in N_init:
                     if not is_single_node:
                         # Only recalculate if the previous l_B was
                         # not a single node
-                        g_norm = normalization_step_opt(g, l_B=l_B)
+                        g_norm = normalization_step(g, l_B=l_B)
 
                     # Check if normalized graph has a single node
                     if len(list(g_norm.nodes)) == 1:
                         is_single_node = True
 
                     # Normalize randomized version
-                    g_r_norm = normalization_step_opt(g_r, l_B=l_B)
+                    g_r_norm = normalization_step(g_r, l_B=l_B)
                     
                     # Change seed
                     seed += 1

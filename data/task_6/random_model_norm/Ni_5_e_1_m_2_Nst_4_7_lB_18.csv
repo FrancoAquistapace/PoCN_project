@@ -1,0 +1,4 @@
+node_from,node_to,weight
+0,16,1
+0,70,1
+16,70,1
