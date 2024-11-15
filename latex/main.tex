@@ -3,7 +3,7 @@
 \documentclass[12pt]{report}
 % LaTeX packages and global styles
 \input{base/packages}
-
+\usepackage[square,numbers]{natbib}
 \input{base/style}
 
 % Beginning of the document
@@ -34,12 +34,13 @@
     \input{sections/task2.tex}
     \input{sections/task3.tex}
     \input{sections/SM.tex}
-        
+           
 %\titleformat{\section}[hang]{\large\bfseries}{\textcolor{unipd}{Problema~\thesection}\hsp\textcolor{gray75}{|}\hsp}{0pt}{\large\bfseries\textcolor{gray25}}[\color{unipd}{\titlerule[1.0pt]}]
     
     % Bibliography 
+    %\includebibliography{refs}
     \bibliographystyle{plainnat}
-    \bibliography{bibliography.bib}
+    \bibliography{./refs}
 
 % End of the document
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  24 SEP 2024 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  15 NOV 2024 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1331,7 +1331,7 @@ tim
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./sections/front_page.tex
-<images/logo.png, id=79, 2309.62875pt x 1043.9pt>
+<images/logo.png, id=83, 2309.62875pt x 1043.9pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 8.
@@ -1370,7 +1370,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 9.
-<images/areas_of_physics.png, id=80, 2007.5pt x 1129.21875pt>
+<images/areas_of_physics.png, id=84, 2007.5pt x 1129.21875pt>
 File: images/areas_of_physics.png Graphic file (type png)
 <use images/areas_of_physics.png>
 Package pdftex.def Info: images/areas_of_physics.png  used on input line 38.
@@ -1392,18 +1392,8 @@ Overfull \hbox (36.37883pt too wide) in paragraph at lines 36--48
 ]
 (./sections/task1.tex
 Chapter 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 13.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 13.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 13.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-3.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
- been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.22 
@@ -1421,92 +1411,69 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]) (./sections/task2.tex
 Chapter 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+3.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [3
 
-Package natbib Warning: Citation `barrat2008dynamical' on page 3 undefined on i
-nput line 17.
-
-
-Package natbib Warning: Citation `de2013mathematical' on page 3 undefined on in
-put line 17.
-
-
-Package natbib Warning: Citation `weforumProtectingCritical' on page 3 undefine
-d on input line 17.
-
-[3
-
-]) (./sections/task3.tex
+])
+(./sections/task3.tex
 Chapter 3.
-
-Package natbib Warning: Citation `barrat2008dynamical' on page 4 undefined on i
-nput line 17.
-
-
-Package natbib Warning: Citation `de2013mathematical' on page 4 undefined on in
-put line 17.
-
-
-Package natbib Warning: Citation `weforumProtectingCritical' on page 4 undefine
-d on input line 17.
-
 [4
 
 ]) (./sections/SM.tex
 Chapter 4.
-
-Package natbib Warning: Citation `barrat2008dynamical' on page 5 undefined on i
-nput line 7.
-
-
-Package natbib Warning: Citation `de2013mathematical' on page 5 undefined on in
-put line 7.
-
-
-Package natbib Warning: Citation `weforumProtectingCritical' on page 5 undefine
-d on input line 7.
-
 [5
 
-])
-No file main.bbl.
+]) (./main.bbl
+Chapter 5.
+) [6
 
-Package natbib Warning: There were undefined citations.
-
-(./main.aux)
+] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 003CD556117AD394523E752AAAA86DDE;1875.
+(rerunfilecheck)             Checksum: C0848BE0EF89D131D989B3A06AF96F8A;1979.
  ) 
 Here is how much of TeX's memory you used:
- 28040 strings out of 478994
- 499518 string characters out of 5858184
- 1112305 words of memory out of 5000000
- 44894 multiletter control sequences out of 15000+600000
+ 28054 strings out of 478994
+ 499707 string characters out of 5858184
+ 1113252 words of memory out of 5000000
+ 44901 multiletter control sequences out of 15000+600000
  480067 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,129p,1193b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exi
+ 117i,11n,129p,1193b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exi
 st, replaced by a fixed one
-
-pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
-, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
-xlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/te
-xmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist/f
-onts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
-/public/lm/lmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/
-lmbxi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/20
-21/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dis
-t/fonts/type1/public/lm/lmri12.pfb>
-Output written on main.pdf (7 pages, 1241187 bytes).
+xlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/te
+xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/f
+onts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips
+/lm/lm-mathit.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmb
+x10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
+ype1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public
+/lm/lmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pf
+b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf
+-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on main.pdf (8 pages, 1260316 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 23 named destinations out of 1000 (max. 500000)
- 215 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 217 PDF objects out of 1000 (max. 8388607)
+ 172 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 223 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -2,19 +2,19 @@
 
 \resp{Franco Aquistapace Tagua}
 
-\emph{
-Structure as\footnote{Remove this part from the report}:
-\begin{itemize}
-\item A short (max 1 page) explanation of the task, including references. Include mathematical concepts.
-\item Max 2 pages for the whole task (including figures)
-\item It is possible to use appendices for supplementary material, at the end of the report. Max 5 pages per task
-\end{itemize}
-A total of 3 pages + 5 supplementary pages per task
-}
-
 \section{Introduction and methods}
  
-The work by Song, Havlin and Makse aims to explain the characteristic features of empirical fractal and non-fractal networks by means of a single growth model, that has the concept of renormalisation at its core. More specifically, the growth mechanism works as the inverse of the 
+The work by Song, Havlin and Makse \cite{song2006origins} aims to explain the characteristic features of empirical scale--free fractal and non--fractal networks by means of a single growth model, that has the concept of renormalisation at its core. More specifically, the growth mechanism works as the inverse of the renormalisation procedure. The goal of this task is then to reproduce their growth and renormalisation procedures, and to recover the characteristic behaviour of fractal and non--fractal networks through relevant descriptors. In addition ...
+
+The renormalisation of a network was done as described in the source material, by covering its $N$ nodes with $N_B(L_B)$ boxes, where the maximum shortest path between any two nodes in a box must be $L_B$. This is done algorithmically as follows:
+
+\begin{enumerate}
+	\item Initialise a box with a randomly picked node.
+	\item For every remaining node $i$, add it to the box if $\max_{j\in B} d(i,j) \leq L_B$, where $B$ contains the nodes currently in the box, and $d(i,j)$ is the shortest path between nodes $i$ and $j$.
+	\item Repeat steps 1. and 2. with the remaining available nodes until all nodes are assigned to a box.
+\end{enumerate}
+
+On the opposite hand, when performing the growth process of a network, each existing node is considered as a future hub. For a node with degree $k$, $mk$ offspring nodes are attached to it at each growth step. Then, each edge between two of the original nodes is removed with probability $e$, and replace by an edge between two of their offspring. Thus, parameter $e$ represents hub--hub attraction.
 
 \section{Results and discussion}
 
