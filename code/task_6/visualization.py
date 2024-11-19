@@ -171,5 +171,79 @@ plt.savefig('../../latex/images/task_6/N_B_N_vs_L_B.png',
             dpi=200)
 
 
+# ------- S(L_B) results -----------------------------------
+
+# Now let's get the degree data
+g_k = dict()
+g_k_B = dict()
+for e in G_minimal['5']:
+    g_k[e] = [np.max(np.array(g.degree)[:,1]) for g in G_minimal['5'][e]['2']]
+    g_k_B[e] = [
+        [np.max(np.array(g.degree)[:,1]) for g in G_minimal_norm['5'][e]['2'][i]]\
+             for i in range(len(G_minimal_norm['5'][e]['2']))]
+
+# Separate data by e
+k_data_0_8 = np.array(g_k['0.8']), np.array(g_k_B['0.8'])
+k_data_1_0 = np.array(g_k['1']), np.array(g_k_B['1'])
+
+# Get average ratio measurements
+k_ratio_0_8 = np.mean(
+    np.expand_dims(np.power(k_data_0_8[0].astype('float'), -1), -1) * k_data_0_8[1], 
+                      axis=0)
+k_ratio_0_8_err = np.std(
+    np.expand_dims(np.power(k_data_0_8[0].astype('float'), -1), -1) * k_data_0_8[1], 
+                      axis=0)
+k_ratio_1_0 = np.mean(
+    np.expand_dims(np.power(k_data_1_0[0].astype('float'), -1), -1) * k_data_1_0[1], 
+                      axis=0)
+k_ratio_1_0_err = np.std(
+    np.expand_dims(np.power(k_data_1_0[0].astype('float'), -1), -1) * k_data_1_0[1], 
+                      axis=0)
+
+# Make predictions
+L_0 = 0
+s = 3
+a = 1.4
+d_k = np.log(s) / np.log(a)
+def f_pred(x, A, d_k):
+    return A * np.power(x + L_0, -d_k) 
+    
+popt, pcov = curve_fit(f_pred, np.array(L_B[12:]), k_ratio_0_8[12:])
+preds_0_8 = f_pred(np.array(L_B), popt[0], popt[1])
+
+def f_pred_2(x, A):
+    return A * np.exp2(-0.5*np.log(s)*(x + L_0))
+popt2, pcov2 = curve_fit(f_pred_2, np.array(L_B[2:12]), k_ratio_1_0[2:12])
+preds_1_0 = f_pred_2(np.array(L_B), popt2[0])
+
+def f_pred_3(x, A, l0):
+    return A * np.exp(-x / l0)
+popt3, pcov3 = curve_fit(f_pred_3, np.array(L_B[1:12]), k_ratio_1_0[1:12])
+preds_1_0 = f_pred_3(np.array(L_B), popt3[0], popt3[1])
+
+# Plot results
+FONTSIZE = 15
+CS = 2
+fig, ax = plt.subplots()
+ax.errorbar(L_B, k_ratio_1_0, yerr=k_ratio_1_0_err, 
+            label=r'$e=1.0$', c='red', marker='o',
+           ls='', capsize=CS)
+ax.plot(L_B, preds_1_0, c='red')
+ax.errorbar(L_B, k_ratio_0_8, yerr=k_ratio_0_8_err,
+            label=r'$e=0.8$', c='k', marker='^', 
+           ls='', capsize=CS)
+ax.plot(np.array(L_B), preds_0_8, c='k')
+ax.set_xscale('log', base=2)
+ax.set_yscale('log', base=2)
+ax.set_xlabel(r'$L_B$', fontsize=FONTSIZE)
+ax.set_ylabel(r'$\mathcal{S}(L_B)$', fontsize=FONTSIZE)
+ax.tick_params(labelsize=FONTSIZE-2)
+plt.legend(fontsize=FONTSIZE-2)
+plt.ylim(bottom=0.004, top=4)
+
+
+plt.savefig('../../latex/images/task_6/S_vs_L_B.png', 
+            dpi=200)
+
 
 exit()
