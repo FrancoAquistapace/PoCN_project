@@ -99,6 +99,12 @@ for n_init in N_init:
     G_minimal_r_norm[str(n_init)] = dict_n_r_nrm.copy()
 
 
+# Init figure
+FONTSIZE = 17
+CS = 2
+LW = 2
+fig, ax = plt.subplots(figsize=(13, 5), 
+                       nrows=1, ncols=2, dpi=200)
 
 # ------- N_B / N results -----------------------------------
 
@@ -148,27 +154,21 @@ popt2, pcov2 = curve_fit(f_pred_2, np.array(L_B[0:12]), N_ratio_1_0[0:12])
 preds_1_0 = f_pred_2(np.array(L_B), popt2[0])
 
 # Plot results:
-FONTSIZE = 15
-CS = 2
-fig, ax = plt.subplots()
-ax.errorbar(L_B, N_ratio_1_0, yerr=N_ratio_1_0_err, 
+ax[0].errorbar(L_B, N_ratio_1_0, yerr=N_ratio_1_0_err, 
             label=r'$e=1.0$', c='red', marker='o', 
             ls='', capsize=CS)
-ax.plot(L_B, preds_1_0, c='red')
-ax.errorbar(L_B, N_ratio_0_8, yerr=N_ratio_0_8_err, 
+ax[0].plot(L_B, preds_1_0, c='red', lw=LW)
+ax[0].errorbar(L_B, N_ratio_0_8, yerr=N_ratio_0_8_err, 
             label=r'$e=0.8$', c='k', marker='^', 
            ls='', capsize=CS)
-ax.plot(np.array(L_B), preds_0_8, c='k')
-ax.set_xscale('log', base=2)
-ax.set_yscale('log', base=2)
-ax.set_xlabel(r'$L_B$', fontsize=FONTSIZE)
-ax.set_ylabel(r'$N_B(L_B)/N$', fontsize=FONTSIZE)
-ax.tick_params(labelsize=FONTSIZE-2)
-plt.legend(fontsize=FONTSIZE-2)
-plt.ylim(bottom=0.0002, top=1.2)
-
-plt.savefig('../../latex/images/task_6/N_B_N_vs_L_B.png', 
-            dpi=200)
+ax[0].plot(np.array(L_B), preds_0_8, c='k', lw=LW)
+ax[0].set_xscale('log', base=2)
+ax[0].set_yscale('log', base=2)
+ax[0].set_xlabel(r'$L_B$', fontsize=FONTSIZE)
+ax[0].set_ylabel(r'$N_B(L_B)/N$', fontsize=FONTSIZE)
+ax[0].tick_params(labelsize=FONTSIZE-2)
+ax[0].legend(fontsize=FONTSIZE-2)
+ax[0].set_ylim(bottom=0.0002, top=1.2)
 
 
 # ------- S(L_B) results -----------------------------------
@@ -222,27 +222,25 @@ popt3, pcov3 = curve_fit(f_pred_3, np.array(L_B[1:12]), k_ratio_1_0[1:12])
 preds_1_0 = f_pred_3(np.array(L_B), popt3[0], popt3[1])
 
 # Plot results
-FONTSIZE = 15
-CS = 2
-fig, ax = plt.subplots()
-ax.errorbar(L_B, k_ratio_1_0, yerr=k_ratio_1_0_err, 
+ax[1].errorbar(L_B, k_ratio_1_0, yerr=k_ratio_1_0_err, 
             label=r'$e=1.0$', c='red', marker='o',
            ls='', capsize=CS)
-ax.plot(L_B, preds_1_0, c='red')
-ax.errorbar(L_B, k_ratio_0_8, yerr=k_ratio_0_8_err,
+ax[1].plot(L_B, preds_1_0, c='red', lw=LW)
+ax[1].errorbar(L_B, k_ratio_0_8, yerr=k_ratio_0_8_err,
             label=r'$e=0.8$', c='k', marker='^', 
            ls='', capsize=CS)
-ax.plot(np.array(L_B), preds_0_8, c='k')
-ax.set_xscale('log', base=2)
-ax.set_yscale('log', base=2)
-ax.set_xlabel(r'$L_B$', fontsize=FONTSIZE)
-ax.set_ylabel(r'$\mathcal{S}(L_B)$', fontsize=FONTSIZE)
-ax.tick_params(labelsize=FONTSIZE-2)
-plt.legend(fontsize=FONTSIZE-2)
-plt.ylim(bottom=0.004, top=4)
+ax[1].plot(np.array(L_B), preds_0_8, c='k', lw=LW)
+ax[1].set_xscale('log', base=2)
+ax[1].set_yscale('log', base=2)
+ax[1].set_xlabel(r'$L_B$', fontsize=FONTSIZE)
+ax[1].set_ylabel(r'$\mathcal{S}(L_B)$', fontsize=FONTSIZE)
+ax[1].tick_params(labelsize=FONTSIZE-2)
+ax[1].legend(fontsize=FONTSIZE-2)
+ax[1].set_ylim(bottom=0.004, top=4)
 
+plt.tight_layout()
 
-plt.savefig('../../latex/images/task_6/S_vs_L_B.png', 
+plt.savefig('../../latex/images/task_6/N_B_and_S_vs_L_B.png', 
             dpi=200)
 
 
