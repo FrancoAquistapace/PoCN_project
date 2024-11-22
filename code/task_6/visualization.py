@@ -100,7 +100,8 @@ for n_init in N_init:
 
 
 # Init figure
-FONTSIZE = 17
+FONTSIZE = 20
+MS = 7
 CS = 2
 LW = 2
 fig, ax = plt.subplots(figsize=(13, 5), 
@@ -156,11 +157,11 @@ preds_1_0 = f_pred_2(np.array(L_B), popt2[0])
 # Plot results:
 ax[0].errorbar(L_B, N_ratio_1_0, yerr=N_ratio_1_0_err, 
             label=r'$e=1.0$', c='red', marker='o', 
-            ls='', capsize=CS)
+            ls='', capsize=CS, markersize=MS)
 ax[0].plot(L_B, preds_1_0, c='red', lw=LW)
 ax[0].errorbar(L_B, N_ratio_0_8, yerr=N_ratio_0_8_err, 
             label=r'$e=0.8$', c='k', marker='^', 
-           ls='', capsize=CS)
+           ls='', capsize=CS, markersize=MS)
 ax[0].plot(np.array(L_B), preds_0_8, c='k', lw=LW)
 ax[0].set_xscale('log', base=2)
 ax[0].set_yscale('log', base=2)
@@ -224,11 +225,11 @@ preds_1_0 = f_pred_3(np.array(L_B), popt3[0], popt3[1])
 # Plot results
 ax[1].errorbar(L_B, k_ratio_1_0, yerr=k_ratio_1_0_err, 
             label=r'$e=1.0$', c='red', marker='o',
-           ls='', capsize=CS)
+           ls='', capsize=CS, markersize=MS)
 ax[1].plot(L_B, preds_1_0, c='red', lw=LW)
 ax[1].errorbar(L_B, k_ratio_0_8, yerr=k_ratio_0_8_err,
             label=r'$e=0.8$', c='k', marker='^', 
-           ls='', capsize=CS)
+           ls='', capsize=CS, markersize=MS)
 ax[1].plot(np.array(L_B), preds_0_8, c='k', lw=LW)
 ax[1].set_xscale('log', base=2)
 ax[1].set_yscale('log', base=2)
