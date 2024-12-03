@@ -1,10 +1,31 @@
 \chapter{Supplementary material}
 
-\resp{Franco Aquistapace Tagua}
+%\resp{Franco Aquistapace Tagua}
 
 \section{Song-Havlin-Makse self-similar model}
+\label{sec:SHM_SM}
  
-Reference examples: 
+\subsubsection*{Algorithmic implementation of the renormalisation procedure}
+The renormalisation of a given network is performed algorithmically as follows:
+
+\begin{enumerate}
+	\item Initialise a box with a randomly picked node.
+	\item For every remaining node $i$, add it to the box if $\max_{j\in B} d(i,j) \leq L_B$, where $B$ contains the nodes currently in the box, and $d(i,j)$ is the shortest path between nodes $i$ and $j$.
+	\item Repeat steps 1. and 2. with the remaining available nodes until all nodes are assigned to a box.
+\end{enumerate}
+
+\subsubsection*{Correlation profiles}
+
+The correlation profile $R(k_1, k_2) = P(k_1, k_2) / P_r(k_1, k_2)$ is defined as the ratio between the joint degree--degree probability distribution of the network of interest, $P(k_1, k_2)$, and the joint degree--degree probability distribution of a randomised uncorrelated version of the same network, $P_r(k_1, k_2)$, where the links have been randomly rewired while preserving the degree distribution. 
+
+In this work, the joint degree--degree probability distribution is estimated in a frequentist approach, by considering all equivalent instances as observations. For example, to obtain $P(k_1, k_2)$ for the minimal model graph with $e=1.0$, the degree--degree pairs of the 10 graphs generated for $e=1.0$ are collected. Then, the joint probability for a given pair $(k_1, k_2)$ is calculated as in Eq. \ref{eq:P_joint_task_6_SM}:
+
+\begin{equation}
+	P(k_1, k_2) = \frac{N_{obs}(k_1, k_2)}{N_{obs, tot}} \ \ ,
+	\label{eq:P_joint_task_6_SM}
+\end{equation}
+where $N_{obs}(k_1, k_2)$ is the number of occurrences of the pair $(k_1, k_2)$, and $N_{obs, tot}$ is the total number of observations. The same methodology is applied for the calculation of $P_r(k_1, k_2)$. 
+
 
 \section{Another section...}
 
