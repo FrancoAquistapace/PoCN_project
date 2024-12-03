@@ -1,14 +1,14 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Song-Havlin-Makse self-similar model}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Introduction and methods}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Results and discussion}{1}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Task title...}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}A section...}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Another section...}{3}{section.2.2}%
-\contentsline {chapter}{\numberline {3}Task title...}{4}{chapter.3}%
-\contentsline {section}{\numberline {3.1}A section...}{4}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Another section...}{4}{section.3.2}%
-\contentsline {chapter}{\numberline {4}Supplementary material}{5}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Song-Havlin-Makse self-similar model}{5}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Another section...}{5}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Bibliography}{6}{chapter.5}%
+\contentsline {section}{\numberline {1.2}Results and discussion}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Task title...}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}A section...}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Another section...}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Task title...}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}A section...}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Another section...}{5}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Supplementary material}{6}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Song-Havlin-Makse self-similar model}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Another section...}{6}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Bibliography}{7}{chapter.5}%
