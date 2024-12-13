@@ -559,6 +559,42 @@ def degree_frequencies(graph, norm=True):
     return k_values, k_freqs
 
 
+# Function the get the observed degree frequencies
+# in multiple graphs
+def degree_frequencies_multiple(graphs, norm=True):
+    '''
+    Params:
+        graphs : networkx Graph
+            Graphs for which to get the degree
+            frequencies.
+        norm : bool (optional)
+            Whether to return normalized frequencies
+            (True, default) or not (False). This 
+            last option corresponds to returning the
+            counts for each degree.
+    Output:
+        Returns the unique degree values found in
+        the graphs, and their respective frequencies
+        or counts.
+    '''
+    k_all = []
+    # Get all degree data points
+    for g in graphs:
+        k_all.extend(list(np.array(g.degree)[:,1]))
+    k_all = np.array(k_all)
+    # Turn data into counts
+    k_counts = [[k, np.sum(k_all == k)] for k in np.unique(k_all)]
+    k_counts = np.array(k_counts)
+    # Get unique k values
+    k_values = k_counts[:,0]
+    # Get frequencies or counts
+    k_freqs = k_counts[:,1] 
+    if norm:
+        k_freqs = k_freqs / np.sum(k_counts[:,1])
+
+    return k_values, k_freqs
+
+
 
 # Function to get the (k_1, k_2) pairs of a graph
 def degree_pairs(graph):

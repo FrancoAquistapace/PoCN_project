@@ -24,8 +24,38 @@ In this work, the joint degree--degree probability distribution is estimated in 
 	P(k_1, k_2) = \frac{N_{obs}(k_1, k_2)}{N_{obs, tot}} \ \ ,
 	\label{eq:P_joint_task_6_SM}
 \end{equation}
-where $N_{obs}(k_1, k_2)$ is the number of occurrences of the pair $(k_1, k_2)$, and $N_{obs, tot}$ is the total number of observations. The same methodology is applied for the calculation of $P_r(k_1, k_2)$. 
+where $N_{obs}(k_1, k_2)$ is the number of occurrences of the pair $(k_1, k_2)$, and $N_{obs, tot}$ is the total number of observations. The same methodology is applied for the calculation of $P_r(k_1, k_2)$. No interpolation is done for pairs $(k_1', k_2')$ that are not observed, and their probability is thus taken as $P(k_1', k_2') = 0$.
 
+
+\subsubsection*{Scaling relations}
+
+The descriptor $N_B(L_B) / N$ is defined as the ratio between the number of original nodes, $N$, and the number of boxes, $N_B$, obtained after performing a renormalisation step with box size $L_B$. Meanwhile, the descriptor $\mathcal{S}(L_B) = k_B(L_B) / k_{hub}$ is the ratio between the maximum degree of the boxes after a renormalisation step with box size $L_B$, $k_B(L_B)$, and the maximum degree of the among the original nodes, $k_{hub}$. For both scaling relations, $N_B(L_B) / N$ and $\mathcal{S}(L_B)$, the mean value and standard deviation is obtained for each $L_B$ from the 10 networks generated for both cases $e=1.0, 0.8$. From the obtained results, the theoretical models proposed in the source material \cite{song2006origins} are fitted. 
+
+For the fractal case $e=0.8$, $N_B(L_B) / N$ and $\mathcal{S}(L_B)$ are described, respectively, by Eqs. \ref{eq:N_fractal_SM} and \ref{eq:S_fractal_SM}:
+
+\begin{equation}
+	N_B(L_B) / N = C_N (L_B + L_0)^{-d_B}
+	\label{eq:N_fractal_SM}
+\end{equation}
+
+\begin{equation}
+	\mathcal{S}(L_B) = C_S (L_B + L_0)^{-d_k}
+	\label{eq:S_fractal_SM}
+\end{equation}
+where $L_0$, $d_B$, $d_k$, $C_N$ and $C_S$ are parameters fitted from the data. The data points with $L_B < 8$ were excluded from the fit of $N_B(L_B) / N$, and those with $L_B < 12$ were excluded from the fit of $\mathcal{S}(L_B)$. From the fit, the values $d_B = 2.83$ and $d_k = 2.91$ are obtained. 
+
+On the other hand, for the non--fractal case $e=1.0$, $N_B(L_B) / N$ and $\mathcal{S}(L_B)$ are described, respectively, by Eqs. \ref{eq:N_non_fractal_SM} and \ref{eq:S_non_fractal_SM}:
+
+\begin{equation}
+	N_B(L_B) / N = C_N \exp(-L_B / L_0)
+	\label{eq:N_non_fractal_SM}
+\end{equation}
+
+\begin{equation}
+	\mathcal{S}(L_B) = C_S \exp(-L_B / L_0)
+	\label{eq:S_non_fractal_SM}
+\end{equation}
+where again $L_0$, $C_N$ and $C_S$ are fitted from the data. In this case, the data points with $L_B > 12$ are excluded from the fit of both $N_B(L_B) / N$ and $\mathcal{S}(L_B)$.
 
 \section{Another section...}
 
