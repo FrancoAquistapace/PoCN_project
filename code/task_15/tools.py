@@ -12,7 +12,8 @@ import networkx as nx
 # -------- Graph creation -----------
 # Function to create a scale-free network
 # using the static model
-def scale_free_graph(N, gamma, m, block_size=100):
+def scale_free_graph(N, gamma, m, block_size=100,
+                    seed=None):
     '''
     Params:
         N : int
@@ -29,6 +30,10 @@ def scale_free_graph(N, gamma, m, block_size=100):
             Amount of edges attempted before 
             recalculating the average degree 
             of the network. Default is 100.
+        seed : int (optional)
+            Seed for the numpy random 
+            generator, for consistency. This
+            feature is not used by default.
     Output:
         Returns a networkx undirected graph,
         where the degrees are distributed as 
@@ -36,6 +41,10 @@ def scale_free_graph(N, gamma, m, block_size=100):
         graph has N nodes, and the average
         degree is 2*m.
     '''
+    # Set seed if given
+    if seed != None:
+        np.random.seed(seed)
+
     # Get control parameter
     if gamma == 'inf':
         alpha = 0
