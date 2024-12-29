@@ -12,7 +12,7 @@ import networkx as nx
 # -------- Graph creation -----------
 # Function to create a scale-free network
 # using the static model
-def scale_free_graph(N, alpha, m, block_size=100):
+def scale_free_graph(N, gamma, m, block_size=100):
     '''
     Params:
         N : int
