@@ -94,8 +94,29 @@ def scale_free_graph(N, gamma, m, block_size=100,
     return g
 
 
+def get_lcc(graph):
+    '''
+    Params:
+        graph : networkx Graph
+            A network with possibly many connected components.
+    Output:
+        Returns the largest connected component of the given 
+        graph, as a new netowrkx Graph object.
+    '''
+    # Get LCC nodes
+    largest_cc = max(nx.connected_components(graph), key=len)
+    
+    # Generate subgraph
+    lcc = graph.subgraph(largest_cc).copy()
+    return lcc
+
 # -----------------------------------
 
+
+# ---------- Simulation -------------
+
+
+# -----------------------------------
 
 # ----------- Analysis --------------
 def average_degree(graph):
