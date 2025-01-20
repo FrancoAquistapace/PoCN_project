@@ -149,6 +149,8 @@ class SandpileSim(object):
         self.G = []
         # Duration of the avalanche
         self.T = []
+        # Whether the avalanche is "bulk" or not
+        self.B = []
 
         # Current load of the system
         self.grains = np.zeros((len(self.nodes),))
@@ -265,6 +267,7 @@ class SandpileSim(object):
                 S = 0
                 G = 0
                 T = 0
+                B = True
                 while in_avalanche:
                     # Increase avalanche duration on each iteration
                     T += 1
@@ -296,6 +299,11 @@ class SandpileSim(object):
                         p_mask = (probs > self.f).astype('int')
                         for j, neigh in enumerate(neigh_idx):
                             grains_delta[neigh] += p_mask[j]
+                        
+                        # Check if a grain has been lost, and change
+                        # bulk status accordingly
+                        if 0 in p_mask:
+                            B = False
 
                     # Add delta to current state to get new state
                     new_grains = self.grains + grains_delta
@@ -310,6 +318,7 @@ class SandpileSim(object):
                 self.S.append(S)
                 self.G.append(G)
                 self.T.append(T)
+                self.B.append(B)
             
             # Check for termination
             if i_step >= steps:
@@ -326,7 +335,8 @@ class SandpileSim(object):
 
         # Return relevant esults
         res = {'A': self.A, 'S': self.S, 
-               'G': self.G, 'T': self.T}
+               'G': self.G, 'T': self.T, 
+               'B': self.B}
         return res
 
 # -----------------------------------
