@@ -344,6 +344,28 @@ def average_degree(graph):
     deg = list(dict(graph.degree).values())
     return np.mean(deg)
 
+
+# Function to get the unique values and respective
+# frequencies for a given dataset
+def get_frequency(data):
+    '''
+    Params:
+        data : array
+            Array of shape (N,) containing N measurements of
+            a given observable.
+    Output:
+        Returns a tuple (vals, freqs) where vals is an array
+        that contains the unique values found in the data, and
+        freqs is an array containing the respective frequency 
+        of the unique values.
+    '''
+    # Turn data into numpy array
+    obs = np.array(data)
+    vals = np.unique(obs)
+    freq = np.array([np.sum(obs==k) for k in vals])
+    freq = freq / obs.shape[0]
+    return vals, freq
+
 # -----------------------------------
 
 
