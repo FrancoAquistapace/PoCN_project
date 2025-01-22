@@ -111,6 +111,92 @@ def get_lcc(graph):
     lcc = graph.subgraph(largest_cc).copy()
     return lcc
 
+
+# Function to create a joint network of regular graphs, 
+# with Bernoulli coupling
+def joint_AB_graph_Bernoulli(N_A, N_B, z_A, z_B, p):
+    '''
+    Params:
+        N_A, N_B : int
+            Number of nodes in subgraphs A and B.
+        z_A, z_B : int
+            Degrees for each node in A and B, respectively.
+            The values z_A * N_A and z_B * N_B must be even.
+        p : int
+            Probability of a node in A having an external 
+            edge to a node in B.
+    Output:
+        Returns a tuple (g, A_id, B_id). g is a networkx 
+        Graph with a joint graph composed of two subgraphs A
+        and B, where A is a z_A-regular graph and B a 
+        z_B-regular graph. Furthermore, A and B are linked 
+        by Bernoulli couplings, where each node in A has a 
+        probability p of having one external edge to a node 
+        in B. Additionally, A_id contains the id of the nodes
+        that belong to A, and B_id contains the id of the 
+        nodes that belong to B.
+    '''
+    # Generate A and B regular graphs
+    A = nx.random_regular_graph(z_A, N_A)
+    B = nx.random_regular_graph(z_B, N_B)
+
+    # Shift node labels for B
+    nx.relabel_nodes(B, mapping={i:i+N_A for i in range(N_B)}, 
+                     copy=False)
+
+    # Generate joint network
+    g = nx.compose(A, B)
+
+    # Get ids from A and B
+    A_id = np.arange(N_A)
+    B_id = np.arange(N_A, N_A+N_B)
+
+    # Generate Bernoulli links:
+    # Keep track of available nodes in B
+    avail_B = [n_b for n_b in B_id] 
+    for n_a in A_id:
+        # Generate an external link with prob. p
+        if np.random.uniform() < p:
+            # Choose a random node in B from 
+            # available
+            n_b = np.random.choice(avail_B)
+
+            # Add new link
+            g.add_edge(n_a, n_b)
+
+            # Remove used node in B from available
+            avail_B.remove(n_b)
+    
+    # Return joint graph and ids
+    return g, A_id, B_id
+
+
+# Function to turn A, B ids into a single dataframe
+def get_AB_dataframe(A_id, B_id):
+    '''
+    Params:
+        A_id, B_id : array
+            Arrays containing the node labels of all the
+            nodes in subgraphs A and B of a joint network.
+    Output:
+        Returns a pandas DataFrame with columns "node" and 
+        "ID", where "node" corresponds to the label of a 
+        given node in the joint network, and "ID" is either
+        "A" or "B" depending on which subgraph the node 
+        belongs to.
+    '''
+    # Generate list of node labels and IDs
+    labels = [n_a for n_a in A_id]
+    labels.extend([n_b for n_b in B_id])
+    
+    IDs = ["A" for n_a in A_id]
+    IDs.extend(["B" for n_b in B_id])
+
+    # Turn into dataframe
+    data = {"node": labels, "ID": IDs}
+    data = pd.DataFrame(data)
+    return data
+
 # -----------------------------------
 
 
