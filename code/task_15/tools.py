@@ -425,6 +425,194 @@ class SandpileSim(object):
                'B': self.B}
         return res
 
+
+
+class SandpileSimJoint(SandpileSim):
+    def __init__(self, graph, graph_data, f):
+        '''
+        Params:
+            graph : networkx Graph
+                Network to use as substrate for the simulation. The
+                network should not have any node with degree 0 or 1.
+            graph_data : pandas DataFrame
+                Graph metadata, containing columns "node" and "ID", 
+                where "node" is the label of the node in the network,
+                and "ID" is either "A" or "B" depending on the 
+                subgraph to which the node belongs.
+            f : float
+                Probability of losing a grain on a given transfer 
+                between nodes.
+        '''
+        super().__init__(graph, f)
+        # Joint network attributes
+        self.meta = graph_data
+
+        # Additional simulation attributes
+        # Local and inflicted avalanche sizes
+        self.S_local = []
+        self.S_inflicted = []
+
+        # Sub graph where the avalanche begins
+        self.Init_graph = []
+
+    
+    # Function to run the simulation
+    def run(self, steps, verbose=True, every=1000, events=None,
+           grains=None):
+        '''
+        Params:
+            steps : int
+                Number of maximum simulation steps to perform.
+            verbose : bool (optional)
+                Whether to print simulation information. Set 
+                to True by default.
+            every : int (optional)
+                Amount of simulation steps in between information
+                updates printed. Default is 1000 iterations.
+            events : int (optional)
+                Number of avalanche events at which to stop the
+                simulation early. Not used by default.
+            grains : int (optional)
+                Number of dropped grains on the system at which to
+                stop the simulation early. Not used by default.
+        Output:
+            Runs the Bak-Tang-Wiesenfeld sandpile model on the 
+            given joint network. After it is finished, the 
+            following avalanche metrics are stored:
+                - Number of events
+                - Per event:
+                    - Avalanche area (A)
+                    - Avalanche size (S)
+                    - Local avalanche size (S_local)
+                    - Inflicted avalanche size (S_inf)
+                    - Subgraph where the avalanche starts (I_g)
+                    - Number of toppled grains (G)
+                    - Duration of the avalanche (T)
+        '''
+        # Start timing
+        t1 = time.time()
+        
+        # Centinel variables
+        finished = False
+        in_avalanche = False
+        i_step = 0
+        i_grains = 0
+
+        # Run loop
+        while not finished:
+            # Increase step
+            i_step += 1
+
+            # Check for printing frequency
+            if verbose and i_step % every == 0:
+                print('Step %s of %s. Observed avalanches: %s (max. %s).' % \
+                      (i_step, steps, self.n_events, events))
+
+            in_avalanche = self.avalanche_check()
+
+            # If not in avalanche, increase grain load
+            if not in_avalanche:
+                self.add_grain()
+                i_grains += 1
+            
+            # If in avalanche, enter avalanche process until
+            # completion
+            else:
+                # Get place of origin of avalanche
+                av_node = self.nodes[self.grains >= self.thresh][0]
+                I_g = self.meta.loc[self.meta.node == av_node, 'ID'].iloc[0]
+                # Init avalanche metrics
+                part_nodes = [] # Nodes participating
+                S = 0
+                S_local = 0
+                S_inflicted = 0
+                G = 0
+                T = 0
+                B = True
+                while in_avalanche:
+                    # Increase avalanche duration on each iteration
+                    T += 1
+                    
+                    # Iterate over toppled nodes to generate a new
+                    # state
+                    grains_delta = np.zeros((len(self.nodes),))
+
+                    # Get toppled nodes
+                    t_mask = self.grains >= self.thresh
+                    toppled = self.nodes[t_mask]
+                    toppled_idx = self.nodes_idx[t_mask]
+                    toppled_g = self.meta.loc[self.meta.node.isin(toppled), 'ID']
+                    part_nodes.extend(list(toppled_idx))
+                    S += len(toppled)
+                    S_local += np.sum(toppled_g == I_g)
+                    S_inflicted += np.sum(toppled_g != I_g)
+                    for i, nt in enumerate(toppled):
+                        t_idx = toppled_idx[i]
+
+                        # Get degree and neighbors of toppled node
+                        deg = self.graph.degree(nt)
+                        neigh_idx = [self.node_map[n]\
+                                     for n in self.graph.neighbors(nt)]
+
+                        # Remove k_i grains from toppled node
+                        grains_delta[t_idx] -= deg
+                        G += deg
+
+                        # Add one grain to each neighbor with prob 1-f
+                        probs = np.random.uniform(size=deg)
+                        p_mask = (probs > self.f).astype('int')
+                        for j, neigh in enumerate(neigh_idx):
+                            grains_delta[neigh] += p_mask[j]
+                        
+                        # Check if a grain has been lost, and change
+                        # bulk status accordingly
+                        if 0 in p_mask:
+                            B = False
+
+                    # Add delta to current state to get new state
+                    new_grains = self.grains + grains_delta
+                    self.grains = new_grains
+                
+                    # Check if avalanche is finished
+                    in_avalanche = self.avalanche_check()
+
+                # Increase avalanche count and save results
+                self.n_events += 1
+                self.A.append(np.unique(part_nodes).shape[0])
+                self.S.append(S)
+                self.G.append(G)
+                self.T.append(T)
+                self.B.append(B)
+
+                # Additional metrics
+                self.S_local.append(S_local)
+                self.S_inflicted.append(S_inflicted)
+                self.Init_graph.append(I_g)
+            
+            # Check for termination
+            if i_step >= steps:
+                finished = True
+            if events != None:
+                if self.n_events >= events:
+                    finished = True
+            if grains != None:
+                if i_grains >= grains:
+                    finished = True
+
+        # Finish timing
+        t2 = time.time()
+
+        if verbose:
+            print('Simulation finished in: %.1f minutes' % ((t2 - t1)/60))
+
+        # Return relevant esults
+        res = {'A': self.A, 'S': self.S, 
+               'G': self.G, 'T': self.T, 
+               'B': self.B, 'I_g': self.Init_graph,
+               'S_local': self.S_local,
+               'S_inf': self.S_inflicted}
+        return res
+
 # -----------------------------------
 
 # ----------- Analysis --------------
@@ -461,6 +649,48 @@ def get_frequency(data):
     freq = np.array([np.sum(obs==k) for k in vals])
     freq = freq / obs.shape[0]
     return vals, freq
+
+
+# Function to get local, inflicted and total avalanche
+# probabilities
+def get_avalanche_prob(data, cut):
+    '''
+    Params:
+        data : pandas DataFrame
+            Data containing avalanche instances with all the
+            respective metrics.
+        cut : int 
+            Cutoff value that defines large avalanches in the
+            amount of nodes topppled S, S_loc or S_inf.
+    Output:
+        Returns a tuple (P_loc, P_inf, P_tot) where P_loc is
+        the probability of a large avalanche that started 
+        locally, P_inf is the probability of a large avalanche
+        that was inflicted externally and P_tot the probability 
+        of a large avalanche regardless of the origin.
+    '''
+    # Separate data into A and B origins
+    data_A = data.loc[data.I_g == 'A']
+    data_B = data.loc[data.I_g == 'B']
+
+    # Get number of avalanches in each system
+    N_tot_A = data_A.shape[0] + np.sum(data_B.S_inf > 0)
+    N_tot_B = data_B.shape[0] + np.sum(data_A.S_inf > 0)
+
+    # Get local large avalanche probability
+    A_loc = np.sum(data_A.S_local > cut) / N_tot_A
+    B_loc = np.sum(data_B.S_local > cut) / N_tot_B
+    P_loc = (A_loc + B_loc) / 2
+
+    # Get inflicted large avalanche probability
+    A_inf = np.sum(data_A.S_inf > cut) / N_tot_B
+    B_inf = np.sum(data_B.S_inf > cut) / N_tot_A
+    P_inf = (A_inf + B_inf) / 2
+
+    # Get total large avalanche probability
+    P_tot = (P_loc + P_inf) / 2
+
+    return P_loc, P_inf, P_tot 
 
 # -----------------------------------
 
