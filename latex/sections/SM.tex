@@ -1,7 +1,7 @@
 \chapter{Supplementary material}
 
 %\resp{Franco Aquistapace Tagua}
-
+% TASK 6
 \section{Song-Havlin-Makse self-similar model}
 \label{sec:SHM_SM}
  
@@ -57,7 +57,58 @@ On the other hand, for the non--fractal case $e=1.0$, $N_B(L_B) / N$ and $\mathc
 \end{equation}
 where again $L_0$, $C_N$ and $C_S$ are fitted from the data. In this case, the data points with $L_B > 12$ are excluded from the fit of both $N_B(L_B) / N$ and $\mathcal{S}(L_B)$.
 
-\section{Another section...}
+
+
+% TASK 15
+\section{Sandpile dynamics on complex networks}
+\label{sec:SOC_SM}
+
+\subsubsection*{Bak-Tang-Wiesenfeld sandpile model simulations}
+
+In general, for each avalanche event in the Bak-Tang-Wiesenfeld model simulations, the following quantities are registered:
+\begin{itemize}
+	\item Avalanche area $A$: defined as the number of distinct nodes participating in an avalanche event.
+	\item Avalanche size $S$: defined as the number of toppling events in a given avalanche.
+	\item Number of toppled grains, $G$.
+	\item Duration of the avalanche, $T$.
+\end{itemize}
+
+For the simulations on interdependent networks the following observations are additionally registered: subgraph where an avalanche originates, local size of the avalanche in the origin subgraph and inflicted size of the avalanche on the non-origin subgraph.
+
+\subsubsection*{Generation of scale--free networks}
+
+In this work, the static model from \cite{goh2003sandpile} is used to generate scale--free networks with desired properties as follows: 
+
+Here, the networks are generated with $2\times10^5$ nodes, average degree $\langle k\rangle=4$ and degree exponents $\gamma\in(2,\infty)$.
+
+Isolated nodes and possibly other small subgraphs are removed from the system by only keeping the largest connected component. In general, the amount of removed nodes is not significant when compared to the size of the remaining network.
+
+\subsubsection*{Characteristics of avalanches in scale--free networks}
+
+
+\begin{figure}[!h]
+	\begin{center}
+	\includegraphics[scale=0.75]{./images/task_15/SM_scale_free_distributions.png} 
+	\end{center}
+	\caption{Caption. \\} 
+	\label{fig:SM_scale_free_distributions} 
+\end{figure}
+
+
+\subsubsection*{Generation of interdependent regular networks}
+
+In this work, each interconnected network is first initialised as two separate $z$-regular subgraphs, $G_A$ and $G_B$, with uniform degree $z=3$ and $2\times10^3$ nodes each. Then, the connection between these subgraphs is done by means of uncorrelated Bernoulli coupling, as follows: for each node in $G_A$ a random number is uniformly sampled from $(0,1)$, if that number is smaller than a threshold $p$ then an available node from $G_B$ is uniformly sampled and a link to it is established. The selected node from $G_B$ is then removed from the set of available nodes, so that each node in $G_A$ can be connected at most to a single node from $G_B$, and vice versa. 
+
+
+\subsubsection*{Characteristics of avalanches in interdependent networks}
+
+\begin{figure}[!h]
+	\begin{center}
+	\includegraphics[scale=0.75]{./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png} 
+	\end{center}
+	\caption{Caption. \\} 
+	\label{fig:SM_large_avalanche_rank_plot_joint_AB} 
+\end{figure}
 
 
 
