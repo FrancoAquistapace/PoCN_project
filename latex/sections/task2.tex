@@ -7,7 +7,7 @@ The aim of this task is to study the behaviour of the Bak-Tang-Wiesenfeld sandpi
 
 The BTW is simulated here as follows: at each time step, a grain is added to a random node $i$ of the system. If the grains at any node $i$ exceed its degree $k_i$, then it becomes unstable and topples one grain to each neighbour, and an avalanche is considered to begin. For each toppled grain, there is a probability $f$ that the grain is lost, which helps avoid the overloading of the system. Then, each node is checked again for instability and the toppling is repeated in parallel until there are no more unstable nodes, and the avalanche is considered as finished. This process is repeated until a certain amount of avalanches are registered, or until a fixed amount of grains have been added to the system. Avalanches with no lost grains are termed \textit{bulk} avalanches.
 
-Simulations are first performed on scale--free networks with degree exponents $\gamma\in(2,\infty)$ and $f=10^{-3}$. The simulations are finished after $10^6$ avalanches have been observed, and only bulk avalanches are considered for analysis. Additionally, simulations are performed on interdependent networks linked with independent Bernoulli couplings of probability $p\in[0.001, 0.5]$, with $f=10^{-2}$. These simulations are finished after $2\times10^5$ grains are added to the system. Additional details on the methodology can be found in section \ref{sec:SOC_SM} of the Supplementary Material.
+Simulations are first performed on scale--free networks with degree exponents $\gamma\in(2,\infty)$ and $f=10^{-3}$. The simulations are finished after $10^6$ avalanches have been observed, and only bulk avalanches are considered for analysis. Additionally, simulations are performed on interdependent networks linked with uncorrelated Bernoulli couplings of probability $p\in[0.001, 0.5]$, with $f=10^{-2}$. These simulations are finished after $2\times10^5$ grains are added to the system. Additional details on the methodology can be found in section \ref{sec:SOC_SM} of the Supplementary Material.
 
 
 \section{Results and discussion}
@@ -28,7 +28,7 @@ For interdependent networks, increasing the Bernoulli link probability $p$ betwe
 	\begin{center}
 	\includegraphics[scale=0.75]{./images/task_15/large_S_vs_p_joint_AB.png} 
 	\end{center}
-	\caption{Probability of a large avalanche, $P(S_{large})$, with respect to the link probability, $p$, for interdependent networks connected through independent Bernoulli coupling. The results for local, inflicted and global avalanches are shown, as well as the critical point $p^*$. \\} 
+	\caption{Probability of a large avalanche, $P(S_{large})$, with respect to the link probability, $p$, for interdependent networks connected through uncorrelated Bernoulli coupling. The results for local, inflicted and global avalanches are shown, as well as the critical point $p^*$. \\} 
 	\label{fig:large_S_vs_p_joint_AB} 
 \end{figure}
 

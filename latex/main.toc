@@ -11,4 +11,4 @@
 \contentsline {chapter}{\numberline {4}Supplementary material}{6}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Song-Havlin-Makse self-similar model}{6}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Sandpile dynamics on complex networks}{7}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Bibliography}{10}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Bibliography}{11}{chapter.5}%
