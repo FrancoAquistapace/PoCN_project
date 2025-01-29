@@ -82,6 +82,28 @@ def check_missing_data(city_data):
         return True
         
     return False
+
+
+# Function to extract latitude and longitude from geometry data
+def get_point_location(point):
+    '''
+    Params:
+        point : str
+            Point location of a station as defined in the 
+            geometry feature of the citylines dataset.
+    Output:
+        Returns a tuple (latitude, longitude) with the 
+        location of the given point.
+    '''
+    # Remove geometry notation
+    lat_long = point.replace('POINT(', '')
+    lat_long = lat_long.replace(')', '')
+    # Split data
+    lat_long = lat_long.split()
+    # Convert to numerical and return 
+    lat = float(lat_long[0])
+    long = float(lat_long[1])
+    return lat, long
 # -------------------------------------------
 
 
