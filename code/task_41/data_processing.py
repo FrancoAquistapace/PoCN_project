@@ -104,6 +104,51 @@ def get_point_location(point):
     lat = float(lat_long[0])
     long = float(lat_long[1])
     return lat, long
+
+
+# Function to extract latitude and longitude values from section 
+# geometry
+def get_line_locations(line):
+    '''
+    Params:
+        line : str
+            Line geometry of a section, as defined in the
+            geometry feature of the citylines dataset.
+    Output:
+        Returns a tuple (latitudes, longitudes), where 
+        latitudes and longitudes are arrays that contain
+        the locations of the given line.
+    '''
+    # Remove geometry notation
+    lat_long = line.replace('LINESTRING(', '')
+    lat_long = lat_long.replace(')', '')
+    # Get different locations
+    lat_long = lat_long.split(',')
+    # Convert to numerical and return
+    lat = [float(l.split()[0]) for l in lat_long]
+    long = [float(l.split()[1]) for l in lat_long]
+    return lat, long 
+
+
+# Function to get the closest distance between a point and a
+# section
+def get_dist_section_point(x, section_x):
+    '''
+    Params:
+        x : numpy array
+            Array of shape (2,) with the latitude and
+            longitude of a point.
+        section_x : numpy array
+            Array of shape (2,N) with the latitude and
+            longitude values of a section.
+    Output:
+        Return the smallest distance between x and any
+        of the points in the section.
+    '''
+    x = np.reshape(x, (x.shape[0], 1))
+    dist = np.sqrt(np.sum(np.square(x - section_x), axis=0))
+    min_dist = np.min(dist)
+    return min_dist
 # -------------------------------------------
 
 
