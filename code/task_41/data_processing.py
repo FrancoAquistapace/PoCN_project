@@ -149,6 +149,366 @@ def get_dist_section_point(x, section_x):
     dist = np.sqrt(np.sum(np.square(x - section_x), axis=0))
     min_dist = np.min(dist)
     return min_dist
+
+
+
+# Function that builds the node and edge lists from the data
+# of a given city
+def build_node_edge_lists(city_data, to_year=2025, verbose=False):
+    '''
+    Params:
+        city_data : dict
+            Data of a given city.
+        to_year : int (optional)
+            Reference year. Every station closed before this 
+            year is not considered as a node. Default value
+            is 2025.
+        verbose : bool (optional)
+            Whether to print out information while running,
+            this is turned off by default.
+    Output:
+        Returns a tuple (node_list, edge_list), where both
+        node_list and edge_list are dictionaries containing
+        the following data:
+        - node_list:
+            - nodeID: Unique identifier of the node.
+            - nodeLabel: Name of the station.
+            - latitude
+            - longitude
+            - mode: Transport mode of the station.
+            - year: Opening year.
+        - edge_list:
+            - nodeID_from, nodeID_to: Station identifiers.
+            - mode: Transport mode of the line.
+            - line: Name of the system + name of the line.
+            - year: Opening year.
+    '''
+    # Init empty node list and edge list
+    node_list = {'nodeID':[], 'nodeLabel':[], 
+                 'latitude':[], 'longitude': [],
+                 'mode':[], 'year': []}
+    edge_list = {'nodeID_from': [], 'nodeID_to': [], 
+                 'mode': [], 'line': [], 'year': []}
+
+    # Init global id counter
+    global_id = 0
+
+    # Get unique modes of transport
+    modes = city_data['lines']['transport_mode_id'].unique()
+    mode_names = dict()
+    for m in modes:
+        m_df = city_data['modes']
+        mode_names[m] = m_df.loc[m_df['id'] == m, 'name'].iloc[0]
+
+    # Get systems data
+    s_df = city_data['systems']
+
+    # Build network considering one mode at a time
+    for m in modes:
+        # Get lines corresponding to the mode
+        l_df = city_data['lines']
+        l_df = l_df.loc[l_df['transport_mode_id'] == m].copy()
+
+        # Drop unnecessary data
+        l_df.drop(columns=['url_name', 'color'], inplace=True)
+
+        # Operate for each line
+        for i in range(l_df.shape[0]):
+            l = l_df.iloc[i]
+            if verbose:
+                print('\nLine:')
+                print(l)
+
+            # Get name of system + name of line
+            line_name = s_df.loc[s_df['id'] == l['system_id'], 'name'].iloc[0]
+            line_name = line_name + ' - ' + l['name']
+
+            # Get station-lines data
+            st_l = city_data['station_lines']
+            st_l = st_l.loc[st_l['line_id'] == l.id].copy()
+            st_l.drop(columns=['city_id', 'created_at',
+                               'deprecated_line_group',
+                               'updated_at', 'toyear', 
+                               'fromyear'],
+                      inplace=True)
+            
+            # Get corresponding nodes for the line
+            nodes_l = city_data['stations']
+            nodes_l = nodes_l.loc[nodes_l.id.isin(st_l.station_id)].copy()
+            nodes_l.drop(columns=['buildstart', 'city_id'], 
+                         inplace=True)
+            
+            # Keep stations that have not been closed up to the ref year
+            nodes_l = nodes_l.loc[nodes_l.closure >= to_year].copy()
+
+            # Get latitude and longitude for the nodes
+            f_lat = lambda s: get_point_location(s)[0]
+            f_long = lambda s: get_point_location(s)[1]
+            nodes_l['latitude'] = nodes_l.geometry.apply(f_lat)
+            nodes_l['longitude'] = nodes_l.geometry.apply(f_long)
+            nodes_l.drop(columns=['geometry', 'closure'], inplace=True)
+            if verbose:
+                print('\nNodes:')
+                print(nodes_l.head())
+
+            # Get section-lines data
+            sc_l = city_data['section_lines']
+            sc_l = sc_l.loc[sc_l.line_id == l.id].copy()
+            sc_l.drop(columns=['created_at', 'updated_at', 'city_id',
+                               'fromyear', 'toyear', 
+                               'deprecated_line_group'], 
+                      inplace=True)
+
+            # Get edges data from sections
+            edges_l = city_data['sections']
+            edges_l = edges_l.loc[edges_l.id.isin(sc_l.section_id)].copy()
+            edges_l.drop(columns=['city_id', 'buildstart'], inplace=True)
+
+            # Keep sections that have not been closed up to the ref year
+            edges_l = edges_l.loc[edges_l.closure >= to_year].copy()
+
+            # Get latitude and longitude values
+            f_lat = lambda s: get_line_locations(s)[0]
+            f_long = lambda s: get_line_locations(s)[1]
+            edges_l['latitude'] = edges_l.geometry.apply(f_lat)
+            edges_l['longitude'] = edges_l.geometry.apply(f_long)
+            edges_l.drop(columns=['closure', 'geometry'], inplace=True)
+
+            # Get section positions as arrays
+            sect_pos = [
+                np.array([edges_l.iloc[e]['latitude'], edges_l.iloc[e]['longitude']])\
+                for e in range(edges_l.shape[0])
+            ]
+            
+            if verbose:
+                print('\nEdges:')
+                print(edges_l.head())
+
+            # Build nodes
+            node_ids = []
+            for n in range(nodes_l.shape[0]):
+                nl = nodes_l.iloc[n]
+                # ID
+                node_list['nodeID'].append(global_id)
+                node_ids.append(global_id)
+                # Name
+                node_list['nodeLabel'].append(nl['name'])
+                # Location
+                node_list['latitude'].append(nl['latitude'])
+                node_list['longitude'].append(nl['longitude'])
+                # Mode and year
+                node_list['mode'].append(mode_names[m])
+                node_list['year'].append(nl['opening'])
+
+                # Update global id
+                global_id += 1
+
+            # Keep track of node IDs for when building edges
+            nodes_l['nodeID'] = node_ids
+
+            # Only build edges if there is sections data and 
+            # if there is more than one node
+            if edges_l.shape[0] == 0 or nodes_l.shape[0] < 2:
+                continue
+            
+            # Build edges with a reasonable assumption:
+            # Each node attemps to connect to its two closest
+            # neighbours in the same line, that connection is 
+            # accepted unless:
+            # - Those two neighbours are closer to each other 
+            #   than to the reference node.
+            #   -> Only attempt connetion to closest node.
+            # - The connections are already established.
+            #   -> Avoid repeated connections.
+            # Given the small spatial extension of cities, we
+            # can apply Euclidean distance
+            
+            edge_arr = []
+            for n1 in range(nodes_l.shape[0]):
+                nl1 = nodes_l.iloc[n1]
+                pos1 = np.array([nl1['latitude'],
+                                 nl1['longitude']])
+
+                # If there are only two nodes in total, then attempt
+                # connection between them by default
+                if n1 == 0 and nodes_l.shape[0] == 2:
+                    edge_arr.append([0,1])
+                    continue
+                elif n1 != 0 and nodes_l.shape[0] == 2:
+                    continue
+                
+                # Get all distances
+                dist_vals = []
+                for n2 in range(nodes_l.shape[0]):
+                    # Ignore self-interaction
+                    if n2 == n1:
+                        dist_vals.append(1e7)
+                    else:
+                        # Get distance
+                        nl2 = nodes_l.iloc[n2]
+                        pos2 = np.array([nl2['latitude'],
+                                         nl2['longitude']])
+                        dist_vals.append(np.linalg.norm(pos2 - pos1))
+                
+                # Retrieve two closest nodes
+                dA, dB = np.partition(dist_vals, 1)[0:2] 
+                nA, nB = dist_vals.index(dA), dist_vals.index(dB)
+
+                # Check for conditions:
+                # Link A
+                A_link_repeated = ([n1, nA] in edge_arr) or ([nA, n1] in edge_arr)
+                if not A_link_repeated:
+                    edge_arr.append([n1, nA])
+                # Link B
+                B_link_repeated = ([n1, nB] in edge_arr) or ([nB, n1] in edge_arr)
+                if not B_link_repeated:
+                    # Distance condition
+                    posA = np.array([nodes_l.iloc[nA]['latitude'],
+                                     nodes_l.iloc[nA]['longitude']])
+                    posB = np.array([nodes_l.iloc[nB]['latitude'],
+                                     nodes_l.iloc[nB]['longitude']])
+                    dist_AB = np.linalg.norm(posA - posB)
+                    if dist_AB > dB:
+                        edge_arr.append([n1, nB])
+
+
+            # Attempt additional edges from a second criterion:
+            # - Two nodes are at the ends of a given section 
+            # - There is no link between them
+            # - They are not communicated through other nodes 
+            for s in range(edges_l.shape[0]):
+                sl = edges_l.iloc[s]
+
+                if len(sl['latitude']) == 1:
+                    continue
+
+                # Get endpoints 
+                sl1 = np.array([sl['latitude'][0], 
+                                sl['longitude'][0]])
+                sl2 = np.array([sl['latitude'][-1], 
+                                sl['longitude'][-1]])
+
+                # Get points closest to the section
+                dist1 = []
+                dist2 = []
+                for n in range(nodes_l.shape[0]):
+                    npos = np.array([nodes_l.iloc[n]['latitude'],
+                                     nodes_l.iloc[n]['longitude']])
+                    dist1.append(np.linalg.norm(sl1 - npos))
+                    dist2.append(np.linalg.norm(sl2 - npos))
+
+                n1 = np.argmin(dist1)
+                n2 = np.argmin(dist2)
+
+                # Check that the nodes are not equal
+                if nodes_l.iloc[n1]['id'] == nodes_l.iloc[n2]['id']:
+                    continue
+
+                # Check that the nodes are not communicated 
+                # Get nodes in indirect contact from n1
+                n1_neighs = []
+                for link in edge_arr:
+                    if link[0] == n1:
+                        n1_neighs.append(link[1])
+                    elif link[1] == n1:
+                        n1_neighs.append(link[0])
+
+                for link in edge_arr:
+                    if link[0] in n1_neighs:
+                        n1_neighs.append(link[1])
+                    elif link[1] in n1_neighs:
+                        n1_neighs.append(link[0])
+
+                n2_neighs = []
+                for link in edge_arr:
+                    if link[0] == n2:
+                        n2_neighs.append(link[1])
+                    elif link[1] == n2:
+                        n2_neighs.append(link[0])
+
+                for link in edge_arr:
+                    if link[0] in n2_neighs:
+                        n2_neighs.append(link[1])
+                    elif link[1] in n2_neighs:
+                        n2_neighs.append(link[0])
+
+                common_neighs = [neigh1 in n2_neighs for neigh1 in n1_neighs]
+                if True in common_neighs:
+                    continue
+
+                # Attempt link
+                link_repeated = ([n1, n2] in edge_arr) or ([n2, n1] in edge_arr)
+                if not link_repeated:
+                    edge_arr.append([n1, n2])
+                    
+            
+            # Now, we can store the edge data
+            for e in edge_arr:
+                # Nodes participating
+                n1 = nodes_l.iloc[e[0]]
+                n2 = nodes_l.iloc[e[1]]
+
+                # Add node relevant data
+                edge_list['nodeID_from'].append(n1['nodeID']) 
+                edge_list['nodeID_to'].append(n2['nodeID'])
+                edge_list['mode'].append(mode_names[m])
+                edge_list['line'].append(line_name)
+
+                # Finally, the most difficult attribute
+                # to retrieve is the year. We do this 
+                # by finding the opening year of the 
+                # corresponding sections:
+                # Get closest sections
+                pos1 = np.array([n1['latitude'], n1['longitude']])
+                dist_vals1 = [
+                    get_dist_section_point(pos1, s_pos)\
+                    for s_pos in sect_pos
+                ]
+                open_year1 = int(edges_l.iloc[np.argmin(dist_vals1)]['opening'])
+
+                pos2 = np.array([n2['latitude'], n2['longitude']])
+                dist_vals2 = [
+                    get_dist_section_point(pos2, s_pos)\
+                    for s_pos in sect_pos
+                ]
+                open_year2 = int(edges_l.iloc[np.argmin(dist_vals2)]['opening'])
+                
+                open_year = max(open_year1, open_year2)
+
+                edge_list['year'].append(open_year)
+
+    
+    # We need to consider nodes without lines
+    nodes_nl = city_data['stations']
+    nodes_nl = nodes_nl.loc[~nodes_nl.id.isin(city_data['station_lines'])]
+
+    # Keep stations that have not been closed up to the ref year
+    nodes_nl = nodes_nl.loc[nodes_nl.closure >= to_year].copy()
+
+    # Get latitude and longitude for the nodes
+    f_lat = lambda s: get_point_location(s)[0]
+    f_long = lambda s: get_point_location(s)[1]
+    nodes_nl['latitude'] = nodes_nl.geometry.apply(f_lat)
+    nodes_nl['longitude'] = nodes_nl.geometry.apply(f_long)
+    nodes_nl.drop(columns=['geometry', 'closure'], inplace=True)
+    
+    for n in range(nodes_nl.shape[0]):
+        nl = nodes_nl.iloc[n]
+        # ID
+        node_list['nodeID'].append(global_id)
+        # Name
+        node_list['nodeLabel'].append(nl['name'])
+        # Location
+        node_list['latitude'].append(nl['latitude'])
+        node_list['longitude'].append(nl['longitude'])
+        # Mode and year
+        node_list['mode'].append('None')
+        node_list['year'].append(nl['opening'])
+
+        # Update global id
+        global_id += 1
+    
+    return node_list, edge_list
 # -------------------------------------------
 
 
