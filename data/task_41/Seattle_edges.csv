@@ -1,0 +1,9 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,1,people_mover,Monorail - Monorail,1962
+1,2,6,tram,Link Light Rail - T Line,2003
+2,3,7,tram,Link Light Rail - T Line,2003
+3,3,2,tram,Link Light Rail - T Line,2003
+4,4,8,tram,Link Light Rail - T Line,2003
+5,4,5,tram,Link Light Rail - T Line,2003
+6,5,7,tram,Link Light Rail - T Line,2003
+7,6,9,tram,Link Light Rail - T Line,2003

@@ -1,0 +1,16 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,4,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+1,0,5,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+2,1,7,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+3,1,2,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+4,2,5,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+5,3,4,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+6,6,7,default,Sistema Ferroviario Metropolitano Regionale - Linea 2,0
+7,8,13,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+8,9,15,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+9,10,12,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+10,11,12,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+11,11,13,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+12,14,8,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+13,15,14,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0
+14,13,14,default,Sistema Ferroviario Metropolitano Regionale - Linea 1,0

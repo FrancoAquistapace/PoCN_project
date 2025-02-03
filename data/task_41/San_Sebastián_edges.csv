@@ -1,0 +1,33 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,2,default,Renfe - Renfe,0
+1,0,8,default,Renfe - Renfe,0
+2,1,11,default,Renfe - Renfe,0
+3,2,6,default,Renfe - Renfe,0
+4,3,7,default,Renfe - Renfe,0
+5,4,10,default,Renfe - Renfe,0
+6,5,9,default,Renfe - Renfe,0
+7,5,1,default,Renfe - Renfe,0
+8,7,11,default,Renfe - Renfe,0
+9,8,12,default,Renfe - Renfe,0
+10,10,6,default,Renfe - Renfe,0
+11,12,11,default,Renfe - Renfe,0
+12,13,23,default,Euskotren - Topo,1998
+13,13,15,default,Euskotren - Topo,0
+14,14,21,default,Euskotren - Topo,0
+15,14,18,default,Euskotren - Topo,0
+16,15,26,default,Euskotren - Topo,2005
+17,16,19,default,Euskotren - Topo,0
+18,16,24,default,Euskotren - Topo,2016
+19,17,22,default,Euskotren - Topo,1993
+20,18,24,default,Euskotren - Topo,2016
+21,19,25,default,Euskotren - Topo,1912
+22,20,30,default,Euskotren - Topo,1913
+23,20,32,default,Euskotren - Topo,0
+24,21,22,default,Euskotren - Topo,1993
+25,25,31,default,Euskotren - Topo,1912
+26,26,17,default,Euskotren - Topo,2005
+27,27,31,default,Euskotren - Topo,0
+28,28,27,default,Euskotren - Topo,0
+29,29,32,default,Euskotren - Topo,0
+30,28,29,default,Euskotren - Topo,0
+31,33,34,default,Euskotren - Línea general,0

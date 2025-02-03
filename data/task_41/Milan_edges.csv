@@ -1,0 +1,257 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,2,heavy_rail,Metro - M1,1964.0
+1,0,28,heavy_rail,Metro - M1,1986.0
+2,1,18,heavy_rail,Metro - M1,1964.0
+3,1,4,heavy_rail,Metro - M1,1964.0
+4,2,3,heavy_rail,Metro - M1,1964.0
+5,3,5,heavy_rail,Metro - M1,1964.0
+6,4,8,heavy_rail,Metro - M1,1964.0
+7,5,6,heavy_rail,Metro - M1,1964.0
+8,6,7,heavy_rail,Metro - M1,1964.0
+9,7,9,heavy_rail,Metro - M1,1964.0
+10,8,11,heavy_rail,Metro - M1,1966.0
+11,9,10,heavy_rail,Metro - M1,1964.0
+12,10,12,heavy_rail,Metro - M1,1964.0
+13,11,21,heavy_rail,Metro - M1,1966.0
+14,12,13,heavy_rail,Metro - M1,1964.0
+15,13,14,heavy_rail,Metro - M1,1964.0
+16,14,16,heavy_rail,Metro - M1,1964.0
+17,15,21,heavy_rail,Metro - M1,1966.0
+18,15,19,heavy_rail,Metro - M1,1966.0
+19,16,17,heavy_rail,Metro - M1,1964.0
+20,17,18,heavy_rail,Metro - M1,1964.0
+21,20,19,heavy_rail,Metro - M1,1975.0
+22,20,25,heavy_rail,Metro - M1,1975.0
+23,22,21,heavy_rail,Metro - M1,1966.0
+24,22,23,heavy_rail,Metro - M1,1966.0
+25,23,34,heavy_rail,Metro - M1,1975.0
+26,24,33,heavy_rail,Metro - M1,1992.0
+27,24,32,heavy_rail,Metro - M1,1992.0
+28,25,35,heavy_rail,Metro - M1,1980.0
+29,26,37,heavy_rail,Metro - M1,1980.0
+30,26,36,heavy_rail,Metro - M1,1980.0
+31,27,39,heavy_rail,Metro - M1,2005.0
+32,28,31,heavy_rail,Metro - M1,1986.0
+33,29,30,heavy_rail,Metro - M1,2021.0
+34,30,31,heavy_rail,Metro - M1,2021.0
+35,33,34,heavy_rail,Metro - M1,1975.0
+36,35,36,heavy_rail,Metro - M1,1980.0
+37,37,38,heavy_rail,Metro - M1,1986.0
+38,38,39,heavy_rail,Metro - M1,2005.0
+39,18,15,heavy_rail,Metro - M1,1966.0
+40,40,49,heavy_rail,Metro - M5,2014.0
+41,40,50,heavy_rail,Metro - M5,2015.0
+42,41,58,heavy_rail,Metro - M5,2015.0
+43,42,43,heavy_rail,Metro - M5,2013.0
+44,43,44,heavy_rail,Metro - M5,2013.0
+45,44,45,heavy_rail,Metro - M5,2013.0
+46,45,46,heavy_rail,Metro - M5,2013.0
+47,46,47,heavy_rail,Metro - M5,2013.0
+48,47,48,heavy_rail,Metro - M5,2013.0
+49,48,49,heavy_rail,Metro - M5,2014.0
+50,50,51,heavy_rail,Metro - M5,2015.0
+51,51,52,heavy_rail,Metro - M5,2015.0
+52,52,53,heavy_rail,Metro - M5,2015.0
+53,53,54,heavy_rail,Metro - M5,2015.0
+54,54,55,heavy_rail,Metro - M5,2015.0
+55,55,56,heavy_rail,Metro - M5,2015.0
+56,56,57,heavy_rail,Metro - M5,2015.0
+57,57,58,heavy_rail,Metro - M5,2015.0
+58,59,70,heavy_rail,Metro - M3,1990.0
+59,59,69,heavy_rail,Metro - M3,1991.0
+60,60,70,heavy_rail,Metro - M3,1990.0
+61,60,71,heavy_rail,Metro - M3,1990.0
+62,61,72,heavy_rail,Metro - M3,1990.0
+63,61,73,heavy_rail,Metro - M3,1991.0
+64,62,75,heavy_rail,Metro - M3,1991.0
+65,62,74,heavy_rail,Metro - M3,1991.0
+66,63,76,heavy_rail,Metro - M3,1991.0
+67,64,69,heavy_rail,Metro - M3,1991.0
+68,64,68,heavy_rail,Metro - M3,1995.0
+69,65,66,heavy_rail,Metro - M3,2011.0
+70,65,68,heavy_rail,Metro - M3,2003.0
+71,66,67,heavy_rail,Metro - M3,2011.0
+72,67,78,heavy_rail,Metro - M3,2011.0
+73,71,72,heavy_rail,Metro - M3,1990.0
+74,73,74,heavy_rail,Metro - M3,1991.0
+75,75,76,heavy_rail,Metro - M3,1991.0
+76,77,63,heavy_rail,Metro - M3,1991.0
+77,78,79,heavy_rail,Metro - M3,2011.0
+78,80,107,heavy_rail,Metro - M2,1981.0
+79,80,97,heavy_rail,Metro - M2,1981.0
+80,81,90,heavy_rail,Metro - M2,1972.0
+81,81,95,heavy_rail,Metro - M2,1972.0
+82,82,84,heavy_rail,Metro - M2,1969.0
+83,82,80,heavy_rail,Metro - M2,1981.0
+84,83,87,heavy_rail,Metro - M2,1970.0
+85,83,89,heavy_rail,Metro - M2,1969.0
+86,84,114,heavy_rail,Metro - M2,1969.0
+87,85,87,heavy_rail,Metro - M2,1970.0
+88,85,92,heavy_rail,Metro - M2,1971.0
+89,86,91,heavy_rail,Metro - M2,1969.0
+90,86,114,heavy_rail,Metro - M2,1969.0
+91,88,100,heavy_rail,Metro - M2,1978.0
+92,88,92,heavy_rail,Metro - M2,1978.0
+93,89,91,heavy_rail,Metro - M2,1969.0
+94,90,93,heavy_rail,Metro - M2,1985.0
+95,93,103,heavy_rail,Metro - M2,1985.0
+96,94,97,heavy_rail,Metro - M2,1972.0
+97,95,96,heavy_rail,Metro - M2,1972.0
+98,96,98,heavy_rail,Metro - M2,1972.0
+99,99,101,heavy_rail,Metro - M2,1983.0
+100,99,108,heavy_rail,Metro - M2,1983.0
+101,100,101,heavy_rail,Metro - M2,1978.0
+102,102,107,heavy_rail,Metro - M2,1981.0
+103,103,111,heavy_rail,Metro - M2,1985.0
+104,104,110,heavy_rail,Metro - M2,2005.0
+105,104,112,heavy_rail,Metro - M2,2005.0
+106,105,113,heavy_rail,Metro - M2,2011.0
+107,106,108,heavy_rail,Metro - M2,1983.0
+108,106,109,heavy_rail,Metro - M2,1983.0
+109,110,109,heavy_rail,Metro - M2,1985.0
+110,113,104,heavy_rail,Metro - M2,2011.0
+111,94,98,heavy_rail,Metro - M2,1972.0
+112,115,127,heavy_rail,Metro - M4,
+113,115,128,heavy_rail,Metro - M4,
+114,116,131,heavy_rail,Metro - M4,
+115,116,129,heavy_rail,Metro - M4,
+116,117,132,heavy_rail,Metro - M4,
+117,117,121,heavy_rail,Metro - M4,
+118,118,122,heavy_rail,Metro - M4,
+119,118,123,heavy_rail,Metro - M4,
+120,119,124,heavy_rail,Metro - M4,
+121,119,126,heavy_rail,Metro - M4,
+122,120,130,heavy_rail,Metro - M4,
+123,121,122,heavy_rail,Metro - M4,
+124,123,124,heavy_rail,Metro - M4,
+125,125,135,heavy_rail,Metro - M4,
+126,125,127,heavy_rail,Metro - M4,
+127,126,130,heavy_rail,Metro - M4,
+128,128,129,heavy_rail,Metro - M4,
+129,131,132,heavy_rail,Metro - M4,
+130,133,135,heavy_rail,Metro - M4,2021.0
+131,134,133,heavy_rail,Metro - M4,2021.0
+132,127,126,heavy_rail,Metro - M4,
+133,136,142,commuter_rail,Ferrovie Suburbane - S9,2011.0
+134,136,148,commuter_rail,Ferrovie Suburbane - S9,2011.0
+135,137,150,commuter_rail,Ferrovie Suburbane - S9,2011.0
+136,137,151,commuter_rail,Ferrovie Suburbane - S9,2011.0
+137,138,153,commuter_rail,Ferrovie Suburbane - S9,2011.0
+138,138,154,commuter_rail,Ferrovie Suburbane - S9,2011.0
+139,139,152,commuter_rail,Ferrovie Suburbane - S9,2011.0
+140,140,143,commuter_rail,Ferrovie Suburbane - S9,2011.0
+141,140,155,commuter_rail,Ferrovie Suburbane - S9,2011.0
+142,141,147,commuter_rail,Ferrovie Suburbane - S9,2011.0
+143,141,146,commuter_rail,Ferrovie Suburbane - S9,2011.0
+144,142,147,commuter_rail,Ferrovie Suburbane - S9,2011.0
+145,143,144,commuter_rail,Ferrovie Suburbane - S9,2011.0
+146,144,146,commuter_rail,Ferrovie Suburbane - S9,2011.0
+147,145,139,commuter_rail,Ferrovie Suburbane - S9,2011.0
+148,148,149,commuter_rail,Ferrovie Suburbane - S9,2011.0
+149,152,153,commuter_rail,Ferrovie Suburbane - S9,2011.0
+150,154,155,commuter_rail,Ferrovie Suburbane - S9,2011.0
+151,156,151,commuter_rail,Ferrovie Suburbane - S9,2011.0
+152,137,145,commuter_rail,Ferrovie Suburbane - S9,2011.0
+153,138,136,commuter_rail,Ferrovie Suburbane - S9,2011.0
+154,157,158,commuter_rail,Ferrovie Suburbane - S4,2004.0
+155,157,167,commuter_rail,Ferrovie Suburbane - S4,2004.0
+156,158,160,commuter_rail,Ferrovie Suburbane - S4,2004.0
+157,159,166,commuter_rail,Ferrovie Suburbane - S4,2004.0
+158,160,161,commuter_rail,Ferrovie Suburbane - S4,2004.0
+159,161,168,commuter_rail,Ferrovie Suburbane - S4,2004.0
+160,162,167,commuter_rail,Ferrovie Suburbane - S4,2004.0
+161,163,164,commuter_rail,Ferrovie Suburbane - S4,2004.0
+162,163,168,commuter_rail,Ferrovie Suburbane - S4,2004.0
+163,164,165,commuter_rail,Ferrovie Suburbane - S4,2004.0
+164,165,166,commuter_rail,Ferrovie Suburbane - S4,2004.0
+165,163,165,commuter_rail,Ferrovie Suburbane - S4,2004.0
+166,169,173,commuter_rail,Ferrovie Suburbane - MXP,2010.0
+167,170,171,commuter_rail,Ferrovie Suburbane - MXP,2016.0
+168,170,172,commuter_rail,Ferrovie Suburbane - MXP,1999.0
+169,173,172,commuter_rail,Ferrovie Suburbane - MXP,1999.0
+170,174,175,commuter_rail,Ferrovie Suburbane - S2,2004.0
+171,175,177,commuter_rail,Ferrovie Suburbane - S2,2004.0
+172,176,182,commuter_rail,Ferrovie Suburbane - S2,2004.0
+173,177,178,commuter_rail,Ferrovie Suburbane - S2,2004.0
+174,178,183,commuter_rail,Ferrovie Suburbane - S2,2004.0
+175,179,180,commuter_rail,Ferrovie Suburbane - S2,2004.0
+176,179,183,commuter_rail,Ferrovie Suburbane - S2,2004.0
+177,180,181,commuter_rail,Ferrovie Suburbane - S2,2004.0
+178,181,182,commuter_rail,Ferrovie Suburbane - S2,2004.0
+179,179,181,commuter_rail,Ferrovie Suburbane - S2,2004.0
+180,184,185,commuter_rail,Ferrovie Suburbane - S3,2007.0
+181,184,193,commuter_rail,Ferrovie Suburbane - S3,2007.0
+182,185,186,commuter_rail,Ferrovie Suburbane - S3,2007.0
+183,186,187,commuter_rail,Ferrovie Suburbane - S3,2007.0
+184,187,188,commuter_rail,Ferrovie Suburbane - S3,2007.0
+185,188,189,commuter_rail,Ferrovie Suburbane - S3,2007.0
+186,189,190,commuter_rail,Ferrovie Suburbane - S3,2007.0
+187,190,191,commuter_rail,Ferrovie Suburbane - S3,2007.0
+188,191,192,commuter_rail,Ferrovie Suburbane - S3,2007.0
+189,193,195,commuter_rail,Ferrovie Suburbane - S3,2007.0
+190,194,195,commuter_rail,Ferrovie Suburbane - S3,2007.0
+191,190,193,commuter_rail,Ferrovie Suburbane - S3,2007.0
+192,198,205,commuter_rail,Ferrovie Suburbane - S1,2007.0
+193,199,200,commuter_rail,Ferrovie Suburbane - S1,2007.0
+194,199,205,commuter_rail,Ferrovie Suburbane - S1,2007.0
+195,201,202,commuter_rail,Ferrovie Suburbane - S1,2007.0
+196,201,200,commuter_rail,Ferrovie Suburbane - S1,2007.0
+197,202,203,commuter_rail,Ferrovie Suburbane - S1,2007.0
+198,204,203,commuter_rail,Ferrovie Suburbane - S1,2007.0
+199,206,211,commuter_rail,Ferrovie Suburbane - S8,2009.0
+200,207,208,commuter_rail,Ferrovie Suburbane - S8,2009.0
+201,207,212,commuter_rail,Ferrovie Suburbane - S8,2009.0
+202,208,210,commuter_rail,Ferrovie Suburbane - S8,2009.0
+203,209,210,commuter_rail,Ferrovie Suburbane - S8,2009.0
+204,209,213,commuter_rail,Ferrovie Suburbane - S8,2009.0
+205,211,212,commuter_rail,Ferrovie Suburbane - S8,2009.0
+206,214,216,commuter_rail,Ferrovie Suburbane - S8,2009.0
+207,214,215,commuter_rail,Ferrovie Suburbane - S8,2009.0
+208,215,213,commuter_rail,Ferrovie Suburbane - S8,2009.0
+209,216,217,commuter_rail,Ferrovie Suburbane - S8,2009.0
+210,217,218,commuter_rail,Ferrovie Suburbane - S8,2009.0
+211,212,213,commuter_rail,Ferrovie Suburbane - S8,2009.0
+212,219,223,commuter_rail,Ferrovie Suburbane - S5,2009.0
+213,219,225,commuter_rail,Ferrovie Suburbane - S5,2009.0
+214,220,223,commuter_rail,Ferrovie Suburbane - S5,2009.0
+215,220,224,commuter_rail,Ferrovie Suburbane - S5,2009.0
+216,221,222,commuter_rail,Ferrovie Suburbane - S5,2009.0
+217,222,224,commuter_rail,Ferrovie Suburbane - S5,2009.0
+218,226,238,commuter_rail,Ferrovie Suburbane - S5,2004.0
+219,226,228,commuter_rail,Ferrovie Suburbane - S5,2004.0
+220,227,225,commuter_rail,Ferrovie Suburbane - S5,2009.0
+221,228,229,commuter_rail,Ferrovie Suburbane - S5,2004.0
+222,229,230,commuter_rail,Ferrovie Suburbane - S5,2004.0
+223,230,231,commuter_rail,Ferrovie Suburbane - S5,2004.0
+224,232,233,commuter_rail,Ferrovie Suburbane - S5,2004.0
+225,233,234,commuter_rail,Ferrovie Suburbane - S5,2004.0
+226,234,235,commuter_rail,Ferrovie Suburbane - S5,2004.0
+227,235,236,commuter_rail,Ferrovie Suburbane - S5,2004.0
+228,236,237,commuter_rail,Ferrovie Suburbane - S5,2004.0
+229,238,239,commuter_rail,Ferrovie Suburbane - S5,2004.0
+230,239,240,commuter_rail,Ferrovie Suburbane - S5,2004.0
+231,235,231,commuter_rail,Ferrovie Suburbane - S5,2004.0
+232,240,221,commuter_rail,Ferrovie Suburbane - S5,2009.0
+233,224,219,commuter_rail,Ferrovie Suburbane - S5,2009.0
+234,241,244,commuter_rail,Ferrovie Suburbane - R31,1870.0
+235,242,246,commuter_rail,Ferrovie Suburbane - R31,1870.0
+236,243,247,commuter_rail,Ferrovie Suburbane - R31,1870.0
+237,244,245,commuter_rail,Ferrovie Suburbane - R31,1870.0
+238,246,247,commuter_rail,Ferrovie Suburbane - R31,1870.0
+239,241,246,commuter_rail,Ferrovie Suburbane - R31,1870.0
+240,248,254,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+241,248,253,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+242,249,251,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+243,250,256,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+244,250,249,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+245,251,252,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+246,252,253,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+247,255,254,commuter_rail,Ferrovie Suburbane - Passante,2002.0
+248,257,263,commuter_rail,Ferrovie Suburbane - S6,2004.0
+249,257,258,commuter_rail,Ferrovie Suburbane - S6,2004.0
+250,258,259,commuter_rail,Ferrovie Suburbane - S6,2004.0
+251,260,262,commuter_rail,Ferrovie Suburbane - S6,2004.0
+252,261,265,commuter_rail,Ferrovie Suburbane - S6,2004.0
+253,261,263,commuter_rail,Ferrovie Suburbane - S6,2004.0
+254,262,264,commuter_rail,Ferrovie Suburbane - S6,2004.0
+255,264,265,commuter_rail,Ferrovie Suburbane - S6,2004.0

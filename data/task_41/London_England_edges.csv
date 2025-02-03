@@ -1,0 +1,988 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,39,heavy_rail,(TfL) Underground - Northern,1926
+1,0,7,heavy_rail,(TfL) Underground - Northern,1926
+2,1,12,heavy_rail,(TfL) Underground - Northern,1900
+3,1,41,heavy_rail,(TfL) Underground - Northern,1900
+4,2,50,heavy_rail,(TfL) Underground - Northern,1926
+5,2,3,heavy_rail,(TfL) Underground - Northern,1926
+6,3,9,heavy_rail,(TfL) Underground - Northern,1926
+7,4,11,heavy_rail,(TfL) Underground - Northern,1926
+8,4,13,heavy_rail,(TfL) Underground - Northern,1890
+9,5,6,heavy_rail,(TfL) Underground - Northern,1926
+10,5,49,heavy_rail,(TfL) Underground - Northern,1926
+11,7,11,heavy_rail,(TfL) Underground - Northern,1926
+12,7,12,heavy_rail,(TfL) Underground - Northern,1890
+13,8,50,heavy_rail,(TfL) Underground - Northern,1926
+14,8,49,heavy_rail,(TfL) Underground - Northern,1926
+15,9,10,heavy_rail,(TfL) Underground - Northern,1926
+16,10,13,heavy_rail,(TfL) Underground - Northern,1900
+17,13,46,heavy_rail,(TfL) Underground - Northern,2020
+18,14,37,heavy_rail,(TfL) Underground - Northern,1924
+19,15,19,heavy_rail,(TfL) Underground - Northern,1939
+20,16,28,heavy_rail,(TfL) Underground - Northern,1872
+21,16,26,heavy_rail,(TfL) Underground - Northern,1872
+22,17,52,heavy_rail,(TfL) Underground - Northern,1907
+23,17,35,heavy_rail,(TfL) Underground - Northern,1907
+24,18,22,heavy_rail,(TfL) Underground - Northern,1907
+25,18,23,heavy_rail,(TfL) Underground - Northern,1923
+26,19,52,heavy_rail,(TfL) Underground - Northern,1939
+27,20,24,heavy_rail,(TfL) Underground - Northern,1923
+28,20,23,heavy_rail,(TfL) Underground - Northern,1923
+29,21,37,heavy_rail,(TfL) Underground - Northern,1924
+30,21,24,heavy_rail,(TfL) Underground - Northern,1924
+31,22,36,heavy_rail,(TfL) Underground - Northern,1907
+32,25,26,heavy_rail,(TfL) Underground - Northern,1867
+33,27,15,heavy_rail,(TfL) Underground - Northern,1867
+34,27,26,heavy_rail,(TfL) Underground - Northern,1867
+35,28,42,heavy_rail,(TfL) Underground - Northern,1872
+36,29,42,heavy_rail,(TfL) Underground - Northern,1872
+37,30,40,heavy_rail,(TfL) Underground - Northern,1907
+38,30,33,heavy_rail,(TfL) Underground - Northern,1907
+39,31,33,heavy_rail,(TfL) Underground - Northern,1907
+40,31,32,heavy_rail,(TfL) Underground - Northern,1907
+41,34,45,heavy_rail,(TfL) Underground - Northern,1904
+42,34,47,heavy_rail,(TfL) Underground - Northern,1907
+43,35,51,heavy_rail,(TfL) Underground - Northern,1907
+44,35,36,heavy_rail,(TfL) Underground - Northern,1907
+45,38,43,heavy_rail,(TfL) Underground - Northern,1901
+46,39,40,heavy_rail,(TfL) Underground - Northern,1926
+47,41,43,heavy_rail,(TfL) Underground - Northern,1901
+48,44,45,heavy_rail,(TfL) Underground - Northern,1904
+49,47,32,heavy_rail,(TfL) Underground - Northern,1907
+50,48,46,heavy_rail,(TfL) Underground - Northern,2020
+51,48,9,heavy_rail,(TfL) Underground - Northern,2020
+52,51,32,heavy_rail,(TfL) Underground - Northern,1907
+53,45,38,heavy_rail,(TfL) Underground - Northern,1904
+54,8,2,heavy_rail,(TfL) Underground - Northern,1926
+55,53,83,heavy_rail,(TfL) Underground - Circle,1868
+56,53,75,heavy_rail,(TfL) Underground - Circle,1868
+57,54,84,heavy_rail,(TfL) Underground - Circle,1868
+58,54,83,heavy_rail,(TfL) Underground - Circle,1868
+59,55,62,heavy_rail,(TfL) Underground - Circle,1871
+60,55,56,heavy_rail,(TfL) Underground - Circle,1871
+61,56,59,heavy_rail,(TfL) Underground - Circle,1884
+62,57,58,heavy_rail,(TfL) Underground - Circle,1870
+63,57,84,heavy_rail,(TfL) Underground - Circle,1868
+64,58,85,heavy_rail,(TfL) Underground - Circle,1870
+65,59,60,heavy_rail,(TfL) Underground - Circle,1884
+66,61,85,heavy_rail,(TfL) Underground - Circle,1870
+67,61,55,heavy_rail,(TfL) Underground - Circle,1871
+68,62,81,heavy_rail,(TfL) Underground - Circle,1865
+69,63,70,heavy_rail,(TfL) Underground - Circle,1864
+70,64,82,heavy_rail,(TfL) Underground - Circle,1868
+71,64,86,heavy_rail,(TfL) Underground - Circle,1868
+72,65,69,heavy_rail,(TfL) Underground - Circle,1884
+73,66,80,heavy_rail,(TfL) Underground - Circle,1868
+74,66,82,heavy_rail,(TfL) Underground - Circle,1868
+75,67,71,heavy_rail,(TfL) Underground - Circle,1876
+76,67,69,heavy_rail,(TfL) Underground - Circle,1884
+77,68,73,heavy_rail,(TfL) Underground - Circle,1864
+78,68,74,heavy_rail,(TfL) Underground - Circle,1864
+79,70,74,heavy_rail,(TfL) Underground - Circle,1864
+80,71,59,heavy_rail,(TfL) Underground - Circle,1884
+81,72,73,heavy_rail,(TfL) Underground - Circle,1864
+82,72,80,heavy_rail,(TfL) Underground - Circle,1868
+83,75,80,heavy_rail,(TfL) Underground - Circle,1868
+84,76,78,heavy_rail,(TfL) Underground - Circle,1863
+85,76,77,heavy_rail,(TfL) Underground - Circle,1864
+86,77,86,heavy_rail,(TfL) Underground - Circle,1864
+87,78,79,heavy_rail,(TfL) Underground - Circle,1863
+88,79,62,heavy_rail,(TfL) Underground - Circle,1863
+89,81,56,heavy_rail,(TfL) Underground - Circle,1871
+90,72,74,heavy_rail,(TfL) Underground - Circle,1864
+91,87,122,heavy_rail,(TfL) Underground - Central,1947
+92,87,125,heavy_rail,(TfL) Underground - Central,1947
+93,88,112,heavy_rail,(TfL) Underground - Central,1900
+94,88,113,heavy_rail,(TfL) Underground - Central,1900
+95,89,96,heavy_rail,(TfL) Underground - Central,1948
+96,90,96,heavy_rail,(TfL) Underground - Central,1948
+97,90,97,heavy_rail,(TfL) Underground - Central,1948
+98,91,98,heavy_rail,(TfL) Underground - Central,1947
+99,91,104,heavy_rail,(TfL) Underground - Central,1948
+100,92,93,heavy_rail,(TfL) Underground - Central,1947
+101,93,100,heavy_rail,(TfL) Underground - Central,1856
+102,94,116,heavy_rail,(TfL) Underground - Central,1947
+103,94,101,heavy_rail,(TfL) Underground - Central,1947
+104,95,130,heavy_rail,(TfL) Underground - Central,1856
+105,95,99,heavy_rail,(TfL) Underground - Central,1856
+106,97,104,heavy_rail,(TfL) Underground - Central,1948
+107,98,92,heavy_rail,(TfL) Underground - Central,1947
+108,99,100,heavy_rail,(TfL) Underground - Central,1856
+109,101,93,heavy_rail,(TfL) Underground - Central,1947
+110,102,89,heavy_rail,(TfL) Underground - Central,1948
+111,103,137,heavy_rail,(TfL) Underground - Central,1865
+112,103,131,heavy_rail,(TfL) Underground - Central,1865
+113,105,109,heavy_rail,(TfL) Underground - Central,1912
+114,105,112,heavy_rail,(TfL) Underground - Central,1900
+115,106,107,heavy_rail,(TfL) Underground - Central,1900
+116,106,118,heavy_rail,(TfL) Underground - Central,1900
+117,107,127,heavy_rail,(TfL) Underground - Central,1900
+118,108,124,heavy_rail,(TfL) Underground - Central,1920
+119,108,114,heavy_rail,(TfL) Underground - Central,1900
+120,109,126,heavy_rail,(TfL) Underground - Central,1946
+121,110,133,heavy_rail,(TfL) Underground - Central,1900
+122,110,113,heavy_rail,(TfL) Underground - Central,1900
+123,111,130,heavy_rail,(TfL) Underground - Central,1865
+124,114,127,heavy_rail,(TfL) Underground - Central,1900
+125,115,121,heavy_rail,(TfL) Underground - Central,1906
+126,117,123,heavy_rail,(TfL) Underground - Central,1946
+127,117,116,heavy_rail,(TfL) Underground - Central,1947
+128,118,133,heavy_rail,(TfL) Underground - Central,1900
+129,119,136,heavy_rail,(TfL) Underground - Central,1947
+130,119,125,heavy_rail,(TfL) Underground - Central,1947
+131,120,122,heavy_rail,(TfL) Underground - Central,1948
+132,120,128,heavy_rail,(TfL) Underground - Central,1948
+133,121,128,heavy_rail,(TfL) Underground - Central,1906
+134,123,126,heavy_rail,(TfL) Underground - Central,1946
+135,129,102,heavy_rail,(TfL) Underground - Central,1948
+136,129,111,heavy_rail,(TfL) Underground - Central,1865
+137,132,131,heavy_rail,(TfL) Underground - Central,1865
+138,134,135,heavy_rail,(TfL) Underground - Central,1920
+139,134,124,heavy_rail,(TfL) Underground - Central,1920
+140,135,136,heavy_rail,(TfL) Underground - Central,1920
+141,137,129,heavy_rail,(TfL) Underground - Central,1865
+142,92,100,heavy_rail,(TfL) Underground - Central,1947
+143,127,112,heavy_rail,(TfL) Underground - Central,1900
+144,138,153,heavy_rail,(TfL) Underground - Piccadilly,1879
+145,138,169,heavy_rail,(TfL) Underground - Piccadilly,1904
+146,139,163,heavy_rail,(TfL) Underground - Piccadilly,1933
+147,140,149,heavy_rail,(TfL) Underground - Piccadilly,1906
+148,140,152,heavy_rail,(TfL) Underground - Piccadilly,1906
+149,141,143,heavy_rail,(TfL) Underground - Piccadilly,1869
+150,142,144,heavy_rail,(TfL) Underground - Piccadilly,1877
+151,143,178,heavy_rail,(TfL) Underground - Piccadilly,1906
+152,144,141,heavy_rail,(TfL) Underground - Piccadilly,1874
+153,145,169,heavy_rail,(TfL) Underground - Piccadilly,1904
+154,145,155,heavy_rail,(TfL) Underground - Piccadilly,1904
+155,146,158,heavy_rail,(TfL) Underground - Piccadilly,1879
+156,146,147,heavy_rail,(TfL) Underground - Piccadilly,1879
+157,148,150,heavy_rail,(TfL) Underground - Piccadilly,1906
+158,148,183,heavy_rail,(TfL) Underground - Piccadilly,1906
+159,149,150,heavy_rail,(TfL) Underground - Piccadilly,1906
+160,151,189,heavy_rail,(TfL) Underground - Piccadilly,1906
+161,153,159,heavy_rail,(TfL) Underground - Piccadilly,1879
+162,154,179,heavy_rail,(TfL) Underground - Piccadilly,1906
+163,154,183,heavy_rail,(TfL) Underground - Piccadilly,1906
+164,155,171,heavy_rail,(TfL) Underground - Piccadilly,1904
+165,156,173,heavy_rail,(TfL) Underground - Piccadilly,1904
+166,156,172,heavy_rail,(TfL) Underground - Piccadilly,1904
+167,157,188,heavy_rail,(TfL) Underground - Piccadilly,1932
+168,157,189,heavy_rail,(TfL) Underground - Piccadilly,1906
+169,158,159,heavy_rail,(TfL) Underground - Piccadilly,1879
+170,160,161,heavy_rail,(TfL) Underground - Piccadilly,2008
+171,161,182,heavy_rail,(TfL) Underground - Piccadilly,2008
+172,162,176,heavy_rail,(TfL) Underground - Piccadilly,1933
+173,162,174,heavy_rail,(TfL) Underground - Piccadilly,1933
+174,163,180,heavy_rail,(TfL) Underground - Piccadilly,1933
+175,164,186,heavy_rail,(TfL) Underground - Piccadilly,1933
+176,164,185,heavy_rail,(TfL) Underground - Piccadilly,1933
+177,165,166,heavy_rail,(TfL) Underground - Piccadilly,1933
+178,165,186,heavy_rail,(TfL) Underground - Piccadilly,1933
+179,166,167,heavy_rail,(TfL) Underground - Piccadilly,1932
+180,167,168,heavy_rail,(TfL) Underground - Piccadilly,1932
+181,168,187,heavy_rail,(TfL) Underground - Piccadilly,1932
+182,170,182,heavy_rail,(TfL) Underground - Piccadilly,1986
+183,171,184,heavy_rail,(TfL) Underground - Piccadilly,1904
+184,172,184,heavy_rail,(TfL) Underground - Piccadilly,1904
+185,173,181,heavy_rail,(TfL) Underground - Piccadilly,1904
+186,175,174,heavy_rail,(TfL) Underground - Piccadilly,1975
+187,177,147,heavy_rail,(TfL) Underground - Piccadilly,1879
+188,177,142,heavy_rail,(TfL) Underground - Piccadilly,1877
+189,178,179,heavy_rail,(TfL) Underground - Piccadilly,1906
+190,187,188,heavy_rail,(TfL) Underground - Piccadilly,1932
+191,175,170,heavy_rail,(TfL) Underground - Piccadilly,1975
+192,146,176,heavy_rail,(TfL) Underground - Piccadilly,1933
+193,152,151,heavy_rail,(TfL) Underground - Piccadilly,1906
+194,190,245,heavy_rail,(TfL) Underground - Metropolitan,1925
+195,191,231,heavy_rail,(TfL) Underground - Metropolitan,1885
+196,192,193,heavy_rail,(TfL) Underground - Metropolitan,1884
+197,193,194,heavy_rail,(TfL) Underground - Metropolitan,1884
+198,195,228,heavy_rail,(TfL) Underground - Metropolitan,1892
+199,196,226,heavy_rail,(TfL) Underground - Metropolitan,1865
+200,197,211,heavy_rail,(TfL) Underground - Metropolitan,1864
+201,198,201,heavy_rail,(TfL) Underground - Metropolitan,1869
+202,199,209,heavy_rail,(TfL) Underground - Metropolitan,1884
+203,200,209,heavy_rail,(TfL) Underground - Metropolitan,1884
+204,201,244,heavy_rail,(TfL) Underground - Metropolitan,1849
+205,202,227,heavy_rail,(TfL) Underground - Metropolitan,1858
+206,203,245,heavy_rail,(TfL) Underground - Metropolitan,1862
+207,204,231,heavy_rail,(TfL) Underground - Metropolitan,1904
+208,205,220,heavy_rail,(TfL) Underground - Metropolitan,1904
+209,205,219,heavy_rail,(TfL) Underground - Metropolitan,1904
+210,206,212,heavy_rail,(TfL) Underground - Metropolitan,1876
+211,206,209,heavy_rail,(TfL) Underground - Metropolitan,1884
+212,207,234,heavy_rail,(TfL) Underground - Metropolitan,1879
+213,208,214,heavy_rail,(TfL) Underground - Metropolitan,1864
+214,208,215,heavy_rail,(TfL) Underground - Metropolitan,1864
+215,210,242,heavy_rail,(TfL) Underground - Metropolitan,1932
+216,211,215,heavy_rail,(TfL) Underground - Metropolitan,1864
+217,212,193,heavy_rail,(TfL) Underground - Metropolitan,1884
+218,213,214,heavy_rail,(TfL) Underground - Metropolitan,1864
+219,216,239,heavy_rail,(TfL) Underground - Metropolitan,1880
+220,216,231,heavy_rail,(TfL) Underground - Metropolitan,1885
+221,217,224,heavy_rail,(TfL) Underground - Metropolitan,1863
+222,217,221,heavy_rail,(TfL) Underground - Metropolitan,1868
+223,218,243,heavy_rail,(TfL) Underground - Metropolitan,1904
+224,218,191,heavy_rail,(TfL) Underground - Metropolitan,1904
+225,219,243,heavy_rail,(TfL) Underground - Metropolitan,1904
+226,220,238,heavy_rail,(TfL) Underground - Metropolitan,1904
+227,221,240,heavy_rail,(TfL) Underground - Metropolitan,1868
+228,222,223,heavy_rail,(TfL) Underground - Metropolitan,1904
+229,222,225,heavy_rail,(TfL) Underground - Metropolitan,1904
+230,223,226,heavy_rail,(TfL) Underground - Metropolitan,1904
+231,224,225,heavy_rail,(TfL) Underground - Metropolitan,1863
+232,225,196,heavy_rail,(TfL) Underground - Metropolitan,1863
+233,226,192,heavy_rail,(TfL) Underground - Metropolitan,1884
+234,227,244,heavy_rail,(TfL) Underground - Metropolitan,1858
+235,228,236,heavy_rail,(TfL) Underground - Metropolitan,1892
+236,229,230,heavy_rail,(TfL) Underground - Metropolitan,1932
+237,229,242,heavy_rail,(TfL) Underground - Metropolitan,1932
+238,230,241,heavy_rail,(TfL) Underground - Metropolitan,1932
+239,232,233,heavy_rail,(TfL) Underground - Metropolitan,1887
+240,232,218,heavy_rail,(TfL) Underground - Metropolitan,1904
+241,234,240,heavy_rail,(TfL) Underground - Metropolitan,1864
+242,235,234,heavy_rail,(TfL) Underground - Metropolitan,1868
+243,236,233,heavy_rail,(TfL) Underground - Metropolitan,1889
+244,237,197,heavy_rail,(TfL) Underground - Metropolitan,1864
+245,239,241,heavy_rail,(TfL) Underground - Metropolitan,1880
+246,241,246,heavy_rail,(TfL) Underground - Metropolitan,1880
+247,233,190,heavy_rail,(TfL) Underground - Metropolitan,1925
+248,215,246,heavy_rail,(TfL) Underground - Metropolitan,1880
+249,199,198,heavy_rail,(TfL) Underground - Metropolitan,1884
+250,235,237,heavy_rail,(TfL) Underground - Metropolitan,1868
+251,237,211,heavy_rail,(TfL) Underground - Metropolitan,1864
+252,247,256,heavy_rail,(TfL) Underground - Jubilee,1999
+253,247,248,heavy_rail,(TfL) Underground - Jubilee,1999
+254,248,268,heavy_rail,(TfL) Underground - Jubilee,1999
+255,249,252,heavy_rail,(TfL) Underground - Jubilee,1999
+256,249,254,heavy_rail,(TfL) Underground - Jubilee,1999
+257,250,256,heavy_rail,(TfL) Underground - Jubilee,1999
+258,250,253,heavy_rail,(TfL) Underground - Jubilee,1999
+259,251,264,heavy_rail,(TfL) Underground - Jubilee,2011
+260,251,257,heavy_rail,(TfL) Underground - Jubilee,2011
+261,252,257,heavy_rail,(TfL) Underground - Jubilee,1846
+262,253,255,heavy_rail,(TfL) Underground - Jubilee,1999
+263,255,254,heavy_rail,(TfL) Underground - Jubilee,1999
+264,258,260,heavy_rail,(TfL) Underground - Jubilee,1939
+265,259,260,heavy_rail,(TfL) Underground - Jubilee,1939
+266,259,262,heavy_rail,(TfL) Underground - Jubilee,1939
+267,261,270,heavy_rail,(TfL) Underground - Jubilee,1932
+268,263,269,heavy_rail,(TfL) Underground - Jubilee,1880
+269,265,266,heavy_rail,(TfL) Underground - Jubilee,1932
+270,265,270,heavy_rail,(TfL) Underground - Jubilee,1932
+271,266,271,heavy_rail,(TfL) Underground - Jubilee,1932
+272,267,268,heavy_rail,(TfL) Underground - Jubilee,1979
+273,269,271,heavy_rail,(TfL) Underground - Jubilee,1880
+274,267,262,heavy_rail,(TfL) Underground - Jubilee,1979
+275,258,263,heavy_rail,(TfL) Underground - Jubilee,1880
+276,272,284,heavy_rail,(TfL) Underground - Bakerloo,1939
+277,273,280,heavy_rail,(TfL) Underground - Bakerloo,1915
+278,273,297,heavy_rail,(TfL) Underground - Bakerloo,1837
+279,274,281,heavy_rail,(TfL) Underground - Bakerloo,1915
+280,274,280,heavy_rail,(TfL) Underground - Bakerloo,1915
+281,275,296,heavy_rail,(TfL) Underground - Bakerloo,1932
+282,276,297,heavy_rail,(TfL) Underground - Bakerloo,1837
+283,277,278,heavy_rail,(TfL) Underground - Bakerloo,1906
+284,278,279,heavy_rail,(TfL) Underground - Bakerloo,1906
+285,279,282,heavy_rail,(TfL) Underground - Bakerloo,1906
+286,281,286,heavy_rail,(TfL) Underground - Bakerloo,1915
+287,282,285,heavy_rail,(TfL) Underground - Bakerloo,1906
+288,283,287,heavy_rail,(TfL) Underground - Bakerloo,1906
+289,283,272,heavy_rail,(TfL) Underground - Bakerloo,1939
+290,284,286,heavy_rail,(TfL) Underground - Bakerloo,1915
+291,285,287,heavy_rail,(TfL) Underground - Bakerloo,1906
+292,288,289,heavy_rail,(TfL) Underground - Bakerloo,1912
+293,288,300,heavy_rail,(TfL) Underground - Bakerloo,1862
+294,289,299,heavy_rail,(TfL) Underground - Bakerloo,1912
+295,290,293,heavy_rail,(TfL) Underground - Bakerloo,1932
+296,291,292,heavy_rail,(TfL) Underground - Bakerloo,1939
+297,291,294,heavy_rail,(TfL) Underground - Bakerloo,1939
+298,293,298,heavy_rail,(TfL) Underground - Bakerloo,1932
+299,294,274,heavy_rail,(TfL) Underground - Bakerloo,1939
+300,295,296,heavy_rail,(TfL) Underground - Bakerloo,1932
+301,295,298,heavy_rail,(TfL) Underground - Bakerloo,1932
+302,290,299,heavy_rail,(TfL) Underground - Bakerloo,1837
+303,276,296,heavy_rail,(TfL) Underground - Bakerloo,1932
+304,301,303,heavy_rail,(TfL) Underground - Victoria,1971
+305,301,302,heavy_rail,(TfL) Underground - Victoria,1971
+306,302,316,heavy_rail,(TfL) Underground - Victoria,1971
+307,304,314,heavy_rail,(TfL) Underground - Victoria,1969
+308,304,310,heavy_rail,(TfL) Underground - Victoria,1969
+309,305,306,heavy_rail,(TfL) Underground - Victoria,1968
+310,305,309,heavy_rail,(TfL) Underground - Victoria,1968
+311,307,314,heavy_rail,(TfL) Underground - Victoria,1968
+312,308,311,heavy_rail,(TfL) Underground - Victoria,1968
+313,309,313,heavy_rail,(TfL) Underground - Victoria,1968
+314,310,315,heavy_rail,(TfL) Underground - Victoria,1969
+315,311,307,heavy_rail,(TfL) Underground - Victoria,1968
+316,312,315,heavy_rail,(TfL) Underground - Victoria,1969
+317,312,316,heavy_rail,(TfL) Underground - Victoria,1971
+318,308,306,heavy_rail,(TfL) Underground - Victoria,1968
+319,317,361,heavy_rail,(TfL) Underground - District ,1885
+320,317,375,heavy_rail,(TfL) Underground - District ,1885
+321,318,349,heavy_rail,(TfL) Underground - District ,1885
+322,318,358,heavy_rail,(TfL) Underground - District ,1885
+323,319,320,heavy_rail,(TfL) Underground - District ,1889
+324,320,321,heavy_rail,(TfL) Underground - District ,1889
+325,321,323,heavy_rail,(TfL) Underground - District ,1889
+326,322,325,heavy_rail,(TfL) Underground - District ,1880
+327,322,324,heavy_rail,(TfL) Underground - District ,1880
+328,323,338,heavy_rail,(TfL) Underground - District ,1889
+329,324,338,heavy_rail,(TfL) Underground - District ,1889
+330,325,326,heavy_rail,(TfL) Underground - District ,1880
+331,326,355,heavy_rail,(TfL) Underground - District ,1869
+332,327,337,heavy_rail,(TfL) Underground - District ,1877
+333,327,339,heavy_rail,(TfL) Underground - District ,1877
+334,328,364,heavy_rail,(TfL) Underground - District ,1868
+335,328,326,heavy_rail,(TfL) Underground - District ,1869
+336,329,365,heavy_rail,(TfL) Underground - District ,1868
+337,329,364,heavy_rail,(TfL) Underground - District ,1868
+338,330,331,heavy_rail,(TfL) Underground - District ,1871
+339,330,336,heavy_rail,(TfL) Underground - District ,1871
+340,331,334,heavy_rail,(TfL) Underground - District ,1884
+341,332,333,heavy_rail,(TfL) Underground - District ,1870
+342,332,365,heavy_rail,(TfL) Underground - District ,1868
+343,333,373,heavy_rail,(TfL) Underground - District ,1870
+344,334,335,heavy_rail,(TfL) Underground - District ,1884
+345,336,373,heavy_rail,(TfL) Underground - District ,1870
+346,337,362,heavy_rail,(TfL) Underground - District ,1874
+347,339,340,heavy_rail,(TfL) Underground - District ,1877
+348,340,363,heavy_rail,(TfL) Underground - District ,1877
+349,341,345,heavy_rail,(TfL) Underground - District ,1879
+350,341,353,heavy_rail,(TfL) Underground - District ,1879
+351,342,343,heavy_rail,(TfL) Underground - District ,1879
+352,342,345,heavy_rail,(TfL) Underground - District ,1879
+353,343,363,heavy_rail,(TfL) Underground - District ,1879
+354,344,374,heavy_rail,(TfL) Underground - District ,1868
+355,344,348,heavy_rail,(TfL) Underground - District ,1868
+356,346,347,heavy_rail,(TfL) Underground - District ,1884
+357,346,371,heavy_rail,(TfL) Underground - District ,1902
+358,347,335,heavy_rail,(TfL) Underground - District ,1884
+359,348,357,heavy_rail,(TfL) Underground - District ,1868
+360,349,360,heavy_rail,(TfL) Underground - District ,1858
+361,350,352,heavy_rail,(TfL) Underground - District ,1902
+362,350,376,heavy_rail,(TfL) Underground - District ,1858
+363,351,354,heavy_rail,(TfL) Underground - District ,1902
+364,351,352,heavy_rail,(TfL) Underground - District ,1902
+365,354,371,heavy_rail,(TfL) Underground - District ,1902
+366,355,357,heavy_rail,(TfL) Underground - District ,1868
+367,356,360,heavy_rail,(TfL) Underground - District ,1858
+368,356,359,heavy_rail,(TfL) Underground - District ,1858
+369,358,361,heavy_rail,(TfL) Underground - District ,1885
+370,359,376,heavy_rail,(TfL) Underground - District ,1858
+371,362,370,heavy_rail,(TfL) Underground - District ,1963
+372,366,369,heavy_rail,(TfL) Underground - District ,1885
+373,366,367,heavy_rail,(TfL) Underground - District ,1885
+374,367,375,heavy_rail,(TfL) Underground - District ,1885
+375,368,377,heavy_rail,(TfL) Underground - District ,1877
+376,372,353,heavy_rail,(TfL) Underground - District ,1904
+377,377,342,heavy_rail,(TfL) Underground - District ,1877
+378,325,362,heavy_rail,(TfL) Underground - District ,1880
+379,361,375,heavy_rail,(TfL) Underground - District ,1885
+380,378,399,heavy_rail,(TfL) Underground - Hammersmith & City,1865
+381,379,387,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+382,380,385,heavy_rail,(TfL) Underground - Hammersmith & City,1884
+383,380,402,heavy_rail,(TfL) Underground - Hammersmith & City,1902
+384,381,400,heavy_rail,(TfL) Underground - Hammersmith & City,1858
+385,382,384,heavy_rail,(TfL) Underground - Hammersmith & City,1902
+386,382,404,heavy_rail,(TfL) Underground - Hammersmith & City,1858
+387,383,389,heavy_rail,(TfL) Underground - Hammersmith & City,1902
+388,383,384,heavy_rail,(TfL) Underground - Hammersmith & City,1902
+389,385,388,heavy_rail,(TfL) Underground - Hammersmith & City,1876
+390,386,391,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+391,386,392,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+392,387,392,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+393,388,399,heavy_rail,(TfL) Underground - Hammersmith & City,1875
+394,389,402,heavy_rail,(TfL) Underground - Hammersmith & City,1902
+395,390,391,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+396,393,395,heavy_rail,(TfL) Underground - Hammersmith & City,1863
+397,393,394,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+398,394,403,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+399,395,397,heavy_rail,(TfL) Underground - Hammersmith & City,1863
+400,396,400,heavy_rail,(TfL) Underground - Hammersmith & City,1858
+401,396,398,heavy_rail,(TfL) Underground - Hammersmith & City,1858
+402,397,378,heavy_rail,(TfL) Underground - Hammersmith & City,1863
+403,398,404,heavy_rail,(TfL) Underground - Hammersmith & City,1858
+404,401,403,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+405,401,392,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+406,405,406,heavy_rail,(TfL) Underground - Waterloo & City,1898
+407,407,408,heavy_rail,(TfL) Underground - East London,1869
+408,408,409,heavy_rail,(TfL) Underground - East London,1849
+409,410,412,heavy_rail,Preserved Railway - Epping & Ongar Railway,1865
+410,411,414,heavy_rail,Preserved Railway - Epping & Ongar Railway,2012
+411,412,413,heavy_rail,Preserved Railway - Epping & Ongar Railway,2012
+412,413,415,heavy_rail,Preserved Railway - Epping & Ongar Railway,2012
+413,414,415,heavy_rail,Preserved Railway - Epping & Ongar Railway,2012
+414,417,418,people_mover,(TfL) Other - IFS Cloud Cable Car,2012
+415,419,456,commuter_rail,(NR) Thameslink - Thameslink,1930
+416,419,457,commuter_rail,(NR) Thameslink - Thameslink,1930
+417,420,421,commuter_rail,(NR) Thameslink - Thameslink,1892
+418,420,461,commuter_rail,(NR) Thameslink - Thameslink,1892
+419,421,480,commuter_rail,(NR) Thameslink - Thameslink,1892
+420,422,434,commuter_rail,(NR) Thameslink - Thameslink,1862
+421,422,466,commuter_rail,(NR) Thameslink - Thameslink,1868
+422,423,433,commuter_rail,(NR) Thameslink - Thameslink,1892
+423,423,480,commuter_rail,(NR) Thameslink - Thameslink,1892
+424,424,425,commuter_rail,(NR) Thameslink - Thameslink,1841
+425,425,479,commuter_rail,(NR) Thameslink - Thameslink,1841
+426,426,438,commuter_rail,(NR) Thameslink - Thameslink,1864
+427,427,462,commuter_rail,(NR) Thameslink - Thameslink,1860
+428,427,473,commuter_rail,(NR) Thameslink - Thameslink,1860
+429,428,473,commuter_rail,(NR) Thameslink - Thameslink,1849
+430,428,472,commuter_rail,(NR) Thameslink - Thameslink,1849
+431,429,434,commuter_rail,(NR) Thameslink - Thameslink,1865
+432,430,459,commuter_rail,(NR) Thameslink - Thameslink,1892
+433,430,429,commuter_rail,(NR) Thameslink - Thameslink,1865
+434,431,432,commuter_rail,(NR) Thameslink - Thameslink,1868
+435,431,427,commuter_rail,(NR) Thameslink - Thameslink,1868
+436,433,464,commuter_rail,(NR) Thameslink - Thameslink,1892
+437,435,450,commuter_rail,(NR) Thameslink - Thameslink,1868
+438,436,442,commuter_rail,(NR) Thameslink - Thameslink,1868
+439,437,466,commuter_rail,(NR) Thameslink - Thameslink,1868
+440,437,435,commuter_rail,(NR) Thameslink - Thameslink,1868
+441,438,439,commuter_rail,(NR) Thameslink - Thameslink,1866
+442,440,445,commuter_rail,(NR) Thameslink - Thameslink,1929
+443,441,446,commuter_rail,(NR) Thameslink - Thameslink,1868
+444,441,447,commuter_rail,(NR) Thameslink - Thameslink,1868
+445,442,439,commuter_rail,(NR) Thameslink - Thameslink,1868
+446,443,457,commuter_rail,(NR) Thameslink - Thameslink,1930
+447,444,448,commuter_rail,(NR) Thameslink - Thameslink,1868
+448,445,460,commuter_rail,(NR) Thameslink - Thameslink,1929
+449,446,436,commuter_rail,(NR) Thameslink - Thameslink,1868
+450,447,448,commuter_rail,(NR) Thameslink - Thameslink,1868
+451,449,476,commuter_rail,(NR) Thameslink - Thameslink,1838
+452,449,477,commuter_rail,(NR) Thameslink - Thameslink,1878
+453,450,453,commuter_rail,(NR) Thameslink - Thameslink,1868
+454,451,453,commuter_rail,(NR) Thameslink - Thameslink,1868
+455,451,452,commuter_rail,(NR) Thameslink - Thameslink,1868
+456,452,443,commuter_rail,(NR) Thameslink - Thameslink,1868
+457,454,471,commuter_rail,(NR) Thameslink - Thameslink,1849
+458,454,469,commuter_rail,(NR) Thameslink - Thameslink,1849
+459,455,478,commuter_rail,(NR) Thameslink - Thameslink,1873
+460,455,471,commuter_rail,(NR) Thameslink - Thameslink,1849
+461,456,465,commuter_rail,(NR) Thameslink - Thameslink,1930
+462,457,458,commuter_rail,(NR) Thameslink - Thameslink,1930
+463,459,461,commuter_rail,(NR) Thameslink - Thameslink,1892
+464,460,465,commuter_rail,(NR) Thameslink - Thameslink,1930
+465,462,463,commuter_rail,(NR) Thameslink - Thameslink,1860
+466,463,464,commuter_rail,(NR) Thameslink - Thameslink,1860
+467,467,443,commuter_rail,(NR) Thameslink - Thameslink,1868
+468,468,444,commuter_rail,(NR) Thameslink - Thameslink,1868
+469,470,475,commuter_rail,(NR) Thameslink - Thameslink,1849
+470,472,469,commuter_rail,(NR) Thameslink - Thameslink,1849
+471,473,474,commuter_rail,(NR) Thameslink - Thameslink,1849
+472,474,475,commuter_rail,(NR) Thameslink - Thameslink,1849
+473,476,461,commuter_rail,(NR) Thameslink - Thameslink,1892
+474,477,478,commuter_rail,(NR) Thameslink - Thameslink,1878
+475,479,466,commuter_rail,(NR) Thameslink - Thameslink,1868
+476,435,440,commuter_rail,(NR) Thameslink - Thameslink,1868
+477,446,447,commuter_rail,(NR) Thameslink - Thameslink,1868
+478,438,429,commuter_rail,(NR) Thameslink - Thameslink,1865
+479,420,480,commuter_rail,(NR) Thameslink - Thameslink,1892
+480,424,452,commuter_rail,(NR) Thameslink - Thameslink,1868
+481,459,422,commuter_rail,(NR) Thameslink - Thameslink,1892
+482,496,498,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+483,497,503,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+484,497,498,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+485,499,503,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+486,499,500,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+487,501,500,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+488,502,496,commuter_rail,(NR) Chiltern Railways - Main Line,1906
+489,504,539,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+490,504,527,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+491,505,538,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+492,505,539,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+493,506,524,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+494,506,526,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+495,507,548,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+496,507,547,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+497,508,549,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+498,508,525,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+499,509,550,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+500,510,550,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+501,511,586,commuter_rail,(NR) Southeastern Railway - Southeastern,1865
+502,511,519,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+503,512,534,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+504,513,545,commuter_rail,(NR) Southeastern Railway - Southeastern,1857
+505,513,552,commuter_rail,(NR) Southeastern Railway - Southeastern,1857
+506,514,566,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+507,514,556,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+508,515,560,commuter_rail,(NR) Southeastern Railway - Southeastern,1878
+509,515,509,commuter_rail,(NR) Southeastern Railway - Southeastern,1878
+510,516,519,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+511,516,585,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+512,517,568,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+513,518,567,commuter_rail,(NR) Southeastern Railway - Southeastern,1841
+514,520,522,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+515,520,521,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+516,521,532,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+517,523,570,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+518,523,538,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+519,524,578,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+520,525,580,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+521,526,578,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+522,527,551,commuter_rail,(NR) Southeastern Railway - Southeastern,1860
+523,528,549,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+524,529,526,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+525,530,578,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+526,531,584,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+527,533,581,commuter_rail,(NR) Southeastern Railway - Southeastern,1871
+528,534,568,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+529,535,573,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+530,535,571,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+531,536,583,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+532,536,573,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+533,537,557,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+534,537,566,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+535,540,554,commuter_rail,(NR) Southeastern Railway - Southeastern,1882
+536,540,559,commuter_rail,(NR) Southeastern Railway - Southeastern,1882
+537,541,555,commuter_rail,(NR) Southeastern Railway - Southeastern,1841
+538,541,563,commuter_rail,(NR) Southeastern Railway - Southeastern,1897
+539,542,534,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+540,543,568,commuter_rail,(NR) Southeastern Railway - Southeastern,1864
+541,544,558,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+542,545,546,commuter_rail,(NR) Southeastern Railway - Southeastern,1871
+543,546,581,commuter_rail,(NR) Southeastern Railway - Southeastern,1871
+544,547,526,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+545,548,580,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+546,551,560,commuter_rail,(NR) Southeastern Railway - Southeastern,1878
+547,552,556,commuter_rail,(NR) Southeastern Railway - Southeastern,1857
+548,553,554,commuter_rail,(NR) Southeastern Railway - Southeastern,1882
+549,553,542,commuter_rail,(NR) Southeastern Railway - Southeastern,1882
+550,555,567,commuter_rail,(NR) Southeastern Railway - Southeastern,1841
+551,557,558,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+552,558,585,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+553,559,560,commuter_rail,(NR) Southeastern Railway - Southeastern,1878
+554,561,564,commuter_rail,(NR) Southeastern Railway - Southeastern,1901
+555,562,564,commuter_rail,(NR) Southeastern Railway - Southeastern,1901
+556,563,565,commuter_rail,(NR) Southeastern Railway - Southeastern,1897
+557,565,569,commuter_rail,(NR) Southeastern Railway - Southeastern,1897
+558,572,577,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+559,574,529,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+560,574,530,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+561,575,524,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+562,576,575,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+563,576,577,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+564,579,509,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+565,579,583,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+566,580,571,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+567,581,584,commuter_rail,(NR) Southeastern Railway - Southeastern,1871
+568,582,583,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+569,582,533,commuter_rail,(NR) Southeastern Railway - Southeastern,1849
+570,552,512,commuter_rail,(NR) Southeastern Railway - Southeastern,1857
+571,579,574,commuter_rail,(NR) Southeastern Railway - Southeastern,1866
+572,544,518,commuter_rail,(NR) Southeastern Railway - Southeastern,1841
+573,565,561,commuter_rail,(NR) Southeastern Railway - Southeastern,1901
+574,555,563,commuter_rail,(NR) Southeastern Railway - Southeastern,1897
+575,531,557,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
+576,520,586,commuter_rail,(NR) Southeastern Railway - Southeastern,1865
+577,558,517,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+578,551,579,commuter_rail,(NR) Southeastern Railway - Southeastern,1858
+579,587,593,commuter_rail,(NR) Great Western Railway - GWR,1903
+580,587,594,commuter_rail,(NR) Great Western Railway - GWR,1903
+581,588,596,commuter_rail,(NR) Great Western Railway - GWR,1838
+582,589,592,commuter_rail,(NR) Great Western Railway - GWR,1838
+583,590,589,commuter_rail,(NR) Great Western Railway - GWR,1838
+584,591,593,commuter_rail,(NR) Great Western Railway - GWR,1903
+585,592,594,commuter_rail,(NR) Great Western Railway - GWR,1838
+586,595,596,commuter_rail,(NR) Great Western Railway - GWR,1838
+587,595,591,commuter_rail,(NR) Great Western Railway - GWR,1903
+588,597,588,commuter_rail,(NR) Great Western Railway - GWR,1838
+589,594,591,commuter_rail,(NR) Great Western Railway - GWR,1903
+590,598,601,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+591,599,600,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+592,600,603,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+593,601,603,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+594,602,604,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+595,604,600,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
+596,605,611,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+597,606,619,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1865
+598,606,608,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1865
+599,607,618,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+600,608,618,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+601,609,612,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+602,609,617,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+603,610,611,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1872
+604,610,622,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1872
+605,611,621,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+606,612,613,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+607,613,614,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+608,615,616,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+609,616,621,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+610,619,617,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+611,620,610,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1875
+612,621,622,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+613,617,612,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+614,616,612,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+615,623,645,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+616,623,636,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+617,624,644,commuter_rail,(TfL) Crossrail - Elizabeth,2022
+618,624,647,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+619,625,650,commuter_rail,(TfL) Crossrail - Elizabeth,1839
+620,626,635,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+621,627,633,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+622,628,625,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+623,628,634,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+624,629,634,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+625,629,643,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+626,630,631,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+627,630,632,commuter_rail,(TfL) Crossrail - Elizabeth,2019
+628,631,627,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+629,633,641,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+630,634,638,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+631,635,645,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+632,637,640,commuter_rail,(TfL) Crossrail - Elizabeth,1840
+633,638,650,commuter_rail,(TfL) Crossrail - Elizabeth,1839
+634,639,643,commuter_rail,(TfL) Crossrail - Elizabeth,1849
+635,639,640,commuter_rail,(TfL) Crossrail - Elizabeth,1840
+636,641,642,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+637,644,648,commuter_rail,(TfL) Crossrail - Elizabeth,2022
+638,646,623,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+639,646,647,commuter_rail,(TfL) Crossrail - Elizabeth,1838
+640,647,648,commuter_rail,(TfL) Crossrail - Elizabeth,1986
+641,649,644,commuter_rail,(TfL) Crossrail - Elizabeth,2022
+642,642,628,commuter_rail,(TfL) Crossrail - Elizabeth,2018
+643,632,623,commuter_rail,(TfL) Crossrail - Elizabeth,2019
+644,651,660,commuter_rail,(TfL) Overground - North London,1860
+645,652,659,commuter_rail,(TfL) Overground - North London,1850
+646,653,654,commuter_rail,(TfL) Overground - North London,1877
+647,653,658,commuter_rail,(TfL) Overground - North London,1877
+648,654,660,commuter_rail,(TfL) Overground - North London,1853
+649,655,656,commuter_rail,(TfL) Overground - North London,1860
+650,656,659,commuter_rail,(TfL) Overground - North London,1850
+651,657,658,commuter_rail,(TfL) Overground - North London,1877
+652,651,655,commuter_rail,(TfL) Overground - North London,1860
+653,661,663,commuter_rail,(TfL) Overground - South London,1866
+654,661,666,commuter_rail,(TfL) Overground - South London,2012
+655,662,663,commuter_rail,(TfL) Overground - South London,1865
+656,664,665,commuter_rail,(TfL) Overground - South London,2012
+657,665,662,commuter_rail,(TfL) Overground - South London,1865
+658,667,671,commuter_rail,(TfL) Overground - West London,1844
+659,667,669,commuter_rail,(TfL) Overground - West London,2007
+660,668,670,commuter_rail,(TfL) Overground - West London,1863
+661,670,671,commuter_rail,(TfL) Overground - West London,1863
+662,672,674,commuter_rail,(NR) LNER - Hatfield/St Albans Branch,1865
+663,673,674,commuter_rail,(NR) LNER - Hatfield/St Albans Branch,1865
+664,675,683,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1871
+665,675,685,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1871
+666,676,683,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1868
+667,677,681,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+668,677,682,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+669,678,679,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+670,678,680,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+671,679,681,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+672,680,684,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+673,684,685,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+674,680,679,commuter_rail,(TfL) Overground - Gospel Oak-Barking Riverside,1894
+675,686,694,commuter_rail,(TfL) Overground - Watford DC,1907
+676,687,692,commuter_rail,(TfL) Overground - Watford DC,1915
+677,687,700,commuter_rail,(TfL) Overground - Watford DC,1837
+678,688,693,commuter_rail,(TfL) Overground - Watford DC,1915
+679,688,692,commuter_rail,(TfL) Overground - Watford DC,1915
+680,689,699,commuter_rail,(TfL) Overground - Watford DC,1837
+681,689,690,commuter_rail,(TfL) Overground - Watford DC,1837
+682,690,691,commuter_rail,(TfL) Overground - Watford DC,1837
+683,691,700,commuter_rail,(TfL) Overground - Watford DC,1837
+684,693,696,commuter_rail,(TfL) Overground - Watford DC,1915
+685,694,696,commuter_rail,(TfL) Overground - Watford DC,1915
+686,695,686,commuter_rail,(TfL) Overground - Watford DC,1907
+687,697,698,commuter_rail,(TfL) Overground - Watford DC,1912
+688,697,702,commuter_rail,(TfL) Overground - Watford DC,1862
+689,698,701,commuter_rail,(TfL) Overground - Watford DC,1912
+690,699,701,commuter_rail,(TfL) Overground - Watford DC,1837
+691,703,719,commuter_rail,(TfL) Overground - Lea Valley,1872
+692,703,705,commuter_rail,(TfL) Overground - Lea Valley,1872
+693,704,705,commuter_rail,(TfL) Overground - Lea Valley,1872
+694,706,707,commuter_rail,(TfL) Overground - Lea Valley,2015
+695,706,719,commuter_rail,(TfL) Overground - Lea Valley,2015
+696,708,718,commuter_rail,(TfL) Overground - Lea Valley,2015
+697,709,718,commuter_rail,(TfL) Overground - Lea Valley,2015
+698,709,714,commuter_rail,(TfL) Overground - Lea Valley,2015
+699,710,715,commuter_rail,(TfL) Overground - Lea Valley,2015
+700,710,716,commuter_rail,(TfL) Overground - Lea Valley,2015
+701,711,712,commuter_rail,(TfL) Overground - Lea Valley,2015
+702,711,716,commuter_rail,(TfL) Overground - Lea Valley,2015
+703,713,714,commuter_rail,(TfL) Overground - Lea Valley,2015
+704,715,707,commuter_rail,(TfL) Overground - Lea Valley,2015
+705,717,704,commuter_rail,(TfL) Overground - Lea Valley,1875
+706,704,709,commuter_rail,(TfL) Overground - Lea Valley,2015
+707,720,737,commuter_rail,(TfL) Overground - East London,1839
+708,720,734,commuter_rail,(TfL) Overground - East London,1839
+709,721,726,commuter_rail,(TfL) Overground - East London,1869
+710,722,730,commuter_rail,(TfL) Overground - East London,2010
+711,723,724,commuter_rail,(TfL) Overground - East London,1876
+712,723,739,commuter_rail,(TfL) Overground - East London,1876
+713,724,725,commuter_rail,(TfL) Overground - East London,1876
+714,725,726,commuter_rail,(TfL) Overground - East London,1869
+715,727,740,commuter_rail,(TfL) Overground - East London,1849
+716,727,733,commuter_rail,(TfL) Overground - East London,1839
+717,728,729,commuter_rail,(TfL) Overground - East London,1865
+718,729,730,commuter_rail,(TfL) Overground - East London,1865
+719,731,728,commuter_rail,(TfL) Overground - East London,1865
+720,732,736,commuter_rail,(TfL) Overground - East London,1839
+721,734,733,commuter_rail,(TfL) Overground - East London,1839
+722,735,736,commuter_rail,(TfL) Overground - East London,2010
+723,735,737,commuter_rail,(TfL) Overground - East London,2010
+724,736,741,commuter_rail,(TfL) Overground - East London,2010
+725,738,732,commuter_rail,(TfL) Overground - East London,1839
+726,739,722,commuter_rail,(TfL) Overground - East London,2010
+727,727,721,commuter_rail,(TfL) Overground - East London,1869
+728,734,737,commuter_rail,(TfL) Overground - East London,1839
+729,742,744,commuter_rail,(TfL) Overground - Romford-Upminster,2015
+730,742,743,commuter_rail,(TfL) Overground - Romford-Upminster,2015
+731,745,748,commuter_rail,(NR) LNER - Hertford Loop,1910
+732,745,747,commuter_rail,(NR) LNER - Hertford Loop,1910
+733,746,751,commuter_rail,(NR) LNER - Hertford Loop,1910
+734,746,747,commuter_rail,(NR) LNER - Hertford Loop,1910
+735,748,749,commuter_rail,(NR) LNER - Hertford Loop,1871
+736,749,750,commuter_rail,(NR) LNER - Hertford Loop,1871
+737,750,752,commuter_rail,(NR) LNER - Hertford Loop,1871
+738,754,755,commuter_rail,"(NR) London, Tilbury and Southend Railway - Main Line",1858
+739,756,758,commuter_rail,"(NR) London, Tilbury and Southend Railway - Upminster-Grays",2015
+740,757,759,commuter_rail,"(NR) London, Tilbury and Southend Railway - Upminster-Grays",1875
+741,757,758,commuter_rail,"(NR) London, Tilbury and Southend Railway - Upminster-Grays",1839
+742,760,763,commuter_rail,(NR) Chiltern Railways - London-Aylesbury,1925
+743,760,761,commuter_rail,(NR) Chiltern Railways - London-Aylesbury,1925
+744,762,763,commuter_rail,(NR) Chiltern Railways - London-Aylesbury,1892
+745,765,766,commuter_rail,(NR) North London Railway - Main Line,1865
+746,766,767,commuter_rail,(NR) North London Railway - Main Line,1865
+747,768,770,commuter_rail,(NR) LNER - Northern City (1904-13),1904
+748,769,770,commuter_rail,(NR) LNER - Northern City (1904-13),1904
+749,771,773,commuter_rail,(NR) LNER - Main Line,1850
+750,772,775,commuter_rail,(NR) LNER - Main Line,1850
+751,773,775,commuter_rail,(NR) LNER - Main Line,1850
+752,774,778,commuter_rail,(NR) LNER - Main Line,1850
+753,774,772,commuter_rail,(NR) LNER - Main Line,1850
+754,776,777,commuter_rail,(NR) LNER - Main Line,1852
+755,777,782,commuter_rail,(NR) LNER - Main Line,1852
+756,778,780,commuter_rail,(NR) LNER - Main Line,1850
+757,779,780,commuter_rail,(NR) LNER - Main Line,1850
+758,779,782,commuter_rail,(NR) LNER - Main Line,1850
+759,781,771,commuter_rail,(NR) LNER - Main Line,1850
+760,779,775,commuter_rail,(NR) LNER - Main Line,1850
+761,783,785,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
+762,784,785,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
+763,784,786,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
+764,787,791,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1867
+765,788,792,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1872
+766,788,790,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1872
+767,789,790,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1867
+768,791,790,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1867
+769,792,794,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1872
+770,793,794,commuter_rail,(NR) LNER - Edgware/High Barnet Branch,1872
+771,796,798,commuter_rail,(NR) LNER - Northern City,1904
+772,797,799,commuter_rail,(NR) LNER - Northern City,1904
+773,798,799,commuter_rail,(NR) LNER - Northern City,1904
+774,800,821,inter_city_rail,(NR) South Western Railway - South Western,1846
+775,801,833,inter_city_rail,(NR) South Western Railway - South Western,1938
+776,802,819,inter_city_rail,(NR) South Western Railway - South Western,1863
+777,803,808,inter_city_rail,(NR) South Western Railway - South Western,1848
+778,803,809,inter_city_rail,(NR) South Western Railway - South Western,1846
+779,804,808,inter_city_rail,(NR) South Western Railway - South Western,1848
+780,805,833,inter_city_rail,(NR) South Western Railway - South Western,1938
+781,805,837,inter_city_rail,(NR) South Western Railway - South Western,1938
+782,806,820,inter_city_rail,(NR) South Western Railway - South Western,1869
+783,806,836,inter_city_rail,(NR) South Western Railway - South Western,1938
+784,807,801,inter_city_rail,(NR) South Western Railway - South Western,1859
+785,807,800,inter_city_rail,(NR) South Western Railway - South Western,1838
+786,809,821,inter_city_rail,(NR) South Western Railway - South Western,1846
+787,810,848,inter_city_rail,(NR) South Western Railway - South Western,1845
+788,810,849,inter_city_rail,(NR) South Western Railway - South Western,1885
+789,811,815,inter_city_rail,(NR) South Western Railway - South Western,1848
+790,811,850,inter_city_rail,(NR) South Western Railway - South Western,1848
+791,812,822,inter_city_rail,(NR) South Western Railway - South Western,1846
+792,812,813,inter_city_rail,(NR) South Western Railway - South Western,1846
+793,813,814,inter_city_rail,(NR) South Western Railway - South Western,1846
+794,814,850,inter_city_rail,(NR) South Western Railway - South Western,1846
+795,815,816,inter_city_rail,(NR) South Western Railway - South Western,1864
+796,816,843,inter_city_rail,(NR) South Western Railway - South Western,1864
+797,817,816,inter_city_rail,(NR) South Western Railway - South Western,1864
+798,818,819,inter_city_rail,(NR) South Western Railway - South Western,1863
+799,818,817,inter_city_rail,(NR) South Western Railway - South Western,1863
+800,819,820,inter_city_rail,(NR) South Western Railway - South Western,1869
+801,822,821,inter_city_rail,(NR) South Western Railway - South Western,1846
+802,823,838,inter_city_rail,(NR) South Western Railway - South Western,1850
+803,823,811,inter_city_rail,(NR) South Western Railway - South Western,1850
+804,824,838,inter_city_rail,(NR) South Western Railway - South Western,1849
+805,824,825,inter_city_rail,(NR) South Western Railway - South Western,1849
+806,825,814,inter_city_rail,(NR) South Western Railway - South Western,1849
+807,826,832,inter_city_rail,(NR) South Western Railway - South Western,1859
+808,827,834,inter_city_rail,(NR) South Western Railway - South Western,1849
+809,827,802,inter_city_rail,(NR) South Western Railway - South Western,1849
+810,828,835,inter_city_rail,(NR) South Western Railway - South Western,1939
+811,828,836,inter_city_rail,(NR) South Western Railway - South Western,1939
+812,829,839,inter_city_rail,(NR) South Western Railway - South Western,1850
+813,829,843,inter_city_rail,(NR) South Western Railway - South Western,1864
+814,830,841,inter_city_rail,(NR) South Western Railway - South Western,1864
+815,831,826,inter_city_rail,(NR) South Western Railway - South Western,1859
+816,831,828,inter_city_rail,(NR) South Western Railway - South Western,1939
+817,832,833,inter_city_rail,(NR) South Western Railway - South Western,1938
+818,832,837,inter_city_rail,(NR) South Western Railway - South Western,1938
+819,834,817,inter_city_rail,(NR) South Western Railway - South Western,1863
+820,836,837,inter_city_rail,(NR) South Western Railway - South Western,1938
+821,839,823,inter_city_rail,(NR) South Western Railway - South Western,1850
+822,840,841,inter_city_rail,(NR) South Western Railway - South Western,1864
+823,840,844,inter_city_rail,(NR) South Western Railway - South Western,1864
+824,842,843,inter_city_rail,(NR) South Western Railway - South Western,1864
+825,845,844,inter_city_rail,(NR) South Western Railway - South Western,1864
+826,846,845,inter_city_rail,(NR) South Western Railway - South Western,1864
+827,847,848,inter_city_rail,(NR) South Western Railway - South Western,1845
+828,846,810,inter_city_rail,(NR) South Western Railway - South Western,1848
+829,822,840,inter_city_rail,(NR) South Western Railway - South Western,1864
+830,842,844,inter_city_rail,(NR) South Western Railway - South Western,1864
+831,834,846,inter_city_rail,(NR) South Western Railway - South Western,1849
+832,851,859,inter_city_rail,(NR) Southern Railway - Southern,1847
+833,851,890,inter_city_rail,(NR) Southern Railway - Southern,1865
+834,852,864,inter_city_rail,(NR) Southern Railway - Southern,1867
+835,853,913,inter_city_rail,(NR) Southern Railway - Southern,1856
+836,853,854,inter_city_rail,(NR) Southern Railway - Southern,1856
+837,854,907,inter_city_rail,(NR) Southern Railway - Southern,1868
+838,855,890,inter_city_rail,(NR) Southern Railway - Southern,1865
+839,855,861,inter_city_rail,(NR) Southern Railway - Southern,1865
+840,856,887,inter_city_rail,(NR) Southern Railway - Southern,1862
+841,856,906,inter_city_rail,(NR) Southern Railway - Southern,1862
+842,857,865,inter_city_rail,(NR) Southern Railway - Southern,1858
+843,857,904,inter_city_rail,(NR) Southern Railway - Southern,1860
+844,858,890,inter_city_rail,(NR) Southern Railway - Southern,1865
+845,859,886,inter_city_rail,(NR) Southern Railway - Southern,1868
+846,860,905,inter_city_rail,(NR) Southern Railway - Southern,1847
+847,861,891,inter_city_rail,(NR) Southern Railway - Southern,1865
+848,862,874,inter_city_rail,(NR) Southern Railway - Southern,1866
+849,863,896,inter_city_rail,(NR) Southern Railway - Southern,1868
+850,864,904,inter_city_rail,(NR) Southern Railway - Southern,1867
+851,865,866,inter_city_rail,(NR) Southern Railway - Southern,1856
+852,866,889,inter_city_rail,(NR) Southern Railway - Southern,1862
+853,866,907,inter_city_rail,(NR) Southern Railway - Southern,1868
+854,867,903,inter_city_rail,(NR) Southern Railway - Southern,1864
+855,868,910,inter_city_rail,(NR) Southern Railway - Southern,1844
+856,869,884,inter_city_rail,(NR) Southern Railway - Southern,1868
+857,869,883,inter_city_rail,(NR) Southern Railway - Southern,1868
+858,870,872,inter_city_rail,(NR) Southern Railway - Southern,1858
+859,870,899,inter_city_rail,(NR) Southern Railway - Southern,1858
+860,871,877,inter_city_rail,(NR) Southern Railway - Southern,1858
+861,872,877,inter_city_rail,(NR) Southern Railway - Southern,1858
+862,873,879,inter_city_rail,(NR) Southern Railway - Southern,1860
+863,873,878,inter_city_rail,(NR) Southern Railway - Southern,1860
+864,874,893,inter_city_rail,(NR) Southern Railway - Southern,1866
+865,874,876,inter_city_rail,(NR) Southern Railway - Southern,1868
+866,875,896,inter_city_rail,(NR) Southern Railway - Southern,1868
+867,876,896,inter_city_rail,(NR) Southern Railway - Southern,1868
+868,878,911,inter_city_rail,(NR) Southern Railway - Southern,1860
+869,879,871,inter_city_rail,(NR) Southern Railway - Southern,1858
+870,880,891,inter_city_rail,(NR) Southern Railway - Southern,1858
+871,881,882,inter_city_rail,(NR) Southern Railway - Southern,1859
+872,881,916,inter_city_rail,(NR) Southern Railway - Southern,1859
+873,882,880,inter_city_rail,(NR) Southern Railway - Southern,1859
+874,885,915,inter_city_rail,(NR) Southern Railway - Southern,2016
+875,886,885,inter_city_rail,(NR) Southern Railway - Southern,1868
+876,888,889,inter_city_rail,(NR) Southern Railway - Southern,1862
+877,888,887,inter_city_rail,(NR) Southern Railway - Southern,1862
+878,891,858,inter_city_rail,(NR) Southern Railway - Southern,1847
+879,892,912,inter_city_rail,(NR) Southern Railway - Southern,2016
+880,893,898,inter_city_rail,(NR) Southern Railway - Southern,1866
+881,894,895,inter_city_rail,(NR) Southern Railway - Southern,1841
+882,894,897,inter_city_rail,(NR) Southern Railway - Southern,1841
+883,895,905,inter_city_rail,(NR) Southern Railway - Southern,1847
+884,899,913,inter_city_rail,(NR) Southern Railway - Southern,1858
+885,900,902,inter_city_rail,(NR) Southern Railway - Southern,1864
+886,901,902,inter_city_rail,(NR) Southern Railway - Southern,1864
+887,903,900,inter_city_rail,(NR) Southern Railway - Southern,1864
+888,905,906,inter_city_rail,(NR) Southern Railway - Southern,1847
+889,907,863,inter_city_rail,(NR) Southern Railway - Southern,1868
+890,908,897,inter_city_rail,(NR) Southern Railway - Southern,1841
+891,909,878,inter_city_rail,(NR) Southern Railway - Southern,1860
+892,910,904,inter_city_rail,(NR) Southern Railway - Southern,1860
+893,912,915,inter_city_rail,(NR) Southern Railway - Southern,2016
+894,914,912,inter_city_rail,(NR) Southern Railway - Southern,2016
+895,889,885,inter_city_rail,(NR) Southern Railway - Southern,1868
+896,903,915,inter_city_rail,(NR) Southern Railway - Southern,2016
+897,854,888,inter_city_rail,(NR) Southern Railway - Southern,1862
+898,860,885,inter_city_rail,(NR) Southern Railway - Southern,1868
+899,905,894,inter_city_rail,(NR) Southern Railway - Southern,1847
+900,922,923,light_rail,(TfL) Other - DLR,1987
+901,923,929,light_rail,(TfL) Other - DLR,1987
+902,924,953,light_rail,(TfL) Other - DLR,2009
+903,925,964,light_rail,(TfL) Other - DLR,1839
+904,925,959,light_rail,(TfL) Other - DLR,1846
+905,926,957,light_rail,(TfL) Other - DLR,1994
+906,926,947,light_rail,(TfL) Other - DLR,1994
+907,927,931,light_rail,(TfL) Other - DLR,1999
+908,927,958,light_rail,(TfL) Other - DLR,1999
+909,928,962,light_rail,(TfL) Other - DLR,1987
+910,928,931,light_rail,(TfL) Other - DLR,1999
+911,930,936,light_rail,(TfL) Other - DLR,1999
+912,930,958,light_rail,(TfL) Other - DLR,1999
+913,932,934,light_rail,(TfL) Other - DLR,1991
+914,932,935,light_rail,(TfL) Other - DLR,1987
+915,933,961,light_rail,(TfL) Other - DLR,1987
+916,933,935,light_rail,(TfL) Other - DLR,1987
+917,937,929,light_rail,(TfL) Other - DLR,1987
+918,938,955,light_rail,(TfL) Other - DLR,1846
+919,938,957,light_rail,(TfL) Other - DLR,1846
+920,939,945,light_rail,(TfL) Other - DLR,1850
+921,939,946,light_rail,(TfL) Other - DLR,1850
+922,940,960,light_rail,(TfL) Other - DLR,1994
+923,941,951,light_rail,(TfL) Other - DLR,2005
+924,941,942,light_rail,(TfL) Other - DLR,1994
+925,942,953,light_rail,(TfL) Other - DLR,2009
+926,943,963,light_rail,(TfL) Other - DLR,1994
+927,944,964,light_rail,(TfL) Other - DLR,1839
+928,944,965,light_rail,(TfL) Other - DLR,1850
+929,946,922,light_rail,(TfL) Other - DLR,1850
+930,947,952,light_rail,(TfL) Other - DLR,2005
+931,948,966,light_rail,(TfL) Other - DLR,1994
+932,948,954,light_rail,(TfL) Other - DLR,2005
+933,949,965,light_rail,(TfL) Other - DLR,1850
+934,949,945,light_rail,(TfL) Other - DLR,1850
+935,950,963,light_rail,(TfL) Other - DLR,1994
+936,952,966,light_rail,(TfL) Other - DLR,2005
+937,953,963,light_rail,(TfL) Other - DLR,2009
+938,955,959,light_rail,(TfL) Other - DLR,1846
+939,956,925,light_rail,(TfL) Other - DLR,2011
+940,960,939,light_rail,(TfL) Other - DLR,1994
+941,961,922,light_rail,(TfL) Other - DLR,1987
+942,962,937,light_rail,(TfL) Other - DLR,1987
+943,966,941,light_rail,(TfL) Other - DLR,1994
+944,922,929,light_rail,(TfL) Other - DLR,1987
+945,941,953,light_rail,(TfL) Other - DLR,2009
+946,940,926,light_rail,(TfL) Other - DLR,1994
+947,967,980,tram,(TfL) Other - Tramlink,1864
+948,967,998,tram,(TfL) Other - Tramlink,1864
+949,968,976,tram,(TfL) Other - Tramlink,1864
+950,968,974,tram,(TfL) Other - Tramlink,1864
+951,969,977,tram,(TfL) Other - Tramlink,1864
+952,969,999,tram,(TfL) Other - Tramlink,1864
+953,970,1000,tram,(TfL) Other - Tramlink,2000
+954,970,978,tram,(TfL) Other - Tramlink,2000
+955,971,994,tram,(TfL) Other - Tramlink,2000
+956,972,992,tram,(TfL) Other - Tramlink,2000
+957,973,990,tram,(TfL) Other - Tramlink,2000
+958,974,975,tram,(TfL) Other - Tramlink,1864
+959,975,980,tram,(TfL) Other - Tramlink,1864
+960,976,999,tram,(TfL) Other - Tramlink,1864
+961,977,981,tram,(TfL) Other - Tramlink,2000
+962,978,982,tram,(TfL) Other - Tramlink,2000
+963,979,986,tram,(TfL) Other - Tramlink,2000
+964,979,982,tram,(TfL) Other - Tramlink,2000
+965,981,1000,tram,(TfL) Other - Tramlink,2000
+966,983,979,tram,(TfL) Other - Tramlink,2000
+967,984,985,tram,(TfL) Other - Tramlink,2000
+968,984,983,tram,(TfL) Other - Tramlink,2000
+969,985,993,tram,(TfL) Other - Tramlink,2000
+970,986,987,tram,(TfL) Other - Tramlink,2000
+971,987,988,tram,(TfL) Other - Tramlink,2000
+972,988,1002,tram,(TfL) Other - Tramlink,2000
+973,989,990,tram,(TfL) Other - Tramlink,2000
+974,989,1002,tram,(TfL) Other - Tramlink,2000
+975,990,991,tram,(TfL) Other - Tramlink,2000
+976,991,992,tram,(TfL) Other - Tramlink,2000
+977,993,1001,tram,(TfL) Other - Tramlink,2000
+978,994,1001,tram,(TfL) Other - Tramlink,2000
+979,995,997,tram,(TfL) Other - Tramlink,1864
+980,996,997,tram,(TfL) Other - Tramlink,1864
+981,998,995,tram,(TfL) Other - Tramlink,1864
+982,998,980,tram,(TfL) Other - Tramlink,1864
+983,984,1001,tram,(TfL) Other - Tramlink,2000
+984,999,977,tram,(TfL) Other - Tramlink,1864
+985,1003,1005,high_speed_rail,National Rail - Eurostar/HS1,2007
+986,1004,1005,high_speed_rail,National Rail - Eurostar/HS1,2007

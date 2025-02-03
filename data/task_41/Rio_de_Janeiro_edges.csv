@@ -1,0 +1,137 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,25,heavy_rail,Metrô Rio - Linha 2,1983
+1,0,4,heavy_rail,Metrô Rio - Linha 2,1981
+2,1,5,heavy_rail,Metrô Rio - Linha 2,1979
+3,1,11,heavy_rail,Metrô Rio - Linha 2,1979
+4,2,24,heavy_rail,Metrô Rio - Linha 2,1983
+5,2,3,heavy_rail,Metrô Rio - Linha 2,0
+6,3,14,heavy_rail,Metrô Rio - Linha 2,0
+7,4,8,heavy_rail,Metrô Rio - Linha 2,1979
+8,5,12,heavy_rail,Metrô Rio - Linha 2,1979
+9,6,13,heavy_rail,Metrô Rio - Linha 2,1979
+10,7,23,heavy_rail,Metrô Rio - Linha 2,1998
+11,8,9,heavy_rail,Metrô Rio - Linha 2,1979
+12,9,10,heavy_rail,Metrô Rio - Linha 2,1979
+13,10,11,heavy_rail,Metrô Rio - Linha 2,1979
+14,12,13,heavy_rail,Metrô Rio - Linha 2,1979
+15,14,15,heavy_rail,Metrô Rio - Linha 2,0
+16,15,16,heavy_rail,Metrô Rio - Linha 2,0
+17,16,17,heavy_rail,Metrô Rio - Linha 2,0
+18,17,18,heavy_rail,Metrô Rio - Linha 2,0
+19,18,19,heavy_rail,Metrô Rio - Linha 2,0
+20,19,20,heavy_rail,Metrô Rio - Linha 2,0
+21,20,21,heavy_rail,Metrô Rio - Linha 2,0
+22,21,22,heavy_rail,Metrô Rio - Linha 2,0
+23,22,23,heavy_rail,Metrô Rio - Linha 2,1998
+24,24,25,heavy_rail,Metrô Rio - Linha 2,1983
+25,11,12,heavy_rail,Metrô Rio - Linha 2,1979
+26,26,28,heavy_rail,Metrô Rio - Linha 4,2016
+27,27,30,heavy_rail,Metrô Rio - Linha 4,2016
+28,28,29,heavy_rail,Metrô Rio - Linha 4,2016
+29,29,30,heavy_rail,Metrô Rio - Linha 4,2016
+30,31,26,heavy_rail,Metrô Rio - Linha 4,2016
+31,32,31,heavy_rail,Metrô Rio - Linha 4,2016
+32,33,47,heavy_rail,Metrô Rio - Linha 1,2014
+33,34,39,heavy_rail,Metrô Rio - Linha 1,1979
+34,34,45,heavy_rail,Metrô Rio - Linha 1,1979
+35,35,41,heavy_rail,Metrô Rio - Linha 1,1982
+36,35,38,heavy_rail,Metrô Rio - Linha 1,1982
+37,36,38,heavy_rail,Metrô Rio - Linha 1,1982
+38,36,47,heavy_rail,Metrô Rio - Linha 1,2014
+39,37,42,heavy_rail,Metrô Rio - Linha 1,1979
+40,39,46,heavy_rail,Metrô Rio - Linha 1,1979
+41,40,49,heavy_rail,Metrô Rio - Linha 1,1979
+42,40,48,heavy_rail,Metrô Rio - Linha 1,1979
+43,41,37,heavy_rail,Metrô Rio - Linha 1,1982
+44,42,43,heavy_rail,Metrô Rio - Linha 1,1979
+45,43,44,heavy_rail,Metrô Rio - Linha 1,1979
+46,44,45,heavy_rail,Metrô Rio - Linha 1,1979
+47,46,48,heavy_rail,Metrô Rio - Linha 1,1979
+48,49,51,heavy_rail,Metrô Rio - Linha 1,0
+49,50,52,heavy_rail,Metrô Rio - Linha 1,0
+50,50,51,heavy_rail,Metrô Rio - Linha 1,0
+51,45,46,heavy_rail,Metrô Rio - Linha 1,1979
+52,53,54,heavy_rail,SuperVia - Ramal Japeri,1858
+53,54,56,heavy_rail,SuperVia - Ramal Japeri,1858
+54,55,56,heavy_rail,SuperVia - Ramal Japeri,1858
+55,57,53,heavy_rail,SuperVia - Ramal Japeri,1900
+56,58,65,heavy_rail,SuperVia - Ramal Santa Cruz,0
+57,58,67,heavy_rail,SuperVia - Ramal Santa Cruz,0
+58,59,60,heavy_rail,SuperVia - Ramal Santa Cruz,0
+59,59,68,heavy_rail,SuperVia - Ramal Santa Cruz,0
+60,60,63,heavy_rail,SuperVia - Ramal Santa Cruz,0
+61,61,62,heavy_rail,SuperVia - Ramal Santa Cruz,0
+62,61,63,heavy_rail,SuperVia - Ramal Santa Cruz,0
+63,64,66,heavy_rail,SuperVia - Ramal Santa Cruz,0
+64,65,66,heavy_rail,SuperVia - Ramal Santa Cruz,0
+65,67,69,heavy_rail,SuperVia - Ramal Santa Cruz,0
+66,68,69,heavy_rail,SuperVia - Ramal Santa Cruz,0
+67,70,72,heavy_rail,SuperVia - Ramal Santa Cruz,0
+68,70,71,heavy_rail,SuperVia - Ramal Santa Cruz,0
+69,71,62,heavy_rail,SuperVia - Ramal Santa Cruz,0
+70,72,73,heavy_rail,SuperVia - Ramal Santa Cruz,0
+71,74,76,heavy_rail,SuperVia - Ramal Santa Cruz,1858
+72,75,76,heavy_rail,SuperVia - Ramal Santa Cruz,1858
+73,74,73,heavy_rail,SuperVia - Ramal Santa Cruz,1858
+74,77,79,heavy_rail,SuperVia - Ramal Deodoro,1858
+75,77,81,heavy_rail,SuperVia - Ramal Deodoro,1858
+76,78,80,heavy_rail,SuperVia - Ramal Deodoro,1858
+77,79,80,heavy_rail,SuperVia - Ramal Deodoro,1858
+78,81,83,heavy_rail,SuperVia - Ramal Deodoro,1858
+79,82,84,heavy_rail,SuperVia - Ramal Deodoro,1858
+80,83,84,heavy_rail,SuperVia - Ramal Deodoro,1858
+81,85,90,heavy_rail,SuperVia - Ramal Belford Roxo,0
+82,85,89,heavy_rail,SuperVia - Ramal Belford Roxo,0
+83,86,88,heavy_rail,SuperVia - Ramal Belford Roxo,1858
+84,86,89,heavy_rail,SuperVia - Ramal Belford Roxo,1858
+85,87,88,heavy_rail,SuperVia - Ramal Belford Roxo,1858
+86,91,93,heavy_rail,SuperVia - Ramal Saracuna,1858
+87,91,94,heavy_rail,SuperVia - Ramal Saracuna,1858
+88,92,93,heavy_rail,SuperVia - Ramal Saracuna,1858
+89,95,96,ferry,CCR Barcas - Praça XV–Araribóia,0
+90,97,98,ferry,CCR Barcas - Praça XV–Charitas,0
+91,101,102,light_rail,VLT Carioca - Linha 1,2016
+92,101,106,light_rail,VLT Carioca - Linha 1,2016
+93,102,103,light_rail,VLT Carioca - Linha 1,2016
+94,104,112,light_rail,VLT Carioca - Linha 1,2016
+95,105,106,light_rail,VLT Carioca - Linha 1,2016
+96,105,111,light_rail,VLT Carioca - Linha 1,2016
+97,107,111,light_rail,VLT Carioca - Linha 1,2016
+98,107,108,light_rail,VLT Carioca - Linha 1,2016
+99,108,109,light_rail,VLT Carioca - Linha 1,2017
+100,109,110,light_rail,VLT Carioca - Linha 1,2017
+101,110,120,light_rail,VLT Carioca - Linha 1,2017
+102,112,114,light_rail,VLT Carioca - Linha 1,2016
+103,113,116,light_rail,VLT Carioca - Linha 1,2016
+104,114,115,light_rail,VLT Carioca - Linha 1,2016
+105,115,116,light_rail,VLT Carioca - Linha 1,2016
+106,117,119,light_rail,VLT Carioca - Linha 1,2017
+107,117,113,light_rail,VLT Carioca - Linha 1,2016
+108,118,116,light_rail,VLT Carioca - Linha 1,2017
+109,119,118,light_rail,VLT Carioca - Linha 1,2017
+110,120,119,light_rail,VLT Carioca - Linha 1,2017
+111,121,129,light_rail,VLT Carioca - Linha 2,2016
+112,122,123,light_rail,VLT Carioca - Linha 2,2017
+113,123,124,light_rail,VLT Carioca - Linha 2,2017
+114,124,125,light_rail,VLT Carioca - Linha 2,2017
+115,125,128,light_rail,VLT Carioca - Linha 2,2017
+116,126,128,light_rail,VLT Carioca - Linha 2,2017
+117,127,134,light_rail,VLT Carioca - Linha 2,2017
+118,129,131,light_rail,VLT Carioca - Linha 2,2016
+119,130,133,light_rail,VLT Carioca - Linha 2,2016
+120,131,132,light_rail,VLT Carioca - Linha 2,2016
+121,132,133,light_rail,VLT Carioca - Linha 2,2016
+122,134,133,light_rail,VLT Carioca - Linha 2,2017
+123,126,127,light_rail,VLT Carioca - Linha 2,2017
+124,135,136,light_rail,VLT Carioca - Linha 3,2016
+125,135,139,light_rail,VLT Carioca - Linha 3,2016
+126,136,137,light_rail,VLT Carioca - Linha 3,2016
+127,138,139,light_rail,VLT Carioca - Linha 3,2016
+128,138,140,light_rail,VLT Carioca - Linha 3,2016
+129,140,142,light_rail,VLT Carioca - Linha 3,2019
+130,141,144,light_rail,VLT Carioca - Linha 3,2017
+131,142,143,light_rail,VLT Carioca - Linha 3,2019
+132,143,144,light_rail,VLT Carioca - Linha 3,2019
+133,145,146,default,Turísticos - Bondinho do Pão de Açúcar,1912
+134,146,147,default,Turísticos - Bondinho do Pão de Açúcar,1913
+135,148,147,default,Turísticos - Bondinho do Pão de Açúcar,1913

@@ -1,0 +1,252 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,13,heavy_rail,MTR - Island Line,1985
+1,0,14,heavy_rail,MTR - Island Line,1985
+2,1,4,heavy_rail,MTR - Island Line,2014
+3,2,4,heavy_rail,MTR - Island Line,2014
+4,2,3,heavy_rail,MTR - Island Line,2014
+5,3,16,heavy_rail,MTR - Island Line,1986
+6,5,6,heavy_rail,MTR - Island Line,1985
+7,5,16,heavy_rail,MTR - Island Line,1986
+8,6,7,heavy_rail,MTR - Island Line,1985
+9,7,8,heavy_rail,MTR - Island Line,1985
+10,8,9,heavy_rail,MTR - Island Line,1985
+11,9,10,heavy_rail,MTR - Island Line,1985
+12,10,11,heavy_rail,MTR - Island Line,1985
+13,11,12,heavy_rail,MTR - Island Line,1985
+14,12,13,heavy_rail,MTR - Island Line,1985
+15,14,15,heavy_rail,MTR - Island Line,1985
+16,17,18,heavy_rail,MTR - Tseung Kwan O Line,2002
+17,18,24,heavy_rail,MTR - Tseung Kwan O Line,2009
+18,19,24,heavy_rail,MTR - Tseung Kwan O Line,2009
+19,19,20,heavy_rail,MTR - Tseung Kwan O Line,2002
+20,21,24,heavy_rail,MTR - Tseung Kwan O Line,2009
+21,22,23,heavy_rail,MTR - Tseung Kwan O Line,2002
+22,23,17,heavy_rail,MTR - Tseung Kwan O Line,2002
+23,25,27,heavy_rail,MTR - Tsuen Wan Line,1979
+24,26,35,heavy_rail,MTR - Tsuen Wan Line,1979
+25,26,27,heavy_rail,MTR - Tsuen Wan Line,1979
+26,28,38,heavy_rail,MTR - Tsuen Wan Line,1982
+27,28,29,heavy_rail,MTR - Tsuen Wan Line,1982
+28,29,30,heavy_rail,MTR - Tsuen Wan Line,1982
+29,30,31,heavy_rail,MTR - Tsuen Wan Line,1982
+30,31,32,heavy_rail,MTR - Tsuen Wan Line,1982
+31,32,33,heavy_rail,MTR - Tsuen Wan Line,1982
+32,34,35,heavy_rail,MTR - Tsuen Wan Line,1982
+33,34,36,heavy_rail,MTR - Tsuen Wan Line,1982
+34,36,37,heavy_rail,MTR - Tsuen Wan Line,1982
+35,37,38,heavy_rail,MTR - Tsuen Wan Line,1982
+36,39,40,heavy_rail,MTR - Tsuen Wan Line,1980
+37,40,25,heavy_rail,MTR - Tsuen Wan Line,1980
+38,31,38,heavy_rail,MTR - Tsuen Wan Line,1982
+39,41,48,heavy_rail,MTR - Kwun Tong Line,2016
+40,42,45,heavy_rail,MTR - Kwun Tong Line,1979
+41,42,44,heavy_rail,MTR - Kwun Tong Line,1979
+42,43,56,heavy_rail,MTR - Kwun Tong Line,1979
+43,43,44,heavy_rail,MTR - Kwun Tong Line,1979
+44,45,46,heavy_rail,MTR - Kwun Tong Line,1982
+45,46,47,heavy_rail,MTR - Kwun Tong Line,1982
+46,48,47,heavy_rail,MTR - Kwun Tong Line,2016
+47,49,55,heavy_rail,MTR - Kwun Tong Line,1979
+48,49,57,heavy_rail,MTR - Kwun Tong Line,1979
+49,50,51,heavy_rail,MTR - Kwun Tong Line,1979
+50,50,57,heavy_rail,MTR - Kwun Tong Line,1979
+51,51,52,heavy_rail,MTR - Kwun Tong Line,1989
+52,52,53,heavy_rail,MTR - Kwun Tong Line,2002
+53,53,54,heavy_rail,MTR - Kwun Tong Line,2002
+54,55,56,heavy_rail,MTR - Kwun Tong Line,1979
+55,43,57,heavy_rail,MTR - Kwun Tong Line,1979
+56,58,59,heavy_rail,MTR - South Island Line,2016
+57,59,60,heavy_rail,MTR - South Island Line,2016
+58,60,61,heavy_rail,MTR - South Island Line,2016
+59,62,60,heavy_rail,MTR - South Island Line,2016
+60,63,69,heavy_rail,MTR - Tuen Ma Line,2004
+61,63,68,heavy_rail,MTR - Tuen Ma Line,2020
+62,64,83,heavy_rail,MTR - Tuen Ma Line,2003
+63,65,66,heavy_rail,MTR - Tuen Ma Line,2009
+64,66,84,heavy_rail,MTR - Tuen Ma Line,2021
+65,67,79,heavy_rail,MTR - Tuen Ma Line,2021
+66,69,71,heavy_rail,MTR - Tuen Ma Line,2004
+67,70,72,heavy_rail,MTR - Tuen Ma Line,2004
+68,71,72,heavy_rail,MTR - Tuen Ma Line,2004
+69,73,74,heavy_rail,MTR - Tuen Ma Line,2004
+70,73,75,heavy_rail,MTR - Tuen Ma Line,2004
+71,74,89,heavy_rail,MTR - Tuen Ma Line,2004
+72,76,77,heavy_rail,MTR - Tuen Ma Line,2003
+73,76,88,heavy_rail,MTR - Tuen Ma Line,2003
+74,77,65,heavy_rail,MTR - Tuen Ma Line,2009
+75,78,80,heavy_rail,MTR - Tuen Ma Line,2003
+76,79,87,heavy_rail,MTR - Tuen Ma Line,2021
+77,80,81,heavy_rail,MTR - Tuen Ma Line,2003
+78,81,82,heavy_rail,MTR - Tuen Ma Line,2003
+79,83,82,heavy_rail,MTR - Tuen Ma Line,2003
+80,84,85,heavy_rail,MTR - Tuen Ma Line,2021
+81,85,86,heavy_rail,MTR - Tuen Ma Line,2021
+82,86,87,heavy_rail,MTR - Tuen Ma Line,2021
+83,71,67,heavy_rail,MTR - Tuen Ma Line,2020
+84,72,89,heavy_rail,MTR - Tuen Ma Line,2004
+85,82,88,heavy_rail,MTR - Tuen Ma Line,2003
+86,90,91,heavy_rail,MTR - Disneyland Resort Line,2005
+87,92,93,heavy_rail,KCR - Ma On Shan,2004
+88,93,95,heavy_rail,KCR - Ma On Shan,2004
+89,94,96,heavy_rail,KCR - Ma On Shan,2004
+90,95,96,heavy_rail,KCR - Ma On Shan,2004
+91,97,98,heavy_rail,KCR - Ma On Shan,2004
+92,97,99,heavy_rail,KCR - Ma On Shan,2004
+93,98,100,heavy_rail,KCR - Ma On Shan,2004
+94,96,100,heavy_rail,KCR - Ma On Shan,2004
+95,101,102,heavy_rail,MTR - Ma On Shan,2004
+96,102,104,heavy_rail,MTR - Ma On Shan,2004
+97,103,105,heavy_rail,MTR - Ma On Shan,2004
+98,104,105,heavy_rail,MTR - Ma On Shan,2004
+99,106,107,heavy_rail,MTR - Ma On Shan,2004
+100,106,108,heavy_rail,MTR - Ma On Shan,2004
+101,107,109,heavy_rail,MTR - Ma On Shan,2004
+102,105,109,heavy_rail,MTR - Ma On Shan,2004
+103,110,120,commuter_rail,MTR - East Rail Line,2004
+104,110,121,commuter_rail,MTR - East Rail Line,2022
+105,111,123,commuter_rail,MTR - East Rail Line,1910
+106,111,117,commuter_rail,MTR - East Rail Line,1910
+107,112,113,commuter_rail,MTR - East Rail Line,1978
+108,112,114,commuter_rail,MTR - East Rail Line,1978
+109,113,126,commuter_rail,MTR - East Rail Line,1910
+110,114,115,commuter_rail,MTR - East Rail Line,1910
+111,116,119,commuter_rail,MTR - East Rail Line,1910
+112,118,117,commuter_rail,MTR - East Rail Line,2007
+113,119,120,commuter_rail,MTR - East Rail Line,1975
+114,121,122,commuter_rail,MTR - East Rail Line,2022
+115,124,125,commuter_rail,MTR - East Rail Line,1910
+116,124,123,commuter_rail,MTR - East Rail Line,1910
+117,125,126,commuter_rail,MTR - East Rail Line,1910
+118,116,115,commuter_rail,MTR - East Rail Line,1910
+119,127,136,commuter_rail,MTR - West Rail Line,2003
+120,128,129,commuter_rail,MTR - West Rail Line,2009
+121,128,131,commuter_rail,MTR - West Rail Line,2009
+122,130,131,commuter_rail,MTR - West Rail Line,2003
+123,130,137,commuter_rail,MTR - West Rail Line,2003
+124,132,133,commuter_rail,MTR - West Rail Line,2003
+125,133,134,commuter_rail,MTR - West Rail Line,2003
+126,134,135,commuter_rail,MTR - West Rail Line,2003
+127,136,135,commuter_rail,MTR - West Rail Line,2003
+128,135,137,commuter_rail,MTR - West Rail Line,2003
+129,138,142,commuter_rail,MTR - Airport Express,2005
+130,139,140,commuter_rail,MTR - Airport Express,1998
+131,140,141,commuter_rail,MTR - Airport Express,1998
+132,142,139,commuter_rail,MTR - Airport Express,2005
+133,143,148,commuter_rail,MTR - Tung Chung Line,1998
+134,143,144,commuter_rail,MTR - Tung Chung Line,1998
+135,145,146,commuter_rail,MTR - Tung Chung Line,1998
+136,146,147,commuter_rail,MTR - Tung Chung Line,1998
+137,147,150,commuter_rail,MTR - Tung Chung Line,1998
+138,148,149,commuter_rail,MTR - Tung Chung Line,1998
+139,150,149,commuter_rail,MTR - Tung Chung Line,1998
+140,151,158,commuter_rail,KCR - West Rail,2003
+141,152,153,commuter_rail,KCR - West Rail,2003
+142,152,159,commuter_rail,KCR - West Rail,2003
+143,154,155,commuter_rail,KCR - West Rail,2003
+144,155,156,commuter_rail,KCR - West Rail,2003
+145,156,157,commuter_rail,KCR - West Rail,2003
+146,158,157,commuter_rail,KCR - West Rail,2003
+147,157,159,commuter_rail,KCR - West Rail,2003
+148,160,161,tram,Trams - Peak Tram,1888
+149,161,162,tram,Trams - Peak Tram,1888
+150,162,163,tram,Trams - Peak Tram,1888
+151,163,164,tram,Trams - Peak Tram,1888
+152,164,165,tram,Trams - Peak Tram,1888
+153,166,188,tram,Trams - Hong Kong Tramways,1904
+154,166,167,tram,Trams - Hong Kong Tramways,1904
+155,167,168,tram,Trams - Hong Kong Tramways,1904
+156,168,169,tram,Trams - Hong Kong Tramways,1904
+157,169,175,tram,Trams - Hong Kong Tramways,1904
+158,170,226,tram,Trams - Hong Kong Tramways,1904
+159,170,171,tram,Trams - Hong Kong Tramways,1904
+160,171,172,tram,Trams - Hong Kong Tramways,1904
+161,172,173,tram,Trams - Hong Kong Tramways,1904
+162,173,227,tram,Trams - Hong Kong Tramways,1904
+163,174,175,tram,Trams - Hong Kong Tramways,1904
+164,176,177,tram,Trams - Hong Kong Tramways,1904
+165,176,174,tram,Trams - Hong Kong Tramways,1904
+166,177,178,tram,Trams - Hong Kong Tramways,1904
+167,178,179,tram,Trams - Hong Kong Tramways,1904
+168,180,181,tram,Trams - Hong Kong Tramways,1904
+169,180,179,tram,Trams - Hong Kong Tramways,1904
+170,181,182,tram,Trams - Hong Kong Tramways,1904
+171,182,183,tram,Trams - Hong Kong Tramways,1904
+172,183,184,tram,Trams - Hong Kong Tramways,1904
+173,184,185,tram,Trams - Hong Kong Tramways,1904
+174,185,186,tram,Trams - Hong Kong Tramways,1904
+175,186,187,tram,Trams - Hong Kong Tramways,1904
+176,187,189,tram,Trams - Hong Kong Tramways,1904
+177,189,190,tram,Trams - Hong Kong Tramways,1904
+178,190,191,tram,Trams - Hong Kong Tramways,1904
+179,191,192,tram,Trams - Hong Kong Tramways,1904
+180,192,193,tram,Trams - Hong Kong Tramways,1904
+181,193,194,tram,Trams - Hong Kong Tramways,1904
+182,194,195,tram,Trams - Hong Kong Tramways,1904
+183,195,196,tram,Trams - Hong Kong Tramways,1904
+184,196,197,tram,Trams - Hong Kong Tramways,1904
+185,197,198,tram,Trams - Hong Kong Tramways,1904
+186,198,199,tram,Trams - Hong Kong Tramways,1904
+187,200,201,tram,Trams - Hong Kong Tramways,1904
+188,201,202,tram,Trams - Hong Kong Tramways,1904
+189,202,203,tram,Trams - Hong Kong Tramways,1904
+190,203,204,tram,Trams - Hong Kong Tramways,1904
+191,204,205,tram,Trams - Hong Kong Tramways,1904
+192,206,207,tram,Trams - Hong Kong Tramways,1904
+193,206,205,tram,Trams - Hong Kong Tramways,1904
+194,207,208,tram,Trams - Hong Kong Tramways,1904
+195,208,247,tram,Trams - Hong Kong Tramways,1922
+196,209,247,tram,Trams - Hong Kong Tramways,1922
+197,209,210,tram,Trams - Hong Kong Tramways,1904
+198,210,239,tram,Trams - Hong Kong Tramways,1922
+199,211,212,tram,Trams - Hong Kong Tramways,1904
+200,212,213,tram,Trams - Hong Kong Tramways,1904
+201,213,214,tram,Trams - Hong Kong Tramways,1904
+202,215,214,tram,Trams - Hong Kong Tramways,1904
+203,215,216,tram,Trams - Hong Kong Tramways,1904
+204,216,217,tram,Trams - Hong Kong Tramways,1904
+205,217,218,tram,Trams - Hong Kong Tramways,1904
+206,218,219,tram,Trams - Hong Kong Tramways,1904
+207,219,220,tram,Trams - Hong Kong Tramways,1904
+208,221,220,tram,Trams - Hong Kong Tramways,1904
+209,221,223,tram,Trams - Hong Kong Tramways,1904
+210,222,223,tram,Trams - Hong Kong Tramways,1904
+211,223,224,tram,Trams - Hong Kong Tramways,1904
+212,224,225,tram,Trams - Hong Kong Tramways,1904
+213,226,225,tram,Trams - Hong Kong Tramways,1904
+214,227,228,tram,Trams - Hong Kong Tramways,1904
+215,228,229,tram,Trams - Hong Kong Tramways,1904
+216,229,230,tram,Trams - Hong Kong Tramways,1904
+217,230,231,tram,Trams - Hong Kong Tramways,1904
+218,231,232,tram,Trams - Hong Kong Tramways,1904
+219,232,233,tram,Trams - Hong Kong Tramways,1904
+220,233,234,tram,Trams - Hong Kong Tramways,1904
+221,234,235,tram,Trams - Hong Kong Tramways,1904
+222,235,236,tram,Trams - Hong Kong Tramways,1904
+223,237,238,tram,Trams - Hong Kong Tramways,1904
+224,237,236,tram,Trams - Hong Kong Tramways,1904
+225,239,240,tram,Trams - Hong Kong Tramways,1922
+226,240,246,tram,Trams - Hong Kong Tramways,1922
+227,241,242,tram,Trams - Hong Kong Tramways,1922
+228,241,240,tram,Trams - Hong Kong Tramways,1922
+229,242,243,tram,Trams - Hong Kong Tramways,1922
+230,244,245,tram,Trams - Hong Kong Tramways,1922
+231,245,246,tram,Trams - Hong Kong Tramways,1922
+232,176,236,tram,Trams - Hong Kong Tramways,1904
+233,249,258,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),2004
+234,250,259,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+235,250,256,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+236,251,252,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1978
+237,251,253,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1978
+238,252,262,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+239,253,254,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+240,255,257,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+241,257,258,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1975
+242,260,261,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+243,260,259,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+244,261,262,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+245,255,254,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
+246,263,264,people_mover,MTR - Hong Kong International Airport Automated People Mover,2010
+247,264,265,people_mover,MTR - Hong Kong International Airport Automated People Mover,2007
+248,265,266,people_mover,MTR - Hong Kong International Airport Automated People Mover,2016
+249,267,268,ferry,Star Ferry - Central - Tsim Sha Tsui,2006
+250,269,270,ferry,Star Ferry - Wan Chai - Tsim Sha Tsui,2014

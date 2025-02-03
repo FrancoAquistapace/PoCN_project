@@ -1,0 +1,183 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,1,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1987.0
+1,1,14,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1987.0
+2,2,11,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1988.0
+3,2,12,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,2010.0
+4,3,5,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+5,4,5,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+6,5,7,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+7,6,7,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+8,8,4,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+9,9,8,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1973.0
+10,9,10,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1988.0
+11,10,11,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,1988.0
+12,12,13,commuter_rail,MBTA Commuter Rail - Providence/Stoughton Line,2012.0
+13,20,21,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+14,21,31,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+15,22,24,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+16,22,25,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+17,23,34,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1994.0
+18,23,24,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1994.0
+19,25,26,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+20,26,27,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+21,27,28,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+22,28,29,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+23,29,30,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+24,30,31,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1973.0
+25,32,33,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1994.0
+26,32,35,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1994.0
+27,33,34,commuter_rail,MBTA Commuter Rail - Framingham/Worcester Line,1994.0
+28,36,46,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+29,37,52,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1845.0
+30,37,49,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1845.0
+31,38,47,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+32,38,49,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1845.0
+33,39,46,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+34,39,40,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+35,40,41,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+36,41,42,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+37,42,43,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+38,43,44,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+39,45,44,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+40,47,48,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+41,48,45,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1976.0
+42,50,51,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1845.0
+43,51,52,commuter_rail,MBTA Commuter Rail - Fitchburg Line,1845.0
+44,53,54,commuter_rail,MBTA Commuter Rail - Franklin Line,1987.0
+45,54,67,commuter_rail,MBTA Commuter Rail - Franklin Line,1987.0
+46,55,58,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+47,56,57,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+48,56,59,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+49,57,58,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+50,59,60,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+51,60,65,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+52,61,66,commuter_rail,MBTA Commuter Rail - Franklin Line,1988.0
+53,61,62,commuter_rail,MBTA Commuter Rail - Franklin Line,1988.0
+54,62,63,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+55,63,64,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+56,64,65,commuter_rail,MBTA Commuter Rail - Franklin Line,1973.0
+57,68,69,commuter_rail,MBTA Commuter Rail - Needham Line,1987.0
+58,69,70,commuter_rail,MBTA Commuter Rail - Needham Line,1987.0
+59,70,71,commuter_rail,MBTA Commuter Rail - Needham Line,1987.0
+60,71,72,commuter_rail,MBTA Commuter Rail - Needham Line,1987.0
+61,73,72,commuter_rail,MBTA Commuter Rail - Needham Line,1987.0
+62,75,76,commuter_rail,MBTA Commuter Rail - Haverhill/Reading Line,1837.0
+63,80,84,heavy_rail,MBTA Subway - Orange Line,1987.0
+64,80,96,heavy_rail,MBTA Subway - Orange Line,1987.0
+65,81,86,heavy_rail,MBTA Subway - Orange Line,1987.0
+66,81,95,heavy_rail,MBTA Subway - Orange Line,1987.0
+67,82,83,heavy_rail,MBTA Subway - Orange Line,1987.0
+68,82,85,heavy_rail,MBTA Subway - Orange Line,1987.0
+69,83,86,heavy_rail,MBTA Subway - Orange Line,1987.0
+70,84,85,heavy_rail,MBTA Subway - Orange Line,1987.0
+71,87,90,heavy_rail,MBTA Subway - Orange Line,1975.0
+72,87,88,heavy_rail,MBTA Subway - Orange Line,1975.0
+73,88,93,heavy_rail,MBTA Subway - Orange Line,1975.0
+74,89,95,heavy_rail,MBTA Subway - Orange Line,1987.0
+75,90,89,heavy_rail,MBTA Subway - Orange Line,1975.0
+76,91,94,heavy_rail,MBTA Subway - Orange Line,1837.0
+77,91,92,heavy_rail,MBTA Subway - Orange Line,1837.0
+78,92,93,heavy_rail,MBTA Subway - Orange Line,1837.0
+79,83,85,heavy_rail,MBTA Subway - Orange Line,1987.0
+80,97,104,heavy_rail,MBTA Subway - Blue Line,1952.0
+81,98,103,heavy_rail,MBTA Subway - Blue Line,1952.0
+82,98,101,heavy_rail,MBTA Subway - Blue Line,1952.0
+83,99,100,heavy_rail,MBTA Subway - Blue Line,1916.0
+84,99,102,heavy_rail,MBTA Subway - Blue Line,1916.0
+85,101,102,heavy_rail,MBTA Subway - Blue Line,1952.0
+86,104,105,heavy_rail,MBTA Subway - Blue Line,1954.0
+87,105,107,heavy_rail,MBTA Subway - Blue Line,1954.0
+88,106,107,heavy_rail,MBTA Subway - Blue Line,1954.0
+89,103,97,heavy_rail,MBTA Subway - Blue Line,1952.0
+90,108,122,heavy_rail,MBTA Subway - Red Line,1928.0
+91,109,127,heavy_rail,MBTA Subway - Red Line,1984.0
+92,109,110,heavy_rail,MBTA Subway - Red Line,1912.0
+93,110,111,heavy_rail,MBTA Subway - Red Line,1912.0
+94,111,112,heavy_rail,MBTA Subway - Red Line,1912.0
+95,112,113,heavy_rail,MBTA Subway - Red Line,1915.0
+96,113,114,heavy_rail,MBTA Subway - Red Line,1916.0
+97,114,119,heavy_rail,MBTA Subway - Red Line,1917.0
+98,115,116,heavy_rail,MBTA Subway - Red Line,1980.0
+99,115,124,heavy_rail,MBTA Subway - Red Line,1980.0
+100,116,128,heavy_rail,MBTA Subway - Red Line,1980.0
+101,117,118,heavy_rail,MBTA Subway - Red Line,1927.0
+102,117,120,heavy_rail,MBTA Subway - Red Line,1927.0
+103,118,121,heavy_rail,MBTA Subway - Red Line,1927.0
+104,119,120,heavy_rail,MBTA Subway - Red Line,1918.0
+105,121,122,heavy_rail,MBTA Subway - Red Line,1928.0
+106,123,124,heavy_rail,MBTA Subway - Red Line,1971.0
+107,125,126,heavy_rail,MBTA Subway - Red Line,1985.0
+108,126,127,heavy_rail,MBTA Subway - Red Line,1984.0
+109,108,123,heavy_rail,MBTA Subway - Red Line,1971.0
+110,129,132,heavy_rail,MBTA Subway - Green Line,1914.0
+111,129,131,heavy_rail,MBTA Subway - Green Line,1914.0
+112,130,135,heavy_rail,MBTA Subway - Green Line,1914.0
+113,130,131,heavy_rail,MBTA Subway - Green Line,1914.0
+114,133,136,heavy_rail,MBTA Subway - Green Line,1963.0
+115,133,137,heavy_rail,MBTA Subway - Green Line,2004.0
+116,134,137,heavy_rail,MBTA Subway - Green Line,2004.0
+117,134,138,heavy_rail,MBTA Subway - Green Line,2021.0
+118,135,136,heavy_rail,MBTA Subway - Green Line,1898.0
+119,139,140,heavy_rail,Boston Elevated Railway - Main Line Elevated,1897.0
+120,141,148,light_rail,MBTA Subway - Mattapan Line,1929.0
+121,142,148,light_rail,MBTA Subway - Mattapan Line,1929.0
+122,142,143,light_rail,MBTA Subway - Mattapan Line,1929.0
+123,143,144,light_rail,MBTA Subway - Mattapan Line,1929.0
+124,144,145,light_rail,MBTA Subway - Mattapan Line,1929.0
+125,145,146,light_rail,MBTA Subway - Mattapan Line,1929.0
+126,146,147,light_rail,MBTA Subway - Mattapan Line,1929.0
+127,149,164,light_rail,MBTA Subway - Green Line/B,1900.0
+128,149,159,light_rail,MBTA Subway - Green Line/B,1900.0
+129,150,157,light_rail,MBTA Subway - Green Line/B,1900.0
+130,151,152,light_rail,MBTA Subway - Green Line/B,1900.0
+131,152,154,light_rail,MBTA Subway - Green Line/B,1900.0
+132,153,165,light_rail,MBTA Subway - Green Line/B,1900.0
+133,153,164,light_rail,MBTA Subway - Green Line/B,1900.0
+134,154,155,light_rail,MBTA Subway - Green Line/B,1900.0
+135,155,156,light_rail,MBTA Subway - Green Line/B,1900.0
+136,156,158,light_rail,MBTA Subway - Green Line/B,1900.0
+137,157,163,light_rail,MBTA Subway - Green Line/B,1900.0
+138,158,162,light_rail,MBTA Subway - Green Line/B,1900.0
+139,159,160,light_rail,MBTA Subway - Green Line/B,1900.0
+140,160,161,light_rail,MBTA Subway - Green Line/B,1900.0
+141,161,162,light_rail,MBTA Subway - Green Line/B,1900.0
+142,153,150,light_rail,MBTA Subway - Green Line/B,1900.0
+143,166,175,light_rail,MBTA Subway - Green Line/D,1959.0
+144,166,167,light_rail,MBTA Subway - Green Line/D,1959.0
+145,167,168,light_rail,MBTA Subway - Green Line/D,1959.0
+146,168,170,light_rail,MBTA Subway - Green Line/D,1959.0
+147,169,179,light_rail,MBTA Subway - Green Line/D,1959.0
+148,169,171,light_rail,MBTA Subway - Green Line/D,1959.0
+149,171,172,light_rail,MBTA Subway - Green Line/D,1959.0
+150,172,174,light_rail,MBTA Subway - Green Line/D,1959.0
+151,173,175,light_rail,MBTA Subway - Green Line/D,1959.0
+152,174,176,light_rail,MBTA Subway - Green Line/D,1959.0
+153,176,177,light_rail,MBTA Subway - Green Line/D,1959.0
+154,177,178,light_rail,MBTA Subway - Green Line/D,1959.0
+155,180,182,light_rail,MBTA Subway - Green Line/D,2021.0
+156,181,184,light_rail,MBTA Subway - Green Line/D,2021.0
+157,182,183,light_rail,MBTA Subway - Green Line/D,2021.0
+158,183,184,light_rail,MBTA Subway - Green Line/D,2021.0
+159,169,170,light_rail,MBTA Subway - Green Line/D,1959.0
+160,185,188,light_rail,MBTA Subway - Green Line/C,1889.0
+161,186,187,light_rail,MBTA Subway - Green Line/C,1889.0
+162,187,188,light_rail,MBTA Subway - Green Line/C,1889.0
+163,189,190,light_rail,MBTA Subway - Green Line/C,1889.0
+164,190,191,light_rail,MBTA Subway - Green Line/C,1889.0
+165,191,192,light_rail,MBTA Subway - Green Line/C,1889.0
+166,192,193,light_rail,MBTA Subway - Green Line/C,1889.0
+167,193,194,light_rail,MBTA Subway - Green Line/C,1888.0
+168,194,195,light_rail,MBTA Subway - Green Line/C,1888.0
+169,195,196,light_rail,MBTA Subway - Green Line/C,1888.0
+170,190,187,light_rail,MBTA Subway - Green Line/C,1889.0
+171,197,198,light_rail,MBTA Subway - Green Line/E,1883.0
+172,197,199,light_rail,MBTA Subway - Green Line/E,1883.0
+173,198,200,light_rail,MBTA Subway - Green Line/E,1883.0
+174,199,201,light_rail,MBTA Subway - Green Line/E,1883.0
+175,200,205,light_rail,MBTA Subway - Green Line/E,1883.0
+176,201,202,light_rail,MBTA Subway - Green Line/E,1941.0
+177,202,207,light_rail,MBTA Subway - Green Line/E,1941.0
+178,203,204,light_rail,MBTA Subway - Green Line/E,1891.0
+179,203,206,light_rail,MBTA Subway - Green Line/E,1945.0
+180,204,205,light_rail,MBTA Subway - Green Line/E,1891.0
+181,208,207,light_rail,MBTA Subway - Green Line/E,2021.0

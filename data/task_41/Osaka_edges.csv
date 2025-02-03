@@ -1,0 +1,1202 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,2,high_speed_rail,JR Central - Tokaido Shinkansen,1964
+1,0,1,high_speed_rail,JR Central - Tokaido Shinkansen,1964
+2,3,4,high_speed_rail,JR West - Sanyo Shinkansen,1972
+3,3,5,high_speed_rail,JR West - Sanyo Shinkansen,1972
+4,6,12,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1985
+5,7,17,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1977
+6,7,16,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1983
+7,8,18,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1977
+8,8,19,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1985
+9,9,14,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1983
+10,9,13,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1985
+11,10,20,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1987
+12,10,19,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1985
+13,11,21,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1987
+14,12,13,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1985
+15,14,15,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1983
+16,15,16,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1983
+17,18,17,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1977
+18,20,21,heavy_rail,Kobe Municipal Subway - Seishin-Yamate Line,1987
+19,22,31,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+20,23,24,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+21,24,25,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+22,25,26,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+23,26,27,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+24,27,28,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+25,28,29,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+26,29,30,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+27,30,31,heavy_rail,Kobe Municipal Subway - Kaigan Line,2001
+28,32,34,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+29,33,39,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+30,34,35,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+31,35,36,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+32,36,37,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+33,37,38,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+34,38,39,heavy_rail,Eizan Electric Railway - Eizan Main Line,1925
+35,40,43,heavy_rail,Eizan Electric Railway - Kurama Line,1928
+36,41,48,heavy_rail,Eizan Electric Railway - Kurama Line,1929
+37,41,47,heavy_rail,Eizan Electric Railway - Kurama Line,1929
+38,42,49,heavy_rail,Eizan Electric Railway - Kurama Line,1929
+39,43,44,heavy_rail,Eizan Electric Railway - Kurama Line,1928
+40,44,45,heavy_rail,Eizan Electric Railway - Kurama Line,1928
+41,45,46,heavy_rail,Eizan Electric Railway - Kurama Line,1928
+42,46,47,heavy_rail,Eizan Electric Railway - Kurama Line,1928
+43,48,49,heavy_rail,Eizan Electric Railway - Kurama Line,1929
+44,50,53,heavy_rail,Kita-Osaka Kyuko Railway - Namboku Line,1970
+45,51,54,heavy_rail,Kita-Osaka Kyuko Railway - Namboku Line,2020
+46,51,52,heavy_rail,Kita-Osaka Kyuko Railway - Namboku Line,2020
+47,52,53,heavy_rail,Kita-Osaka Kyuko Railway - Namboku Line,1970
+48,54,55,heavy_rail,Kita-Osaka Kyuko Railway - Namboku Line,2020
+49,56,57,heavy_rail,Hankyu - Kobe Kosoku Line,1968
+50,56,58,heavy_rail,Hankyu - Kobe Kosoku Line,1968
+51,59,62,heavy_rail,Hanshin - Kobe Kosoku Line,1968
+52,59,60,heavy_rail,Hanshin - Kobe Kosoku Line,1968
+53,60,63,heavy_rail,Hanshin - Kobe Kosoku Line,1968
+54,61,62,heavy_rail,Hanshin - Kobe Kosoku Line,1968
+55,63,64,heavy_rail,Hanshin - Kobe Kosoku Line,1968
+56,65,66,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1910
+57,65,81,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1910
+58,66,67,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1910
+59,67,68,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1910
+60,68,82,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1912
+61,69,82,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1913
+62,70,71,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+63,70,78,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+64,71,72,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+65,72,73,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+66,73,74,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+67,74,75,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+68,76,77,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+69,77,79,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+70,78,69,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1913
+71,79,83,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+72,80,107,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+73,83,84,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+74,84,85,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+75,85,86,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+76,86,87,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+77,87,88,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+78,88,89,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+79,89,90,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+80,90,91,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+81,91,92,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+82,92,93,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+83,93,94,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+84,94,95,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+85,95,96,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+86,96,97,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+87,97,98,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+88,98,99,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+89,99,100,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+90,100,101,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+91,101,102,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+92,102,103,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+93,103,104,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+94,104,105,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+95,105,106,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+96,106,107,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1923
+97,75,76,heavy_rail,Sanyo Electric Railway - Sanyo Electric Railway Main Line,1917
+98,108,122,heavy_rail,Kobe Electric Railway - Arima Line,1928
+99,109,108,heavy_rail,Kobe Electric Railway - Arima Line,1928
+100,110,111,heavy_rail,Kobe Electric Railway - Arima Line,1928
+101,111,112,heavy_rail,Kobe Electric Railway - Arima Line,1928
+102,112,113,heavy_rail,Kobe Electric Railway - Arima Line,1928
+103,113,114,heavy_rail,Kobe Electric Railway - Arima Line,1928
+104,115,116,heavy_rail,Kobe Electric Railway - Arima Line,1928
+105,115,123,heavy_rail,Kobe Electric Railway - Arima Line,1928
+106,116,117,heavy_rail,Kobe Electric Railway - Arima Line,1928
+107,117,118,heavy_rail,Kobe Electric Railway - Arima Line,1928
+108,118,119,heavy_rail,Kobe Electric Railway - Arima Line,1928
+109,119,120,heavy_rail,Kobe Electric Railway - Arima Line,1928
+110,120,121,heavy_rail,Kobe Electric Railway - Arima Line,1928
+111,121,122,heavy_rail,Kobe Electric Railway - Arima Line,1928
+112,114,121,heavy_rail,Kobe Electric Railway - Arima Line,1928
+113,124,125,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+114,124,127,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+115,125,130,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+116,126,128,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+117,126,127,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+118,129,133,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+119,130,131,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+120,131,132,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+121,132,133,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+122,127,132,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+123,134,137,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1996
+124,135,136,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1991
+125,136,137,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1996
+126,138,151,heavy_rail,Kobe Electric Railway - Ao Line,1937
+127,138,152,heavy_rail,Kobe Electric Railway - Ao Line,1937
+128,139,144,heavy_rail,Kobe Electric Railway - Ao Line,1936
+129,140,141,heavy_rail,Kobe Electric Railway - Ao Line,1938
+130,140,153,heavy_rail,Kobe Electric Railway - Ao Line,1937
+131,141,154,heavy_rail,Kobe Electric Railway - Ao Line,1951
+132,142,157,heavy_rail,Kobe Electric Railway - Ao Line,1952
+133,142,156,heavy_rail,Kobe Electric Railway - Ao Line,1951
+134,143,157,heavy_rail,Kobe Electric Railway - Ao Line,1952
+135,144,145,heavy_rail,Kobe Electric Railway - Ao Line,1936
+136,146,145,heavy_rail,Kobe Electric Railway - Ao Line,1936
+137,147,148,heavy_rail,Kobe Electric Railway - Ao Line,1936
+138,147,146,heavy_rail,Kobe Electric Railway - Ao Line,1936
+139,148,149,heavy_rail,Kobe Electric Railway - Ao Line,1936
+140,149,150,heavy_rail,Kobe Electric Railway - Ao Line,1936
+141,150,151,heavy_rail,Kobe Electric Railway - Ao Line,1936
+142,152,153,heavy_rail,Kobe Electric Railway - Ao Line,1937
+143,155,156,heavy_rail,Kobe Electric Railway - Ao Line,1951
+144,155,154,heavy_rail,Kobe Electric Railway - Ao Line,1951
+145,147,150,heavy_rail,Kobe Electric Railway - Ao Line,1936
+146,158,159,heavy_rail,JR West - Wadamisaki Line,1890
+147,160,164,heavy_rail,Nose Electric Railway - Myoken Line,1913
+148,160,161,heavy_rail,Nose Electric Railway - Myoken Line,1913
+149,162,169,heavy_rail,Nose Electric Railway - Myoken Line,1923
+150,162,168,heavy_rail,Nose Electric Railway - Myoken Line,1913
+151,163,173,heavy_rail,Nose Electric Railway - Myoken Line,1923
+152,164,165,heavy_rail,Nose Electric Railway - Myoken Line,1913
+153,165,166,heavy_rail,Nose Electric Railway - Myoken Line,1913
+154,166,167,heavy_rail,Nose Electric Railway - Myoken Line,1913
+155,167,168,heavy_rail,Nose Electric Railway - Myoken Line,1913
+156,169,170,heavy_rail,Nose Electric Railway - Myoken Line,1923
+157,170,171,heavy_rail,Nose Electric Railway - Myoken Line,1923
+158,172,173,heavy_rail,Nose Electric Railway - Myoken Line,1923
+159,172,171,heavy_rail,Nose Electric Railway - Myoken Line,1923
+160,174,175,heavy_rail,Nose Electric Railway - Nissei Line,1978
+161,176,177,heavy_rail,Wakayama Electric Railway - Kishigawa Line,1924
+162,176,178,heavy_rail,Wakayama Electric Railway - Kishigawa Line,1933
+163,178,179,heavy_rail,Wakayama Electric Railway - Kishigawa Line,1933
+164,180,181,heavy_rail,Hokushin Kyuko Electric Railway - Hokushin Line,1988
+165,182,183,heavy_rail,Iga Railway - Iga Line,1922
+166,184,185,heavy_rail,JR West - Kusatsu Line,1889
+167,185,186,heavy_rail,JR West - Kusatsu Line,1890
+168,187,188,heavy_rail,JR West - Kosei Line,1974
+169,189,190,heavy_rail,JR West - Osaka Higashi Line,2008
+170,190,191,heavy_rail,JR West - Osaka Higashi Line,2008
+171,191,192,heavy_rail,JR West - Osaka Higashi Line,2008
+172,192,193,heavy_rail,JR West - Osaka Higashi Line,2008
+173,193,194,heavy_rail,JR West - Osaka Higashi Line,2008
+174,194,195,heavy_rail,JR West - Osaka Higashi Line,2008
+175,195,196,heavy_rail,JR West - Osaka Higashi Line,2008
+176,197,203,heavy_rail,JR West - Wakayama Line,1891
+177,198,207,heavy_rail,JR West - Wakayama Line,1896
+178,198,206,heavy_rail,JR West - Wakayama Line,1896
+179,199,230,heavy_rail,JR West - Wakayama Line,1898
+180,200,210,heavy_rail,JR West - Wakayama Line,1898
+181,201,211,heavy_rail,JR West - Wakayama Line,1898
+182,201,232,heavy_rail,JR West - Wakayama Line,1898
+183,202,213,heavy_rail,JR West - Wakayama Line,1900
+184,202,214,heavy_rail,JR West - Wakayama Line,1900
+185,203,204,heavy_rail,JR West - Wakayama Line,1891
+186,204,205,heavy_rail,JR West - Wakayama Line,1891
+187,205,206,heavy_rail,JR West - Wakayama Line,1891
+188,207,208,heavy_rail,JR West - Wakayama Line,1896
+189,208,209,heavy_rail,JR West - Wakayama Line,1896
+190,209,210,heavy_rail,JR West - Wakayama Line,1896
+191,211,212,heavy_rail,JR West - Wakayama Line,1898
+192,212,213,heavy_rail,JR West - Wakayama Line,1898
+193,214,215,heavy_rail,JR West - Wakayama Line,1900
+194,215,216,heavy_rail,JR West - Wakayama Line,1900
+195,216,217,heavy_rail,JR West - Wakayama Line,1900
+196,217,218,heavy_rail,JR West - Wakayama Line,1900
+197,218,219,heavy_rail,JR West - Wakayama Line,1900
+198,219,220,heavy_rail,JR West - Wakayama Line,1900
+199,220,221,heavy_rail,JR West - Wakayama Line,1900
+200,221,222,heavy_rail,JR West - Wakayama Line,1900
+201,222,223,heavy_rail,JR West - Wakayama Line,1900
+202,223,224,heavy_rail,JR West - Wakayama Line,1900
+203,224,225,heavy_rail,JR West - Wakayama Line,1900
+204,225,226,heavy_rail,JR West - Wakayama Line,1900
+205,226,231,heavy_rail,JR West - Wakayama Line,1900
+206,227,231,heavy_rail,JR West - Wakayama Line,1900
+207,227,228,heavy_rail,JR West - Wakayama Line,1898
+208,228,229,heavy_rail,JR West - Wakayama Line,1898
+209,229,230,heavy_rail,JR West - Wakayama Line,1898
+210,200,232,heavy_rail,JR West - Wakayama Line,1898
+211,233,235,heavy_rail,JR West - Kansai Line,1897
+212,233,234,heavy_rail,JR West - Kansai Line,1897
+213,235,236,heavy_rail,JR West - Kansai Line,1897
+214,237,238,heavy_rail,JR West - Kisei Line,1924
+215,237,239,heavy_rail,JR West - Kisei Line,1924
+216,240,243,heavy_rail,JR West - Kakogawa Line,1913
+217,241,254,heavy_rail,JR West - Kakogawa Line,1924
+218,241,253,heavy_rail,JR West - Kakogawa Line,1924
+219,242,260,heavy_rail,JR West - Kakogawa Line,1924
+220,243,244,heavy_rail,JR West - Kakogawa Line,1913
+221,244,245,heavy_rail,JR West - Kakogawa Line,1913
+222,245,246,heavy_rail,JR West - Kakogawa Line,1913
+223,246,247,heavy_rail,JR West - Kakogawa Line,1913
+224,247,248,heavy_rail,JR West - Kakogawa Line,1913
+225,248,249,heavy_rail,JR West - Kakogawa Line,1913
+226,249,250,heavy_rail,JR West - Kakogawa Line,1913
+227,250,251,heavy_rail,JR West - Kakogawa Line,1913
+228,251,252,heavy_rail,JR West - Kakogawa Line,1913
+229,252,253,heavy_rail,JR West - Kakogawa Line,1913
+230,254,255,heavy_rail,JR West - Kakogawa Line,1924
+231,255,256,heavy_rail,JR West - Kakogawa Line,1924
+232,256,257,heavy_rail,JR West - Kakogawa Line,1924
+233,257,258,heavy_rail,JR West - Kakogawa Line,1924
+234,258,259,heavy_rail,JR West - Kakogawa Line,1924
+235,259,260,heavy_rail,JR West - Kakogawa Line,1924
+236,261,262,heavy_rail,Ohmi Railway - Ohmi Railway Main Line,1900
+237,261,264,heavy_rail,Ohmi Railway - Ohmi Railway Main Line,1900
+238,262,263,heavy_rail,Ohmi Railway - Ohmi Railway Main Line,1898
+239,263,265,heavy_rail,Ohmi Railway - Ohmi Railway Main Line,1931
+240,264,266,heavy_rail,Ohmi Railway - Ohmi Railway Main Line,1900
+241,267,268,heavy_rail,Ohmi Railway - Taga Line,1914
+242,269,270,heavy_rail,Ohmi Railway - Yokaichi Line,1913
+243,270,271,heavy_rail,Ohmi Railway - Yokaichi Line,1946
+244,272,273,heavy_rail,Shigaraki Kogen Railway - Shigaraki Line,1933
+245,274,282,heavy_rail,Osaka Metro - Chuo Line,1961
+246,274,281,heavy_rail,Osaka Metro - Chuo Line,1997
+247,275,283,heavy_rail,Osaka Metro - Chuo Line,1964
+248,275,282,heavy_rail,Osaka Metro - Chuo Line,1964
+249,276,285,heavy_rail,Osaka Metro - Chuo Line,1969
+250,276,284,heavy_rail,Osaka Metro - Chuo Line,1964
+251,277,285,heavy_rail,Osaka Metro - Chuo Line,1969
+252,277,278,heavy_rail,Osaka Metro - Chuo Line,1967
+253,278,286,heavy_rail,Osaka Metro - Chuo Line,1968
+254,279,286,heavy_rail,Osaka Metro - Chuo Line,1985
+255,279,287,heavy_rail,Osaka Metro - Chuo Line,1985
+256,280,287,heavy_rail,Osaka Metro - Chuo Line,1985
+257,283,284,heavy_rail,Osaka Metro - Chuo Line,1964
+258,288,290,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+259,289,298,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+260,290,291,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+261,292,293,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+262,292,291,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+263,293,294,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+264,294,295,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+265,295,296,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+266,296,297,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+267,297,298,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+268,297,292,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+269,299,309,heavy_rail,Osaka Metro - Midosuji Line,1964
+270,299,301,heavy_rail,Osaka Metro - Midosuji Line,1964
+271,300,302,heavy_rail,Osaka Metro - Midosuji Line,1933
+272,300,303,heavy_rail,Osaka Metro - Midosuji Line,1938
+273,301,302,heavy_rail,Osaka Metro - Midosuji Line,1933
+274,303,314,heavy_rail,Osaka Metro - Midosuji Line,1965
+275,304,305,heavy_rail,Osaka Metro - Midosuji Line,1951
+276,304,306,heavy_rail,Osaka Metro - Midosuji Line,1952
+277,305,314,heavy_rail,Osaka Metro - Midosuji Line,1965
+278,306,307,heavy_rail,Osaka Metro - Midosuji Line,1952
+279,307,315,heavy_rail,Osaka Metro - Midosuji Line,1960
+280,308,315,heavy_rail,Osaka Metro - Midosuji Line,1987
+281,308,313,heavy_rail,Osaka Metro - Midosuji Line,1987
+282,309,316,heavy_rail,Osaka Metro - Midosuji Line,1964
+283,310,316,heavy_rail,Osaka Metro - Midosuji Line,1970
+284,310,311,heavy_rail,Osaka Metro - Midosuji Line,1970
+285,312,318,heavy_rail,Osaka Metro - Midosuji Line,1987
+286,313,318,heavy_rail,Osaka Metro - Midosuji Line,1987
+287,317,311,heavy_rail,Osaka Metro - Midosuji Line,1970
+288,319,335,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1990
+289,319,322,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1997
+290,320,324,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1997
+291,321,332,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+292,323,327,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+293,323,326,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1997
+294,324,325,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1997
+295,325,326,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1997
+296,327,328,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+297,328,329,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+298,330,331,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+299,330,329,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+300,331,332,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1996
+301,333,334,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1990
+302,333,321,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1990
+303,334,335,heavy_rail,Osaka Metro - Nagahori Tsurumi-ryokuchi Line,1990
+304,336,338,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+305,336,340,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+306,337,345,heavy_rail,Osaka Metro - Sakaisuji Line,1993
+307,337,339,heavy_rail,Osaka Metro - Sakaisuji Line,1993
+308,340,341,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+309,341,342,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+310,342,343,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+311,343,344,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+312,344,345,heavy_rail,Osaka Metro - Sakaisuji Line,1969
+313,346,349,heavy_rail,Osaka Metro - Sennichimae Line,1969
+314,346,347,heavy_rail,Osaka Metro - Sennichimae Line,1969
+315,347,348,heavy_rail,Osaka Metro - Sennichimae Line,1969
+316,348,358,heavy_rail,Osaka Metro - Sennichimae Line,2009
+317,350,355,heavy_rail,Osaka Metro - Sennichimae Line,1970
+318,350,356,heavy_rail,Osaka Metro - Sennichimae Line,1969
+319,351,354,heavy_rail,Osaka Metro - Sennichimae Line,1981
+320,351,353,heavy_rail,Osaka Metro - Sennichimae Line,1981
+321,352,357,heavy_rail,Osaka Metro - Sennichimae Line,1981
+322,353,356,heavy_rail,Osaka Metro - Sennichimae Line,1969
+323,354,357,heavy_rail,Osaka Metro - Sennichimae Line,1981
+324,355,359,heavy_rail,Osaka Metro - Sennichimae Line,2009
+325,358,359,heavy_rail,Osaka Metro - Sennichimae Line,2009
+326,360,361,heavy_rail,Osaka Metro - Tanimachi Line,1974
+327,361,373,heavy_rail,Osaka Metro - Tanimachi Line,1974
+328,362,363,heavy_rail,Osaka Metro - Tanimachi Line,1967
+329,362,361,heavy_rail,Osaka Metro - Tanimachi Line,1974
+330,363,374,heavy_rail,Osaka Metro - Tanimachi Line,1967
+331,364,374,heavy_rail,Osaka Metro - Tanimachi Line,1968
+332,364,365,heavy_rail,Osaka Metro - Tanimachi Line,1968
+333,365,366,heavy_rail,Osaka Metro - Tanimachi Line,1968
+334,366,375,heavy_rail,Osaka Metro - Tanimachi Line,1980
+335,367,385,heavy_rail,Osaka Metro - Tanimachi Line,1980
+336,367,368,heavy_rail,Osaka Metro - Tanimachi Line,1980
+337,368,369,heavy_rail,Osaka Metro - Tanimachi Line,1980
+338,369,378,heavy_rail,Osaka Metro - Tanimachi Line,1980
+339,370,378,heavy_rail,Osaka Metro - Tanimachi Line,1980
+340,370,371,heavy_rail,Osaka Metro - Tanimachi Line,1980
+341,371,372,heavy_rail,Osaka Metro - Tanimachi Line,1980
+342,372,379,heavy_rail,Osaka Metro - Tanimachi Line,1980
+343,375,385,heavy_rail,Osaka Metro - Tanimachi Line,1980
+344,376,384,heavy_rail,Osaka Metro - Tanimachi Line,1977
+345,376,360,heavy_rail,Osaka Metro - Tanimachi Line,1977
+346,377,381,heavy_rail,Osaka Metro - Tanimachi Line,1977
+347,377,380,heavy_rail,Osaka Metro - Tanimachi Line,1983
+348,381,382,heavy_rail,Osaka Metro - Tanimachi Line,1977
+349,382,383,heavy_rail,Osaka Metro - Tanimachi Line,1977
+350,383,384,heavy_rail,Osaka Metro - Tanimachi Line,1977
+351,386,389,heavy_rail,Osaka Metro - Yotsubashi Line,1958
+352,386,396,heavy_rail,Osaka Metro - Yotsubashi Line,1972
+353,387,396,heavy_rail,Osaka Metro - Yotsubashi Line,1972
+354,388,389,heavy_rail,Osaka Metro - Yotsubashi Line,1958
+355,388,395,heavy_rail,Osaka Metro - Yotsubashi Line,1942
+356,390,391,heavy_rail,Osaka Metro - Yotsubashi Line,1965
+357,391,392,heavy_rail,Osaka Metro - Yotsubashi Line,1965
+358,392,393,heavy_rail,Osaka Metro - Yotsubashi Line,1965
+359,393,394,heavy_rail,Osaka Metro - Yotsubashi Line,1965
+360,394,395,heavy_rail,Osaka Metro - Yotsubashi Line,1965
+361,397,398,heavy_rail,JR West - San'in Line,1910
+362,399,410,heavy_rail,JR West - Osaka Loop Line,1961
+363,400,401,heavy_rail,JR West - Osaka Loop Line,1961
+364,400,403,heavy_rail,JR West - Osaka Loop Line,1961
+365,401,406,heavy_rail,JR West - Osaka Loop Line,1961
+366,402,405,heavy_rail,JR West - Osaka Loop Line,1961
+367,402,409,heavy_rail,JR West - Osaka Loop Line,1961
+368,403,404,heavy_rail,JR West - Osaka Loop Line,1961
+369,404,405,heavy_rail,JR West - Osaka Loop Line,1961
+370,406,416,heavy_rail,JR West - Osaka Loop Line,1961
+371,407,411,heavy_rail,JR West - Osaka Loop Line,1961
+372,407,409,heavy_rail,JR West - Osaka Loop Line,1961
+373,408,413,heavy_rail,JR West - Osaka Loop Line,1961
+374,408,412,heavy_rail,JR West - Osaka Loop Line,1961
+375,410,414,heavy_rail,JR West - Osaka Loop Line,1961
+376,411,413,heavy_rail,JR West - Osaka Loop Line,1961
+377,412,414,heavy_rail,JR West - Osaka Loop Line,1961
+378,415,416,heavy_rail,JR West - Osaka Loop Line,1961
+379,415,399,heavy_rail,JR West - Osaka Loop Line,1961
+380,417,429,heavy_rail,JR West - Yamatoji Line,1889
+381,417,430,heavy_rail,JR West - Yamatoji Line,1890
+382,418,419,heavy_rail,JR West - Yamatoji Line,1889
+383,419,422,heavy_rail,JR West - Yamatoji Line,1889
+384,420,432,heavy_rail,JR West - Yamatoji Line,1891
+385,420,433,heavy_rail,JR West - Yamatoji Line,1891
+386,421,436,heavy_rail,JR West - Yamatoji Line,1896
+387,421,435,heavy_rail,JR West - Yamatoji Line,1890
+388,422,423,heavy_rail,JR West - Yamatoji Line,1889
+389,424,425,heavy_rail,JR West - Yamatoji Line,1889
+390,424,423,heavy_rail,JR West - Yamatoji Line,1889
+391,425,426,heavy_rail,JR West - Yamatoji Line,1889
+392,426,427,heavy_rail,JR West - Yamatoji Line,1889
+393,427,428,heavy_rail,JR West - Yamatoji Line,1889
+394,428,429,heavy_rail,JR West - Yamatoji Line,1889
+395,430,431,heavy_rail,JR West - Yamatoji Line,1890
+396,431,432,heavy_rail,JR West - Yamatoji Line,1891
+397,433,434,heavy_rail,JR West - Yamatoji Line,1890
+398,434,435,heavy_rail,JR West - Yamatoji Line,1890
+399,436,438,heavy_rail,JR West - Yamatoji Line,1907
+400,437,438,heavy_rail,JR West - Yamatoji Line,1907
+401,424,428,heavy_rail,JR West - Yamatoji Line,1889
+402,439,445,heavy_rail,JR West - Tozai Line,1997
+403,440,441,heavy_rail,JR West - Tozai Line,1997
+404,440,442,heavy_rail,JR West - Tozai Line,1997
+405,442,443,heavy_rail,JR West - Tozai Line,1997
+406,443,444,heavy_rail,JR West - Tozai Line,1997
+407,445,444,heavy_rail,JR West - Tozai Line,1997
+408,446,451,heavy_rail,JR West - Kyoto Line,1877
+409,447,462,heavy_rail,JR West - Kyoto Line,1876
+410,447,448,heavy_rail,JR West - Kyoto Line,1876
+411,448,449,heavy_rail,JR West - Kyoto Line,1876
+412,449,450,heavy_rail,JR West - Kyoto Line,1876
+413,450,451,heavy_rail,JR West - Kyoto Line,1876
+414,452,453,heavy_rail,JR West - Kyoto Line,1876
+415,453,454,heavy_rail,JR West - Kyoto Line,1876
+416,454,455,heavy_rail,JR West - Kyoto Line,1876
+417,455,456,heavy_rail,JR West - Kyoto Line,1876
+418,456,457,heavy_rail,JR West - Kyoto Line,1876
+419,457,458,heavy_rail,JR West - Kyoto Line,1876
+420,458,460,heavy_rail,JR West - Kyoto Line,1876
+421,459,460,heavy_rail,JR West - Kyoto Line,1876
+422,459,461,heavy_rail,JR West - Kyoto Line,1876
+423,462,461,heavy_rail,JR West - Kyoto Line,1876
+424,462,449,heavy_rail,JR West - Kyoto Line,1876
+425,463,467,heavy_rail,JR West - Nara Line,1921
+426,464,469,heavy_rail,JR West - Nara Line,1921
+427,464,470,heavy_rail,JR West - Nara Line,1896
+428,465,478,heavy_rail,JR West - Nara Line,1896
+429,465,479,heavy_rail,JR West - Nara Line,1896
+430,466,483,heavy_rail,JR West - Nara Line,1896
+431,467,468,heavy_rail,JR West - Nara Line,1921
+432,468,469,heavy_rail,JR West - Nara Line,1921
+433,470,471,heavy_rail,JR West - Nara Line,1896
+434,471,482,heavy_rail,JR West - Nara Line,1896
+435,472,473,heavy_rail,JR West - Nara Line,1896
+436,472,482,heavy_rail,JR West - Nara Line,1896
+437,473,474,heavy_rail,JR West - Nara Line,1896
+438,474,475,heavy_rail,JR West - Nara Line,1896
+439,475,476,heavy_rail,JR West - Nara Line,1896
+440,476,477,heavy_rail,JR West - Nara Line,1896
+441,477,478,heavy_rail,JR West - Nara Line,1896
+442,479,480,heavy_rail,JR West - Nara Line,1896
+443,480,481,heavy_rail,JR West - Nara Line,1896
+444,481,483,heavy_rail,JR West - Nara Line,1896
+445,472,477,heavy_rail,JR West - Nara Line,1896
+446,484,485,heavy_rail,JR West - Kobe Line,1888
+447,484,520,heavy_rail,JR West - Kobe Line,1889
+448,485,486,heavy_rail,JR West - Kobe Line,1888
+449,486,487,heavy_rail,JR West - Kobe Line,1888
+450,488,489,heavy_rail,JR West - Kobe Line,1888
+451,488,487,heavy_rail,JR West - Kobe Line,1888
+452,489,490,heavy_rail,JR West - Kobe Line,1888
+453,490,491,heavy_rail,JR West - Kobe Line,1888
+454,491,519,heavy_rail,JR West - Kobe Line,1888
+455,492,493,heavy_rail,JR West - Kobe Line,1888
+456,492,519,heavy_rail,JR West - Kobe Line,1888
+457,493,494,heavy_rail,JR West - Kobe Line,1888
+458,494,495,heavy_rail,JR West - Kobe Line,1888
+459,495,496,heavy_rail,JR West - Kobe Line,1888
+460,496,497,heavy_rail,JR West - Kobe Line,1888
+461,497,498,heavy_rail,JR West - Kobe Line,1888
+462,498,499,heavy_rail,JR West - Kobe Line,1888
+463,499,500,heavy_rail,JR West - Kobe Line,1888
+464,500,501,heavy_rail,JR West - Kobe Line,1888
+465,501,502,heavy_rail,JR West - Kobe Line,1888
+466,502,518,heavy_rail,JR West - Kobe Line,1888
+467,503,521,heavy_rail,JR West - Kobe Line,1874
+468,503,504,heavy_rail,JR West - Kobe Line,1874
+469,504,505,heavy_rail,JR West - Kobe Line,1874
+470,505,508,heavy_rail,JR West - Kobe Line,1874
+471,506,514,heavy_rail,JR West - Kobe Line,1874
+472,506,516,heavy_rail,JR West - Kobe Line,1874
+473,507,509,heavy_rail,JR West - Kobe Line,1874
+474,507,511,heavy_rail,JR West - Kobe Line,1874
+475,508,510,heavy_rail,JR West - Kobe Line,1874
+476,509,513,heavy_rail,JR West - Kobe Line,1874
+477,510,511,heavy_rail,JR West - Kobe Line,1874
+478,512,517,heavy_rail,JR West - Kobe Line,1874
+479,512,522,heavy_rail,JR West - Kobe Line,1889
+480,513,515,heavy_rail,JR West - Kobe Line,1874
+481,515,516,heavy_rail,JR West - Kobe Line,1874
+482,520,522,heavy_rail,JR West - Kobe Line,1889
+483,511,517,heavy_rail,JR West - Kobe Line,1874
+484,488,490,heavy_rail,JR West - Kobe Line,1888
+485,523,524,heavy_rail,JR West - Sakurajima Line,1898
+486,524,526,heavy_rail,JR West - Sakurajima Line,1910
+487,525,526,heavy_rail,JR West - Sakurajima Line,1910
+488,527,531,heavy_rail,JR West - Katamachi Line,1898
+489,527,535,heavy_rail,JR West - Katamachi Line,1898
+490,528,545,heavy_rail,JR West - Katamachi Line,1895
+491,528,530,heavy_rail,JR West - Katamachi Line,1895
+492,529,535,heavy_rail,JR West - Katamachi Line,1898
+493,529,537,heavy_rail,JR West - Katamachi Line,1898
+494,530,532,heavy_rail,JR West - Katamachi Line,1895
+495,531,534,heavy_rail,JR West - Katamachi Line,1895
+496,532,533,heavy_rail,JR West - Katamachi Line,1895
+497,533,534,heavy_rail,JR West - Katamachi Line,1895
+498,536,537,heavy_rail,JR West - Katamachi Line,1898
+499,536,538,heavy_rail,JR West - Katamachi Line,1898
+500,538,539,heavy_rail,JR West - Katamachi Line,1898
+501,539,540,heavy_rail,JR West - Katamachi Line,1898
+502,540,541,heavy_rail,JR West - Katamachi Line,1898
+503,541,542,heavy_rail,JR West - Katamachi Line,1898
+504,542,543,heavy_rail,JR West - Katamachi Line,1898
+505,543,544,heavy_rail,JR West - Katamachi Line,1898
+506,544,547,heavy_rail,JR West - Katamachi Line,1898
+507,546,550,heavy_rail,JR West - Katamachi Line,1898
+508,547,548,heavy_rail,JR West - Katamachi Line,1898
+509,548,549,heavy_rail,JR West - Katamachi Line,1898
+510,549,550,heavy_rail,JR West - Katamachi Line,1898
+511,551,557,heavy_rail,JR West - Hanwa Line,1929
+512,552,572,heavy_rail,JR West - Hanwa Line,1930
+513,553,585,heavy_rail,JR West - Hanwa Line,1930
+514,554,573,heavy_rail,JR West - Hanwa Line,1930
+515,554,561,heavy_rail,JR West - Hanwa Line,1930
+516,555,569,heavy_rail,JR West - Hanwa Line,1929
+517,555,556,heavy_rail,JR West - Hanwa Line,1929
+518,556,558,heavy_rail,JR West - Hanwa Line,1929
+519,557,559,heavy_rail,JR West - Hanwa Line,1929
+520,558,563,heavy_rail,JR West - Hanwa Line,1929
+521,559,560,heavy_rail,JR West - Hanwa Line,1929
+522,560,562,heavy_rail,JR West - Hanwa Line,1929
+523,561,571,heavy_rail,JR West - Hanwa Line,1930
+524,562,564,heavy_rail,JR West - Hanwa Line,1929
+525,563,567,heavy_rail,JR West - Hanwa Line,1929
+526,564,565,heavy_rail,JR West - Hanwa Line,1929
+527,565,566,heavy_rail,JR West - Hanwa Line,1929
+528,566,568,heavy_rail,JR West - Hanwa Line,1929
+529,567,570,heavy_rail,JR West - Hanwa Line,1929
+530,568,569,heavy_rail,JR West - Hanwa Line,1929
+531,570,572,heavy_rail,JR West - Hanwa Line,1929
+532,571,575,heavy_rail,JR West - Hanwa Line,1930
+533,574,577,heavy_rail,JR West - Hanwa Line,1930
+534,574,578,heavy_rail,JR West - Hanwa Line,1930
+535,575,577,heavy_rail,JR West - Hanwa Line,1930
+536,576,578,heavy_rail,JR West - Hanwa Line,1930
+537,576,580,heavy_rail,JR West - Hanwa Line,1930
+538,579,580,heavy_rail,JR West - Hanwa Line,1930
+539,579,581,heavy_rail,JR West - Hanwa Line,1930
+540,581,582,heavy_rail,JR West - Hanwa Line,1930
+541,583,584,heavy_rail,JR West - Hanwa Line,1930
+542,583,582,heavy_rail,JR West - Hanwa Line,1930
+543,584,585,heavy_rail,JR West - Hanwa Line,1930
+544,569,570,heavy_rail,JR West - Hanwa Line,1929
+545,552,584,heavy_rail,JR West - Hanwa Line,1930
+546,586,587,heavy_rail,JR West - Fukuchiyama Line,1986
+547,587,600,heavy_rail,JR West - Fukuchiyama Line,1986
+548,588,589,heavy_rail,JR West - Fukuchiyama Line,1899
+549,588,605,heavy_rail,JR West - Fukuchiyama Line,1899
+550,589,590,heavy_rail,JR West - Fukuchiyama Line,1899
+551,590,591,heavy_rail,JR West - Fukuchiyama Line,1899
+552,591,592,heavy_rail,JR West - Fukuchiyama Line,1899
+553,592,593,heavy_rail,JR West - Fukuchiyama Line,1899
+554,593,594,heavy_rail,JR West - Fukuchiyama Line,1899
+555,594,606,heavy_rail,JR West - Fukuchiyama Line,1899
+556,595,606,heavy_rail,JR West - Fukuchiyama Line,1899
+557,596,604,heavy_rail,JR West - Fukuchiyama Line,1893
+558,596,597,heavy_rail,JR West - Fukuchiyama Line,1893
+559,597,598,heavy_rail,JR West - Fukuchiyama Line,1893
+560,598,601,heavy_rail,JR West - Fukuchiyama Line,1897
+561,599,602,heavy_rail,JR West - Fukuchiyama Line,1897
+562,599,601,heavy_rail,JR West - Fukuchiyama Line,1897
+563,600,602,heavy_rail,JR West - Fukuchiyama Line,1986
+564,603,604,heavy_rail,JR West - Fukuchiyama Line,1893
+565,605,615,heavy_rail,JR West - Fukuchiyama Line,1986
+566,607,614,heavy_rail,JR West - Fukuchiyama Line,1899
+567,608,610,heavy_rail,JR West - Fukuchiyama Line,1899
+568,608,609,heavy_rail,JR West - Fukuchiyama Line,1899
+569,610,611,heavy_rail,JR West - Fukuchiyama Line,1899
+570,611,612,heavy_rail,JR West - Fukuchiyama Line,1899
+571,613,614,heavy_rail,JR West - Fukuchiyama Line,1899
+572,613,612,heavy_rail,JR West - Fukuchiyama Line,1899
+573,615,586,heavy_rail,JR West - Fukuchiyama Line,1986
+574,595,612,heavy_rail,JR West - Fukuchiyama Line,1899
+575,616,633,heavy_rail,Kintetsu - Osaka Line,1914
+576,617,635,heavy_rail,Kintetsu - Osaka Line,1924
+577,617,634,heavy_rail,Kintetsu - Osaka Line,1924
+578,618,628,heavy_rail,Kintetsu - Osaka Line,1925
+579,618,630,heavy_rail,Kintetsu - Osaka Line,1925
+580,619,632,heavy_rail,Kintetsu - Osaka Line,1927
+581,619,636,heavy_rail,Kintetsu - Osaka Line,1927
+582,620,626,heavy_rail,Kintetsu - Osaka Line,1927
+583,620,621,heavy_rail,Kintetsu - Osaka Line,1927
+584,621,631,heavy_rail,Kintetsu - Osaka Line,1927
+585,622,643,heavy_rail,Kintetsu - Osaka Line,1927
+586,622,629,heavy_rail,Kintetsu - Osaka Line,1927
+587,623,642,heavy_rail,Kintetsu - Osaka Line,1929
+588,623,644,heavy_rail,Kintetsu - Osaka Line,1929
+589,624,645,heavy_rail,Kintetsu - Osaka Line,1930
+590,624,648,heavy_rail,Kintetsu - Osaka Line,1930
+591,625,635,heavy_rail,Kintetsu - Osaka Line,1924
+592,625,627,heavy_rail,Kintetsu - Osaka Line,1924
+593,626,639,heavy_rail,Kintetsu - Osaka Line,1927
+594,627,628,heavy_rail,Kintetsu - Osaka Line,1924
+595,629,642,heavy_rail,Kintetsu - Osaka Line,1925
+596,630,632,heavy_rail,Kintetsu - Osaka Line,1925
+597,631,637,heavy_rail,Kintetsu - Osaka Line,1927
+598,633,634,heavy_rail,Kintetsu - Osaka Line,1914
+599,636,638,heavy_rail,Kintetsu - Osaka Line,1927
+600,637,641,heavy_rail,Kintetsu - Osaka Line,1927
+601,638,639,heavy_rail,Kintetsu - Osaka Line,1927
+602,640,644,heavy_rail,Kintetsu - Osaka Line,1929
+603,640,646,heavy_rail,Kintetsu - Osaka Line,1929
+604,641,643,heavy_rail,Kintetsu - Osaka Line,1927
+605,645,646,heavy_rail,Kintetsu - Osaka Line,1929
+606,647,663,heavy_rail,Kintetsu - Osaka Line,1930
+607,648,649,heavy_rail,Kintetsu - Osaka Line,1930
+608,649,650,heavy_rail,Kintetsu - Osaka Line,1930
+609,650,651,heavy_rail,Kintetsu - Osaka Line,1930
+610,651,652,heavy_rail,Kintetsu - Osaka Line,1930
+611,652,653,heavy_rail,Kintetsu - Osaka Line,1930
+612,653,654,heavy_rail,Kintetsu - Osaka Line,1930
+613,654,655,heavy_rail,Kintetsu - Osaka Line,1930
+614,655,656,heavy_rail,Kintetsu - Osaka Line,1930
+615,656,657,heavy_rail,Kintetsu - Osaka Line,1930
+616,657,658,heavy_rail,Kintetsu - Osaka Line,1930
+617,659,660,heavy_rail,Kintetsu - Osaka Line,1930
+618,660,661,heavy_rail,Kintetsu - Osaka Line,1930
+619,661,662,heavy_rail,Kintetsu - Osaka Line,1930
+620,662,663,heavy_rail,Kintetsu - Osaka Line,1930
+621,658,662,heavy_rail,Kintetsu - Osaka Line,1930
+622,664,671,heavy_rail,Kintetsu - Nara Line,1914
+623,665,670,heavy_rail,Kintetsu - Nara Line,1914
+624,666,667,heavy_rail,Kintetsu - Nara Line,1914
+625,666,682,heavy_rail,Kintetsu - Nara Line,1914
+626,667,668,heavy_rail,Kintetsu - Nara Line,1914
+627,668,669,heavy_rail,Kintetsu - Nara Line,1914
+628,669,670,heavy_rail,Kintetsu - Nara Line,1914
+629,671,672,heavy_rail,Kintetsu - Nara Line,1914
+630,672,673,heavy_rail,Kintetsu - Nara Line,1914
+631,674,675,heavy_rail,Kintetsu - Nara Line,1914
+632,675,676,heavy_rail,Kintetsu - Nara Line,1914
+633,676,677,heavy_rail,Kintetsu - Nara Line,1914
+634,677,678,heavy_rail,Kintetsu - Nara Line,1914
+635,678,679,heavy_rail,Kintetsu - Nara Line,1914
+636,679,680,heavy_rail,Kintetsu - Nara Line,1914
+637,681,682,heavy_rail,Kintetsu - Nara Line,1914
+638,673,669,heavy_rail,Kintetsu - Nara Line,1914
+639,683,701,heavy_rail,Kintetsu - Minami Osaka Line,1929
+640,683,700,heavy_rail,Kintetsu - Minami Osaka Line,1922
+641,684,700,heavy_rail,Kintetsu - Minami Osaka Line,1922
+642,685,695,heavy_rail,Kintetsu - Minami Osaka Line,1923
+643,685,694,heavy_rail,Kintetsu - Minami Osaka Line,1923
+644,686,689,heavy_rail,Kintetsu - Minami Osaka Line,1923
+645,687,688,heavy_rail,Kintetsu - Minami Osaka Line,1929
+646,688,710,heavy_rail,Kintetsu - Minami Osaka Line,1929
+647,689,690,heavy_rail,Kintetsu - Minami Osaka Line,1923
+648,690,691,heavy_rail,Kintetsu - Minami Osaka Line,1923
+649,691,692,heavy_rail,Kintetsu - Minami Osaka Line,1923
+650,692,693,heavy_rail,Kintetsu - Minami Osaka Line,1923
+651,693,694,heavy_rail,Kintetsu - Minami Osaka Line,1923
+652,695,696,heavy_rail,Kintetsu - Minami Osaka Line,1922
+653,696,697,heavy_rail,Kintetsu - Minami Osaka Line,1922
+654,697,698,heavy_rail,Kintetsu - Minami Osaka Line,1922
+655,698,699,heavy_rail,Kintetsu - Minami Osaka Line,1922
+656,699,700,heavy_rail,Kintetsu - Minami Osaka Line,1922
+657,701,702,heavy_rail,Kintetsu - Minami Osaka Line,1929
+658,703,704,heavy_rail,Kintetsu - Minami Osaka Line,1929
+659,704,705,heavy_rail,Kintetsu - Minami Osaka Line,1929
+660,705,706,heavy_rail,Kintetsu - Minami Osaka Line,1929
+661,706,707,heavy_rail,Kintetsu - Minami Osaka Line,1929
+662,708,709,heavy_rail,Kintetsu - Minami Osaka Line,1929
+663,708,707,heavy_rail,Kintetsu - Minami Osaka Line,1929
+664,709,710,heavy_rail,Kintetsu - Minami Osaka Line,1929
+665,702,709,heavy_rail,Kintetsu - Minami Osaka Line,1929
+666,711,713,heavy_rail,Kintetsu - Domyoji Line,1898
+667,712,713,heavy_rail,Kintetsu - Domyoji Line,1898
+668,714,717,heavy_rail,Kintetsu - Kyoto Line,1928
+669,715,739,heavy_rail,Kintetsu - Kyoto Line,1928
+670,716,728,heavy_rail,Kintetsu - Kyoto Line,1928
+671,716,725,heavy_rail,Kintetsu - Kyoto Line,1928
+672,717,719,heavy_rail,Kintetsu - Kyoto Line,1928
+673,718,726,heavy_rail,Kintetsu - Kyoto Line,1928
+674,719,720,heavy_rail,Kintetsu - Kyoto Line,1928
+675,720,722,heavy_rail,Kintetsu - Kyoto Line,1928
+676,721,727,heavy_rail,Kintetsu - Kyoto Line,1928
+677,722,723,heavy_rail,Kintetsu - Kyoto Line,1928
+678,723,724,heavy_rail,Kintetsu - Kyoto Line,1928
+679,724,726,heavy_rail,Kintetsu - Kyoto Line,1928
+680,725,730,heavy_rail,Kintetsu - Kyoto Line,1928
+681,727,728,heavy_rail,Kintetsu - Kyoto Line,1928
+682,729,732,heavy_rail,Kintetsu - Kyoto Line,1928
+683,729,730,heavy_rail,Kintetsu - Kyoto Line,1928
+684,731,733,heavy_rail,Kintetsu - Kyoto Line,1928
+685,731,732,heavy_rail,Kintetsu - Kyoto Line,1928
+686,733,734,heavy_rail,Kintetsu - Kyoto Line,1928
+687,735,736,heavy_rail,Kintetsu - Kyoto Line,1928
+688,735,734,heavy_rail,Kintetsu - Kyoto Line,1928
+689,736,737,heavy_rail,Kintetsu - Kyoto Line,1928
+690,737,738,heavy_rail,Kintetsu - Kyoto Line,1928
+691,738,739,heavy_rail,Kintetsu - Kyoto Line,1928
+692,738,726,heavy_rail,Kintetsu - Kyoto Line,1928
+693,740,744,heavy_rail,Kintetsu - Kashihara Line,1921
+694,741,746,heavy_rail,Kintetsu - Kashihara Line,1921
+695,742,748,heavy_rail,Kintetsu - Kashihara Line,1923
+696,742,747,heavy_rail,Kintetsu - Kashihara Line,1923
+697,743,756,heavy_rail,Kintetsu - Kashihara Line,1923
+698,744,745,heavy_rail,Kintetsu - Kashihara Line,1921
+699,745,746,heavy_rail,Kintetsu - Kashihara Line,1921
+700,748,749,heavy_rail,Kintetsu - Kashihara Line,1923
+701,749,750,heavy_rail,Kintetsu - Kashihara Line,1923
+702,750,751,heavy_rail,Kintetsu - Kashihara Line,1923
+703,751,752,heavy_rail,Kintetsu - Kashihara Line,1923
+704,752,753,heavy_rail,Kintetsu - Kashihara Line,1923
+705,753,754,heavy_rail,Kintetsu - Kashihara Line,1923
+706,754,755,heavy_rail,Kintetsu - Kashihara Line,1923
+707,756,755,heavy_rail,Kintetsu - Kashihara Line,1923
+708,741,747,heavy_rail,Kintetsu - Kashihara Line,1922
+709,757,761,heavy_rail,Nankai - Nankai Main Line,1885
+710,758,770,heavy_rail,Nankai - Nankai Main Line,1897
+711,758,769,heavy_rail,Nankai - Nankai Main Line,1888
+712,759,794,heavy_rail,Nankai - Nankai Main Line,1898
+713,759,793,heavy_rail,Nankai - Nankai Main Line,1897
+714,760,774,heavy_rail,Nankai - Nankai Main Line,1903
+715,761,763,heavy_rail,Nankai - Nankai Main Line,1885
+716,762,765,heavy_rail,Nankai - Nankai Main Line,1885
+717,762,764,heavy_rail,Nankai - Nankai Main Line,1885
+718,763,764,heavy_rail,Nankai - Nankai Main Line,1885
+719,765,766,heavy_rail,Nankai - Nankai Main Line,1885
+720,766,767,heavy_rail,Nankai - Nankai Main Line,1885
+721,767,768,heavy_rail,Nankai - Nankai Main Line,1885
+722,769,768,heavy_rail,Nankai - Nankai Main Line,1888
+723,770,771,heavy_rail,Nankai - Nankai Main Line,1897
+724,771,772,heavy_rail,Nankai - Nankai Main Line,1897
+725,772,773,heavy_rail,Nankai - Nankai Main Line,1897
+726,773,775,heavy_rail,Nankai - Nankai Main Line,1897
+727,774,799,heavy_rail,Nankai - Nankai Main Line,1898
+728,775,776,heavy_rail,Nankai - Nankai Main Line,1897
+729,776,777,heavy_rail,Nankai - Nankai Main Line,1897
+730,777,778,heavy_rail,Nankai - Nankai Main Line,1897
+731,778,779,heavy_rail,Nankai - Nankai Main Line,1897
+732,779,780,heavy_rail,Nankai - Nankai Main Line,1897
+733,780,781,heavy_rail,Nankai - Nankai Main Line,1897
+734,781,782,heavy_rail,Nankai - Nankai Main Line,1897
+735,782,783,heavy_rail,Nankai - Nankai Main Line,1897
+736,783,784,heavy_rail,Nankai - Nankai Main Line,1897
+737,784,785,heavy_rail,Nankai - Nankai Main Line,1897
+738,785,786,heavy_rail,Nankai - Nankai Main Line,1897
+739,786,787,heavy_rail,Nankai - Nankai Main Line,1897
+740,787,788,heavy_rail,Nankai - Nankai Main Line,1897
+741,788,789,heavy_rail,Nankai - Nankai Main Line,1897
+742,789,790,heavy_rail,Nankai - Nankai Main Line,1897
+743,790,791,heavy_rail,Nankai - Nankai Main Line,1897
+744,791,792,heavy_rail,Nankai - Nankai Main Line,1897
+745,792,793,heavy_rail,Nankai - Nankai Main Line,1897
+746,794,795,heavy_rail,Nankai - Nankai Main Line,1898
+747,796,797,heavy_rail,Nankai - Nankai Main Line,1898
+748,796,795,heavy_rail,Nankai - Nankai Main Line,1898
+749,797,798,heavy_rail,Nankai - Nankai Main Line,1898
+750,798,799,heavy_rail,Nankai - Nankai Main Line,1898
+751,764,767,heavy_rail,Nankai - Nankai Main Line,1885
+752,796,798,heavy_rail,Nankai - Nankai Main Line,1898
+753,800,811,heavy_rail,Nankai - Koya Line,1898
+754,800,810,heavy_rail,Nankai - Koya Line,1900
+755,801,803,heavy_rail,Nankai - Koya Line,1914
+756,801,824,heavy_rail,Nankai - Koya Line,1914
+757,802,807,heavy_rail,Nankai - Koya Line,1900
+758,803,825,heavy_rail,Nankai - Koya Line,1915
+759,804,831,heavy_rail,Nankai - Koya Line,1924
+760,804,830,heavy_rail,Nankai - Koya Line,1915
+761,805,816,heavy_rail,Nankai - Koya Line,1929
+762,806,813,heavy_rail,Nankai - Koya Line,1898
+763,806,814,heavy_rail,Nankai - Koya Line,1898
+764,807,808,heavy_rail,Nankai - Koya Line,1900
+765,808,818,heavy_rail,Nankai - Koya Line,1900
+766,809,818,heavy_rail,Nankai - Koya Line,1900
+767,809,810,heavy_rail,Nankai - Koya Line,1900
+768,811,813,heavy_rail,Nankai - Koya Line,1898
+769,812,816,heavy_rail,Nankai - Koya Line,1928
+770,812,834,heavy_rail,Nankai - Koya Line,1928
+771,814,815,heavy_rail,Nankai - Koya Line,1898
+772,815,817,heavy_rail,Nankai - Koya Line,1898
+773,817,819,heavy_rail,Nankai - Koya Line,1898
+774,819,820,heavy_rail,Nankai - Koya Line,1898
+775,820,821,heavy_rail,Nankai - Koya Line,1898
+776,821,822,heavy_rail,Nankai - Koya Line,1898
+777,822,823,heavy_rail,Nankai - Koya Line,1898
+778,823,824,heavy_rail,Nankai - Koya Line,1898
+779,825,826,heavy_rail,Nankai - Koya Line,1915
+780,826,827,heavy_rail,Nankai - Koya Line,1915
+781,827,828,heavy_rail,Nankai - Koya Line,1915
+782,828,829,heavy_rail,Nankai - Koya Line,1915
+783,829,830,heavy_rail,Nankai - Koya Line,1915
+784,831,833,heavy_rail,Nankai - Koya Line,1924
+785,832,834,heavy_rail,Nankai - Koya Line,1928
+786,832,836,heavy_rail,Nankai - Koya Line,1928
+787,833,835,heavy_rail,Nankai - Koya Line,1924
+788,835,836,heavy_rail,Nankai - Koya Line,1928
+789,813,823,heavy_rail,Nankai - Koya Line,1898
+790,837,839,heavy_rail,Nankai - Shiomibashi Line,1900
+791,838,842,heavy_rail,Nankai - Shiomibashi Line,1900
+792,839,840,heavy_rail,Nankai - Shiomibashi Line,1900
+793,840,841,heavy_rail,Nankai - Shiomibashi Line,1900
+794,841,842,heavy_rail,Nankai - Shiomibashi Line,1900
+795,843,844,heavy_rail,Nankai - Takashinohama Line,1919
+796,843,845,heavy_rail,Nankai - Takashinohama Line,1919
+797,846,848,heavy_rail,Nankai - Airport Line,1994
+798,847,848,heavy_rail,Nankai - Airport Line,1994
+799,849,850,heavy_rail,Keihan - Nakanoshima Line,2008
+800,851,854,heavy_rail,Nankai - Tanagawa Line,1944
+801,852,853,heavy_rail,Nankai - Tanagawa Line,1944
+802,853,854,heavy_rail,Nankai - Tanagawa Line,1944
+803,855,862,heavy_rail,Nankai - Kada Line,1912
+804,856,857,heavy_rail,Nankai - Kada Line,1912
+805,857,858,heavy_rail,Nankai - Kada Line,1912
+806,858,859,heavy_rail,Nankai - Kada Line,1912
+807,859,860,heavy_rail,Nankai - Kada Line,1912
+808,860,861,heavy_rail,Nankai - Kada Line,1912
+809,861,862,heavy_rail,Nankai - Kada Line,1912
+810,864,865,heavy_rail,Kintetsu - Ikoma Line,1926
+811,864,869,heavy_rail,Kintetsu - Ikoma Line,1926
+812,865,875,heavy_rail,Kintetsu - Ikoma Line,1926
+813,866,874,heavy_rail,Kintetsu - Ikoma Line,1926
+814,867,874,heavy_rail,Kintetsu - Ikoma Line,1926
+815,868,871,heavy_rail,Kintetsu - Ikoma Line,1926
+816,868,872,heavy_rail,Kintetsu - Ikoma Line,1926
+817,870,871,heavy_rail,Kintetsu - Ikoma Line,1926
+818,870,875,heavy_rail,Kintetsu - Ikoma Line,1926
+819,872,873,heavy_rail,Kintetsu - Ikoma Line,1926
+820,873,874,heavy_rail,Kintetsu - Ikoma Line,1926
+821,876,879,heavy_rail,Kintetsu - Tenri Line,1915
+822,877,878,heavy_rail,Kintetsu - Tenri Line,1952
+823,878,879,heavy_rail,Kintetsu - Tenri Line,1915
+824,880,882,heavy_rail,Kintetsu - Tawaramoto Line,1918
+825,881,887,heavy_rail,Kintetsu - Tawaramoto Line,1918
+826,882,883,heavy_rail,Kintetsu - Tawaramoto Line,1918
+827,883,884,heavy_rail,Kintetsu - Tawaramoto Line,1918
+828,884,885,heavy_rail,Kintetsu - Tawaramoto Line,1918
+829,885,886,heavy_rail,Kintetsu - Tawaramoto Line,1918
+830,886,887,heavy_rail,Kintetsu - Tawaramoto Line,1918
+831,888,892,heavy_rail,Kintetsu - Nagano Line,1902
+832,889,891,heavy_rail,Kintetsu - Nagano Line,1898
+833,890,895,heavy_rail,Kintetsu - Nagano Line,1902
+834,891,888,heavy_rail,Kintetsu - Nagano Line,1902
+835,892,893,heavy_rail,Kintetsu - Nagano Line,1902
+836,893,894,heavy_rail,Kintetsu - Nagano Line,1902
+837,894,895,heavy_rail,Kintetsu - Nagano Line,1902
+838,896,897,heavy_rail,Kintetsu - Gose Line,1930
+839,897,898,heavy_rail,Kintetsu - Gose Line,1930
+840,898,899,heavy_rail,Kintetsu - Gose Line,1930
+841,900,901,heavy_rail,JR West - Hagoromo Line,1929
+842,902,905,heavy_rail,JR West - Sakurai Line,1899
+843,903,912,heavy_rail,JR West - Sakurai Line,1898
+844,903,913,heavy_rail,JR West - Sakurai Line,1893
+845,904,915,heavy_rail,JR West - Sakurai Line,1893
+846,905,906,heavy_rail,JR West - Sakurai Line,1898
+847,906,907,heavy_rail,JR West - Sakurai Line,1898
+848,907,908,heavy_rail,JR West - Sakurai Line,1898
+849,908,909,heavy_rail,JR West - Sakurai Line,1898
+850,909,910,heavy_rail,JR West - Sakurai Line,1898
+851,910,911,heavy_rail,JR West - Sakurai Line,1898
+852,911,912,heavy_rail,JR West - Sakurai Line,1898
+853,914,915,heavy_rail,JR West - Sakurai Line,1893
+854,914,913,heavy_rail,JR West - Sakurai Line,1893
+855,916,917,heavy_rail,Keihan - Oto Line,1989
+856,917,918,heavy_rail,Keihan - Oto Line,1989
+857,919,923,heavy_rail,Keihan - Keihan Main Line,1963
+858,919,925,heavy_rail,Keihan - Keihan Main Line,1963
+859,920,923,heavy_rail,Keihan - Keihan Main Line,1963
+860,921,952,heavy_rail,Keihan - Keihan Main Line,1915
+861,921,956,heavy_rail,Keihan - Keihan Main Line,1915
+862,922,956,heavy_rail,Keihan - Keihan Main Line,1915
+863,924,958,heavy_rail,Keihan - Keihan Main Line,1910
+864,924,928,heavy_rail,Keihan - Keihan Main Line,1910
+865,925,926,heavy_rail,Keihan - Keihan Main Line,1910
+866,926,927,heavy_rail,Keihan - Keihan Main Line,1910
+867,927,929,heavy_rail,Keihan - Keihan Main Line,1910
+868,928,932,heavy_rail,Keihan - Keihan Main Line,1910
+869,929,930,heavy_rail,Keihan - Keihan Main Line,1910
+870,930,931,heavy_rail,Keihan - Keihan Main Line,1910
+871,931,933,heavy_rail,Keihan - Keihan Main Line,1910
+872,932,936,heavy_rail,Keihan - Keihan Main Line,1910
+873,933,934,heavy_rail,Keihan - Keihan Main Line,1910
+874,934,935,heavy_rail,Keihan - Keihan Main Line,1910
+875,935,937,heavy_rail,Keihan - Keihan Main Line,1910
+876,936,940,heavy_rail,Keihan - Keihan Main Line,1910
+877,937,938,heavy_rail,Keihan - Keihan Main Line,1910
+878,938,939,heavy_rail,Keihan - Keihan Main Line,1910
+879,939,941,heavy_rail,Keihan - Keihan Main Line,1910
+880,940,944,heavy_rail,Keihan - Keihan Main Line,1910
+881,941,942,heavy_rail,Keihan - Keihan Main Line,1910
+882,942,943,heavy_rail,Keihan - Keihan Main Line,1910
+883,943,945,heavy_rail,Keihan - Keihan Main Line,1910
+884,944,948,heavy_rail,Keihan - Keihan Main Line,1910
+885,945,946,heavy_rail,Keihan - Keihan Main Line,1910
+886,946,947,heavy_rail,Keihan - Keihan Main Line,1910
+887,947,949,heavy_rail,Keihan - Keihan Main Line,1910
+888,948,952,heavy_rail,Keihan - Keihan Main Line,1910
+889,949,950,heavy_rail,Keihan - Keihan Main Line,1910
+890,950,951,heavy_rail,Keihan - Keihan Main Line,1910
+891,951,953,heavy_rail,Keihan - Keihan Main Line,1910
+892,953,954,heavy_rail,Keihan - Keihan Main Line,1910
+893,954,955,heavy_rail,Keihan - Keihan Main Line,1910
+894,955,957,heavy_rail,Keihan - Keihan Main Line,1910
+895,957,958,heavy_rail,Keihan - Keihan Main Line,1910
+896,958,948,heavy_rail,Keihan - Keihan Main Line,1910
+897,959,960,heavy_rail,Mizuma Railway - Mizuma Line,1926
+898,959,961,heavy_rail,Mizuma Railway - Mizuma Line,1926
+899,962,963,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1977
+900,962,967,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1971
+901,963,964,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1977
+902,964,965,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1995
+903,966,967,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1971
+904,968,974,heavy_rail,Kintetsu - Keihanna Line,2006
+905,969,975,heavy_rail,Kintetsu - Keihanna Line,2006
+906,970,971,heavy_rail,Kintetsu - Keihanna Line,1986
+907,971,972,heavy_rail,Kintetsu - Keihanna Line,1986
+908,972,973,heavy_rail,Kintetsu - Keihanna Line,1986
+909,974,975,heavy_rail,Kintetsu - Keihanna Line,2006
+910,973,968,heavy_rail,Kintetsu - Keihanna Line,1986
+911,976,978,heavy_rail,Kintetsu - Shigi Line,1930
+912,977,978,heavy_rail,Kintetsu - Shigi Line,1930
+913,979,992,heavy_rail,Kintetsu - Yoshino Line,1912
+914,979,993,heavy_rail,Kintetsu - Yoshino Line,1928
+915,980,982,heavy_rail,Kintetsu - Yoshino Line,1923
+916,981,994,heavy_rail,Kintetsu - Yoshino Line,1928
+917,982,983,heavy_rail,Kintetsu - Yoshino Line,1923
+918,983,984,heavy_rail,Kintetsu - Yoshino Line,1923
+919,984,985,heavy_rail,Kintetsu - Yoshino Line,1923
+920,985,986,heavy_rail,Kintetsu - Yoshino Line,1923
+921,986,990,heavy_rail,Kintetsu - Yoshino Line,1923
+922,987,988,heavy_rail,Kintetsu - Yoshino Line,1912
+923,987,990,heavy_rail,Kintetsu - Yoshino Line,1923
+924,988,989,heavy_rail,Kintetsu - Yoshino Line,1912
+925,989,991,heavy_rail,Kintetsu - Yoshino Line,1912
+926,991,992,heavy_rail,Kintetsu - Yoshino Line,1912
+927,993,994,heavy_rail,Kintetsu - Yoshino Line,1928
+928,995,1002,heavy_rail,Keihan - Uji Line,1913
+929,996,997,heavy_rail,Keihan - Uji Line,1913
+930,997,998,heavy_rail,Keihan - Uji Line,1913
+931,998,999,heavy_rail,Keihan - Uji Line,1913
+932,999,1000,heavy_rail,Keihan - Uji Line,1913
+933,1001,1002,heavy_rail,Keihan - Uji Line,1913
+934,1001,1000,heavy_rail,Keihan - Uji Line,1913
+935,1003,1005,heavy_rail,Keihan - Katano Line,1929
+936,1004,1010,heavy_rail,Keihan - Katano Line,1929
+937,1005,1006,heavy_rail,Keihan - Katano Line,1929
+938,1006,1007,heavy_rail,Keihan - Katano Line,1929
+939,1007,1008,heavy_rail,Keihan - Katano Line,1929
+940,1008,1009,heavy_rail,Keihan - Katano Line,1929
+941,1009,1010,heavy_rail,Keihan - Katano Line,1929
+942,1011,1018,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1921
+943,1011,1039,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1921
+944,1012,1039,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1921
+945,1013,1039,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1921
+946,1014,1018,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+947,1014,1019,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+948,1015,1016,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1931
+949,1015,1037,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1931
+950,1016,1038,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1963
+951,1017,1038,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1963
+952,1019,1020,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+953,1020,1021,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+954,1021,1022,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+955,1022,1023,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+956,1023,1024,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+957,1024,1025,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+958,1025,1026,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+959,1027,1026,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+960,1027,1028,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+961,1028,1029,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+962,1029,1030,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+963,1030,1031,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+964,1031,1032,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+965,1032,1033,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+966,1033,1034,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+967,1034,1035,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+968,1035,1036,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+969,1036,1037,heavy_rail,Hankyu - Hankyu Kyoto Main Line,1928
+970,1040,1042,heavy_rail,Hankyu - Senri Line,1967
+971,1040,1044,heavy_rail,Hankyu - Senri Line,1967
+972,1041,1045,heavy_rail,Hankyu - Senri Line,1925
+973,1043,1045,heavy_rail,Hankyu - Senri Line,1925
+974,1041,1042,heavy_rail,Hankyu - Senri Line,1963
+975,1046,1047,heavy_rail,Hankyu - Arashiyama Line,1928
+976,1046,1049,heavy_rail,Hankyu - Arashiyama Line,1928
+977,1047,1048,heavy_rail,Hankyu - Arashiyama Line,1928
+978,1050,1054,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+979,1050,1058,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+980,1051,1057,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+981,1051,1056,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+982,1052,1061,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+983,1053,1052,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+984,1053,1055,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+985,1054,1059,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+986,1055,1056,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+987,1057,1058,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+988,1059,1063,heavy_rail,Hankyu - Hankyu Kobe Main Line,1936
+989,1060,1063,heavy_rail,Hankyu - Hankyu Kobe Main Line,1936
+990,1060,1065,heavy_rail,Hankyu - Hankyu Kobe Main Line,1936
+991,1061,1064,heavy_rail,Hankyu - Hankyu Kobe Main Line,1921
+992,1062,1064,heavy_rail,Hankyu - Hankyu Kobe Main Line,1921
+993,1056,1054,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+994,1066,1069,heavy_rail,Hankyu - Imazu Line,1926
+995,1066,1070,heavy_rail,Hankyu - Imazu Line,1921
+996,1067,1069,heavy_rail,Hankyu - Imazu Line,1926
+997,1068,1075,heavy_rail,Hankyu - Imazu Line,1921
+998,1070,1071,heavy_rail,Hankyu - Imazu Line,1921
+999,1071,1072,heavy_rail,Hankyu - Imazu Line,1921
+1000,1072,1073,heavy_rail,Hankyu - Imazu Line,1921
+1001,1073,1074,heavy_rail,Hankyu - Imazu Line,1921
+1002,1074,1075,heavy_rail,Hankyu - Imazu Line,1921
+1003,1076,1078,heavy_rail,Hankyu - Itami Line,1920
+1004,1077,1079,heavy_rail,Hankyu - Itami Line,1920
+1005,1078,1079,heavy_rail,Hankyu - Itami Line,1920
+1006,1080,1082,heavy_rail,Hankyu - Koyo Line,1924
+1007,1081,1082,heavy_rail,Hankyu - Koyo Line,1924
+1008,1083,1084,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1009,1083,1087,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1010,1084,1085,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1011,1085,1086,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1012,1086,1092,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1013,1087,1091,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1921
+1014,1088,1091,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1921
+1015,1089,1101,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1016,1090,1094,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1017,1090,1095,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1018,1092,1093,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1019,1093,1094,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1020,1095,1096,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1021,1096,1097,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1022,1097,1098,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1023,1098,1099,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1024,1099,1100,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1025,1100,1101,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1026,1094,1100,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1027,1102,1105,heavy_rail,Hankyu - Mino Line,1910
+1028,1103,1104,heavy_rail,Hankyu - Mino Line,1910
+1029,1104,1105,heavy_rail,Hankyu - Mino Line,1910
+1030,1106,1110,heavy_rail,Hanshin - Hanshin Main Line,1993
+1031,1107,1108,heavy_rail,Hanshin - Hanshin Main Line,1905
+1032,1107,1139,heavy_rail,Hanshin - Hanshin Main Line,1905
+1033,1109,1108,heavy_rail,Hanshin - Hanshin Main Line,1905
+1034,1110,1111,heavy_rail,Hanshin - Hanshin Main Line,1905
+1035,1111,1112,heavy_rail,Hanshin - Hanshin Main Line,1905
+1036,1112,1113,heavy_rail,Hanshin - Hanshin Main Line,1905
+1037,1113,1114,heavy_rail,Hanshin - Hanshin Main Line,1905
+1038,1114,1115,heavy_rail,Hanshin - Hanshin Main Line,1905
+1039,1115,1116,heavy_rail,Hanshin - Hanshin Main Line,1905
+1040,1116,1117,heavy_rail,Hanshin - Hanshin Main Line,1905
+1041,1117,1118,heavy_rail,Hanshin - Hanshin Main Line,1905
+1042,1118,1119,heavy_rail,Hanshin - Hanshin Main Line,1905
+1043,1119,1120,heavy_rail,Hanshin - Hanshin Main Line,1905
+1044,1120,1121,heavy_rail,Hanshin - Hanshin Main Line,1905
+1045,1121,1122,heavy_rail,Hanshin - Hanshin Main Line,1905
+1046,1122,1123,heavy_rail,Hanshin - Hanshin Main Line,1905
+1047,1123,1124,heavy_rail,Hanshin - Hanshin Main Line,1905
+1048,1125,1126,heavy_rail,Hanshin - Hanshin Main Line,1905
+1049,1125,1124,heavy_rail,Hanshin - Hanshin Main Line,1905
+1050,1126,1127,heavy_rail,Hanshin - Hanshin Main Line,1905
+1051,1127,1128,heavy_rail,Hanshin - Hanshin Main Line,1905
+1052,1128,1129,heavy_rail,Hanshin - Hanshin Main Line,1905
+1053,1129,1130,heavy_rail,Hanshin - Hanshin Main Line,1905
+1054,1130,1131,heavy_rail,Hanshin - Hanshin Main Line,1905
+1055,1131,1132,heavy_rail,Hanshin - Hanshin Main Line,1905
+1056,1132,1133,heavy_rail,Hanshin - Hanshin Main Line,1905
+1057,1133,1134,heavy_rail,Hanshin - Hanshin Main Line,1905
+1058,1134,1135,heavy_rail,Hanshin - Hanshin Main Line,1905
+1059,1135,1136,heavy_rail,Hanshin - Hanshin Main Line,1905
+1060,1136,1137,heavy_rail,Hanshin - Hanshin Main Line,1905
+1061,1137,1138,heavy_rail,Hanshin - Hanshin Main Line,1905
+1062,1138,1139,heavy_rail,Hanshin - Hanshin Main Line,1905
+1063,1125,1138,heavy_rail,Hanshin - Hanshin Main Line,1905
+1064,1140,1148,heavy_rail,Hanshin - Namba Line,2009
+1065,1140,1141,heavy_rail,Hanshin - Namba Line,2009
+1066,1142,1149,heavy_rail,Hanshin - Namba Line,1924
+1067,1143,1144,heavy_rail,Hanshin - Namba Line,1964
+1068,1143,1146,heavy_rail,Hanshin - Namba Line,1924
+1069,1144,1145,heavy_rail,Hanshin - Namba Line,1964
+1070,1145,1147,heavy_rail,Hanshin - Namba Line,2009
+1071,1146,1149,heavy_rail,Hanshin - Namba Line,1924
+1072,1147,1148,heavy_rail,Hanshin - Namba Line,2009
+1073,1150,1152,heavy_rail,Hanshin - Mukogawa Line,1984
+1074,1150,1151,heavy_rail,Hanshin - Mukogawa Line,1943
+1075,1153,1160,heavy_rail,JR West - Sagano Line,1897
+1076,1154,1153,heavy_rail,JR West - Sagano Line,1989
+1077,1155,1154,heavy_rail,JR West - Sagano Line,1989
+1078,1156,1157,heavy_rail,JR West - Sagano Line,1897
+1079,1157,1158,heavy_rail,JR West - Sagano Line,1897
+1080,1158,1159,heavy_rail,JR West - Sagano Line,1897
+1081,1159,1160,heavy_rail,JR West - Sagano Line,1897
+1082,1161,1173,heavy_rail,JR West - Biwako Line,1921
+1083,1162,1170,heavy_rail,JR West - Biwako Line,1889
+1084,1163,1171,heavy_rail,JR West - Biwako Line,1889
+1085,1163,1169,heavy_rail,JR West - Biwako Line,1889
+1086,1164,1174,heavy_rail,JR West - Biwako Line,1921
+1087,1164,1166,heavy_rail,JR West - Biwako Line,1889
+1088,1165,1170,heavy_rail,JR West - Biwako Line,1889
+1089,1165,1180,heavy_rail,JR West - Biwako Line,1889
+1090,1166,1167,heavy_rail,JR West - Biwako Line,1889
+1091,1167,1168,heavy_rail,JR West - Biwako Line,1889
+1092,1168,1169,heavy_rail,JR West - Biwako Line,1889
+1093,1171,1172,heavy_rail,JR West - Biwako Line,1889
+1094,1173,1174,heavy_rail,JR West - Biwako Line,1921
+1095,1175,1176,heavy_rail,JR West - Biwako Line,1889
+1096,1175,1172,heavy_rail,JR West - Biwako Line,1889
+1097,1176,1177,heavy_rail,JR West - Biwako Line,1889
+1098,1177,1178,heavy_rail,JR West - Biwako Line,1889
+1099,1178,1179,heavy_rail,JR West - Biwako Line,1889
+1100,1179,1180,heavy_rail,JR West - Biwako Line,1889
+1101,1169,1179,heavy_rail,JR West - Biwako Line,1889
+1102,1181,1191,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
+1103,1181,1182,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
+1104,1182,1183,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
+1105,1183,1190,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
+1106,1184,1185,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1107,1184,1190,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1108,1185,1186,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1109,1186,1187,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1110,1188,1194,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1111,1188,1187,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1112,1189,1194,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1981
+1113,1189,1192,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1997
+1114,1192,1195,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1997
+1115,1193,1195,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1997
+1116,1196,1202,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1117,1196,1200,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1118,1197,1210,heavy_rail,Kyoto Municipal Subway - Tozai Line,2004
+1119,1197,1209,heavy_rail,Kyoto Municipal Subway - Tozai Line,2004
+1120,1198,1209,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1121,1198,1201,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1122,1199,1205,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1123,1199,1204,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1124,1200,1204,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1125,1201,1202,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1126,1203,1205,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1127,1203,1206,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1128,1206,1207,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1129,1207,1211,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
+1130,1208,1211,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
+1131,1208,1212,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
+1132,1202,1206,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1133,1213,1214,heavy_rail,Kobe Municipal Subway - Hokushin Line,1988
+1134,1215,1220,people_mover,Osaka Monorail - Main Line,1997
+1135,1215,1216,people_mover,Osaka Monorail - Main Line,1990
+1136,1216,1217,people_mover,Osaka Monorail - Main Line,1997
+1137,1217,1218,people_mover,Osaka Monorail - Main Line,1997
+1138,1218,1219,people_mover,Osaka Monorail - Main Line,1997
+1139,1221,1222,people_mover,Osaka Monorail - Saito Line,1998
+1140,1223,1232,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1141,1224,1223,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1142,1224,1225,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1143,1226,1229,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1144,1226,1228,people_mover,Osaka Metro - Nanko Port Town Line,1997
+1145,1227,1228,people_mover,Osaka Metro - Nanko Port Town Line,1997
+1146,1229,1230,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1147,1231,1232,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1148,1230,1223,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1149,1233,1245,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1150,1234,1235,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1151,1235,1236,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1152,1236,1237,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1153,1237,1238,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1154,1238,1239,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1155,1239,1240,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1156,1241,1242,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1157,1241,1240,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1158,1242,1243,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1159,1243,1244,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1160,1244,1245,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1161,1244,1241,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1162,1246,1251,light_rail,Keifuku Electric Railroad - Kitano Line,1925
+1163,1246,1252,light_rail,Keifuku Electric Railroad - Kitano Line,1926
+1164,1247,1254,light_rail,Keifuku Electric Railroad - Kitano Line,1926
+1165,1248,1249,light_rail,Keifuku Electric Railroad - Kitano Line,1925
+1166,1249,1250,light_rail,Keifuku Electric Railroad - Kitano Line,1925
+1167,1250,1251,light_rail,Keifuku Electric Railroad - Kitano Line,1925
+1168,1252,1253,light_rail,Keifuku Electric Railroad - Kitano Line,1926
+1169,1253,1254,light_rail,Keifuku Electric Railroad - Kitano Line,1926
+1170,1255,1248,light_rail,Keifuku Electric Railroad - Kitano Line,1925
+1171,1256,1257,light_rail,Hankai Tramway - Hankai Line,1912
+1172,1257,1258,light_rail,Hankai Tramway - Hankai Line,1912
+1173,1258,1259,light_rail,Hankai Tramway - Hankai Line,1912
+1174,1260,1261,light_rail,Hankai Tramway - Uemachi Line,1910
+1175,1262,1268,light_rail,Keihan - Keishin Line,1912
+1176,1263,1264,light_rail,Keihan - Keishin Line,1925
+1177,1264,1265,light_rail,Keihan - Keishin Line,1912
+1178,1265,1266,light_rail,Keihan - Keishin Line,1912
+1179,1266,1267,light_rail,Keihan - Keishin Line,1912
+1180,1267,1268,light_rail,Keihan - Keishin Line,1912
+1181,1269,1276,light_rail,Keihan - Ishiyama Sakamoto Line,1914
+1182,1269,1275,light_rail,Keihan - Ishiyama Sakamoto Line,1914
+1183,1270,1271,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1184,1270,1282,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1185,1271,1283,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1186,1272,1274,light_rail,Keihan - Ishiyama Sakamoto Line,1914
+1187,1273,1289,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1188,1274,1275,light_rail,Keihan - Ishiyama Sakamoto Line,1914
+1189,1276,1277,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1190,1277,1278,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1191,1278,1279,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1192,1279,1280,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1193,1280,1281,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1194,1281,1282,light_rail,Keihan - Ishiyama Sakamoto Line,1913
+1195,1283,1284,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1196,1284,1285,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1197,1285,1286,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1198,1286,1287,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1199,1287,1288,light_rail,Keihan - Ishiyama Sakamoto Line,1927
+1200,1288,1289,light_rail,Keihan - Ishiyama Sakamoto Line,1927

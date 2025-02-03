@@ -1,0 +1,80 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,1,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+1,0,12,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+2,2,1,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+3,3,4,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+4,3,13,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+5,4,5,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+6,5,6,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+7,6,7,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+8,7,8,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+9,8,9,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+10,9,10,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+11,11,10,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+12,12,13,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+13,13,9,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+14,14,35,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+15,14,19,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+16,15,19,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+17,15,16,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+18,16,18,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+19,17,20,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+20,17,18,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+21,20,21,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+22,21,22,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+23,22,23,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+24,23,24,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+25,24,36,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+26,25,37,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+27,26,27,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+28,26,25,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+29,27,28,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+30,28,29,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+31,29,30,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+32,30,31,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+33,31,32,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+34,32,33,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+35,33,38,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+36,34,35,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+37,36,37,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+38,38,39,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+39,32,17,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+40,40,41,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+41,40,45,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+42,42,45,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+43,42,46,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+44,43,47,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+45,44,48,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+46,44,50,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+47,46,55,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+48,47,41,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+49,48,49,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+50,49,55,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+51,50,51,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+52,51,52,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+53,52,53,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+54,53,54,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+55,52,41,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+56,56,58,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+57,57,58,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+58,57,59,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+59,59,60,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+60,60,61,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+61,61,62,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+62,62,63,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+63,63,64,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+64,64,65,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+65,65,66,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+66,66,67,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+67,67,68,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+68,68,69,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
+69,70,74,commuter_rail,DPR IN PROGRESS - METRO 1 EXT (NIGDI- PCMC)(SWARGATE-KATRAJ),2023
+70,70,71,commuter_rail,DPR IN PROGRESS - METRO 1 EXT (NIGDI- PCMC)(SWARGATE-KATRAJ),2023
+71,71,72,commuter_rail,DPR IN PROGRESS - METRO 1 EXT (NIGDI- PCMC)(SWARGATE-KATRAJ),2023
+72,72,73,commuter_rail,DPR IN PROGRESS - METRO 1 EXT (NIGDI- PCMC)(SWARGATE-KATRAJ),2023
+73,75,76,commuter_rail,FUTURE LINES - METRO 2 EXT (RAMWADI- WAGHOLI),2024
+74,77,78,commuter_rail,FUTURE LINES - METRO 5 (HINJAWADI-CHAKAN),2025
+75,82,86,heavy_rail,SUBURBAN RAILWAY - LINE 1 (LONAWALA-PUNE),1960
+76,83,86,heavy_rail,SUBURBAN RAILWAY - LINE 1 (LONAWALA-PUNE),1960
+77,84,83,heavy_rail,SUBURBAN RAILWAY - LINE 1 (LONAWALA-PUNE),1960
+78,85,86,heavy_rail,SUBURBAN RAILWAY - LINE 1 (LONAWALA-PUNE),1960

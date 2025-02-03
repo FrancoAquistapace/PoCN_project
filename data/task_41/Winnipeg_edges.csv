@@ -1,0 +1,101 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,2,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+1,0,11,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+2,1,2,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+3,3,9,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+4,3,4,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+5,4,5,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+6,5,6,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+7,6,7,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+8,7,8,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+9,8,11,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+10,9,10,light_rail,Winnipeg Transit - MBMetroRail - University Line,2017
+11,12,14,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+12,13,14,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+13,13,25,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+14,15,26,light_rail,Winnipeg Transit - MBMetroRail - River Line,2020
+15,16,19,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+16,16,27,light_rail,Winnipeg Transit - MBMetroRail - River Line,2019
+17,17,22,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+18,17,12,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+19,18,24,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+20,18,22,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+21,19,21,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+22,20,21,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+23,20,25,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+24,23,24,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+25,26,27,light_rail,Winnipeg Transit - MBMetroRail - River Line,2019
+26,28,23,light_rail,Winnipeg Transit - MBMetroRail - River Line,2018
+27,29,33,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+28,30,32,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+29,30,31,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+30,31,37,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+31,32,33,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+32,34,35,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2017
+33,34,29,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+34,35,40,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2018
+35,36,37,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+36,36,38,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2016
+37,39,40,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2018
+38,39,41,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2017
+39,41,43,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2017
+40,42,47,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2020
+41,43,48,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2017
+42,44,39,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2018
+43,44,45,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2018
+44,45,46,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2020
+45,46,47,light_rail,Winnipeg Transit - MBMetroRail - Manitoba Line,2020
+46,49,54,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+47,49,63,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+48,50,52,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2021
+49,50,51,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2021
+50,52,67,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2021
+51,53,56,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2018
+52,53,57,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+53,54,60,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2016
+54,55,61,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+55,55,62,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+56,56,68,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2018
+57,57,59,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+58,58,60,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+59,58,68,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+60,59,64,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+61,61,69,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+62,62,65,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+63,63,69,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2017
+64,65,66,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2020
+65,66,67,light_rail,Winnipeg Transit - MBMetroRail - Canada Line,2021
+66,70,75,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2016
+67,71,79,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+68,71,76,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+69,72,74,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+70,72,73,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+71,73,79,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+72,75,78,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2016
+73,77,78,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2016
+74,72,77,light_rail,Winnipeg Transit - MBMetroRail - Airport Line,2017
+75,80,81,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2018
+76,81,85,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+77,82,83,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+78,82,87,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+79,83,84,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+80,84,86,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+81,85,86,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+82,87,88,light_rail,Winnipeg Transit - MBMetroRail - Highway Line,2019
+83,89,93,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+84,90,92,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+85,91,94,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2016
+86,91,98,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2016
+87,92,94,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+88,93,90,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+89,95,104,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2018
+90,95,96,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2018
+91,96,97,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+92,97,99,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2017
+93,98,99,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2016
+94,100,104,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2018
+95,100,105,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2018
+96,101,106,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2020
+97,101,103,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2021
+98,102,103,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2021
+99,105,106,light_rail,Winnipeg Transit - MBMetroRail - Prairie Line ,2020

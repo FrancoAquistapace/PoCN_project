@@ -10,6 +10,55 @@ import time
 # -----------------------------------
 
 
+# -------- Data import and pre-processing --------
+# We need to read all the csv files:
+print('Reading data')
+# Folder path
+folder_path = '../../../citylines_data/'
+
+# Cities data
+cities_path = 'dataclips_fbkrwnzullhoggqxrynyqpmerrdm.csv'
+cities_df = pd.read_csv(folder_path + cities_path)
+
+# Systems data
+systems_path = 'dataclips_ktjczpiaitvdflctatuhrbyymwzb.csv'
+systems_df = pd.read_csv(folder_path + systems_path)
+
+# Lines data
+lines_path = 'dataclips_phsrswqjdraavfhlllnkjgfjgngg.csv'
+lines_df = pd.read_csv(folder_path + lines_path)
+
+# Sections data
+sections_path = 'dataclips_irtgepjgovwtgvykpfyqxmoqhbcr.csv'
+sections_df = pd.read_csv(folder_path + sections_path)
+
+# Section lines data
+section_lines_path = 'dataclips_ixybcilzttdifyvkhfriembrusxa.csv'
+section_lines_df = pd.read_csv(folder_path + section_lines_path)
+
+# Stations data
+stations_path = 'dataclips_ssxbtmzqfqzgdsxhlibtetfutilz.csv'
+stations_df = pd.read_csv(folder_path + stations_path)
+
+# Station lines
+station_lines_path = 'dataclips_vezkvrglavsdfvsxpuydclocyfsk.csv'
+station_lines_df = pd.read_csv(folder_path + station_lines_path)
+
+# Transport modes
+transport_modes_path = 'dataclips_ictamqsydokxnpweeoujgtphosfn.csv'
+transport_modes_df = pd.read_csv(folder_path + transport_modes_path)
+
+# Define a single dictionary with access to all the data
+all_data = {'cities': cities_df, 
+            'systems': systems_df, 'lines': lines_df,
+            'sections': sections_df, 'section_lines': section_lines_df,
+            'stations': stations_df, 'station_lines': station_lines_df,
+            'transport_modes': transport_modes_df}
+
+# -------------------------------------------
+
+
+
 # ------------ Data functions ---------------
 # Function to retrieve all the data relative to a city, given its id
 def data_from_city_id(city_id, datasets=all_data):
@@ -120,13 +169,18 @@ def get_line_locations(line):
         the locations of the given line.
     '''
     # Remove geometry notation
-    lat_long = line.replace('LINESTRING(', '')
+    lat_long = line.replace('LINESTRING', '')
+    lat_long = lat_long.replace('(', '')
     lat_long = lat_long.replace(')', '')
     # Get different locations
     lat_long = lat_long.split(',')
-    # Convert to numerical and return
-    lat = [float(l.split()[0]) for l in lat_long]
-    long = [float(l.split()[1]) for l in lat_long]
+    # Convert to numerical and return, if possible
+    try:
+        lat = [float(l.split()[0]) for l in lat_long]
+        long = [float(l.split()[1]) for l in lat_long]
+    except ValueError:
+        lat = []
+        long = []
     return lat, long 
 
 
@@ -221,7 +275,7 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
 
             # Get name of system + name of line
             line_name = s_df.loc[s_df['id'] == l['system_id'], 'name'].iloc[0]
-            line_name = line_name + ' - ' + l['name']
+            line_name = str(line_name) + ' - ' + l['name']
 
             # Get station-lines data
             st_l = city_data['station_lines']
@@ -380,7 +434,7 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
             for s in range(edges_l.shape[0]):
                 sl = edges_l.iloc[s]
 
-                if len(sl['latitude']) == 1:
+                if len(sl['latitude']) <= 1:
                     continue
 
                 # Get endpoints 
@@ -480,18 +534,33 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
                 pos1 = np.array([n1['latitude'], n1['longitude']])
                 dist_vals1 = [
                     get_dist_section_point(pos1, s_pos)\
-                    for s_pos in sect_pos
+                    for s_pos in sect_pos\
+                    if s_pos.shape[1] > 0
                 ]
-                open_year1 = int(edges_l.iloc[np.argmin(dist_vals1)]['opening'])
+                try:
+                    pos1_sec_open = edges_l.iloc[np.argmin(dist_vals1)]['opening']
+                    open_year1 = int(pos1_sec_open)
+                except ValueError:
+                    open_year1 = -1
 
                 pos2 = np.array([n2['latitude'], n2['longitude']])
                 dist_vals2 = [
                     get_dist_section_point(pos2, s_pos)\
-                    for s_pos in sect_pos
+                    for s_pos in sect_pos\
+                    if s_pos.shape[1] > 0
                 ]
-                open_year2 = int(edges_l.iloc[np.argmin(dist_vals2)]['opening'])
+                try:
+                    pos2_sec_open = edges_l.iloc[np.argmin(dist_vals2)]['opening']
+                    open_year2 = int(pos2_sec_open)
+                except ValueError:
+                    open_year2 = -1
                 
-                open_year = max(open_year1, open_year2)
+                # If no opening year is available from sections, use those
+                # from the stations
+                if open_year1 == -1 and open_year2 == -1:
+                    open_year = max(n1['opening'], n2['opening'])
+                else:
+                    open_year = max(open_year1, open_year2)
 
                 edge_list['year'].append(open_year)
 
@@ -531,63 +600,13 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
 
 
 
-
-
-# -------- Data import and processing --------
-# We need to read all the csv files:
-print('Reading data')
-# Folder path
-folder_path = '../../../citylines_data/'
-
-# Cities data
-cities_path = 'dataclips_fbkrwnzullhoggqxrynyqpmerrdm.csv'
-cities_df = pd.read_csv(folder_path + cities_path)
-
-# Systems data
-systems_path = 'dataclips_ktjczpiaitvdflctatuhrbyymwzb.csv'
-systems_df = pd.read_csv(folder_path + systems_path)
-
-# Lines data
-lines_path = 'dataclips_phsrswqjdraavfhlllnkjgfjgngg.csv'
-lines_df = pd.read_csv(folder_path + lines_path)
-
-# Sections data
-sections_path = 'dataclips_irtgepjgovwtgvykpfyqxmoqhbcr.csv'
-sections_df = pd.read_csv(folder_path + sections_path)
-
-# Section lines data
-section_lines_path = 'dataclips_ixybcilzttdifyvkhfriembrusxa.csv'
-section_lines_df = pd.read_csv(folder_path + section_lines_path)
-
-# Stations data
-stations_path = 'dataclips_ssxbtmzqfqzgdsxhlibtetfutilz.csv'
-stations_df = pd.read_csv(folder_path + stations_path)
-
-# Station lines
-station_lines_path = 'dataclips_vezkvrglavsdfvsxpuydclocyfsk.csv'
-station_lines_df = pd.read_csv(folder_path + station_lines_path)
-
-# Transport modes
-transport_modes_path = 'dataclips_ictamqsydokxnpweeoujgtphosfn.csv'
-transport_modes_df = pd.read_csv(folder_path + transport_modes_path)
-
-# Define a single dictionary with access to all the data
-all_data = {'cities': cities_df, 
-            'systems': systems_df, 'lines': lines_df,
-            'sections': sections_df, 'section_lines': section_lines_df,
-            'stations': stations_df, 'station_lines': station_lines_df,
-            'transport_modes': transport_modes_df}
-
-# -------------------------------------------
-
-
-
 # ------------ MAIN PROCESSING --------------
 # Run the main processing loop
 # We only consider cities with stations and sections data, 
 # otherwise, the city files are built as empty
 folder_path = '../../data/task_41/'
-for city_id in cities_df['id']:
+for c_count, city_id in enumerate(cities_df['id']):
+    print('Processing city %d out of %d' % (c_count+1, cities_df.shape[0]))
     # Get name of the city
     city_name = cities_df.loc[cities_df['id'] == city_id, 'name'].iloc[0]
     

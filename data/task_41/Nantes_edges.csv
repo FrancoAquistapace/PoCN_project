@@ -1,0 +1,222 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,3,light_rail,Tramway - Ligne 1,2019
+1,1,9,light_rail,Tramway - Ligne 1,1989
+2,2,15,light_rail,Tramway - Ligne 1,1985
+3,3,23,light_rail,Tramway - Ligne 1,2012
+4,4,24,light_rail,Tramway - Ligne 1,1989
+5,4,25,light_rail,Tramway - Ligne 1,1989
+6,5,28,light_rail,Tramway - Ligne 1,1985
+7,6,25,light_rail,Tramway - Ligne 1,1985
+8,6,8,light_rail,Tramway - Ligne 1,1985
+9,7,20,light_rail,Tramway - Ligne 1,1989
+10,7,29,light_rail,Tramway - Ligne 1,1989
+11,8,27,light_rail,Tramway - Ligne 1,1985
+12,9,29,light_rail,Tramway - Ligne 1,1989
+13,10,33,light_rail,Tramway - Ligne 1,1985
+14,11,21,light_rail,Tramway - Ligne 1,1985
+15,12,22,light_rail,Tramway - Ligne 1,1985
+16,13,34,light_rail,Tramway - Ligne 1,1985
+17,14,26,light_rail,Tramway - Ligne 1,1985
+18,14,16,light_rail,Tramway - Ligne 1,1985
+19,15,13,light_rail,Tramway - Ligne 1,1985
+20,16,17,light_rail,Tramway - Ligne 1,1985
+21,18,44,light_rail,Tramway - Ligne 1,1985
+22,18,30,light_rail,Tramway - Ligne 1,1985
+23,19,43,light_rail,Tramway - Ligne 1,1985
+24,19,22,light_rail,Tramway - Ligne 1,1985
+25,21,8,light_rail,Tramway - Ligne 1,1985
+26,23,20,light_rail,Tramway - Ligne 1,2012
+27,28,12,light_rail,Tramway - Ligne 1,1985
+28,30,37,light_rail,Tramway - Ligne 1,1985
+29,31,35,light_rail,Tramway - Ligne 1,1985
+30,31,2,light_rail,Tramway - Ligne 1,1985
+31,32,36,light_rail,Tramway - Ligne 1,1985
+32,33,34,light_rail,Tramway - Ligne 1,1985
+33,36,17,light_rail,Tramway - Ligne 1,1985
+34,38,48,light_rail,Tramway - Ligne 1,1985
+35,39,46,light_rail,Tramway - Ligne 1,1985
+36,40,49,light_rail,Tramway - Ligne 1,1985
+37,40,47,light_rail,Tramway - Ligne 1,2000
+38,41,51,light_rail,Tramway - Ligne 1,1985
+39,41,52,light_rail,Tramway - Ligne 1,2000
+40,42,52,light_rail,Tramway - Ligne 1,2000
+41,45,62,light_rail,Tramway - Ligne 1,2000
+42,45,67,light_rail,Tramway - Ligne 1,2000
+43,46,68,light_rail,Tramway - Ligne 1,1985
+44,47,61,light_rail,Tramway - Ligne 1,2000
+45,48,68,light_rail,Tramway - Ligne 1,1985
+46,50,64,light_rail,Tramway - Ligne 1,2000
+47,53,67,light_rail,Tramway - Ligne 1,2000
+48,54,59,light_rail,Tramway - Ligne 1,2000
+49,55,65,light_rail,Tramway - Ligne 1,2000
+50,55,58,light_rail,Tramway - Ligne 1,2000
+51,56,66,light_rail,Tramway - Ligne 1,2000
+52,57,60,light_rail,Tramway - Ligne 1,2000
+53,58,63,light_rail,Tramway - Ligne 1,2000
+54,58,64,light_rail,Tramway - Ligne 1,2000
+55,59,42,light_rail,Tramway - Ligne 1,2000
+56,60,53,light_rail,Tramway - Ligne 1,2000
+57,61,69,light_rail,Tramway - Ligne 1,2007
+58,66,65,light_rail,Tramway - Ligne 1,2000
+59,9,24,light_rail,Tramway - Ligne 1,1989
+60,21,19,light_rail,Tramway - Ligne 1,1985
+61,40,38,light_rail,Tramway - Ligne 1,1985
+62,35,26,light_rail,Tramway - Ligne 1,1985
+63,32,39,light_rail,Tramway - Ligne 1,1985
+64,5,10,light_rail,Tramway - Ligne 1,1985
+65,64,41,light_rail,Tramway - Ligne 1,2000
+66,54,61,light_rail,Tramway - Ligne 1,2000
+67,56,62,light_rail,Tramway - Ligne 1,2000
+68,70,77,light_rail,Tramway - Ligne 2,1994
+69,70,75,light_rail,Tramway - Ligne 2,1994
+70,71,79,light_rail,Tramway - Ligne 2,1994
+71,72,73,light_rail,Tramway - Ligne 2,1994
+72,73,111,light_rail,Tramway - Ligne 2,1994
+73,74,98,light_rail,Tramway - Ligne 2,1994
+74,74,90,light_rail,Tramway - Ligne 2,1994
+75,75,76,light_rail,Tramway - Ligne 2,1994
+76,75,73,light_rail,Tramway - Ligne 2,1994
+77,78,82,light_rail,Tramway - Ligne 2,1994
+78,78,99,light_rail,Tramway - Ligne 2,1994
+79,79,98,light_rail,Tramway - Ligne 2,1994
+80,80,84,light_rail,Tramway - Ligne 2,1994
+81,80,93,light_rail,Tramway - Ligne 2,1994
+82,81,89,light_rail,Tramway - Ligne 2,1994
+83,83,90,light_rail,Tramway - Ligne 2,1994
+84,85,86,light_rail,Tramway - Ligne 2,1994
+85,85,81,light_rail,Tramway - Ligne 2,1994
+86,87,103,light_rail,Tramway - Ligne 2,1994
+87,88,97,light_rail,Tramway - Ligne 2,1994
+88,88,103,light_rail,Tramway - Ligne 2,1994
+89,89,95,light_rail,Tramway - Ligne 2,1994
+90,91,99,light_rail,Tramway - Ligne 2,1994
+91,92,93,light_rail,Tramway - Ligne 2,1994
+92,94,96,light_rail,Tramway - Ligne 2,1994
+93,94,100,light_rail,Tramway - Ligne 2,1994
+94,95,101,light_rail,Tramway - Ligne 2,1994
+95,100,102,light_rail,Tramway - Ligne 2,1994
+96,104,105,light_rail,Tramway - Ligne 2,2007
+97,105,106,light_rail,Tramway - Ligne 2,2007
+98,107,120,light_rail,Tramway - Ligne 2,1992
+99,108,116,light_rail,Tramway - Ligne 2,1992
+100,108,115,light_rail,Tramway - Ligne 2,1992
+101,109,120,light_rail,Tramway - Ligne 2,1992
+102,110,112,light_rail,Tramway - Ligne 2,1992
+103,110,121,light_rail,Tramway - Ligne 2,1992
+104,111,121,light_rail,Tramway - Ligne 2,1992
+105,113,119,light_rail,Tramway - Ligne 2,1992
+106,114,118,light_rail,Tramway - Ligne 2,1992
+107,115,117,light_rail,Tramway - Ligne 2,1992
+108,118,116,light_rail,Tramway - Ligne 2,1992
+109,119,114,light_rail,Tramway - Ligne 2,1992
+110,103,101,light_rail,Tramway - Ligne 2,1994
+111,117,107,light_rail,Tramway - Ligne 2,1992
+112,70,71,light_rail,Tramway - Ligne 2,1994
+113,107,106,light_rail,Tramway - Ligne 2,2007
+114,112,113,light_rail,Tramway - Ligne 2,1992
+115,83,85,light_rail,Tramway - Ligne 2,1994
+116,122,172,light_rail,Tramway - Ligne 3,2007
+117,122,171,light_rail,Tramway - Ligne 3,2007
+118,123,142,light_rail,Tramway - Ligne 3,2000
+119,123,125,light_rail,Tramway - Ligne 3,2000
+120,124,151,light_rail,Tramway - Ligne 3,2009
+121,124,152,light_rail,Tramway - Ligne 3,2009
+122,125,140,light_rail,Tramway - Ligne 3,2000
+123,126,129,light_rail,Tramway - Ligne 3,2000
+124,126,143,light_rail,Tramway - Ligne 3,2000
+125,127,141,light_rail,Tramway - Ligne 3,2000
+126,128,143,light_rail,Tramway - Ligne 3,2000
+127,128,140,light_rail,Tramway - Ligne 3,2000
+128,130,146,light_rail,Tramway - Ligne 3,2009
+129,131,145,light_rail,Tramway - Ligne 3,2000
+130,131,133,light_rail,Tramway - Ligne 3,2000
+131,132,144,light_rail,Tramway - Ligne 3,2000
+132,133,153,light_rail,Tramway - Ligne 3,2000
+133,134,149,light_rail,Tramway - Ligne 3,2009
+134,135,152,light_rail,Tramway - Ligne 3,2009
+135,135,134,light_rail,Tramway - Ligne 3,2009
+136,136,139,light_rail,Tramway - Ligne 3,2009
+137,136,147,light_rail,Tramway - Ligne 3,2009
+138,137,150,light_rail,Tramway - Ligne 3,2009
+139,138,148,light_rail,Tramway - Ligne 3,2000
+140,141,144,light_rail,Tramway - Ligne 3,2000
+141,146,149,light_rail,Tramway - Ligne 3,2009
+142,147,154,light_rail,Tramway - Ligne 3,2009
+143,148,146,light_rail,Tramway - Ligne 3,2000
+144,150,154,light_rail,Tramway - Ligne 3,2009
+145,155,175,light_rail,Tramway - Ligne 3,2007
+146,156,161,light_rail,Tramway - Ligne 3,2007
+147,157,163,light_rail,Tramway - Ligne 3,2007
+148,158,159,light_rail,Tramway - Ligne 3,2007
+149,159,161,light_rail,Tramway - Ligne 3,2007
+150,160,175,light_rail,Tramway - Ligne 3,2007
+151,162,169,light_rail,Tramway - Ligne 3,1992
+152,162,174,light_rail,Tramway - Ligne 3,2007
+153,163,173,light_rail,Tramway - Ligne 3,2007
+154,164,173,light_rail,Tramway - Ligne 3,2007
+155,164,172,light_rail,Tramway - Ligne 3,2007
+156,165,170,light_rail,Tramway - Ligne 3,2007
+157,165,171,light_rail,Tramway - Ligne 3,2007
+158,166,170,light_rail,Tramway - Ligne 3,2007
+159,166,168,light_rail,Tramway - Ligne 3,2007
+160,167,168,light_rail,Tramway - Ligne 3,2007
+161,167,174,light_rail,Tramway - Ligne 3,2007
+162,169,142,light_rail,Tramway - Ligne 3,2000
+163,129,145,light_rail,Tramway - Ligne 3,2000
+164,127,153,light_rail,Tramway - Ligne 3,2000
+165,132,138,light_rail,Tramway - Ligne 3,2000
+166,151,137,light_rail,Tramway - Ligne 3,2009
+167,160,156,light_rail,Tramway - Ligne 3,2007
+168,158,157,light_rail,Tramway - Ligne 3,2007
+169,156,174,light_rail,Tramway - Ligne 3,2007
+170,176,180,brt,Busway - Ligne 4,2006
+171,176,178,brt,Busway - Ligne 4,2006
+172,177,181,brt,Busway - Ligne 4,2006
+173,177,182,brt,Busway - Ligne 4,2006
+174,178,189,brt,Busway - Ligne 4,2006
+175,179,180,brt,Busway - Ligne 4,2006
+176,181,184,brt,Busway - Ligne 4,2006
+177,182,189,brt,Busway - Ligne 4,2006
+178,183,185,brt,Busway - Ligne 4,2006
+179,183,184,brt,Busway - Ligne 4,2006
+180,185,186,brt,Busway - Ligne 4,2006
+181,186,187,brt,Busway - Ligne 4,2006
+182,187,188,brt,Busway - Ligne 4,2006
+183,188,190,brt,Busway - Ligne 4,2006
+184,187,182,brt,Busway - Ligne 4,2006
+185,191,192,brt,Busway - Ligne 5,2020
+186,192,193,brt,Busway - Ligne 5,2020
+187,194,195,brt,Busway - Ligne 5,2020
+188,194,193,brt,Busway - Ligne 5,2020
+189,196,197,default, Navettes fluviales - N1,2005
+190,198,199,default, Navettes fluviales - Passeur Erdre,1997
+191,208,209,default, Navettes fluviales - N2,2020
+192,212,213,default, Navettes fluviales - Parc des Chantiers - Gare maritime - Hangar à bananes - Arbre aux hérons - Trentemoult Roquios,2023
+193,214,215,commuter_rail,Tram-train - Nantes - Clisson,2011
+194,215,217,commuter_rail,Tram-train - Nantes - Clisson,2011
+195,216,217,commuter_rail,Tram-train - Nantes - Clisson,2011
+196,218,227,commuter_rail,Tram-train - Nantes - Clisson,2011
+197,218,214,commuter_rail,Tram-train - Nantes - Clisson,2011
+198,219,225,commuter_rail,Tram-train - Nantes - Clisson,2011
+199,220,221,commuter_rail,Tram-train - Nantes - Clisson,2011
+200,220,222,commuter_rail,Tram-train - Nantes - Clisson,2011
+201,222,226,commuter_rail,Tram-train - Nantes - Clisson,2011
+202,223,224,commuter_rail,Tram-train - Nantes - Clisson,2011
+203,223,225,commuter_rail,Tram-train - Nantes - Clisson,2011
+204,224,216,commuter_rail,Tram-train - Nantes - Clisson,2011
+205,219,221,commuter_rail,Tram-train - Nantes - Clisson,2011
+206,228,229,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+207,229,234,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+208,230,228,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+209,231,240,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+210,232,242,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+211,233,237,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+212,234,235,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+213,236,238,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+214,236,234,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+215,237,231,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+216,239,242,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+217,240,238,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+218,241,243,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+219,241,242,commuter_rail,Tram-train - Nantes - Châteaubriant,2014
+220,237,239,commuter_rail,Tram-train - Nantes - Châteaubriant,2014

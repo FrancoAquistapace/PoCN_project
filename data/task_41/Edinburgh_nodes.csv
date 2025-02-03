@@ -1,0 +1,14 @@
+,nodeID,nodeLabel,latitude,longitude,mode,year
+0,0,Edinburgh Waverley,-3.189078976111546,55.95219483437623,inter_city_rail,1866.0
+1,1,Edinburgh Waverley,-3.1891325,55.9516951,commuter_rail,0.0
+2,2,Edinburgh Waverley,-3.189078976111546,55.95219483437623,None,1866.0
+3,3,Edinburgh Waverley,-3.1903814,55.9518021,None,0.0
+4,4,Edinburgh Waverley,-3.1902505,55.9518629,None,0.0
+5,5,Musselburgh,-3.0718736,55.9332305,None,0.0
+6,6,Musselburgh,-3.0719145,55.9331972,None,0.0
+7,7,Edinburgh Waverley,-3.1876928,55.952745,None,0.0
+8,8,Edinburgh Waverley,-3.1891325,55.9516951,None,0.0
+9,9,Edinburgh Waverley,-3.1870096,55.9523319,None,0.0
+10,10,Edinburgh Waverley,-3.1909084,55.9522322,None,0.0
+11,11,Edinburgh Waverley,-3.1876729,55.9527196,None,0.0
+12,12,Edinburgh Waverley,-3.1890513,55.9514534,None,0.0

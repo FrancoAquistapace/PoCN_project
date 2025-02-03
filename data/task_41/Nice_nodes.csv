@@ -1,0 +1,69 @@
+,nodeID,nodeLabel,latitude,longitude,mode,year
+0,0,Masséna,7.2694836,43.6983071,light_rail,2007.0
+1,1,Masséna,7.269443,43.6982953,light_rail,2007.0
+2,2,Opéra - Vieille Ville,7.272994,43.6972603,light_rail,2007.0
+3,3,Opéra - Vieille Ville,7.2729336,43.697277,light_rail,2007.0
+4,4,Comte de Falicon,7.2557162,43.7259907,light_rail,2007.0
+5,5,Comte de Falicon,7.255758,43.7259901,light_rail,2007.0
+6,6,Le Ray,7.2564319,43.7215218,light_rail,2007.0
+7,7,Le Ray,7.25639,43.7215213,light_rail,2007.0
+8,8,Gorbella,7.2569661,43.7178591,light_rail,2007.0
+9,9,Gorbella,7.2569214,43.7178548,light_rail,2007.0
+10,10,Valrose Université,7.2615369,43.7155574,light_rail,2007.0
+11,11,Valrose Université,7.2614771,43.7155069,light_rail,2007.0
+12,12,Borriglione,7.2617602,43.7118598,light_rail,2007.0
+13,13,Borriglione,7.2618665,43.7118633,light_rail,2007.0
+14,14,Libération,7.2626374,43.7090971,light_rail,2007.0
+15,15,Libération,7.2626024,43.709087,light_rail,2007.0
+16,16,Gare Thiers,7.2649086,43.7055257,light_rail,2007.0
+17,17,Gare Thiers,7.2648819,43.7055129,light_rail,2007.0
+18,18,Pont Michel,7.2909167,43.7226917,light_rail,2007.0
+19,19,Palais des Expositions,7.2838586,43.7073521,light_rail,2007.0
+20,20,Cathédrale - Vieille Ville,7.2765574,43.6984421,light_rail,2007.0
+21,21,Cathédrale - Vieille Ville,7.2764872,43.6984409,light_rail,2007.0
+22,22,Palais des Expositions,7.2837961,43.7073187,light_rail,2007.0
+23,23,Vauban,7.2866382,43.7100161,light_rail,2007.0
+24,24,Vauban,7.2865574,43.710059,light_rail,2007.0
+25,25,Saint-Jean d'Angély Université,7.290373,43.7095108,light_rail,2007.0
+26,26,Saint-Jean d'Angély Université,7.2903079,43.7095566,light_rail,2007.0
+27,27,Garibaldi,7.280463,43.7014794,light_rail,2007.0
+28,28,Hôpital Pasteur,7.2852313,43.7233257,light_rail,2013.0
+29,29,Garibaldi,7.2805572,43.7015501,light_rail,2007.0
+30,30,Hôpital Pasteur,7.2852283,43.7232854,light_rail,2013.0
+31,31,Virgile Barel,7.2928291,43.7149445,light_rail,2007.0
+32,32,Virgile Barel,7.2927866,43.7149458,light_rail,2007.0
+33,33,Pont Michel,7.2907667,43.7227377,light_rail,2007.0
+34,34,Masséna,7.2694836,43.6983071,None,2007.0
+35,35,Masséna,7.269443,43.6982953,None,2007.0
+36,36,Opéra - Vieille Ville,7.272994,43.6972603,None,2007.0
+37,37,Opéra - Vieille Ville,7.2729336,43.697277,None,2007.0
+38,38,Comte de Falicon,7.2557162,43.7259907,None,2007.0
+39,39,Comte de Falicon,7.255758,43.7259901,None,2007.0
+40,40,Le Ray,7.2564319,43.7215218,None,2007.0
+41,41,Le Ray,7.25639,43.7215213,None,2007.0
+42,42,Gorbella,7.2569661,43.7178591,None,2007.0
+43,43,Gorbella,7.2569214,43.7178548,None,2007.0
+44,44,Valrose Université,7.2615369,43.7155574,None,2007.0
+45,45,Valrose Université,7.2614771,43.7155069,None,2007.0
+46,46,Borriglione,7.2617602,43.7118598,None,2007.0
+47,47,Borriglione,7.2618665,43.7118633,None,2007.0
+48,48,Libération,7.2626374,43.7090971,None,2007.0
+49,49,Libération,7.2626024,43.709087,None,2007.0
+50,50,Gare Thiers,7.2649086,43.7055257,None,2007.0
+51,51,Gare Thiers,7.2648819,43.7055129,None,2007.0
+52,52,Pont Michel,7.2909167,43.7226917,None,2007.0
+53,53,Palais des Expositions,7.2838586,43.7073521,None,2007.0
+54,54,Cathédrale - Vieille Ville,7.2765574,43.6984421,None,2007.0
+55,55,Cathédrale - Vieille Ville,7.2764872,43.6984409,None,2007.0
+56,56,Palais des Expositions,7.2837961,43.7073187,None,2007.0
+57,57,Vauban,7.2866382,43.7100161,None,2007.0
+58,58,Vauban,7.2865574,43.710059,None,2007.0
+59,59,Saint-Jean d'Angély Université,7.290373,43.7095108,None,2007.0
+60,60,Saint-Jean d'Angély Université,7.2903079,43.7095566,None,2007.0
+61,61,Garibaldi,7.280463,43.7014794,None,2007.0
+62,62,Hôpital Pasteur,7.2852313,43.7233257,None,2013.0
+63,63,Garibaldi,7.2805572,43.7015501,None,2007.0
+64,64,Hôpital Pasteur,7.2852283,43.7232854,None,2013.0
+65,65,Virgile Barel,7.2928291,43.7149445,None,2007.0
+66,66,Virgile Barel,7.2927866,43.7149458,None,2007.0
+67,67,Pont Michel,7.2907667,43.7227377,None,2007.0

@@ -1,0 +1,8 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,1,2,light_rail,Tramway - A,2000
+1,1,6,light_rail,Tramway - A,2000
+2,3,6,light_rail,Tramway - A,2000
+3,3,7,light_rail,Tramway - A,2000
+4,4,5,light_rail,Tramway - A,2000
+5,4,1,light_rail,Tramway - A,2000
+6,7,8,light_rail,Tramway - A,2000

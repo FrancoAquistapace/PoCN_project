@@ -1,0 +1,551 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,1,commuter_rail,Multi Modal Corridor - MMC,0
+1,2,4,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+2,2,15,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+3,3,24,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,2024
+4,5,23,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+5,5,22,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+6,6,13,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+7,6,16,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+8,7,10,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+9,7,25,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+10,8,15,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+11,8,12,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+12,9,16,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+13,9,14,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+14,11,14,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+15,11,10,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+16,12,13,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+17,17,18,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+18,17,4,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+19,18,19,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+20,19,20,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+21,20,21,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+22,21,23,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+23,24,22,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+24,23,22,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,0
+25,13,11,commuter_rail,Harbour Line - Line 1 CSMT- Goregaon,1920
+26,52,64,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+27,52,69,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+28,53,58,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+29,54,67,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+30,55,61,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+31,56,63,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+32,56,68,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+33,57,61,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+34,58,59,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+35,59,60,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+36,60,57,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+37,62,61,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+38,64,71,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+39,65,72,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+40,66,71,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+41,66,70,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+42,67,73,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+43,68,69,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+44,70,72,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+45,73,65,commuter_rail,Central Suburban Railway - Line 4 Vasai Rd-Diva-Roha,0
+46,74,77,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+47,74,107,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+48,75,83,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+49,75,96,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+50,76,77,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+51,78,107,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+52,79,82,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+53,80,82,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+54,81,80,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+55,84,98,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+56,85,106,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+57,85,100,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+58,86,104,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+59,86,101,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+60,87,94,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+61,87,97,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+62,88,91,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+63,88,108,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+64,89,96,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+65,89,93,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+66,90,97,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+67,90,95,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+68,92,95,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+69,92,91,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+70,93,94,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,0
+71,98,99,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+72,100,105,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+73,101,105,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+74,102,103,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+75,103,76,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+76,104,82,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1990
+77,92,98,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+78,99,105,commuter_rail,Harbour Line - Line 2 CSMT- Panvel,1920
+79,109,117,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+80,110,111,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+81,110,112,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+82,111,109,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+83,112,113,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+84,114,120,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+85,115,116,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+86,116,117,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+87,118,119,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+88,118,114,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+89,120,115,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Khopoli,0
+90,133,142,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+91,134,144,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+92,135,164,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+93,135,165,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+94,136,157,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+95,136,156,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+96,137,149,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+97,137,151,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+98,138,159,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+99,138,158,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+100,139,148,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+101,139,156,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+102,140,160,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+103,140,161,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+104,141,158,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+105,142,167,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+106,143,145,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+107,143,168,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+108,144,163,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+109,146,147,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+110,146,145,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+111,147,150,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+112,150,151,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+113,152,153,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+114,152,149,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+115,153,154,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+116,154,155,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+117,155,148,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+118,162,161,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+119,162,134,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+120,164,163,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+121,165,166,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+122,166,167,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+123,146,166,commuter_rail,Central Suburban Railway - Line 2(Slow) CSTM- Kalyan,0
+124,169,177,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+125,169,189,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+126,170,179,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+127,170,187,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+128,171,198,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+129,172,188,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+130,172,179,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+131,173,184,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+132,173,176,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+133,174,181,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+134,174,173,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+135,175,186,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+136,175,187,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+137,176,185,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+138,178,180,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+139,178,199,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+140,182,180,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+141,183,182,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+142,183,181,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+143,186,185,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+144,188,177,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+145,189,190,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+146,190,191,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+147,191,192,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+148,192,193,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+149,193,194,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+150,194,195,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+151,195,196,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+152,196,197,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+153,197,198,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+154,181,188,commuter_rail,Central Suburban Railway - Line 1( Fast) CSTM- Kasara,0
+155,200,211,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+156,201,218,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+157,202,206,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+158,202,205,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+159,203,220,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+160,203,221,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+161,204,210,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+162,205,209,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+163,207,209,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+164,208,210,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+165,208,207,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+166,211,212,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+167,212,213,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+168,213,214,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+169,214,215,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+170,215,216,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+171,216,217,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+172,217,222,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+173,218,219,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+174,219,220,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+175,221,222,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+176,204,201,heavy_rail,Western Suburban  Railway - Line 1(Fast) Churchgate- Dahanu Rd,0
+177,223,226,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+178,223,231,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+179,224,227,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+180,225,231,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+181,227,233,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+182,228,233,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+183,228,229,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+184,229,235,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+185,230,241,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+186,230,226,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+187,232,225,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+188,234,240,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+189,234,239,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+190,235,236,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+191,236,237,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+192,237,238,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+193,238,239,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+194,240,241,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+195,239,223,heavy_rail,MMMOCL METRO - LINE 2A (Dahisar-DN Nagar),2021
+196,242,244,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+197,242,245,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+198,243,246,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+199,244,260,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+200,245,246,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+201,247,246,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+202,248,249,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+203,249,250,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+204,250,251,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+205,251,252,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+206,252,253,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+207,253,254,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+208,254,255,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+209,255,256,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+210,256,257,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+211,257,258,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+212,258,259,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+213,259,260,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+214,261,263,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+215,261,262,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+216,262,254,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+217,262,265,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+218,263,264,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+219,264,265,heavy_rail,Thane Circular  Metro - CIRCULAR LINE,2025
+220,266,267,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+221,266,272,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+222,268,273,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+223,268,274,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+224,269,280,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+225,269,271,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+226,270,280,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+227,272,273,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+228,274,275,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+229,275,276,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+230,276,277,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+231,277,278,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+232,278,279,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+233,279,271,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+234,273,279,heavy_rail,NMML - NMML 1 (Belapur-Pendhar	,2020
+235,281,283,heavy_rail,MMMOCL METRO - LINE 4 A (Kasarwadavali-Gaimukh,2022
+236,282,283,heavy_rail,MMMOCL METRO - LINE 4 A (Kasarwadavali-Gaimukh,2022
+237,284,310,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+238,284,311,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+239,285,313,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+240,285,312,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+241,286,300,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+242,287,295,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+243,287,286,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+244,288,309,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+245,288,308,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+246,289,299,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+247,289,290,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+248,290,298,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+249,291,296,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+250,292,300,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+251,293,301,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+252,293,294,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+253,294,302,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+254,295,301,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+255,296,297,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+256,297,290,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+257,299,292,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+258,302,303,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+259,303,304,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+260,304,305,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+261,305,306,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+262,306,307,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+263,307,309,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+264,310,308,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+265,311,312,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+266,290,294,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+267,309,308,heavy_rail,Western Suburban  Railway - Line 2 (slow)Churchgate -Borivali,0
+268,314,316,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+269,315,317,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+270,316,321,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+271,317,318,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+272,318,319,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+273,319,320,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+274,320,321,heavy_rail,NMML - NMML 2 (MIDC Taloja–Khandeshwar),2024
+275,322,324,heavy_rail,NMML - NMML 3 (Pendhar and MIDC),2022
+276,323,324,heavy_rail,NMML - NMML 3 (Pendhar and MIDC),2022
+277,325,327,heavy_rail,MMMOCL METRO - LINE 8 (CSIA T2-NMIA),2025
+278,325,326,heavy_rail,MMMOCL METRO - LINE 8 (CSIA T2-NMIA),2025
+279,328,331,heavy_rail,MMMOCL METRO - LINE 7A (Andheri-CSIA),2021
+280,329,330,heavy_rail,MMMOCL METRO - LINE 7A (Andheri-CSIA),2021
+281,330,331,heavy_rail,MMMOCL METRO - LINE 7A (Andheri-CSIA),2021
+282,332,337,heavy_rail,MMMOCL METRO - LINE 10 (Gaimukh-Shivaji Chowk ),2021
+283,333,334,heavy_rail,MMMOCL METRO - LINE 10 (Gaimukh-Shivaji Chowk ),2021
+284,334,335,heavy_rail,MMMOCL METRO - LINE 10 (Gaimukh-Shivaji Chowk ),2021
+285,336,335,heavy_rail,MMMOCL METRO - LINE 10 (Gaimukh-Shivaji Chowk ),2021
+286,337,336,heavy_rail,MMMOCL METRO - LINE 10 (Gaimukh-Shivaji Chowk ),2021
+287,338,361,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+288,338,362,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+289,339,359,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+290,340,357,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+291,340,346,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+292,341,343,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+293,341,344,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+294,342,343,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+295,344,354,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+296,345,349,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+297,345,356,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+298,347,353,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+299,348,354,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+300,348,355,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+301,349,361,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+302,350,352,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+303,351,360,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+304,351,352,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+305,352,357,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+306,353,359,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+307,355,356,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+308,358,346,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+309,358,347,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+310,360,364,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+311,363,364,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+312,356,353,heavy_rail,MMMOCL METRO - LINE 2B (DN Nagar-Mandala),2023
+313,365,373,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+314,366,368,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+315,367,372,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+316,367,373,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+317,368,369,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+318,369,370,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+319,370,371,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+320,371,372,heavy_rail,MMMOCL METRO - LINE 9 (Dahisar (East)-Mira-Bhayander),2022
+321,374,378,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+322,375,376,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+323,375,384,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+324,377,384,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+325,377,383,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+326,378,379,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+327,379,385,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+328,380,388,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+329,380,381,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+330,381,382,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+331,382,383,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+332,385,386,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+333,386,387,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+334,387,388,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+335,388,382,heavy_rail,MMMOCL METRO - LINE 7 (Dahisar (East)-Andheri (East)),2021
+336,389,407,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+337,389,406,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+338,390,391,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+339,391,396,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+340,392,393,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+341,392,404,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+342,393,394,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+343,394,395,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+344,395,396,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+345,397,400,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+346,397,408,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+347,398,406,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+348,399,400,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+349,399,398,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+350,401,408,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+351,401,402,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+352,402,403,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+353,403,405,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+354,404,405,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+355,395,399,heavy_rail,MMMOCL METRO - LINE 12 (Kalyan-Dombivali-Taloja),2025
+356,409,414,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+357,410,441,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+358,411,420,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+359,412,417,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+360,412,419,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+361,413,430,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+362,414,415,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+363,415,416,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+364,416,418,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+365,417,418,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+366,419,437,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+367,420,421,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+368,421,422,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+369,422,423,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+370,423,424,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+371,424,438,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+372,425,438,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+373,426,427,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+374,426,425,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+375,427,428,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+376,428,429,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+377,429,445,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+378,430,440,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+379,431,439,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+380,432,439,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+381,433,432,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+382,433,434,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+383,434,435,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+384,435,436,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+385,436,437,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+386,440,446,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+387,441,442,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+388,442,443,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+389,443,444,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+390,444,411,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+391,445,446,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+392,417,411,heavy_rail,MMMOCL METRO - LINE 4  (Wadala–Kasarvadavali,2022
+393,448,459,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+394,448,449,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+395,450,462,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+396,450,458,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+397,451,452,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+398,451,460,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+399,453,454,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+400,454,461,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+401,455,461,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+402,456,457,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+403,456,455,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+404,457,458,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+405,459,463,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+406,460,463,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+407,457,460,heavy_rail,MMMOCL METRO - LINE 1 (Versova–Andheri–Ghatkopar),2014
+408,464,480,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+409,465,467,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+410,466,480,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+411,467,468,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+412,468,469,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+413,469,470,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+414,470,471,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+415,471,472,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+416,472,473,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+417,473,474,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+418,475,474,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+419,475,481,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+420,476,481,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+421,476,477,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+422,477,478,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+423,478,479,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+424,479,480,heavy_rail,MMMOCL METRO - LINE 5 (Thane-Bhiwandi-Kalyan),2023
+425,482,490,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+426,483,499,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+427,483,498,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+428,484,495,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+429,485,507,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+430,486,489,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+431,486,494,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+432,487,510,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+433,488,495,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+434,490,504,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+435,491,497,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+436,491,498,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+437,492,509,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+438,492,493,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+439,493,508,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+440,494,495,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+441,496,484,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+442,496,506,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+443,500,501,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+444,500,497,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+445,501,493,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+446,502,510,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+447,503,510,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+448,503,511,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+449,504,505,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+450,505,506,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+451,507,499,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+452,509,502,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+453,511,512,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+454,512,513,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+455,513,514,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+456,514,515,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+457,515,516,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+458,516,490,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+459,499,495,heavy_rail,MMMOCL METRO - LINE 3 (AQUA LINE)(Colaba - Bandra – SEEPZ),2022
+460,517,521,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+461,517,518,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+462,519,533,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+463,520,526,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+464,520,525,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+465,522,523,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+466,522,521,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+467,523,524,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+468,524,525,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+469,527,528,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+470,528,529,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+471,529,526,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+472,530,531,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+473,531,532,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+474,532,533,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+475,532,522,heavy_rail,MMMOCL METRO - LINE  6 (Lokhandwala-Jogeshwari-Kanjurmarg),2022
+476,534,542,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+477,534,535,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+478,535,543,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+479,536,539,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+480,536,537,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+481,537,538,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+482,539,540,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+483,540,541,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+484,541,542,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+485,543,544,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+486,545,546,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+487,546,547,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+488,545,536,heavy_rail,MMMOCL METRO - LINE 14 (Kanjurmarg-Badlapur),2025
+489,548,550,heavy_rail,NMML - NMML 4 (Khandeshwar-NMIA),2024
+490,548,549,heavy_rail,NMML - NMML 4 (Khandeshwar-NMIA),2024
+491,551,556,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+492,552,562,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+493,553,561,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+494,553,552,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+495,554,564,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+496,554,566,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+497,555,564,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+498,555,563,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+499,556,558,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+500,557,562,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+501,558,565,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+502,559,565,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+503,559,560,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+504,561,566,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+505,563,560,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+506,563,553,heavy_rail,MMMOCL METRO - LINE 11 (Wadala-CSMT),2023
+507,567,574,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+508,567,570,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+509,568,572,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+510,568,571,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+511,569,573,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+512,569,572,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+513,570,571,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+514,574,571,light_rail,Monorail - Line 1 Chembur- Wadala,2016
+515,575,578,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+516,575,577,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+517,576,588,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+518,579,580,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+519,579,578,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+520,580,581,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+521,581,590,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+522,582,589,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+523,582,583,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+524,583,577,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+525,584,586,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+526,585,588,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+527,586,587,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+528,589,586,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+529,580,576,light_rail,Monorail - Line 1 Wadala- Jacob's Circle,2019
+530,591,607,brt,TMT - 1,0
+531,592,593,brt,TMT - 1,0
+532,593,606,brt,TMT - 1,0
+533,594,605,brt,TMT - 1,0
+534,595,604,brt,TMT - 1,0
+535,595,594,brt,TMT - 1,0
+536,596,600,brt,TMT - 1,0
+537,596,597,brt,TMT - 1,0
+538,598,601,brt,TMT - 1,0
+539,599,602,brt,TMT - 1,0
+540,601,599,brt,TMT - 1,0
+541,602,603,brt,TMT - 1,0
+542,605,606,brt,TMT - 1,0
+543,607,592,brt,TMT - 1,0
+544,592,600,brt,TMT - 1,0
+545,608,611,high_speed_rail,High Speed Bullet Train - Mumbai -Ahmedabad,2023
+546,609,611,high_speed_rail,High Speed Bullet Train - Mumbai -Ahmedabad,2023
+547,609,610,high_speed_rail,High Speed Bullet Train - Mumbai -Ahmedabad,2023
+548,610,613,high_speed_rail,High Speed Bullet Train - Mumbai -Ahmedabad,2023
+549,612,613,high_speed_rail,High Speed Bullet Train - Mumbai -Ahmedabad,2023

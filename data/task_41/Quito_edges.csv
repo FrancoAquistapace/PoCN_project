@@ -1,0 +1,15 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,6,heavy_rail,Metro - Línea 1,2020
+1,1,5,heavy_rail,Metro - Línea 1,2020
+2,2,6,heavy_rail,Metro - Línea 1,2020
+3,2,4,heavy_rail,Metro - Línea 1,2020
+4,3,7,heavy_rail,Metro - Línea 1,2020
+5,4,3,heavy_rail,Metro - Línea 1,2020
+6,5,0,heavy_rail,Metro - Línea 1,2020
+7,7,9,heavy_rail,Metro - Línea 1,2020
+8,8,10,heavy_rail,Metro - Línea 1,2020
+9,8,9,heavy_rail,Metro - Línea 1,2020
+10,10,12,heavy_rail,Metro - Línea 1,2020
+11,11,13,heavy_rail,Metro - Línea 1,2020
+12,11,12,heavy_rail,Metro - Línea 1,2020
+13,13,14,heavy_rail,Metro - Línea 1,2020

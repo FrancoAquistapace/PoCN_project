@@ -1,0 +1,219 @@
+,nodeID_from,nodeID_to,mode,line,year
+0,0,2,commuter_rail,Rodalies - R4,1992
+1,1,2,commuter_rail,Rodalies - R4,1926
+2,3,11,commuter_rail,Rodalies - R4,1886
+3,3,4,commuter_rail,Rodalies - R4,1886
+4,5,4,commuter_rail,Rodalies - R4,1855
+5,5,6,commuter_rail,Rodalies - R4,1855
+6,6,7,commuter_rail,Rodalies - R4,1855
+7,7,8,commuter_rail,Rodalies - R4,1856
+8,9,10,commuter_rail,Rodalies - R4,1854
+9,10,0,commuter_rail,Rodalies - R4,1992
+10,3,1,commuter_rail,Rodalies - R4,1926
+11,12,13,commuter_rail,Rodalies - R8,1854
+12,13,14,commuter_rail,Rodalies - R8,1958
+13,17,19,commuter_rail,Rodalies - R12,1992
+14,18,19,commuter_rail,Rodalies - R12,1926
+15,20,26,commuter_rail,Rodalies - R12,1886
+16,20,21,commuter_rail,Rodalies - R12,1886
+17,22,21,commuter_rail,Rodalies - R12,1855
+18,22,23,commuter_rail,Rodalies - R12,1855
+19,23,24,commuter_rail,Rodalies - R12,1855
+20,24,25,commuter_rail,Rodalies - R12,1856
+21,20,18,commuter_rail,Rodalies - R12,1926
+22,38,39,inter_city_rail,Rodalies - R2 Sud,1881
+23,40,42,inter_city_rail,Rodalies - R3,1992
+24,41,42,inter_city_rail,Rodalies - R3,1926
+25,43,49,inter_city_rail,Rodalies - R3,1886
+26,43,53,inter_city_rail,Rodalies - R3,1886
+27,44,53,inter_city_rail,Rodalies - R3,1886
+28,44,54,inter_city_rail,Rodalies - R3,1886
+29,45,46,inter_city_rail,Rodalies - R3,1875
+30,46,47,inter_city_rail,Rodalies - R3,1875
+31,47,55,inter_city_rail,Rodalies - R3,1875
+32,48,50,inter_city_rail,Rodalies - R3,1875
+33,48,55,inter_city_rail,Rodalies - R3,1875
+34,50,51,inter_city_rail,Rodalies - R3,1875
+35,52,51,inter_city_rail,Rodalies - R3,1875
+36,45,54,inter_city_rail,Rodalies - R3,1886
+37,49,41,inter_city_rail,Rodalies - R3,1926
+38,56,59,inter_city_rail,Rodalies - R7,1886
+39,56,57,inter_city_rail,Rodalies - R7,1886
+40,58,57,inter_city_rail,Rodalies - R7,1855
+41,66,67,inter_city_rail,FGC - S1,1917
+42,67,68,inter_city_rail,FGC - S1,1917
+43,69,70,inter_city_rail,FGC - S2,1917
+44,69,71,inter_city_rail,FGC - S2,1922
+45,72,71,inter_city_rail,FGC - S2,1925
+46,73,70,inter_city_rail,FGC - S2,1917
+47,74,75,inter_city_rail,Rodalies - R1,1861
+48,75,76,inter_city_rail,Rodalies - R1,1861
+49,76,84,inter_city_rail,Rodalies - R1,1861
+50,77,92,inter_city_rail,Rodalies - R1,1861
+51,77,86,inter_city_rail,Rodalies - R1,1861
+52,78,82,inter_city_rail,Rodalies - R1,1848
+53,78,88,inter_city_rail,Rodalies - R1,1848
+54,79,81,inter_city_rail,Rodalies - R1,1992
+55,80,81,inter_city_rail,Rodalies - R1,1926
+56,80,95,inter_city_rail,Rodalies - R1,1992
+57,82,83,inter_city_rail,Rodalies - R1,1848
+58,83,95,inter_city_rail,Rodalies - R1,1992
+59,84,85,inter_city_rail,Rodalies - R1,1861
+60,85,86,inter_city_rail,Rodalies - R1,1861
+61,87,94,inter_city_rail,Rodalies - R1,1861
+62,87,88,inter_city_rail,Rodalies - R1,1848
+63,89,74,inter_city_rail,Rodalies - R1,1861
+64,90,91,inter_city_rail,Rodalies - R1,1854
+65,91,79,inter_city_rail,Rodalies - R1,1992
+66,92,93,inter_city_rail,Rodalies - R1,1861
+67,93,94,inter_city_rail,Rodalies - R1,1861
+68,86,92,inter_city_rail,Rodalies - R1,1861
+69,96,102,inter_city_rail,Rodalies - R2,1881
+70,97,99,inter_city_rail,Rodalies - R2,1854
+71,97,98,inter_city_rail,Rodalies - R2,1854
+72,99,100,inter_city_rail,Rodalies - R2,1854
+73,101,98,inter_city_rail,Rodalies - R2,1958
+74,102,100,inter_city_rail,Rodalies - R2,1854
+75,103,107,inter_city_rail,Rodalies - R2 Nord,1861
+76,103,104,inter_city_rail,Rodalies - R2 Nord,1861
+77,104,109,inter_city_rail,Rodalies - R2 Nord,1861
+78,105,116,inter_city_rail,Rodalies - R2 Nord,1861
+79,105,109,inter_city_rail,Rodalies - R2 Nord,1861
+80,106,119,inter_city_rail,Rodalies - R2 Nord,1881
+81,106,117,inter_city_rail,Rodalies - R2 Nord,1975
+82,107,111,inter_city_rail,Rodalies - R2 Nord,1861
+83,108,113,inter_city_rail,Rodalies - R2 Nord,1854
+84,108,112,inter_city_rail,Rodalies - R2 Nord,1854
+85,110,111,inter_city_rail,Rodalies - R2 Nord,1861
+86,110,118,inter_city_rail,Rodalies - R2 Nord,1958
+87,113,114,inter_city_rail,Rodalies - R2 Nord,1854
+88,115,118,inter_city_rail,Rodalies - R2 Nord,1958
+89,115,112,inter_city_rail,Rodalies - R2 Nord,1958
+90,119,114,inter_city_rail,Rodalies - R2 Nord,1854
+91,111,109,inter_city_rail,Rodalies - R2 Nord,1861
+92,145,150,heavy_rail,Metro - L2,1997
+93,145,155,heavy_rail,Metro - L2,1997
+94,146,151,heavy_rail,Metro - L2,1997
+95,146,150,heavy_rail,Metro - L2,1997
+96,147,158,heavy_rail,Metro - L2,2002
+97,147,151,heavy_rail,Metro - L2,1997
+98,148,155,heavy_rail,Metro - L2,1997
+99,148,154,heavy_rail,Metro - L2,1997
+100,149,153,heavy_rail,Metro - L2,1997
+101,152,155,heavy_rail,Metro - L2,1997
+102,153,154,heavy_rail,Metro - L2,1997
+103,156,160,heavy_rail,Metro - L2,2002
+104,157,158,heavy_rail,Metro - L2,2002
+105,157,159,heavy_rail,Metro - L2,2002
+106,159,160,heavy_rail,Metro - L2,2002
+107,161,162,heavy_rail,Metro - L2,1997
+108,162,163,heavy_rail,Metro - L2,1997
+109,164,172,heavy_rail,Metro - L4,1934
+110,164,180,heavy_rail,Metro - L4,1926
+111,165,179,heavy_rail,Metro - L4,1982
+112,166,183,heavy_rail,Metro - L4,1999
+113,166,167,heavy_rail,Metro - L4,1982
+114,167,171,heavy_rail,Metro - L4,1982
+115,168,169,heavy_rail,Metro - L4,1977
+116,168,176,heavy_rail,Metro - L4,1977
+117,169,174,heavy_rail,Metro - L4,1977
+118,170,182,heavy_rail,Metro - L4,1982
+119,170,165,heavy_rail,Metro - L4,1982
+120,171,182,heavy_rail,Metro - L4,1982
+121,172,176,heavy_rail,Metro - L4,1976
+122,173,174,heavy_rail,Metro - L4,1977
+123,173,175,heavy_rail,Metro - L4,1977
+124,175,177,heavy_rail,Metro - L4,1982
+125,177,184,heavy_rail,Metro - L4,1982
+126,178,181,heavy_rail,Metro - L4,1982
+127,179,180,heavy_rail,Metro - L4,1982
+128,181,184,heavy_rail,Metro - L4,1982
+129,185,208,heavy_rail,Metro - L5,1970
+130,185,187,heavy_rail,Metro - L5,1970
+131,186,204,heavy_rail,Metro - L5,1959
+132,186,207,heavy_rail,Metro - L5,1959
+133,187,192,heavy_rail,Metro - L5,1969
+134,188,198,heavy_rail,Metro - L5,2010
+135,188,203,heavy_rail,Metro - L5,2010
+136,189,190,heavy_rail,Metro - L5,1970
+137,189,204,heavy_rail,Metro - L5,1970
+138,190,209,heavy_rail,Metro - L5,1970
+139,191,197,heavy_rail,Metro - L5,2010
+140,192,193,heavy_rail,Metro - L5,1969
+141,193,194,heavy_rail,Metro - L5,1969
+142,194,195,heavy_rail,Metro - L5,1969
+143,196,205,heavy_rail,Metro - L5,1973
+144,197,198,heavy_rail,Metro - L5,2010
+145,199,202,heavy_rail,Metro - L5,1983
+146,200,201,heavy_rail,Metro - L5,1983
+147,200,206,heavy_rail,Metro - L5,1976
+148,201,202,heavy_rail,Metro - L5,1983
+149,203,207,heavy_rail,Metro - L5,1967
+150,205,206,heavy_rail,Metro - L5,1976
+151,208,209,heavy_rail,Metro - L5,1970
+152,196,195,heavy_rail,Metro - L5,1973
+153,213,224,heavy_rail,Metro - L3,0
+154,213,231,heavy_rail,Metro - L3,0
+155,214,237,heavy_rail,Metro - L3,0
+156,214,227,heavy_rail,Metro - L3,0
+157,215,222,heavy_rail,Metro - L3,0
+158,216,229,heavy_rail,Metro - L3,1975
+159,216,217,heavy_rail,Metro - L3,1975
+160,217,218,heavy_rail,Metro - L3,1975
+161,218,219,heavy_rail,Metro - L3,1975
+162,220,221,heavy_rail,Metro - L3,0
+163,220,226,heavy_rail,Metro - L3,0
+164,221,236,heavy_rail,Metro - L3,0
+165,222,232,heavy_rail,Metro - L3,1925
+166,223,228,heavy_rail,Metro - L3,1975
+167,224,226,heavy_rail,Metro - L3,0
+168,225,237,heavy_rail,Metro - L3,0
+169,227,231,heavy_rail,Metro - L3,0
+170,228,229,heavy_rail,Metro - L3,1975
+171,230,222,heavy_rail,Metro - L3,1975
+172,230,219,heavy_rail,Metro - L3,1975
+173,232,235,heavy_rail,Metro - L3,1925
+174,233,235,heavy_rail,Metro - L3,1925
+175,233,234,heavy_rail,Metro - L3,1925
+176,234,236,heavy_rail,Metro - L3,0
+177,254,255,heavy_rail,Metro - L10,2021
+178,254,259,heavy_rail,Metro - L10,2021
+179,256,258,heavy_rail,Metro - L10,2021
+180,257,258,heavy_rail,Metro - L10,2021
+181,257,255,heavy_rail,Metro - L10,2021
+182,262,280,heavy_rail,Metro - L1,0
+183,262,279,heavy_rail,Metro - L1,0
+184,263,284,heavy_rail,Metro - L1,1926
+185,263,275,heavy_rail,Metro - L1,1926
+186,264,277,heavy_rail,Metro - L1,1926
+187,264,276,heavy_rail,Metro - L1,1926
+188,265,271,heavy_rail,Metro - L1,1987
+189,265,270,heavy_rail,Metro - L1,1987
+190,266,267,heavy_rail,Metro - L1,1989
+191,267,289,heavy_rail,Metro - L1,1989
+192,268,269,heavy_rail,Metro - L1,1987
+193,268,289,heavy_rail,Metro - L1,1987
+194,269,271,heavy_rail,Metro - L1,1987
+195,270,272,heavy_rail,Metro - L1,1932
+196,272,273,heavy_rail,Metro - L1,1926
+197,273,274,heavy_rail,Metro - L1,1926
+198,275,285,heavy_rail,Metro - L1,1926
+199,276,284,heavy_rail,Metro - L1,1926
+200,277,286,heavy_rail,Metro - L1,1926
+201,278,279,heavy_rail,Metro - L1,0
+202,278,286,heavy_rail,Metro - L1,0
+203,280,281,heavy_rail,Metro - L1,0
+204,281,290,heavy_rail,Metro - L1,0
+205,282,290,heavy_rail,Metro - L1,0
+206,282,283,heavy_rail,Metro - L1,0
+207,283,287,heavy_rail,Metro - L1,0
+208,288,287,heavy_rail,Metro - L1,0
+209,291,266,heavy_rail,Metro - L1,1989
+210,278,282,heavy_rail,Metro - L1,0
+211,274,285,heavy_rail,Metro - L1,1926
+212,292,295,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1959
+213,292,296,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1959
+214,293,294,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1967
+215,294,296,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1967
+216,297,298,heavy_rail,Gran Metropolità de Barcelona - Línea II,1934
+217,297,299,heavy_rail,Gran Metropolità de Barcelona - Línea II,1926
