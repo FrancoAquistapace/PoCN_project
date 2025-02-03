@@ -581,5 +581,58 @@ all_data = {'cities': cities_df,
 # -------------------------------------------
 
 
+
+# ------------ MAIN PROCESSING --------------
+# Run the main processing loop
+# We only consider cities with stations and sections data, 
+# otherwise, the city files are built as empty
+folder_path = '../../data/task_41/'
+for city_id in cities_df['id']:
+    # Get name of the city
+    city_name = cities_df.loc[cities_df['id'] == city_id, 'name'].iloc[0]
+    
+    # Check if the name of the city is repeated
+    name_counts = cities_df.loc[cities_df['name'] == city_name].shape[0]
+    if name_counts > 1:
+        # If repeated, add name of the country
+        country_name = cities_df.loc[cities_df['id'] == city_id, 'country'].iloc[0]
+
+        # Check if the city is repeated in the same country
+        country_counts = cities_df.loc[
+            (cities_df['name'] == city_name) &\
+            (cities_df['country'] == country_name)].shape[0]
+        if country_counts > 1:
+            city_name = city_name + '_' + str(city_id)
+
+        city_name = city_name + '_' + country_name
+
+    # Remove possible spaces from name
+    city_name = city_name.replace(' ', '_')
+
+    # Get city data
+    city_data = data_from_city_id(city_id)
+
+    # If either station data or section data is missing, then skip city
+    missing_data = check_missing_data(city_data)
+    if missing_data:
+        # Write empty city files
+        city_nodes = pd.DataFrame(
+                {'nodeID':[], 'nodeLabel':[], 
+                 'latitude':[], 'longitude': [],
+                 'mode':[], 'year': []})
+        city_edges = pd.DataFrame(
+                {'nodeID_from': [], 'nodeID_to': [], 
+                 'mode': [], 'line': [], 'year': []})
+
+    else:
+        # Build node and edge lists
+        node_list, edge_list = build_node_edge_lists(city_data)
+        city_nodes = pd.DataFrame(node_list)
+        city_edges = pd.DataFrame(edge_list)
+
+    # Write files
+    city_nodes.to_csv(folder_path + city_name + '_nodes.csv')
+    city_edges.to_csv(folder_path + city_name + '_edges.csv')
+
 print('Process completed')
 exit()
