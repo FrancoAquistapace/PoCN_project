@@ -376,6 +376,7 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
             # - Two nodes are at the ends of a given section 
             # - There is no link between them
             # - They are not communicated through other nodes 
+            # -> Then connect their two closest neighbors
             for s in range(edges_l.shape[0]):
                 sl = edges_l.iloc[s]
 
@@ -436,10 +437,27 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
                 if True in common_neighs:
                     continue
 
-                # Attempt link
-                link_repeated = ([n1, n2] in edge_arr) or ([n2, n1] in edge_arr)
+                # Attempt link between their two closest neighbors:
+                # Get distances between neighbor sets
+                neighs_dist = []
+                for nn1 in n1_neighs:
+                    nn1_pos = np.array([nodes_l.iloc[nn1]['latitude'],
+                                        nodes_l.iloc[nn1]['longitude']])
+                    nn_dist = []
+                    for nn2 in n2_neighs:
+                        nn2_pos = np.array([nodes_l.iloc[nn2]['latitude'],
+                                            nodes_l.iloc[nn2]['longitude']])
+                        nn_dist.append(np.linalg.norm(nn1_pos - nn2_pos))
+                    neighs_dist.append(nn_dist)
+                neighs_dist = np.array(neighs_dist)
+
+                # Get closest negihbors from the two sets
+                nn1_closest, nn2_closest = np.where(neighs_dist == np.min(neighs_dist))
+                nn_closest = [n1_neighs[nn1_closest[0]], n2_neighs[nn2_closest[0]]]
+                        
+                link_repeated = (nn_closest in edge_arr) or ([nn_closest[1], nn_closest[0]] in edge_arr)
                 if not link_repeated:
-                    edge_arr.append([n1, n2])
+                    edge_arr.append(nn_closest)
                     
             
             # Now, we can store the edge data
