@@ -1,14 +1,14 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,brt,Metrobus - Metrobus Av. del Trabajador,2019
-1,1,2,brt,Metrobus - Metrobus Av. del Trabajador,2019
-2,2,3,brt,Metrobus - Metrobus Av. del Trabajador,2019
-3,3,4,brt,Metrobus - Metrobus Av. del Trabajador,2019
-4,4,5,brt,Metrobus - Metrobus Av. del Trabajador,2019
-5,5,6,brt,Metrobus - Metrobus Av. del Trabajador,2019
-6,6,7,brt,Metrobus - Metrobus Av. del Trabajador,2019
-7,7,8,brt,Metrobus - Metrobus Av. del Trabajador,2019
-8,8,9,brt,Metrobus - Metrobus Av. del Trabajador,2019
-9,9,10,brt,Metrobus - Metrobus Av. del Trabajador,2019
-10,10,11,brt,Metrobus - Metrobus Av. del Trabajador,2019
-11,11,12,brt,Metrobus - Metrobus Av. del Trabajador,2019
-12,13,14,light_rail,Tren del Valle - Tren del Valle,2015
+nodeID_from,nodeID_to,mode,line,year
+0,1,brt,Metrobus - Metrobus Av. del Trabajador,2019
+1,2,brt,Metrobus - Metrobus Av. del Trabajador,2019
+2,3,brt,Metrobus - Metrobus Av. del Trabajador,2019
+3,4,brt,Metrobus - Metrobus Av. del Trabajador,2019
+4,5,brt,Metrobus - Metrobus Av. del Trabajador,2019
+5,6,brt,Metrobus - Metrobus Av. del Trabajador,2019
+6,7,brt,Metrobus - Metrobus Av. del Trabajador,2019
+7,8,brt,Metrobus - Metrobus Av. del Trabajador,2019
+8,9,brt,Metrobus - Metrobus Av. del Trabajador,2019
+9,10,brt,Metrobus - Metrobus Av. del Trabajador,2019
+10,11,brt,Metrobus - Metrobus Av. del Trabajador,2019
+11,12,brt,Metrobus - Metrobus Av. del Trabajador,2019
+13,14,light_rail,Tren del Valle - Tren del Valle,2015

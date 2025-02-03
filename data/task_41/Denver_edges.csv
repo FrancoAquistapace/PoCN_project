@@ -1,146 +1,146 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,light_rail,Regional Transportation District - J Line,2002
-1,1,3,light_rail,Regional Transportation District - J Line,2002
-2,2,4,light_rail,Regional Transportation District - J Line,2002
-3,3,4,light_rail,Regional Transportation District - J Line,2002
-4,5,11,light_rail,Regional Transportation District - D Line ,2000
-5,5,6,light_rail,Regional Transportation District - D Line ,2000
-6,6,7,light_rail,Regional Transportation District - D Line ,2000
-7,7,8,light_rail,Regional Transportation District - D Line ,2000
-8,8,9,light_rail,Regional Transportation District - D Line ,2000
-9,9,10,light_rail,Regional Transportation District - D Line ,2000
-10,11,14,light_rail,Regional Transportation District - D Line ,2000
-11,12,13,light_rail,Regional Transportation District - D Line ,1994
-12,12,14,light_rail,Regional Transportation District - D Line ,1994
-13,13,16,light_rail,Regional Transportation District - D Line ,1994
-14,15,16,light_rail,Regional Transportation District - D Line ,1994
-15,16,17,light_rail,Regional Transportation District - D Line ,1994
-16,17,18,light_rail,Regional Transportation District - D Line ,1994
-17,19,20,light_rail,Regional Transportation District - E Line,2006
-18,19,22,light_rail,Regional Transportation District - E Line,2006
-19,21,33,light_rail,Regional Transportation District - E Line,2002
-20,22,23,light_rail,Regional Transportation District - E Line,2006
-21,23,24,light_rail,Regional Transportation District - E Line,2006
-22,24,25,light_rail,Regional Transportation District - E Line,2006
-23,25,26,light_rail,Regional Transportation District - E Line,2006
-24,26,27,light_rail,Regional Transportation District - E Line,2006
-25,27,28,light_rail,Regional Transportation District - E Line,2006
-26,28,29,light_rail,Regional Transportation District - E Line,2006
-27,29,30,light_rail,Regional Transportation District - E Line,2006
-28,30,31,light_rail,Regional Transportation District - E Line,2006
-29,31,32,light_rail,Regional Transportation District - E Line,2006
-30,32,35,light_rail,Regional Transportation District - E Line,2019
-31,33,38,light_rail,Regional Transportation District - E Line,2002
-32,34,39,light_rail,Regional Transportation District - E Line,2002
-33,35,36,light_rail,Regional Transportation District - E Line,2019
-34,36,37,light_rail,Regional Transportation District - E Line,2019
-35,38,39,light_rail,Regional Transportation District - E Line,2002
-36,40,41,light_rail,Regional Transportation District - F Line,2006
-37,40,49,light_rail,Regional Transportation District - F Line,2006
-38,42,43,light_rail,Regional Transportation District - F Line,1994
-39,42,44,light_rail,Regional Transportation District - F Line,1994
-40,43,46,light_rail,Regional Transportation District - F Line,1994
-41,45,46,light_rail,Regional Transportation District - F Line,1994
-42,46,47,light_rail,Regional Transportation District - F Line,1994
-43,47,48,light_rail,Regional Transportation District - F Line,1994
-44,49,50,light_rail,Regional Transportation District - F Line,2006
-45,50,51,light_rail,Regional Transportation District - F Line,2006
-46,51,52,light_rail,Regional Transportation District - F Line,2006
-47,52,53,light_rail,Regional Transportation District - F Line,2006
-48,53,54,light_rail,Regional Transportation District - F Line,2006
-49,54,55,light_rail,Regional Transportation District - F Line,2006
-50,55,56,light_rail,Regional Transportation District - F Line,2006
-51,56,57,light_rail,Regional Transportation District - F Line,2006
-52,57,58,light_rail,Regional Transportation District - F Line,2006
-53,58,59,light_rail,Regional Transportation District - F Line,2006
-54,59,60,light_rail,Regional Transportation District - F Line,2019
-55,60,61,light_rail,Regional Transportation District - F Line,2019
-56,61,62,light_rail,Regional Transportation District - F Line,2019
-57,63,64,light_rail,Regional Transportation District - H Line,2006
-58,63,72,light_rail,Regional Transportation District - H Line,2006
-59,65,66,light_rail,Regional Transportation District - H Line,1994
-60,65,67,light_rail,Regional Transportation District - H Line,1994
-61,66,69,light_rail,Regional Transportation District - H Line,1994
-62,68,69,light_rail,Regional Transportation District - H Line,1994
-63,69,70,light_rail,Regional Transportation District - H Line,1994
-64,70,71,light_rail,Regional Transportation District - H Line,1994
-65,72,73,light_rail,Regional Transportation District - H Line,2006
-66,73,74,light_rail,Regional Transportation District - H Line,2006
-67,74,75,light_rail,Regional Transportation District - H Line,2006
-68,75,76,light_rail,Regional Transportation District - H Line,2006
-69,77,78,light_rail,Regional Transportation District - H Line,2006
-70,77,76,light_rail,Regional Transportation District - H Line,2006
-71,78,79,light_rail,Regional Transportation District - H Line,2017
-72,79,80,light_rail,Regional Transportation District - H Line,2017
-73,81,82,light_rail,Regional Transportation District - L Line,1994
-74,82,83,light_rail,Regional Transportation District - L Line,1994
-75,83,84,light_rail,Regional Transportation District - L Line,1994
-76,83,86,light_rail,Regional Transportation District - L Line,1994
-77,85,88,light_rail,Regional Transportation District - L Line,1994
-78,87,88,light_rail,Regional Transportation District - L Line,1994
-79,86,87,light_rail,Regional Transportation District - L Line,1994
-80,89,95,light_rail,Regional Transportation District - C Line,2000
-81,89,90,light_rail,Regional Transportation District - C Line,2000
-82,90,91,light_rail,Regional Transportation District - C Line,2000
-83,91,92,light_rail,Regional Transportation District - C Line,2000
-84,92,93,light_rail,Regional Transportation District - C Line,2000
-85,93,94,light_rail,Regional Transportation District - C Line,2000
-86,95,96,light_rail,Regional Transportation District - C Line,2002
-87,96,97,light_rail,Regional Transportation District - C Line,2002
-88,97,99,light_rail,Regional Transportation District - C Line,2002
-89,98,100,light_rail,Regional Transportation District - C Line,2002
-90,99,100,light_rail,Regional Transportation District - C Line,2002
-91,101,102,light_rail,Regional Transportation District - R Line,2006
-92,101,107,light_rail,Regional Transportation District - R Line,2006
-93,102,103,light_rail,Regional Transportation District - R Line,2006
-94,103,104,light_rail,Regional Transportation District - R Line,2006
-95,104,105,light_rail,Regional Transportation District - R Line,2006
-96,105,106,light_rail,Regional Transportation District - R Line,2006
-97,106,117,light_rail,Regional Transportation District - R Line,2019
-98,108,109,light_rail,Regional Transportation District - R Line,2017
-99,108,107,light_rail,Regional Transportation District - R Line,2006
-100,109,110,light_rail,Regional Transportation District - R Line,2017
-101,110,111,light_rail,Regional Transportation District - R Line,2017
-102,111,112,light_rail,Regional Transportation District - R Line,2017
-103,112,113,light_rail,Regional Transportation District - R Line,2017
-104,113,114,light_rail,Regional Transportation District - R Line,2017
-105,114,115,light_rail,Regional Transportation District - R Line,2017
-106,115,116,light_rail,Regional Transportation District - R Line,2017
-107,117,118,light_rail,Regional Transportation District - R Line,2019
-108,118,119,light_rail,Regional Transportation District - R Line,2019
-109,120,132,light_rail,Regional Transportation District - W Line,2002
-110,121,122,light_rail,Regional Transportation District - W Line,2013
-111,121,132,light_rail,Regional Transportation District - W Line,2013
-112,122,123,light_rail,Regional Transportation District - W Line,2013
-113,123,124,light_rail,Regional Transportation District - W Line,2013
-114,124,126,light_rail,Regional Transportation District - W Line,2013
-115,125,133,light_rail,Regional Transportation District - W Line,2002
-116,126,128,light_rail,Regional Transportation District - W Line,2013
-117,127,129,light_rail,Regional Transportation District - W Line,2013
-118,127,130,light_rail,Regional Transportation District - W Line,2013
-119,128,129,light_rail,Regional Transportation District - W Line,2013
-120,130,131,light_rail,Regional Transportation District - W Line,2013
-121,132,133,light_rail,Regional Transportation District - W Line,2002
-122,121,127,light_rail,Regional Transportation District - W Line,2013
-123,134,135,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-124,134,141,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-125,135,136,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-126,136,137,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-127,137,138,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-128,138,139,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-129,140,139,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
-130,142,145,commuter_rail,Regional Transportation District - B Line,2016
-131,143,144,commuter_rail,Regional Transportation District - B Line,2016
-132,144,145,commuter_rail,Regional Transportation District - B Line,2016
-133,146,148,commuter_rail,Regional Transportation District - G Line,2016
-134,147,153,commuter_rail,Regional Transportation District - G Line,2019
-135,147,148,commuter_rail,Regional Transportation District - G Line,2016
-136,149,150,commuter_rail,Regional Transportation District - G Line,2019
-137,150,151,commuter_rail,Regional Transportation District - G Line,2019
-138,151,152,commuter_rail,Regional Transportation District - G Line,2019
-139,152,153,commuter_rail,Regional Transportation District - G Line,2019
-140,154,155,commuter_rail,Regional Transportation District - N Line,2020
-141,155,156,commuter_rail,Regional Transportation District - N Line,2020
-142,156,157,commuter_rail,Regional Transportation District - N Line,2020
-143,157,158,commuter_rail,Regional Transportation District - N Line,2020
-144,158,159,commuter_rail,Regional Transportation District - N Line,2020
+nodeID_from,nodeID_to,mode,line,year
+0,1,light_rail,Regional Transportation District - J Line,2002
+1,3,light_rail,Regional Transportation District - J Line,2002
+2,4,light_rail,Regional Transportation District - J Line,2002
+3,4,light_rail,Regional Transportation District - J Line,2002
+5,11,light_rail,Regional Transportation District - D Line ,2000
+5,6,light_rail,Regional Transportation District - D Line ,2000
+6,7,light_rail,Regional Transportation District - D Line ,2000
+7,8,light_rail,Regional Transportation District - D Line ,2000
+8,9,light_rail,Regional Transportation District - D Line ,2000
+9,10,light_rail,Regional Transportation District - D Line ,2000
+11,14,light_rail,Regional Transportation District - D Line ,2000
+12,13,light_rail,Regional Transportation District - D Line ,1994
+12,14,light_rail,Regional Transportation District - D Line ,1994
+13,16,light_rail,Regional Transportation District - D Line ,1994
+15,16,light_rail,Regional Transportation District - D Line ,1994
+16,17,light_rail,Regional Transportation District - D Line ,1994
+17,18,light_rail,Regional Transportation District - D Line ,1994
+19,20,light_rail,Regional Transportation District - E Line,2006
+19,22,light_rail,Regional Transportation District - E Line,2006
+21,33,light_rail,Regional Transportation District - E Line,2002
+22,23,light_rail,Regional Transportation District - E Line,2006
+23,24,light_rail,Regional Transportation District - E Line,2006
+24,25,light_rail,Regional Transportation District - E Line,2006
+25,26,light_rail,Regional Transportation District - E Line,2006
+26,27,light_rail,Regional Transportation District - E Line,2006
+27,28,light_rail,Regional Transportation District - E Line,2006
+28,29,light_rail,Regional Transportation District - E Line,2006
+29,30,light_rail,Regional Transportation District - E Line,2006
+30,31,light_rail,Regional Transportation District - E Line,2006
+31,32,light_rail,Regional Transportation District - E Line,2006
+32,35,light_rail,Regional Transportation District - E Line,2019
+33,38,light_rail,Regional Transportation District - E Line,2002
+34,39,light_rail,Regional Transportation District - E Line,2002
+35,36,light_rail,Regional Transportation District - E Line,2019
+36,37,light_rail,Regional Transportation District - E Line,2019
+38,39,light_rail,Regional Transportation District - E Line,2002
+40,41,light_rail,Regional Transportation District - F Line,2006
+40,49,light_rail,Regional Transportation District - F Line,2006
+42,43,light_rail,Regional Transportation District - F Line,1994
+42,44,light_rail,Regional Transportation District - F Line,1994
+43,46,light_rail,Regional Transportation District - F Line,1994
+45,46,light_rail,Regional Transportation District - F Line,1994
+46,47,light_rail,Regional Transportation District - F Line,1994
+47,48,light_rail,Regional Transportation District - F Line,1994
+49,50,light_rail,Regional Transportation District - F Line,2006
+50,51,light_rail,Regional Transportation District - F Line,2006
+51,52,light_rail,Regional Transportation District - F Line,2006
+52,53,light_rail,Regional Transportation District - F Line,2006
+53,54,light_rail,Regional Transportation District - F Line,2006
+54,55,light_rail,Regional Transportation District - F Line,2006
+55,56,light_rail,Regional Transportation District - F Line,2006
+56,57,light_rail,Regional Transportation District - F Line,2006
+57,58,light_rail,Regional Transportation District - F Line,2006
+58,59,light_rail,Regional Transportation District - F Line,2006
+59,60,light_rail,Regional Transportation District - F Line,2019
+60,61,light_rail,Regional Transportation District - F Line,2019
+61,62,light_rail,Regional Transportation District - F Line,2019
+63,64,light_rail,Regional Transportation District - H Line,2006
+63,72,light_rail,Regional Transportation District - H Line,2006
+65,66,light_rail,Regional Transportation District - H Line,1994
+65,67,light_rail,Regional Transportation District - H Line,1994
+66,69,light_rail,Regional Transportation District - H Line,1994
+68,69,light_rail,Regional Transportation District - H Line,1994
+69,70,light_rail,Regional Transportation District - H Line,1994
+70,71,light_rail,Regional Transportation District - H Line,1994
+72,73,light_rail,Regional Transportation District - H Line,2006
+73,74,light_rail,Regional Transportation District - H Line,2006
+74,75,light_rail,Regional Transportation District - H Line,2006
+75,76,light_rail,Regional Transportation District - H Line,2006
+77,78,light_rail,Regional Transportation District - H Line,2006
+77,76,light_rail,Regional Transportation District - H Line,2006
+78,79,light_rail,Regional Transportation District - H Line,2017
+79,80,light_rail,Regional Transportation District - H Line,2017
+81,82,light_rail,Regional Transportation District - L Line,1994
+82,83,light_rail,Regional Transportation District - L Line,1994
+83,84,light_rail,Regional Transportation District - L Line,1994
+83,86,light_rail,Regional Transportation District - L Line,1994
+85,88,light_rail,Regional Transportation District - L Line,1994
+87,88,light_rail,Regional Transportation District - L Line,1994
+86,87,light_rail,Regional Transportation District - L Line,1994
+89,95,light_rail,Regional Transportation District - C Line,2000
+89,90,light_rail,Regional Transportation District - C Line,2000
+90,91,light_rail,Regional Transportation District - C Line,2000
+91,92,light_rail,Regional Transportation District - C Line,2000
+92,93,light_rail,Regional Transportation District - C Line,2000
+93,94,light_rail,Regional Transportation District - C Line,2000
+95,96,light_rail,Regional Transportation District - C Line,2002
+96,97,light_rail,Regional Transportation District - C Line,2002
+97,99,light_rail,Regional Transportation District - C Line,2002
+98,100,light_rail,Regional Transportation District - C Line,2002
+99,100,light_rail,Regional Transportation District - C Line,2002
+101,102,light_rail,Regional Transportation District - R Line,2006
+101,107,light_rail,Regional Transportation District - R Line,2006
+102,103,light_rail,Regional Transportation District - R Line,2006
+103,104,light_rail,Regional Transportation District - R Line,2006
+104,105,light_rail,Regional Transportation District - R Line,2006
+105,106,light_rail,Regional Transportation District - R Line,2006
+106,117,light_rail,Regional Transportation District - R Line,2019
+108,109,light_rail,Regional Transportation District - R Line,2017
+108,107,light_rail,Regional Transportation District - R Line,2006
+109,110,light_rail,Regional Transportation District - R Line,2017
+110,111,light_rail,Regional Transportation District - R Line,2017
+111,112,light_rail,Regional Transportation District - R Line,2017
+112,113,light_rail,Regional Transportation District - R Line,2017
+113,114,light_rail,Regional Transportation District - R Line,2017
+114,115,light_rail,Regional Transportation District - R Line,2017
+115,116,light_rail,Regional Transportation District - R Line,2017
+117,118,light_rail,Regional Transportation District - R Line,2019
+118,119,light_rail,Regional Transportation District - R Line,2019
+120,132,light_rail,Regional Transportation District - W Line,2002
+121,122,light_rail,Regional Transportation District - W Line,2013
+121,132,light_rail,Regional Transportation District - W Line,2013
+122,123,light_rail,Regional Transportation District - W Line,2013
+123,124,light_rail,Regional Transportation District - W Line,2013
+124,126,light_rail,Regional Transportation District - W Line,2013
+125,133,light_rail,Regional Transportation District - W Line,2002
+126,128,light_rail,Regional Transportation District - W Line,2013
+127,129,light_rail,Regional Transportation District - W Line,2013
+127,130,light_rail,Regional Transportation District - W Line,2013
+128,129,light_rail,Regional Transportation District - W Line,2013
+130,131,light_rail,Regional Transportation District - W Line,2013
+132,133,light_rail,Regional Transportation District - W Line,2002
+121,127,light_rail,Regional Transportation District - W Line,2013
+134,135,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+134,141,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+135,136,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+136,137,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+137,138,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+138,139,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+140,139,commuter_rail,Regional Transportation District - University of Colorado A Line,2016
+142,145,commuter_rail,Regional Transportation District - B Line,2016
+143,144,commuter_rail,Regional Transportation District - B Line,2016
+144,145,commuter_rail,Regional Transportation District - B Line,2016
+146,148,commuter_rail,Regional Transportation District - G Line,2016
+147,153,commuter_rail,Regional Transportation District - G Line,2019
+147,148,commuter_rail,Regional Transportation District - G Line,2016
+149,150,commuter_rail,Regional Transportation District - G Line,2019
+150,151,commuter_rail,Regional Transportation District - G Line,2019
+151,152,commuter_rail,Regional Transportation District - G Line,2019
+152,153,commuter_rail,Regional Transportation District - G Line,2019
+154,155,commuter_rail,Regional Transportation District - N Line,2020
+155,156,commuter_rail,Regional Transportation District - N Line,2020
+156,157,commuter_rail,Regional Transportation District - N Line,2020
+157,158,commuter_rail,Regional Transportation District - N Line,2020
+158,159,commuter_rail,Regional Transportation District - N Line,2020

@@ -1,226 +1,226 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,4,commuter_rail,TriMet - WES Commuter Rail,2009
-1,1,2,commuter_rail,TriMet - WES Commuter Rail,2009
-2,2,3,commuter_rail,TriMet - WES Commuter Rail,2009
-3,3,4,commuter_rail,TriMet - WES Commuter Rail,2009
-4,5,6,people_mover,Portland Aerial Tram - Portland Aerial Tram,2007
-5,7,8,tram,Portland Streetcar - North South Line,2007
-6,8,9,tram,Portland Streetcar - North South Line,2007
-7,10,11,tram,Portland Streetcar - North South Line,2007
-8,11,9,tram,Portland Streetcar - North South Line,2007
-9,12,13,tram,Portland Streetcar - North South Line,2006
-10,12,10,tram,Portland Streetcar - North South Line,2007
-11,13,14,tram,Portland Streetcar - North South Line,2005
-12,14,15,tram,Portland Streetcar - North South Line,2005
-13,15,16,tram,Portland Streetcar - North South Line,2005
-14,16,17,tram,Portland Streetcar - North South Line,2001
-15,17,18,tram,Portland Streetcar - North South Line,2001
-16,19,20,tram,Portland Streetcar - North South Line,2001
-17,19,22,tram,Portland Streetcar - North South Line,2001
-18,21,22,tram,Portland Streetcar - North South Line,2001
-19,21,23,tram,Portland Streetcar - North South Line,2001
-20,23,24,tram,Portland Streetcar - North South Line,2001
-21,25,26,tram,Portland Streetcar - North South Line,2001
-22,26,27,tram,Portland Streetcar - North South Line,2001
-23,27,28,tram,Portland Streetcar - North South Line,2001
-24,29,30,tram,Portland Streetcar - North South Line,2001
-25,30,31,tram,Portland Streetcar - North South Line,2001
-26,31,32,tram,Portland Streetcar - North South Line,2001
-27,32,33,tram,Portland Streetcar - North South Line,2001
-28,33,34,tram,Portland Streetcar - North South Line,2001
-29,35,36,tram,Portland Streetcar - North South Line,2001
-30,35,34,tram,Portland Streetcar - North South Line,2001
-31,36,37,tram,Portland Streetcar - North South Line,2001
-32,37,38,tram,Portland Streetcar - North South Line,2001
-33,39,40,tram,Portland Streetcar - North South Line,2001
-34,39,37,tram,Portland Streetcar - North South Line,2001
-35,41,42,tram,Portland Streetcar - North South Line,2001
-36,42,43,tram,Portland Streetcar - North South Line,2001
-37,43,44,tram,Portland Streetcar - North South Line,2001
-38,44,45,tram,Portland Streetcar - North South Line,2001
-39,18,33,tram,Portland Streetcar - North South Line,2001
-40,46,47,tram,Portland Streetcar - A Loop,2006
-41,47,48,tram,Portland Streetcar - A Loop,2005
-42,48,49,tram,Portland Streetcar - A Loop,2005
-43,49,50,tram,Portland Streetcar - A Loop,2005
-44,50,51,tram,Portland Streetcar - A Loop,2001
-45,51,52,tram,Portland Streetcar - A Loop,2001
-46,52,53,tram,Portland Streetcar - A Loop,2001
-47,53,54,tram,Portland Streetcar - A Loop,2001
-48,54,55,tram,Portland Streetcar - A Loop,2001
-49,55,56,tram,Portland Streetcar - A Loop,2001
-50,56,57,tram,Portland Streetcar - A Loop,2001
-51,57,58,tram,Portland Streetcar - A Loop,2001
-52,58,59,tram,Portland Streetcar - A Loop,2012
-53,60,61,tram,Portland Streetcar - A Loop,2012
-54,61,62,tram,Portland Streetcar - A Loop,2012
-55,62,63,tram,Portland Streetcar - A Loop,2012
-56,63,64,tram,Portland Streetcar - A Loop,2012
-57,64,65,tram,Portland Streetcar - A Loop,2012
-58,65,67,tram,Portland Streetcar - A Loop,2012
-59,66,67,tram,Portland Streetcar - A Loop,2012
-60,66,68,tram,Portland Streetcar - A Loop,2012
-61,68,69,tram,Portland Streetcar - A Loop,2012
-62,69,70,tram,Portland Streetcar - A Loop,2012
-63,70,71,tram,Portland Streetcar - A Loop,2012
-64,71,72,tram,Portland Streetcar - A Loop,2015
-65,72,73,tram,Portland Streetcar - A Loop,2015
-66,59,60,tram,Portland Streetcar - A Loop,2012
-67,46,73,tram,Portland Streetcar - A Loop,2015
-68,74,75,tram,Portland Streetcar - B Loop,2006
-69,75,76,tram,Portland Streetcar - B Loop,2005
-70,76,77,tram,Portland Streetcar - B Loop,2005
-71,77,78,tram,Portland Streetcar - B Loop,2005
-72,78,79,tram,Portland Streetcar - B Loop,2001
-73,79,80,tram,Portland Streetcar - B Loop,2001
-74,80,81,tram,Portland Streetcar - B Loop,2001
-75,81,82,tram,Portland Streetcar - B Loop,2001
-76,83,84,tram,Portland Streetcar - B Loop,2001
-77,83,82,tram,Portland Streetcar - B Loop,2001
-78,84,85,tram,Portland Streetcar - B Loop,2001
-79,85,86,tram,Portland Streetcar - B Loop,2001
-80,86,87,tram,Portland Streetcar - B Loop,2001
-81,87,89,tram,Portland Streetcar - B Loop,2012
-82,88,89,tram,Portland Streetcar - B Loop,2012
-83,90,91,tram,Portland Streetcar - B Loop,2012
-84,91,92,tram,Portland Streetcar - B Loop,2012
-85,92,93,tram,Portland Streetcar - B Loop,2012
-86,93,94,tram,Portland Streetcar - B Loop,2012
-87,94,95,tram,Portland Streetcar - B Loop,2012
-88,96,97,tram,Portland Streetcar - B Loop,2012
-89,96,95,tram,Portland Streetcar - B Loop,2012
-90,97,98,tram,Portland Streetcar - B Loop,2012
-91,98,99,tram,Portland Streetcar - B Loop,2012
-92,99,100,tram,Portland Streetcar - B Loop,2012
-93,100,101,tram,Portland Streetcar - B Loop,2012
-94,101,102,tram,Portland Streetcar - B Loop,2015
-95,83,85,tram,Portland Streetcar - B Loop,2001
-96,88,90,tram,Portland Streetcar - B Loop,2012
-97,99,96,tram,Portland Streetcar - B Loop,2012
-98,74,102,tram,Portland Streetcar - B Loop,2015
-99,103,104,light_rail,TriMet - MAX Red Line,1986
-100,104,105,light_rail,TriMet - MAX Red Line,1986
-101,105,106,light_rail,TriMet - MAX Red Line,1986
-102,107,108,light_rail,TriMet - MAX Red Line,1986
-103,107,109,light_rail,TriMet - MAX Red Line,1986
-104,109,110,light_rail,TriMet - MAX Red Line,1986
-105,110,111,light_rail,TriMet - MAX Red Line,1986
-106,112,113,light_rail,TriMet - MAX Red Line,1986
-107,112,111,light_rail,TriMet - MAX Red Line,1986
-108,113,114,light_rail,TriMet - MAX Red Line,1986
-109,114,115,light_rail,TriMet - MAX Red Line,1986
-110,116,117,light_rail,TriMet - MAX Red Line,1986
-111,116,115,light_rail,TriMet - MAX Red Line,1986
-112,117,118,light_rail,TriMet - MAX Red Line,1986
-113,118,119,light_rail,TriMet - MAX Red Line,1986
-114,119,126,light_rail,TriMet - MAX Red Line,2001
-115,120,125,light_rail,TriMet - MAX Red Line,1998
-116,120,121,light_rail,TriMet - MAX Red Line,1998
-117,121,122,light_rail,TriMet - MAX Red Line,1998
-118,122,123,light_rail,TriMet - MAX Red Line,1998
-119,123,124,light_rail,TriMet - MAX Red Line,1997
-120,126,127,light_rail,TriMet - MAX Red Line,2001
-121,127,128,light_rail,TriMet - MAX Red Line,2001
-122,129,128,light_rail,TriMet - MAX Red Line,2001
-123,103,124,light_rail,TriMet - MAX Red Line,1997
-124,109,105,light_rail,TriMet - MAX Red Line,1986
-125,130,131,light_rail,TriMet - MAX Yellow Line,2004
-126,131,132,light_rail,TriMet - MAX Yellow Line,2004
-127,132,133,light_rail,TriMet - MAX Yellow Line,2004
-128,133,134,light_rail,TriMet - MAX Yellow Line,2004
-129,134,135,light_rail,TriMet - MAX Yellow Line,2004
-130,135,136,light_rail,TriMet - MAX Yellow Line,2004
-131,136,137,light_rail,TriMet - MAX Yellow Line,2004
-132,137,138,light_rail,TriMet - MAX Yellow Line,2004
-133,138,139,light_rail,TriMet - MAX Yellow Line,2004
-134,139,146,light_rail,TriMet - MAX Yellow Line,2009
-135,140,141,light_rail,TriMet - MAX Yellow Line,2009
-136,141,142,light_rail,TriMet - MAX Yellow Line,2009
-137,142,143,light_rail,TriMet - MAX Yellow Line,2009
-138,143,144,light_rail,TriMet - MAX Yellow Line,2009
-139,144,145,light_rail,TriMet - MAX Yellow Line,2009
-140,145,146,light_rail,TriMet - MAX Yellow Line,2009
-141,147,148,light_rail,TriMet - MAX Green Line,2009
-142,148,149,light_rail,TriMet - MAX Green Line,2009
-143,149,150,light_rail,TriMet - MAX Green Line,2009
-144,150,151,light_rail,TriMet - MAX Green Line,2009
-145,151,152,light_rail,TriMet - MAX Green Line,2009
-146,152,153,light_rail,TriMet - MAX Green Line,2009
-147,153,154,light_rail,TriMet - MAX Green Line,2009
-148,155,156,light_rail,TriMet - MAX Green Line,2009
-149,156,157,light_rail,TriMet - MAX Green Line,2009
-150,157,158,light_rail,TriMet - MAX Green Line,2009
-151,159,160,light_rail,TriMet - MAX Green Line,2009
-152,160,162,light_rail,TriMet - MAX Green Line,2009
-153,161,162,light_rail,TriMet - MAX Green Line,2009
-154,161,163,light_rail,TriMet - MAX Green Line,2009
-155,163,164,light_rail,TriMet - MAX Green Line,2009
-156,164,165,light_rail,TriMet - MAX Green Line,2009
-157,165,166,light_rail,TriMet - MAX Green Line,2009
-158,167,168,light_rail,TriMet - MAX Green Line,2009
-159,167,166,light_rail,TriMet - MAX Green Line,2009
-160,153,165,light_rail,TriMet - MAX Green Line,2009
-161,158,165,light_rail,TriMet - MAX Green Line,2009
-162,169,170,light_rail,TriMet - MAX Blue Line,1986
-163,170,171,light_rail,TriMet - MAX Blue Line,1986
-164,171,172,light_rail,TriMet - MAX Blue Line,1986
-165,173,174,light_rail,TriMet - MAX Blue Line,1986
-166,173,175,light_rail,TriMet - MAX Blue Line,1986
-167,175,176,light_rail,TriMet - MAX Blue Line,1986
-168,176,177,light_rail,TriMet - MAX Blue Line,1986
-169,178,179,light_rail,TriMet - MAX Blue Line,1986
-170,178,177,light_rail,TriMet - MAX Blue Line,1986
-171,179,180,light_rail,TriMet - MAX Blue Line,1986
-172,180,181,light_rail,TriMet - MAX Blue Line,1986
-173,182,183,light_rail,TriMet - MAX Blue Line,1986
-174,182,181,light_rail,TriMet - MAX Blue Line,1986
-175,183,184,light_rail,TriMet - MAX Blue Line,1986
-176,184,185,light_rail,TriMet - MAX Blue Line,1986
-177,185,187,light_rail,TriMet - MAX Blue Line,1986
-178,186,187,light_rail,TriMet - MAX Blue Line,1986
-179,188,189,light_rail,TriMet - MAX Blue Line,1986
-180,189,190,light_rail,TriMet - MAX Blue Line,1986
-181,190,191,light_rail,TriMet - MAX Blue Line,1986
-182,191,192,light_rail,TriMet - MAX Blue Line,1986
-183,192,193,light_rail,TriMet - MAX Blue Line,1986
-184,194,195,light_rail,TriMet - MAX Blue Line,1986
-185,195,196,light_rail,TriMet - MAX Blue Line,1986
-186,196,197,light_rail,TriMet - MAX Blue Line,1986
-187,198,217,light_rail,TriMet - MAX Blue Line,1998
-188,198,199,light_rail,TriMet - MAX Blue Line,1998
-189,199,200,light_rail,TriMet - MAX Blue Line,1998
-190,200,201,light_rail,TriMet - MAX Blue Line,1998
-191,201,202,light_rail,TriMet - MAX Blue Line,1998
-192,202,203,light_rail,TriMet - MAX Blue Line,1998
-193,203,204,light_rail,TriMet - MAX Blue Line,1998
-194,204,205,light_rail,TriMet - MAX Blue Line,1998
-195,205,206,light_rail,TriMet - MAX Blue Line,1998
-196,206,207,light_rail,TriMet - MAX Blue Line,1998
-197,207,208,light_rail,TriMet - MAX Blue Line,1998
-198,208,209,light_rail,TriMet - MAX Blue Line,1998
-199,209,210,light_rail,TriMet - MAX Blue Line,1998
-200,210,211,light_rail,TriMet - MAX Blue Line,1998
-201,212,217,light_rail,TriMet - MAX Blue Line,1998
-202,213,214,light_rail,TriMet - MAX Blue Line,1998
-203,214,215,light_rail,TriMet - MAX Blue Line,1998
-204,215,216,light_rail,TriMet - MAX Blue Line,1997
-205,195,186,light_rail,TriMet - MAX Blue Line,1986
-206,169,216,light_rail,TriMet - MAX Blue Line,1997
-207,175,171,light_rail,TriMet - MAX Blue Line,1986
-208,213,212,light_rail,TriMet - MAX Blue Line,1998
-209,218,228,light_rail,TriMet - MAX Orange Line,2015
-210,219,220,light_rail,TriMet - MAX Orange Line,2015
-211,219,218,light_rail,TriMet - MAX Orange Line,2015
-212,220,221,light_rail,TriMet - MAX Orange Line,2015
-213,221,222,light_rail,TriMet - MAX Orange Line,2015
-214,222,223,light_rail,TriMet - MAX Orange Line,2015
-215,224,225,light_rail,TriMet - MAX Orange Line,2015
-216,224,223,light_rail,TriMet - MAX Orange Line,2015
-217,225,226,light_rail,TriMet - MAX Orange Line,2015
-218,226,227,light_rail,TriMet - MAX Orange Line,2015
-219,228,229,light_rail,TriMet - MAX Orange Line,2015
-220,229,230,light_rail,TriMet - MAX Orange Line,2009
-221,230,231,light_rail,TriMet - MAX Orange Line,2009
-222,231,232,light_rail,TriMet - MAX Orange Line,2009
-223,232,233,light_rail,TriMet - MAX Orange Line,2009
-224,233,234,light_rail,TriMet - MAX Orange Line,2009
+nodeID_from,nodeID_to,mode,line,year
+0,4,commuter_rail,TriMet - WES Commuter Rail,2009
+1,2,commuter_rail,TriMet - WES Commuter Rail,2009
+2,3,commuter_rail,TriMet - WES Commuter Rail,2009
+3,4,commuter_rail,TriMet - WES Commuter Rail,2009
+5,6,people_mover,Portland Aerial Tram - Portland Aerial Tram,2007
+7,8,tram,Portland Streetcar - North South Line,2007
+8,9,tram,Portland Streetcar - North South Line,2007
+10,11,tram,Portland Streetcar - North South Line,2007
+11,9,tram,Portland Streetcar - North South Line,2007
+12,13,tram,Portland Streetcar - North South Line,2006
+12,10,tram,Portland Streetcar - North South Line,2007
+13,14,tram,Portland Streetcar - North South Line,2005
+14,15,tram,Portland Streetcar - North South Line,2005
+15,16,tram,Portland Streetcar - North South Line,2005
+16,17,tram,Portland Streetcar - North South Line,2001
+17,18,tram,Portland Streetcar - North South Line,2001
+19,20,tram,Portland Streetcar - North South Line,2001
+19,22,tram,Portland Streetcar - North South Line,2001
+21,22,tram,Portland Streetcar - North South Line,2001
+21,23,tram,Portland Streetcar - North South Line,2001
+23,24,tram,Portland Streetcar - North South Line,2001
+25,26,tram,Portland Streetcar - North South Line,2001
+26,27,tram,Portland Streetcar - North South Line,2001
+27,28,tram,Portland Streetcar - North South Line,2001
+29,30,tram,Portland Streetcar - North South Line,2001
+30,31,tram,Portland Streetcar - North South Line,2001
+31,32,tram,Portland Streetcar - North South Line,2001
+32,33,tram,Portland Streetcar - North South Line,2001
+33,34,tram,Portland Streetcar - North South Line,2001
+35,36,tram,Portland Streetcar - North South Line,2001
+35,34,tram,Portland Streetcar - North South Line,2001
+36,37,tram,Portland Streetcar - North South Line,2001
+37,38,tram,Portland Streetcar - North South Line,2001
+39,40,tram,Portland Streetcar - North South Line,2001
+39,37,tram,Portland Streetcar - North South Line,2001
+41,42,tram,Portland Streetcar - North South Line,2001
+42,43,tram,Portland Streetcar - North South Line,2001
+43,44,tram,Portland Streetcar - North South Line,2001
+44,45,tram,Portland Streetcar - North South Line,2001
+18,33,tram,Portland Streetcar - North South Line,2001
+46,47,tram,Portland Streetcar - A Loop,2006
+47,48,tram,Portland Streetcar - A Loop,2005
+48,49,tram,Portland Streetcar - A Loop,2005
+49,50,tram,Portland Streetcar - A Loop,2005
+50,51,tram,Portland Streetcar - A Loop,2001
+51,52,tram,Portland Streetcar - A Loop,2001
+52,53,tram,Portland Streetcar - A Loop,2001
+53,54,tram,Portland Streetcar - A Loop,2001
+54,55,tram,Portland Streetcar - A Loop,2001
+55,56,tram,Portland Streetcar - A Loop,2001
+56,57,tram,Portland Streetcar - A Loop,2001
+57,58,tram,Portland Streetcar - A Loop,2001
+58,59,tram,Portland Streetcar - A Loop,2012
+60,61,tram,Portland Streetcar - A Loop,2012
+61,62,tram,Portland Streetcar - A Loop,2012
+62,63,tram,Portland Streetcar - A Loop,2012
+63,64,tram,Portland Streetcar - A Loop,2012
+64,65,tram,Portland Streetcar - A Loop,2012
+65,67,tram,Portland Streetcar - A Loop,2012
+66,67,tram,Portland Streetcar - A Loop,2012
+66,68,tram,Portland Streetcar - A Loop,2012
+68,69,tram,Portland Streetcar - A Loop,2012
+69,70,tram,Portland Streetcar - A Loop,2012
+70,71,tram,Portland Streetcar - A Loop,2012
+71,72,tram,Portland Streetcar - A Loop,2015
+72,73,tram,Portland Streetcar - A Loop,2015
+59,60,tram,Portland Streetcar - A Loop,2012
+46,73,tram,Portland Streetcar - A Loop,2015
+74,75,tram,Portland Streetcar - B Loop,2006
+75,76,tram,Portland Streetcar - B Loop,2005
+76,77,tram,Portland Streetcar - B Loop,2005
+77,78,tram,Portland Streetcar - B Loop,2005
+78,79,tram,Portland Streetcar - B Loop,2001
+79,80,tram,Portland Streetcar - B Loop,2001
+80,81,tram,Portland Streetcar - B Loop,2001
+81,82,tram,Portland Streetcar - B Loop,2001
+83,84,tram,Portland Streetcar - B Loop,2001
+83,82,tram,Portland Streetcar - B Loop,2001
+84,85,tram,Portland Streetcar - B Loop,2001
+85,86,tram,Portland Streetcar - B Loop,2001
+86,87,tram,Portland Streetcar - B Loop,2001
+87,89,tram,Portland Streetcar - B Loop,2012
+88,89,tram,Portland Streetcar - B Loop,2012
+90,91,tram,Portland Streetcar - B Loop,2012
+91,92,tram,Portland Streetcar - B Loop,2012
+92,93,tram,Portland Streetcar - B Loop,2012
+93,94,tram,Portland Streetcar - B Loop,2012
+94,95,tram,Portland Streetcar - B Loop,2012
+96,97,tram,Portland Streetcar - B Loop,2012
+96,95,tram,Portland Streetcar - B Loop,2012
+97,98,tram,Portland Streetcar - B Loop,2012
+98,99,tram,Portland Streetcar - B Loop,2012
+99,100,tram,Portland Streetcar - B Loop,2012
+100,101,tram,Portland Streetcar - B Loop,2012
+101,102,tram,Portland Streetcar - B Loop,2015
+83,85,tram,Portland Streetcar - B Loop,2001
+88,90,tram,Portland Streetcar - B Loop,2012
+99,96,tram,Portland Streetcar - B Loop,2012
+74,102,tram,Portland Streetcar - B Loop,2015
+103,104,light_rail,TriMet - MAX Red Line,1986
+104,105,light_rail,TriMet - MAX Red Line,1986
+105,106,light_rail,TriMet - MAX Red Line,1986
+107,108,light_rail,TriMet - MAX Red Line,1986
+107,109,light_rail,TriMet - MAX Red Line,1986
+109,110,light_rail,TriMet - MAX Red Line,1986
+110,111,light_rail,TriMet - MAX Red Line,1986
+112,113,light_rail,TriMet - MAX Red Line,1986
+112,111,light_rail,TriMet - MAX Red Line,1986
+113,114,light_rail,TriMet - MAX Red Line,1986
+114,115,light_rail,TriMet - MAX Red Line,1986
+116,117,light_rail,TriMet - MAX Red Line,1986
+116,115,light_rail,TriMet - MAX Red Line,1986
+117,118,light_rail,TriMet - MAX Red Line,1986
+118,119,light_rail,TriMet - MAX Red Line,1986
+119,126,light_rail,TriMet - MAX Red Line,2001
+120,125,light_rail,TriMet - MAX Red Line,1998
+120,121,light_rail,TriMet - MAX Red Line,1998
+121,122,light_rail,TriMet - MAX Red Line,1998
+122,123,light_rail,TriMet - MAX Red Line,1998
+123,124,light_rail,TriMet - MAX Red Line,1997
+126,127,light_rail,TriMet - MAX Red Line,2001
+127,128,light_rail,TriMet - MAX Red Line,2001
+129,128,light_rail,TriMet - MAX Red Line,2001
+103,124,light_rail,TriMet - MAX Red Line,1997
+109,105,light_rail,TriMet - MAX Red Line,1986
+130,131,light_rail,TriMet - MAX Yellow Line,2004
+131,132,light_rail,TriMet - MAX Yellow Line,2004
+132,133,light_rail,TriMet - MAX Yellow Line,2004
+133,134,light_rail,TriMet - MAX Yellow Line,2004
+134,135,light_rail,TriMet - MAX Yellow Line,2004
+135,136,light_rail,TriMet - MAX Yellow Line,2004
+136,137,light_rail,TriMet - MAX Yellow Line,2004
+137,138,light_rail,TriMet - MAX Yellow Line,2004
+138,139,light_rail,TriMet - MAX Yellow Line,2004
+139,146,light_rail,TriMet - MAX Yellow Line,2009
+140,141,light_rail,TriMet - MAX Yellow Line,2009
+141,142,light_rail,TriMet - MAX Yellow Line,2009
+142,143,light_rail,TriMet - MAX Yellow Line,2009
+143,144,light_rail,TriMet - MAX Yellow Line,2009
+144,145,light_rail,TriMet - MAX Yellow Line,2009
+145,146,light_rail,TriMet - MAX Yellow Line,2009
+147,148,light_rail,TriMet - MAX Green Line,2009
+148,149,light_rail,TriMet - MAX Green Line,2009
+149,150,light_rail,TriMet - MAX Green Line,2009
+150,151,light_rail,TriMet - MAX Green Line,2009
+151,152,light_rail,TriMet - MAX Green Line,2009
+152,153,light_rail,TriMet - MAX Green Line,2009
+153,154,light_rail,TriMet - MAX Green Line,2009
+155,156,light_rail,TriMet - MAX Green Line,2009
+156,157,light_rail,TriMet - MAX Green Line,2009
+157,158,light_rail,TriMet - MAX Green Line,2009
+159,160,light_rail,TriMet - MAX Green Line,2009
+160,162,light_rail,TriMet - MAX Green Line,2009
+161,162,light_rail,TriMet - MAX Green Line,2009
+161,163,light_rail,TriMet - MAX Green Line,2009
+163,164,light_rail,TriMet - MAX Green Line,2009
+164,165,light_rail,TriMet - MAX Green Line,2009
+165,166,light_rail,TriMet - MAX Green Line,2009
+167,168,light_rail,TriMet - MAX Green Line,2009
+167,166,light_rail,TriMet - MAX Green Line,2009
+153,165,light_rail,TriMet - MAX Green Line,2009
+158,165,light_rail,TriMet - MAX Green Line,2009
+169,170,light_rail,TriMet - MAX Blue Line,1986
+170,171,light_rail,TriMet - MAX Blue Line,1986
+171,172,light_rail,TriMet - MAX Blue Line,1986
+173,174,light_rail,TriMet - MAX Blue Line,1986
+173,175,light_rail,TriMet - MAX Blue Line,1986
+175,176,light_rail,TriMet - MAX Blue Line,1986
+176,177,light_rail,TriMet - MAX Blue Line,1986
+178,179,light_rail,TriMet - MAX Blue Line,1986
+178,177,light_rail,TriMet - MAX Blue Line,1986
+179,180,light_rail,TriMet - MAX Blue Line,1986
+180,181,light_rail,TriMet - MAX Blue Line,1986
+182,183,light_rail,TriMet - MAX Blue Line,1986
+182,181,light_rail,TriMet - MAX Blue Line,1986
+183,184,light_rail,TriMet - MAX Blue Line,1986
+184,185,light_rail,TriMet - MAX Blue Line,1986
+185,187,light_rail,TriMet - MAX Blue Line,1986
+186,187,light_rail,TriMet - MAX Blue Line,1986
+188,189,light_rail,TriMet - MAX Blue Line,1986
+189,190,light_rail,TriMet - MAX Blue Line,1986
+190,191,light_rail,TriMet - MAX Blue Line,1986
+191,192,light_rail,TriMet - MAX Blue Line,1986
+192,193,light_rail,TriMet - MAX Blue Line,1986
+194,195,light_rail,TriMet - MAX Blue Line,1986
+195,196,light_rail,TriMet - MAX Blue Line,1986
+196,197,light_rail,TriMet - MAX Blue Line,1986
+198,217,light_rail,TriMet - MAX Blue Line,1998
+198,199,light_rail,TriMet - MAX Blue Line,1998
+199,200,light_rail,TriMet - MAX Blue Line,1998
+200,201,light_rail,TriMet - MAX Blue Line,1998
+201,202,light_rail,TriMet - MAX Blue Line,1998
+202,203,light_rail,TriMet - MAX Blue Line,1998
+203,204,light_rail,TriMet - MAX Blue Line,1998
+204,205,light_rail,TriMet - MAX Blue Line,1998
+205,206,light_rail,TriMet - MAX Blue Line,1998
+206,207,light_rail,TriMet - MAX Blue Line,1998
+207,208,light_rail,TriMet - MAX Blue Line,1998
+208,209,light_rail,TriMet - MAX Blue Line,1998
+209,210,light_rail,TriMet - MAX Blue Line,1998
+210,211,light_rail,TriMet - MAX Blue Line,1998
+212,217,light_rail,TriMet - MAX Blue Line,1998
+213,214,light_rail,TriMet - MAX Blue Line,1998
+214,215,light_rail,TriMet - MAX Blue Line,1998
+215,216,light_rail,TriMet - MAX Blue Line,1997
+195,186,light_rail,TriMet - MAX Blue Line,1986
+169,216,light_rail,TriMet - MAX Blue Line,1997
+175,171,light_rail,TriMet - MAX Blue Line,1986
+213,212,light_rail,TriMet - MAX Blue Line,1998
+218,228,light_rail,TriMet - MAX Orange Line,2015
+219,220,light_rail,TriMet - MAX Orange Line,2015
+219,218,light_rail,TriMet - MAX Orange Line,2015
+220,221,light_rail,TriMet - MAX Orange Line,2015
+221,222,light_rail,TriMet - MAX Orange Line,2015
+222,223,light_rail,TriMet - MAX Orange Line,2015
+224,225,light_rail,TriMet - MAX Orange Line,2015
+224,223,light_rail,TriMet - MAX Orange Line,2015
+225,226,light_rail,TriMet - MAX Orange Line,2015
+226,227,light_rail,TriMet - MAX Orange Line,2015
+228,229,light_rail,TriMet - MAX Orange Line,2015
+229,230,light_rail,TriMet - MAX Orange Line,2009
+230,231,light_rail,TriMet - MAX Orange Line,2009
+231,232,light_rail,TriMet - MAX Orange Line,2009
+232,233,light_rail,TriMet - MAX Orange Line,2009
+233,234,light_rail,TriMet - MAX Orange Line,2009

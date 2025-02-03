@@ -1,44 +1,44 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,8,11,heavy_rail,MTA Staten Island Railroad - Mainline,1884
-1,9,10,heavy_rail,MTA Staten Island Railroad - Mainline,1886
-2,9,11,heavy_rail,MTA Staten Island Railroad - Mainline,1886
-3,12,13,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-4,12,19,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-5,13,14,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-6,14,16,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-7,15,19,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-8,16,17,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-9,17,18,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-10,18,20,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-11,20,21,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-12,21,22,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-13,22,23,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-14,23,24,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-15,24,25,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-16,25,26,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-17,26,27,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-18,27,28,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-19,8,26,heavy_rail,MTA Staten Island Railroad - Mainline,1884
-20,32,33,heavy_rail,MTA NYC Subway - F,1968
-21,42,43,light_rail,NJT Newark Light Rail - City Subway,1937
-22,42,46,light_rail,NJT Newark Light Rail - City Subway,1937
-23,43,47,light_rail,NJT Newark Light Rail - City Subway,1935
-24,44,53,light_rail,NJT Newark Light Rail - City Subway,2002
-25,45,53,light_rail,NJT Newark Light Rail - City Subway,2002
-26,45,52,light_rail,NJT Newark Light Rail - City Subway,1940
-27,47,48,light_rail,NJT Newark Light Rail - City Subway,1935
-28,48,49,light_rail,NJT Newark Light Rail - City Subway,1935
-29,49,50,light_rail,NJT Newark Light Rail - City Subway,1935
-30,50,51,light_rail,NJT Newark Light Rail - City Subway,1935
-31,51,52,light_rail,NJT Newark Light Rail - City Subway,1935
-32,54,55,light_rail,NJT Newark Light Rail - Broad Street,2006
-33,55,56,light_rail,NJT Newark Light Rail - Broad Street,2006
-34,56,57,light_rail,NJT Newark Light Rail - Broad Street,2006
-35,56,58,light_rail,NJT Newark Light Rail - Broad Street,2006
-36,59,60,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2000
-37,59,64,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2000
-38,61,64,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2003
-39,61,62,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2011
-40,62,63,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2011
-41,65,66,light_rail,NJT Hudson-Bergen Light Rail - Tonelle-West Side,2000
-42,66,67,light_rail,NJT Hudson-Bergen Light Rail - Tonelle-West Side,2000
+nodeID_from,nodeID_to,mode,line,year
+8,11,heavy_rail,MTA Staten Island Railroad - Mainline,1884
+9,10,heavy_rail,MTA Staten Island Railroad - Mainline,1886
+9,11,heavy_rail,MTA Staten Island Railroad - Mainline,1886
+12,13,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+12,19,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+13,14,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+14,16,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+15,19,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+16,17,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+17,18,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+18,20,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+20,21,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+21,22,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+22,23,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+23,24,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+24,25,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+25,26,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+26,27,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+27,28,heavy_rail,MTA Staten Island Railroad - Mainline,1860
+8,26,heavy_rail,MTA Staten Island Railroad - Mainline,1884
+32,33,heavy_rail,MTA NYC Subway - F,1968
+42,43,light_rail,NJT Newark Light Rail - City Subway,1937
+42,46,light_rail,NJT Newark Light Rail - City Subway,1937
+43,47,light_rail,NJT Newark Light Rail - City Subway,1935
+44,53,light_rail,NJT Newark Light Rail - City Subway,2002
+45,53,light_rail,NJT Newark Light Rail - City Subway,2002
+45,52,light_rail,NJT Newark Light Rail - City Subway,1940
+47,48,light_rail,NJT Newark Light Rail - City Subway,1935
+48,49,light_rail,NJT Newark Light Rail - City Subway,1935
+49,50,light_rail,NJT Newark Light Rail - City Subway,1935
+50,51,light_rail,NJT Newark Light Rail - City Subway,1935
+51,52,light_rail,NJT Newark Light Rail - City Subway,1935
+54,55,light_rail,NJT Newark Light Rail - Broad Street,2006
+55,56,light_rail,NJT Newark Light Rail - Broad Street,2006
+56,57,light_rail,NJT Newark Light Rail - Broad Street,2006
+56,58,light_rail,NJT Newark Light Rail - Broad Street,2006
+59,60,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2000
+59,64,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2000
+61,64,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2003
+61,62,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2011
+62,63,light_rail,NJT Hudson-Bergen Light Rail - Hoboken-8th Street,2011
+65,66,light_rail,NJT Hudson-Bergen Light Rail - Tonelle-West Side,2000
+66,67,light_rail,NJT Hudson-Bergen Light Rail - Tonelle-West Side,2000

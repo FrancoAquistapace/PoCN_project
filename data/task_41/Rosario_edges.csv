@@ -1,6 +1,6 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,brt,Metrobus - Metrobus Norte,2016
-1,1,2,brt,Metrobus - Metrobus Norte,2016
-2,2,3,brt,Metrobus - Metrobus Norte,2016
-3,3,4,brt,Metrobus - Metrobus Norte,2016
-4,4,5,brt,Metrobus - Metrobus Norte,2016
+nodeID_from,nodeID_to,mode,line,year
+0,1,brt,Metrobus - Metrobus Norte,2016
+1,2,brt,Metrobus - Metrobus Norte,2016
+2,3,brt,Metrobus - Metrobus Norte,2016
+3,4,brt,Metrobus - Metrobus Norte,2016
+4,5,brt,Metrobus - Metrobus Norte,2016

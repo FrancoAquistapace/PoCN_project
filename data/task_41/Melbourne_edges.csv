@@ -1,27 +1,27 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,3,5,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-1,4,6,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-2,5,6,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-3,7,9,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-4,8,9,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-5,8,10,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
-6,11,13,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
-7,12,14,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
-8,13,14,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
-9,15,22,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
-10,15,19,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
-11,16,17,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
-12,17,18,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
-13,18,19,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
-14,20,23,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
-15,20,22,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
-16,21,16,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
-17,24,28,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
-18,25,28,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
-19,26,25,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1857
-20,27,29,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
-21,28,29,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
-22,30,32,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
-23,31,33,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
-24,32,33,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
-25,34,31,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
+nodeID_from,nodeID_to,mode,line,year
+3,5,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+4,6,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+5,6,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+7,9,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+8,9,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+8,10,heavy_rail,Metro Trains Melbourne - Lilydale Line,1981
+11,13,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
+12,14,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
+13,14,heavy_rail,Metro Trains Melbourne - Hurstbridge Line,1981
+15,22,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
+15,19,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
+16,17,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
+17,18,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
+18,19,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
+20,23,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
+20,22,heavy_rail,Metro Trains Melbourne - Frankston Line,1859
+21,16,heavy_rail,Metro Trains Melbourne - Frankston Line,1857
+24,28,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
+25,28,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
+26,25,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1857
+27,29,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
+28,29,heavy_rail,Metro Trains Melbourne - Craigieburn Line,1981
+30,32,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
+31,33,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
+32,33,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981
+34,31,heavy_rail,Metro Trains Melbourne - Pakenham & cranbourne Line,1981

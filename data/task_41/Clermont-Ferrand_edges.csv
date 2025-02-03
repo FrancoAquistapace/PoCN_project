@@ -1,5 +1,5 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,default,Tramway - A,2006
-1,1,4,default,Tramway - A,2007
-2,2,4,default,Tramway - A,2007
-3,2,3,default,Tramway - A,2007
+nodeID_from,nodeID_to,mode,line,year
+0,1,default,Tramway - A,2006
+1,4,default,Tramway - A,2007
+2,4,default,Tramway - A,2007
+2,3,default,Tramway - A,2007

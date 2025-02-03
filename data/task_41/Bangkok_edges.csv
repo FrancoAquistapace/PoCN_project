@@ -1,211 +1,211 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,people_mover,MRT - Pink Line,2022
-1,1,29,people_mover,MRT - Pink Line,2022
-2,2,14,people_mover,MRT - Pink Line,2022
-3,2,3,people_mover,MRT - Pink Line,2022
-4,3,9,people_mover,MRT - Pink Line,2022
-5,4,27,people_mover,MRT - Pink Line,2022
-6,4,28,people_mover,MRT - Pink Line,2022
-7,5,6,people_mover,MRT - Pink Line,2022
-8,5,12,people_mover,MRT - Pink Line,2022
-9,6,18,people_mover,MRT - Pink Line,2022
-10,7,8,people_mover,MRT - Pink Line,2022
-11,7,23,people_mover,MRT - Pink Line,2022
-12,8,24,people_mover,MRT - Pink Line,2022
-13,9,24,people_mover,MRT - Pink Line,2022
-14,10,11,people_mover,MRT - Pink Line,2022
-15,11,15,people_mover,MRT - Pink Line,2022
-16,12,13,people_mover,MRT - Pink Line,2022
-17,13,17,people_mover,MRT - Pink Line,2022
-18,14,25,people_mover,MRT - Pink Line,2022
-19,15,16,people_mover,MRT - Pink Line,2022
-20,16,17,people_mover,MRT - Pink Line,2022
-21,18,19,people_mover,MRT - Pink Line,2022
-22,19,20,people_mover,MRT - Pink Line,2022
-23,20,21,people_mover,MRT - Pink Line,2022
-24,22,23,people_mover,MRT - Pink Line,2022
-25,25,26,people_mover,MRT - Pink Line,2022
-26,26,27,people_mover,MRT - Pink Line,2022
-27,28,29,people_mover,MRT - Pink Line,2022
-28,1,17,people_mover,MRT - Pink Line,2022
-29,30,50,people_mover,MRT - Yellow Line,2022
-30,30,31,people_mover,MRT - Yellow Line,2022
-31,31,32,people_mover,MRT - Yellow Line,2022
-32,32,33,people_mover,MRT - Yellow Line,2022
-33,33,34,people_mover,MRT - Yellow Line,2022
-34,34,35,people_mover,MRT - Yellow Line,2022
-35,35,36,people_mover,MRT - Yellow Line,2022
-36,36,37,people_mover,MRT - Yellow Line,2022
-37,37,38,people_mover,MRT - Yellow Line,2022
-38,38,51,people_mover,MRT - Yellow Line,2022
-39,39,51,people_mover,MRT - Yellow Line,2022
-40,39,40,people_mover,MRT - Yellow Line,2022
-41,40,41,people_mover,MRT - Yellow Line,2022
-42,41,52,people_mover,MRT - Yellow Line,2022
-43,42,43,people_mover,MRT - Yellow Line,2022
-44,42,52,people_mover,MRT - Yellow Line,2022
-45,43,44,people_mover,MRT - Yellow Line,2022
-46,44,45,people_mover,MRT - Yellow Line,2022
-47,45,46,people_mover,MRT - Yellow Line,2022
-48,46,47,people_mover,MRT - Yellow Line,2022
-49,47,48,people_mover,MRT - Yellow Line,2022
-50,48,49,people_mover,MRT - Yellow Line,2022
-51,42,47,people_mover,MRT - Yellow Line,2022
-52,53,54,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-53,54,55,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-54,56,55,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-55,56,57,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-56,57,58,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-57,58,59,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-58,59,60,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
-59,61,62,commuter_rail,SRT - Dark Red Line,2022
-60,61,64,commuter_rail,SRT - Dark Red Line,2022
-61,62,65,commuter_rail,SRT - Dark Red Line,2022
-62,63,69,commuter_rail,SRT - Dark Red Line,2022
-63,63,64,commuter_rail,SRT - Dark Red Line,2022
-64,65,66,commuter_rail,SRT - Dark Red Line,2022
-65,66,67,commuter_rail,SRT - Dark Red Line,2022
-66,67,68,commuter_rail,SRT - Dark Red Line,2022
-67,68,70,commuter_rail,SRT - Dark Red Line,2022
-68,67,64,commuter_rail,SRT - Dark Red Line,2022
-69,71,80,heavy_rail,BTS Skytrain - Silom Line,1999
-70,72,73,heavy_rail,BTS Skytrain - Silom Line,1999
-71,72,80,heavy_rail,BTS Skytrain - Silom Line,1999
-72,73,81,heavy_rail,BTS Skytrain - Silom Line,1999
-73,74,75,heavy_rail,BTS Skytrain - Silom Line,2013
-74,74,82,heavy_rail,BTS Skytrain - Silom Line,2009
-75,75,76,heavy_rail,BTS Skytrain - Silom Line,2013
-76,76,77,heavy_rail,BTS Skytrain - Silom Line,2013
-77,77,78,heavy_rail,BTS Skytrain - Silom Line,2013
-78,78,79,heavy_rail,BTS Skytrain - Silom Line,2013
-79,81,82,heavy_rail,BTS Skytrain - Silom Line,2009
-80,83,115,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
-81,83,99,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
-82,84,120,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-83,84,121,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-84,85,86,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
-85,85,129,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
-86,86,87,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
-87,87,88,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
-88,88,89,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
-89,89,91,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-90,90,93,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-91,90,92,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-92,91,92,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-93,93,94,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-94,94,95,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-95,95,96,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-96,96,97,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-97,97,98,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-98,99,100,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
-99,100,101,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
-100,101,103,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-101,102,103,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-102,102,114,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-103,104,114,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-104,104,105,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-105,105,106,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-106,106,107,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-107,107,108,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-108,108,109,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-109,109,110,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-110,110,111,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-111,111,112,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-112,113,112,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
-113,115,116,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-114,116,117,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-115,117,118,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-116,118,119,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-117,119,120,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-118,121,122,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-119,122,123,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-120,123,124,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-121,124,125,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-122,125,126,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-123,126,127,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-124,127,128,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-125,128,129,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-126,120,127,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
-127,90,96,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
-128,130,134,heavy_rail,MRT - Blue Line,2004
-129,130,133,heavy_rail,MRT - Blue Line,2004
-130,131,132,heavy_rail,MRT - Blue Line,2004
-131,132,133,heavy_rail,MRT - Blue Line,2004
-132,134,135,heavy_rail,MRT - Blue Line,2019
-133,135,149,heavy_rail,MRT - Blue Line,2019
-134,136,148,heavy_rail,MRT - Blue Line,2017
-135,136,147,heavy_rail,MRT - Blue Line,2004
-136,137,147,heavy_rail,MRT - Blue Line,2004
-137,137,138,heavy_rail,MRT - Blue Line,2004
-138,138,145,heavy_rail,MRT - Blue Line,2004
-139,139,145,heavy_rail,MRT - Blue Line,2004
-140,139,140,heavy_rail,MRT - Blue Line,2004
-141,140,141,heavy_rail,MRT - Blue Line,2004
-142,141,146,heavy_rail,MRT - Blue Line,2004
-143,142,143,heavy_rail,MRT - Blue Line,2004
-144,142,146,heavy_rail,MRT - Blue Line,2004
-145,143,144,heavy_rail,MRT - Blue Line,2004
-146,144,131,heavy_rail,MRT - Blue Line,2004
-147,148,160,heavy_rail,MRT - Blue Line,2020
-148,149,150,heavy_rail,MRT - Blue Line,2019
-149,150,151,heavy_rail,MRT - Blue Line,2019
-150,151,152,heavy_rail,MRT - Blue Line,2019
-151,152,153,heavy_rail,MRT - Blue Line,2019
-152,153,154,heavy_rail,MRT - Blue Line,2019
-153,153,163,heavy_rail,MRT - Blue Line,2020
-154,154,155,heavy_rail,MRT - Blue Line,2019
-155,155,156,heavy_rail,MRT - Blue Line,2019
-156,156,157,heavy_rail,MRT - Blue Line,2019
-157,157,158,heavy_rail,MRT - Blue Line,2019
-158,158,159,heavy_rail,MRT - Blue Line,2019
-159,160,161,heavy_rail,MRT - Blue Line,2020
-160,161,162,heavy_rail,MRT - Blue Line,2020
-161,162,166,heavy_rail,MRT - Blue Line,2020
-162,164,167,heavy_rail,MRT - Blue Line,2020
-163,164,165,heavy_rail,MRT - Blue Line,2020
-164,165,166,heavy_rail,MRT - Blue Line,2020
-165,167,163,heavy_rail,MRT - Blue Line,2020
-166,165,167,heavy_rail,MRT - Blue Line,2020
-167,168,169,heavy_rail,MRT - Purple Line,2016
-168,168,183,heavy_rail,MRT - Purple Line,2016
-169,169,170,heavy_rail,MRT - Purple Line,2016
-170,170,171,heavy_rail,MRT - Purple Line,2016
-171,171,172,heavy_rail,MRT - Purple Line,2016
-172,172,173,heavy_rail,MRT - Purple Line,2016
-173,173,174,heavy_rail,MRT - Purple Line,2016
-174,174,175,heavy_rail,MRT - Purple Line,2016
-175,175,176,heavy_rail,MRT - Purple Line,2016
-176,176,177,heavy_rail,MRT - Purple Line,2016
-177,177,178,heavy_rail,MRT - Purple Line,2016
-178,178,179,heavy_rail,MRT - Purple Line,2016
-179,179,180,heavy_rail,MRT - Purple Line,2016
-180,180,181,heavy_rail,MRT - Purple Line,2016
-181,181,182,heavy_rail,MRT - Purple Line,2016
-182,184,189,heavy_rail,MRT - Orange Line,2025
-183,184,190,heavy_rail,MRT - Orange Line,2025
-184,185,186,heavy_rail,MRT - Orange Line,2025
-185,186,187,heavy_rail,MRT - Orange Line,2025
-186,187,188,heavy_rail,MRT - Orange Line,2025
-187,188,189,heavy_rail,MRT - Orange Line,2025
-188,190,191,heavy_rail,MRT - Orange Line,2025
-189,191,192,heavy_rail,MRT - Orange Line,2025
-190,192,193,heavy_rail,MRT - Orange Line,2025
-191,193,194,heavy_rail,MRT - Orange Line,2025
-192,194,195,heavy_rail,MRT - Orange Line,2025
-193,195,196,heavy_rail,MRT - Orange Line,2025
-194,196,197,heavy_rail,MRT - Orange Line,2025
-195,197,198,heavy_rail,MRT - Orange Line,2025
-196,198,199,heavy_rail,MRT - Orange Line,2025
-197,199,200,heavy_rail,MRT - Orange Line,2025
-198,198,189,heavy_rail,MRT - Orange Line,2025
-199,201,202,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-200,202,203,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-201,203,204,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-202,204,205,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-203,206,207,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-204,207,208,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-205,208,209,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-206,209,210,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-207,210,211,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-208,212,211,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
-209,204,210,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+nodeID_from,nodeID_to,mode,line,year
+0,1,people_mover,MRT - Pink Line,2022
+1,29,people_mover,MRT - Pink Line,2022
+2,14,people_mover,MRT - Pink Line,2022
+2,3,people_mover,MRT - Pink Line,2022
+3,9,people_mover,MRT - Pink Line,2022
+4,27,people_mover,MRT - Pink Line,2022
+4,28,people_mover,MRT - Pink Line,2022
+5,6,people_mover,MRT - Pink Line,2022
+5,12,people_mover,MRT - Pink Line,2022
+6,18,people_mover,MRT - Pink Line,2022
+7,8,people_mover,MRT - Pink Line,2022
+7,23,people_mover,MRT - Pink Line,2022
+8,24,people_mover,MRT - Pink Line,2022
+9,24,people_mover,MRT - Pink Line,2022
+10,11,people_mover,MRT - Pink Line,2022
+11,15,people_mover,MRT - Pink Line,2022
+12,13,people_mover,MRT - Pink Line,2022
+13,17,people_mover,MRT - Pink Line,2022
+14,25,people_mover,MRT - Pink Line,2022
+15,16,people_mover,MRT - Pink Line,2022
+16,17,people_mover,MRT - Pink Line,2022
+18,19,people_mover,MRT - Pink Line,2022
+19,20,people_mover,MRT - Pink Line,2022
+20,21,people_mover,MRT - Pink Line,2022
+22,23,people_mover,MRT - Pink Line,2022
+25,26,people_mover,MRT - Pink Line,2022
+26,27,people_mover,MRT - Pink Line,2022
+28,29,people_mover,MRT - Pink Line,2022
+1,17,people_mover,MRT - Pink Line,2022
+30,50,people_mover,MRT - Yellow Line,2022
+30,31,people_mover,MRT - Yellow Line,2022
+31,32,people_mover,MRT - Yellow Line,2022
+32,33,people_mover,MRT - Yellow Line,2022
+33,34,people_mover,MRT - Yellow Line,2022
+34,35,people_mover,MRT - Yellow Line,2022
+35,36,people_mover,MRT - Yellow Line,2022
+36,37,people_mover,MRT - Yellow Line,2022
+37,38,people_mover,MRT - Yellow Line,2022
+38,51,people_mover,MRT - Yellow Line,2022
+39,51,people_mover,MRT - Yellow Line,2022
+39,40,people_mover,MRT - Yellow Line,2022
+40,41,people_mover,MRT - Yellow Line,2022
+41,52,people_mover,MRT - Yellow Line,2022
+42,43,people_mover,MRT - Yellow Line,2022
+42,52,people_mover,MRT - Yellow Line,2022
+43,44,people_mover,MRT - Yellow Line,2022
+44,45,people_mover,MRT - Yellow Line,2022
+45,46,people_mover,MRT - Yellow Line,2022
+46,47,people_mover,MRT - Yellow Line,2022
+47,48,people_mover,MRT - Yellow Line,2022
+48,49,people_mover,MRT - Yellow Line,2022
+42,47,people_mover,MRT - Yellow Line,2022
+53,54,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+54,55,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+56,55,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+56,57,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+57,58,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+58,59,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+59,60,commuter_rail,Airport Rail Link - Airport Rail Link Line,2010
+61,62,commuter_rail,SRT - Dark Red Line,2022
+61,64,commuter_rail,SRT - Dark Red Line,2022
+62,65,commuter_rail,SRT - Dark Red Line,2022
+63,69,commuter_rail,SRT - Dark Red Line,2022
+63,64,commuter_rail,SRT - Dark Red Line,2022
+65,66,commuter_rail,SRT - Dark Red Line,2022
+66,67,commuter_rail,SRT - Dark Red Line,2022
+67,68,commuter_rail,SRT - Dark Red Line,2022
+68,70,commuter_rail,SRT - Dark Red Line,2022
+67,64,commuter_rail,SRT - Dark Red Line,2022
+71,80,heavy_rail,BTS Skytrain - Silom Line,1999
+72,73,heavy_rail,BTS Skytrain - Silom Line,1999
+72,80,heavy_rail,BTS Skytrain - Silom Line,1999
+73,81,heavy_rail,BTS Skytrain - Silom Line,1999
+74,75,heavy_rail,BTS Skytrain - Silom Line,2013
+74,82,heavy_rail,BTS Skytrain - Silom Line,2009
+75,76,heavy_rail,BTS Skytrain - Silom Line,2013
+76,77,heavy_rail,BTS Skytrain - Silom Line,2013
+77,78,heavy_rail,BTS Skytrain - Silom Line,2013
+78,79,heavy_rail,BTS Skytrain - Silom Line,2013
+81,82,heavy_rail,BTS Skytrain - Silom Line,2009
+83,115,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
+83,99,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
+84,120,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+84,121,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+85,86,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
+85,129,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
+86,87,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
+87,88,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
+88,89,heavy_rail,BTS Skytrain - Sukhumvit Line,2011
+89,91,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+90,93,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+90,92,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+91,92,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+93,94,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+94,95,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+95,96,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+96,97,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+97,98,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+99,100,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
+100,101,heavy_rail,BTS Skytrain - Sukhumvit Line,2019
+101,103,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+102,103,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+102,114,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+104,114,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+104,105,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+105,106,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+106,107,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+107,108,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+108,109,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+109,110,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+110,111,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+111,112,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+113,112,heavy_rail,BTS Skytrain - Sukhumvit Line,2020
+115,116,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+116,117,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+117,118,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+118,119,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+119,120,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+121,122,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+122,123,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+123,124,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+124,125,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+125,126,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+126,127,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+127,128,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+128,129,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+120,127,heavy_rail,BTS Skytrain - Sukhumvit Line,1999
+90,96,heavy_rail,BTS Skytrain - Sukhumvit Line,2018
+130,134,heavy_rail,MRT - Blue Line,2004
+130,133,heavy_rail,MRT - Blue Line,2004
+131,132,heavy_rail,MRT - Blue Line,2004
+132,133,heavy_rail,MRT - Blue Line,2004
+134,135,heavy_rail,MRT - Blue Line,2019
+135,149,heavy_rail,MRT - Blue Line,2019
+136,148,heavy_rail,MRT - Blue Line,2017
+136,147,heavy_rail,MRT - Blue Line,2004
+137,147,heavy_rail,MRT - Blue Line,2004
+137,138,heavy_rail,MRT - Blue Line,2004
+138,145,heavy_rail,MRT - Blue Line,2004
+139,145,heavy_rail,MRT - Blue Line,2004
+139,140,heavy_rail,MRT - Blue Line,2004
+140,141,heavy_rail,MRT - Blue Line,2004
+141,146,heavy_rail,MRT - Blue Line,2004
+142,143,heavy_rail,MRT - Blue Line,2004
+142,146,heavy_rail,MRT - Blue Line,2004
+143,144,heavy_rail,MRT - Blue Line,2004
+144,131,heavy_rail,MRT - Blue Line,2004
+148,160,heavy_rail,MRT - Blue Line,2020
+149,150,heavy_rail,MRT - Blue Line,2019
+150,151,heavy_rail,MRT - Blue Line,2019
+151,152,heavy_rail,MRT - Blue Line,2019
+152,153,heavy_rail,MRT - Blue Line,2019
+153,154,heavy_rail,MRT - Blue Line,2019
+153,163,heavy_rail,MRT - Blue Line,2020
+154,155,heavy_rail,MRT - Blue Line,2019
+155,156,heavy_rail,MRT - Blue Line,2019
+156,157,heavy_rail,MRT - Blue Line,2019
+157,158,heavy_rail,MRT - Blue Line,2019
+158,159,heavy_rail,MRT - Blue Line,2019
+160,161,heavy_rail,MRT - Blue Line,2020
+161,162,heavy_rail,MRT - Blue Line,2020
+162,166,heavy_rail,MRT - Blue Line,2020
+164,167,heavy_rail,MRT - Blue Line,2020
+164,165,heavy_rail,MRT - Blue Line,2020
+165,166,heavy_rail,MRT - Blue Line,2020
+167,163,heavy_rail,MRT - Blue Line,2020
+165,167,heavy_rail,MRT - Blue Line,2020
+168,169,heavy_rail,MRT - Purple Line,2016
+168,183,heavy_rail,MRT - Purple Line,2016
+169,170,heavy_rail,MRT - Purple Line,2016
+170,171,heavy_rail,MRT - Purple Line,2016
+171,172,heavy_rail,MRT - Purple Line,2016
+172,173,heavy_rail,MRT - Purple Line,2016
+173,174,heavy_rail,MRT - Purple Line,2016
+174,175,heavy_rail,MRT - Purple Line,2016
+175,176,heavy_rail,MRT - Purple Line,2016
+176,177,heavy_rail,MRT - Purple Line,2016
+177,178,heavy_rail,MRT - Purple Line,2016
+178,179,heavy_rail,MRT - Purple Line,2016
+179,180,heavy_rail,MRT - Purple Line,2016
+180,181,heavy_rail,MRT - Purple Line,2016
+181,182,heavy_rail,MRT - Purple Line,2016
+184,189,heavy_rail,MRT - Orange Line,2025
+184,190,heavy_rail,MRT - Orange Line,2025
+185,186,heavy_rail,MRT - Orange Line,2025
+186,187,heavy_rail,MRT - Orange Line,2025
+187,188,heavy_rail,MRT - Orange Line,2025
+188,189,heavy_rail,MRT - Orange Line,2025
+190,191,heavy_rail,MRT - Orange Line,2025
+191,192,heavy_rail,MRT - Orange Line,2025
+192,193,heavy_rail,MRT - Orange Line,2025
+193,194,heavy_rail,MRT - Orange Line,2025
+194,195,heavy_rail,MRT - Orange Line,2025
+195,196,heavy_rail,MRT - Orange Line,2025
+196,197,heavy_rail,MRT - Orange Line,2025
+197,198,heavy_rail,MRT - Orange Line,2025
+198,199,heavy_rail,MRT - Orange Line,2025
+199,200,heavy_rail,MRT - Orange Line,2025
+198,189,heavy_rail,MRT - Orange Line,2025
+201,202,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+202,203,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+203,204,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+204,205,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+206,207,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+207,208,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+208,209,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+209,210,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+210,211,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+212,211,brt,Bangkok BRT - Sathon - Ratchaphruek,2010
+204,210,brt,Bangkok BRT - Sathon - Ratchaphruek,2010

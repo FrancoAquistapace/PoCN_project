@@ -1,17 +1,17 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,3,default,Cincinnati Subway - Red Line,2011
-1,0,1,default,Cincinnati Subway - Red Line,2011
-2,2,6,default,Cincinnati Subway - Red Line,2011
-3,2,1,default,Cincinnati Subway - Red Line,2011
-4,4,5,default,Cincinnati Subway - Red Line,2013
-5,4,3,default,Cincinnati Subway - Red Line,2011
-6,5,9,default,Cincinnati Subway - Red Line,2013
-7,6,7,default,Cincinnati Subway - Red Line,2011
-8,7,8,default,Cincinnati Subway - Red Line,2011
-9,8,10,default,Cincinnati Subway - Red Line,2013
-10,10,11,default,Cincinnati Subway - Red Line,2013
-11,11,12,default,Cincinnati Subway - Red Line,2014
-12,12,13,default,Cincinnati Subway - Red Line,2014
-13,14,9,default,Cincinnati Subway - Red Line,2014
-14,14,15,default,Cincinnati Subway - Red Line,2014
-15,15,16,default,Cincinnati Subway - Red Line,2014
+nodeID_from,nodeID_to,mode,line,year
+0,3,default,Cincinnati Subway - Red Line,2011
+0,1,default,Cincinnati Subway - Red Line,2011
+2,6,default,Cincinnati Subway - Red Line,2011
+2,1,default,Cincinnati Subway - Red Line,2011
+4,5,default,Cincinnati Subway - Red Line,2013
+4,3,default,Cincinnati Subway - Red Line,2011
+5,9,default,Cincinnati Subway - Red Line,2013
+6,7,default,Cincinnati Subway - Red Line,2011
+7,8,default,Cincinnati Subway - Red Line,2011
+8,10,default,Cincinnati Subway - Red Line,2013
+10,11,default,Cincinnati Subway - Red Line,2013
+11,12,default,Cincinnati Subway - Red Line,2014
+12,13,default,Cincinnati Subway - Red Line,2014
+14,9,default,Cincinnati Subway - Red Line,2014
+14,15,default,Cincinnati Subway - Red Line,2014
+15,16,default,Cincinnati Subway - Red Line,2014

@@ -1,11 +1,11 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-1,1,2,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-2,2,3,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-3,3,4,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-4,4,5,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-5,5,6,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-6,6,7,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-7,7,8,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-8,8,9,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
-9,9,10,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+nodeID_from,nodeID_to,mode,line,year
+0,1,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+1,2,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+2,3,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+3,4,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+4,5,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+5,6,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+6,7,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+7,8,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+8,9,inter_city_rail,Tren Regional - Córdoba - Villa María,2004
+9,10,inter_city_rail,Tren Regional - Córdoba - Villa María,2004

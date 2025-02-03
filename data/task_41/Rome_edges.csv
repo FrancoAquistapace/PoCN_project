@@ -1,116 +1,116 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,6,default,Metro - MB,1990
-1,0,10,default,Metro - MB,1990
-2,1,7,default,Metro - MB,2012
-3,1,8,default,Metro - MB,2012
-4,2,11,default,Metro - MB,1990
-5,2,10,default,Metro - MB,1990
-6,3,12,default,Metro - MB,1990
-7,3,13,default,Metro - MB,1990
-8,4,13,default,Metro - MB,1990
-9,5,6,default,Metro - MB,1990
-10,5,17,default,Metro - MB,1990
-11,7,0,default,Metro - MB,2012
-12,8,9,default,Metro - MB,2015
-13,11,12,default,Metro - MB,1990
-14,14,25,default,Metro - MB,1955
-15,14,15,default,Metro - MB,1955
-16,16,23,default,Metro - MB,1955
-17,16,24,default,Metro - MB,1955
-18,17,18,default,Metro - MB,1955
-19,18,19,default,Metro - MB,1955
-20,19,20,default,Metro - MB,1955
-21,20,21,default,Metro - MB,1955
-22,21,22,default,Metro - MB,1955
-23,22,23,default,Metro - MB,1955
-24,24,25,default,Metro - MB,1955
-25,6,3,default,Metro - MB,1990
-26,23,24,default,Metro - MB,1955
-27,26,27,default,Ferrovie Urbane - Roma-Lido,1924
-28,26,32,default,Ferrovie Urbane - Roma-Lido,1924
-29,27,29,default,Ferrovie Urbane - Roma-Lido,1924
-30,28,30,default,Ferrovie Urbane - Roma-Lido,1924
-31,30,31,default,Ferrovie Urbane - Roma-Lido,1924
-32,31,32,default,Ferrovie Urbane - Roma-Lido,1924
-33,33,35,default,Ferrovie Urbane - Roma-Lido,1924
-34,34,35,default,Ferrovie Urbane - Roma-Lido,1948
-35,34,37,default,Ferrovie Urbane - Roma-Lido,1948
-36,36,38,default,Ferrovie Urbane - Roma-Lido,1959
-37,37,38,default,Ferrovie Urbane - Roma-Lido,1959
-38,32,33,default,Ferrovie Urbane - Roma-Lido,1924
-39,39,49,default,Metro - MC,2014
-40,39,44,default,Metro - MC,2014
-41,40,41,default,Metro - MC,2014
-42,41,43,default,Metro - MC,2014
-43,42,55,default,Metro - MC,2015
-44,42,57,default,Metro - MC,2015
-45,43,54,default,Metro - MC,2014
-46,44,48,default,Metro - MC,2014
-47,45,47,default,Metro - MC,2014
-48,45,54,default,Metro - MC,2014
-49,46,52,default,Metro - MC,2014
-50,46,53,default,Metro - MC,2014
-51,47,49,default,Metro - MC,2014
-52,48,51,default,Metro - MC,2014
-53,50,59,default,Metro - MC,2015
-54,50,56,default,Metro - MC,2015
-55,51,53,default,Metro - MC,2014
-56,52,59,default,Metro - MC,2014
-57,55,56,default,Metro - MC,2015
-58,57,58,default,Metro - MC,2015
-59,58,61,default,Metro - MC,2018
-60,60,61,default,Metro - MC,2025
-61,60,62,default,Metro - MC,2025
-62,51,45,default,Metro - MC,2014
-63,63,68,default,Ferrovie Urbane - Roma-Viterbo,1932
-64,63,80,default,Ferrovie Urbane - Roma-Viterbo,1932
-65,64,73,default,Ferrovie Urbane - Roma-Viterbo,1932
-66,65,74,default,Ferrovie Urbane - Roma-Viterbo,1932
-67,65,75,default,Ferrovie Urbane - Roma-Viterbo,1932
-68,66,77,default,Ferrovie Urbane - Roma-Viterbo,1932
-69,66,75,default,Ferrovie Urbane - Roma-Viterbo,1932
-70,67,77,default,Ferrovie Urbane - Roma-Viterbo,1932
-71,67,78,default,Ferrovie Urbane - Roma-Viterbo,1932
-72,68,78,default,Ferrovie Urbane - Roma-Viterbo,1932
-73,69,79,default,Ferrovie Urbane - Roma-Viterbo,1932
-74,69,87,default,Ferrovie Urbane - Roma-Viterbo,1932
-75,70,82,default,Ferrovie Urbane - Roma-Viterbo,1932
-76,71,70,default,Ferrovie Urbane - Roma-Viterbo,1932
-77,71,72,default,Ferrovie Urbane - Roma-Viterbo,1932
-78,72,76,default,Ferrovie Urbane - Roma-Viterbo,1932
-79,73,74,default,Ferrovie Urbane - Roma-Viterbo,1932
-80,76,83,default,Ferrovie Urbane - Roma-Viterbo,1932
-81,79,84,default,Ferrovie Urbane - Roma-Viterbo,1932
-82,80,81,default,Ferrovie Urbane - Roma-Viterbo,1932
-83,81,82,default,Ferrovie Urbane - Roma-Viterbo,1932
-84,83,85,default,Ferrovie Urbane - Roma-Viterbo,1932
-85,86,87,default,Ferrovie Urbane - Roma-Viterbo,1932
-86,74,86,default,Ferrovie Urbane - Roma-Viterbo,1932
-87,88,89,default,Metro - MA,1980
-88,88,93,default,Metro - MA,1980
-89,89,94,default,Metro - MA,1980
-90,90,91,default,Metro - MA,1980
-91,91,92,default,Metro - MA,1980
-92,92,93,default,Metro - MA,1980
-93,95,103,default,Metro - MA,1980
-94,95,104,default,Metro - MA,1980
-95,96,104,default,Metro - MA,1980
-96,96,105,default,Metro - MA,1980
-97,97,105,default,Metro - MA,1980
-98,97,106,default,Metro - MA,1980
-99,98,106,default,Metro - MA,1980
-100,98,107,default,Metro - MA,1980
-101,99,109,default,Metro - MA,1980
-102,99,108,default,Metro - MA,1980
-103,100,109,default,Metro - MA,1980
-104,100,110,default,Metro - MA,1980
-105,101,110,default,Metro - MA,1999
-106,101,112,default,Metro - MA,1999
-107,102,113,default,Metro - MA,2000
-108,102,111,default,Metro - MA,2000
-109,103,94,default,Metro - MA,1980
-110,107,108,default,Metro - MA,1980
-111,111,112,default,Metro - MA,1999
-112,113,114,default,Metro - MA,2000
-113,93,106,default,Metro - MA,1980
-114,99,100,default,Metro - MA,1980
+nodeID_from,nodeID_to,mode,line,year
+0,6,default,Metro - MB,1990
+0,10,default,Metro - MB,1990
+1,7,default,Metro - MB,2012
+1,8,default,Metro - MB,2012
+2,11,default,Metro - MB,1990
+2,10,default,Metro - MB,1990
+3,12,default,Metro - MB,1990
+3,13,default,Metro - MB,1990
+4,13,default,Metro - MB,1990
+5,6,default,Metro - MB,1990
+5,17,default,Metro - MB,1990
+7,0,default,Metro - MB,2012
+8,9,default,Metro - MB,2015
+11,12,default,Metro - MB,1990
+14,25,default,Metro - MB,1955
+14,15,default,Metro - MB,1955
+16,23,default,Metro - MB,1955
+16,24,default,Metro - MB,1955
+17,18,default,Metro - MB,1955
+18,19,default,Metro - MB,1955
+19,20,default,Metro - MB,1955
+20,21,default,Metro - MB,1955
+21,22,default,Metro - MB,1955
+22,23,default,Metro - MB,1955
+24,25,default,Metro - MB,1955
+6,3,default,Metro - MB,1990
+23,24,default,Metro - MB,1955
+26,27,default,Ferrovie Urbane - Roma-Lido,1924
+26,32,default,Ferrovie Urbane - Roma-Lido,1924
+27,29,default,Ferrovie Urbane - Roma-Lido,1924
+28,30,default,Ferrovie Urbane - Roma-Lido,1924
+30,31,default,Ferrovie Urbane - Roma-Lido,1924
+31,32,default,Ferrovie Urbane - Roma-Lido,1924
+33,35,default,Ferrovie Urbane - Roma-Lido,1924
+34,35,default,Ferrovie Urbane - Roma-Lido,1948
+34,37,default,Ferrovie Urbane - Roma-Lido,1948
+36,38,default,Ferrovie Urbane - Roma-Lido,1959
+37,38,default,Ferrovie Urbane - Roma-Lido,1959
+32,33,default,Ferrovie Urbane - Roma-Lido,1924
+39,49,default,Metro - MC,2014
+39,44,default,Metro - MC,2014
+40,41,default,Metro - MC,2014
+41,43,default,Metro - MC,2014
+42,55,default,Metro - MC,2015
+42,57,default,Metro - MC,2015
+43,54,default,Metro - MC,2014
+44,48,default,Metro - MC,2014
+45,47,default,Metro - MC,2014
+45,54,default,Metro - MC,2014
+46,52,default,Metro - MC,2014
+46,53,default,Metro - MC,2014
+47,49,default,Metro - MC,2014
+48,51,default,Metro - MC,2014
+50,59,default,Metro - MC,2015
+50,56,default,Metro - MC,2015
+51,53,default,Metro - MC,2014
+52,59,default,Metro - MC,2014
+55,56,default,Metro - MC,2015
+57,58,default,Metro - MC,2015
+58,61,default,Metro - MC,2018
+60,61,default,Metro - MC,2025
+60,62,default,Metro - MC,2025
+51,45,default,Metro - MC,2014
+63,68,default,Ferrovie Urbane - Roma-Viterbo,1932
+63,80,default,Ferrovie Urbane - Roma-Viterbo,1932
+64,73,default,Ferrovie Urbane - Roma-Viterbo,1932
+65,74,default,Ferrovie Urbane - Roma-Viterbo,1932
+65,75,default,Ferrovie Urbane - Roma-Viterbo,1932
+66,77,default,Ferrovie Urbane - Roma-Viterbo,1932
+66,75,default,Ferrovie Urbane - Roma-Viterbo,1932
+67,77,default,Ferrovie Urbane - Roma-Viterbo,1932
+67,78,default,Ferrovie Urbane - Roma-Viterbo,1932
+68,78,default,Ferrovie Urbane - Roma-Viterbo,1932
+69,79,default,Ferrovie Urbane - Roma-Viterbo,1932
+69,87,default,Ferrovie Urbane - Roma-Viterbo,1932
+70,82,default,Ferrovie Urbane - Roma-Viterbo,1932
+71,70,default,Ferrovie Urbane - Roma-Viterbo,1932
+71,72,default,Ferrovie Urbane - Roma-Viterbo,1932
+72,76,default,Ferrovie Urbane - Roma-Viterbo,1932
+73,74,default,Ferrovie Urbane - Roma-Viterbo,1932
+76,83,default,Ferrovie Urbane - Roma-Viterbo,1932
+79,84,default,Ferrovie Urbane - Roma-Viterbo,1932
+80,81,default,Ferrovie Urbane - Roma-Viterbo,1932
+81,82,default,Ferrovie Urbane - Roma-Viterbo,1932
+83,85,default,Ferrovie Urbane - Roma-Viterbo,1932
+86,87,default,Ferrovie Urbane - Roma-Viterbo,1932
+74,86,default,Ferrovie Urbane - Roma-Viterbo,1932
+88,89,default,Metro - MA,1980
+88,93,default,Metro - MA,1980
+89,94,default,Metro - MA,1980
+90,91,default,Metro - MA,1980
+91,92,default,Metro - MA,1980
+92,93,default,Metro - MA,1980
+95,103,default,Metro - MA,1980
+95,104,default,Metro - MA,1980
+96,104,default,Metro - MA,1980
+96,105,default,Metro - MA,1980
+97,105,default,Metro - MA,1980
+97,106,default,Metro - MA,1980
+98,106,default,Metro - MA,1980
+98,107,default,Metro - MA,1980
+99,109,default,Metro - MA,1980
+99,108,default,Metro - MA,1980
+100,109,default,Metro - MA,1980
+100,110,default,Metro - MA,1980
+101,110,default,Metro - MA,1999
+101,112,default,Metro - MA,1999
+102,113,default,Metro - MA,2000
+102,111,default,Metro - MA,2000
+103,94,default,Metro - MA,1980
+107,108,default,Metro - MA,1980
+111,112,default,Metro - MA,1999
+113,114,default,Metro - MA,2000
+93,106,default,Metro - MA,1980
+99,100,default,Metro - MA,1980

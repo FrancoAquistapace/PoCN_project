@@ -1,236 +1,236 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-1,0,2,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-2,1,3,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-3,2,3,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-4,3,4,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-5,4,5,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-6,5,6,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
-7,7,8,people_mover,Sentosa Development Corporation - Sentosa Express,2007
-8,8,10,people_mover,Sentosa Development Corporation - Sentosa Express,2007
-9,9,10,people_mover,Sentosa Development Corporation - Sentosa Express,2007
-10,11,21,heavy_rail,SBS Transit - Downtown Line,2015
-11,11,24,heavy_rail,SBS Transit - Downtown Line,2015
-12,12,15,heavy_rail,SBS Transit - Downtown Line,2013
-13,12,13,heavy_rail,SBS Transit - Downtown Line,2013
-14,13,14,heavy_rail,SBS Transit - Downtown Line,2013
-15,14,16,heavy_rail,SBS Transit - Downtown Line,2013
-16,15,31,heavy_rail,SBS Transit - Downtown Line,2017
-17,16,17,heavy_rail,SBS Transit - Downtown Line,2013
-18,17,29,heavy_rail,SBS Transit - Downtown Line,2017
-19,18,31,heavy_rail,SBS Transit - Downtown Line,2017
-20,18,19,heavy_rail,SBS Transit - Downtown Line,2015
-21,20,19,heavy_rail,SBS Transit - Downtown Line,2015
-22,20,22,heavy_rail,SBS Transit - Downtown Line,2015
-23,21,22,heavy_rail,SBS Transit - Downtown Line,2015
-24,23,28,heavy_rail,SBS Transit - Downtown Line,2015
-25,24,25,heavy_rail,SBS Transit - Downtown Line,2015
-26,25,26,heavy_rail,SBS Transit - Downtown Line,2015
-27,26,47,heavy_rail,SBS Transit - Downtown Line,2015
-28,27,28,heavy_rail,SBS Transit - Downtown Line,2015
-29,27,47,heavy_rail,SBS Transit - Downtown Line,2015
-30,29,30,heavy_rail,SBS Transit - Downtown Line,2017
-31,30,18,heavy_rail,SBS Transit - Downtown Line,2017
-32,32,43,heavy_rail,SBS Transit - Downtown Line,2017
-33,32,33,heavy_rail,SBS Transit - Downtown Line,2017
-34,33,34,heavy_rail,SBS Transit - Downtown Line,2017
-35,34,45,heavy_rail,SBS Transit - Downtown Line,2017
-36,35,36,heavy_rail,SBS Transit - Downtown Line,2017
-37,35,45,heavy_rail,SBS Transit - Downtown Line,2017
-38,36,44,heavy_rail,SBS Transit - Downtown Line,2017
-39,37,38,heavy_rail,SBS Transit - Downtown Line,2017
-40,37,44,heavy_rail,SBS Transit - Downtown Line,2017
-41,38,39,heavy_rail,SBS Transit - Downtown Line,2017
-42,39,40,heavy_rail,SBS Transit - Downtown Line,2017
-43,40,41,heavy_rail,SBS Transit - Downtown Line,2017
-44,41,42,heavy_rail,SBS Transit - Downtown Line,2025
-45,42,46,heavy_rail,SBS Transit - Downtown Line,2025
-46,43,31,heavy_rail,SBS Transit - Downtown Line,2017
-47,47,21,heavy_rail,SBS Transit - Downtown Line,2015
-48,39,37,heavy_rail,SBS Transit - Downtown Line,2017
-49,45,43,heavy_rail,SBS Transit - Downtown Line,2017
-50,48,70,heavy_rail,SMRT Trains - North South Line,1989
-51,49,50,heavy_rail,SMRT Trains - North South Line,1990
-52,49,52,heavy_rail,SMRT Trains - North South Line,2014
-53,50,69,heavy_rail,SMRT Trains - North South Line,1987
-54,51,52,heavy_rail,SMRT Trains - North South Line,2014
-55,53,54,heavy_rail,SMRT Trains - North South Line,1996
-56,54,55,heavy_rail,SMRT Trains - North South Line,1996
-57,55,56,heavy_rail,SMRT Trains - North South Line,1996
-58,56,57,heavy_rail,SMRT Trains - North South Line,1996
-59,57,58,heavy_rail,SMRT Trains - North South Line,1996
-60,58,59,heavy_rail,SMRT Trains - North South Line,1996
-61,59,70,heavy_rail,SMRT Trains - North South Line,1996
-62,60,61,heavy_rail,SMRT Trains - North South Line,1987
-63,61,62,heavy_rail,SMRT Trains - North South Line,1987
-64,62,63,heavy_rail,SMRT Trains - North South Line,1987
-65,63,64,heavy_rail,SMRT Trains - North South Line,1987
-66,64,65,heavy_rail,SMRT Trains - North South Line,1987
-67,65,66,heavy_rail,SMRT Trains - North South Line,1987
-68,66,67,heavy_rail,SMRT Trains - North South Line,1987
-69,67,68,heavy_rail,SMRT Trains - North South Line,1987
-70,68,69,heavy_rail,SMRT Trains - North South Line,1987
-71,60,48,heavy_rail,SMRT Trains - North South Line,1989
-72,71,72,heavy_rail,SMRT Trains - Circle Line,2010
-73,72,73,heavy_rail,SMRT Trains - Circle Line,2010
-74,73,78,heavy_rail,SMRT Trains - Circle Line,2012
-75,74,78,heavy_rail,SMRT Trains - Circle Line,2012
-76,75,76,heavy_rail,SMRT Trains - Circle Line,2010
-77,75,74,heavy_rail,SMRT Trains - Circle Line,2010
-78,76,77,heavy_rail,SMRT Trains - Circle Line,2010
-79,77,79,heavy_rail,SMRT Trains - Circle Line,2010
-80,79,80,heavy_rail,SMRT Trains - Circle Line,2010
-81,80,81,heavy_rail,SMRT Trains - Circle Line,2010
-82,81,82,heavy_rail,SMRT Trains - Circle Line,2010
-83,82,100,heavy_rail,SMRT Trains - Circle Line,2009
-84,83,92,heavy_rail,SMRT Trains - Circle Line,2011
-85,83,84,heavy_rail,SMRT Trains - Circle Line,2011
-86,84,85,heavy_rail,SMRT Trains - Circle Line,2011
-87,85,86,heavy_rail,SMRT Trains - Circle Line,2011
-88,86,87,heavy_rail,SMRT Trains - Circle Line,2011
-89,88,89,heavy_rail,SMRT Trains - Circle Line,2011
-90,89,90,heavy_rail,SMRT Trains - Circle Line,2011
-91,90,91,heavy_rail,SMRT Trains - Circle Line,2009
-92,91,100,heavy_rail,SMRT Trains - Circle Line,2009
-93,92,93,heavy_rail,SMRT Trains - Circle Line,2011
-94,93,99,heavy_rail,SMRT Trains - Circle Line,2011
-95,94,95,heavy_rail,SMRT Trains - Circle Line,2011
-96,94,99,heavy_rail,SMRT Trains - Circle Line,2011
-97,95,96,heavy_rail,SMRT Trains - Circle Line,2011
-98,96,102,heavy_rail,SMRT Trains - Circle Line,2011
-99,97,98,heavy_rail,SMRT Trains - Circle Line,2012
-100,97,78,heavy_rail,SMRT Trains - Circle Line,2012
-101,98,101,heavy_rail,SMRT Trains - Circle Line,2012
-102,101,103,heavy_rail,SMRT Trains - Circle Line,2012
-103,102,103,heavy_rail,SMRT Trains - Circle Line,2011
-104,87,88,heavy_rail,SMRT Trains - Circle Line,2011
-105,104,105,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-106,105,107,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-107,106,134,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-108,106,116,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-109,108,123,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-110,108,114,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-111,109,133,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-112,109,132,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-113,110,134,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-114,110,133,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-115,111,115,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-116,111,112,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-117,112,113,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-118,113,119,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-119,114,122,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-120,116,117,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-121,117,128,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-122,118,127,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-123,119,120,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-124,120,121,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-125,121,122,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-126,123,124,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-127,124,129,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-128,125,126,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-129,125,129,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-130,126,130,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-131,127,128,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
-132,130,131,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-133,131,132,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
-134,135,137,heavy_rail,SMRT Trains - East West Line,1990
-135,135,169,heavy_rail,SMRT Trains - East West Line,1987
-136,136,158,heavy_rail,SMRT Trains - East West Line,1988
-137,136,159,heavy_rail,SMRT Trains - East West Line,1988
-138,137,141,heavy_rail,SMRT Trains - East West Line,1990
-139,138,143,heavy_rail,SMRT Trains - East West Line,1990
-140,138,139,heavy_rail,SMRT Trains - East West Line,1990
-141,139,140,heavy_rail,SMRT Trains - East West Line,1990
-142,140,141,heavy_rail,SMRT Trains - East West Line,1990
-143,142,165,heavy_rail,SMRT Trains - East West Line,2001
-144,142,145,heavy_rail,SMRT Trains - East West Line,2001
-145,143,163,heavy_rail,SMRT Trains - East West Line,1990
-146,144,145,heavy_rail,SMRT Trains - East West Line,2002
-147,145,166,heavy_rail,SMRT Trains - East West Line,2001
-148,146,147,heavy_rail,SMRT Trains - East West Line,1990
-149,147,166,heavy_rail,SMRT Trains - East West Line,1990
-150,148,150,heavy_rail,SMRT Trains - East West Line,2017
-151,148,149,heavy_rail,SMRT Trains - East West Line,2009
-152,149,167,heavy_rail,SMRT Trains - East West Line,2009
-153,150,151,heavy_rail,SMRT Trains - East West Line,2017
-154,151,152,heavy_rail,SMRT Trains - East West Line,2017
-155,152,153,heavy_rail,SMRT Trains - East West Line,2017
-156,154,155,heavy_rail,SMRT Trains - East West Line,1988
-157,154,168,heavy_rail,SMRT Trains - East West Line,1988
-158,155,156,heavy_rail,SMRT Trains - East West Line,1988
-159,156,157,heavy_rail,SMRT Trains - East West Line,1988
-160,157,158,heavy_rail,SMRT Trains - East West Line,1988
-161,160,161,heavy_rail,SMRT Trains - East West Line,1988
-162,161,162,heavy_rail,SMRT Trains - East West Line,1988
-163,162,167,heavy_rail,SMRT Trains - East West Line,2009
-164,163,164,heavy_rail,SMRT Trains - East West Line,1990
-165,164,165,heavy_rail,SMRT Trains - East West Line,1990
-166,168,169,heavy_rail,SMRT Trains - East West Line,1987
-167,165,166,heavy_rail,SMRT Trains - East West Line,1990
-168,158,160,heavy_rail,SMRT Trains - East West Line,1988
-169,170,171,heavy_rail,SBS Transit - North East Line,2003
-170,170,186,heavy_rail,SBS Transit - North East Line,2003
-171,171,172,heavy_rail,SBS Transit - North East Line,2003
-172,172,173,heavy_rail,SBS Transit - North East Line,2003
-173,173,174,heavy_rail,SBS Transit - North East Line,2003
-174,174,175,heavy_rail,SBS Transit - North East Line,2003
-175,175,176,heavy_rail,SBS Transit - North East Line,2003
-176,176,180,heavy_rail,SBS Transit - North East Line,2003
-177,177,178,heavy_rail,SBS Transit - North East Line,2003
-178,177,181,heavy_rail,SBS Transit - North East Line,2003
-179,178,179,heavy_rail,SBS Transit - North East Line,2003
-180,179,180,heavy_rail,SBS Transit - North East Line,2003
-181,181,182,heavy_rail,SBS Transit - North East Line,2003
-182,182,183,heavy_rail,SBS Transit - North East Line,2003
-183,184,183,heavy_rail,SBS Transit - North East Line,2003
-184,185,186,heavy_rail,SBS Transit - North East Line,2024
-185,179,182,heavy_rail,SBS Transit - North East Line,2003
-186,187,190,heavy_rail,SMRT Trains - Jurong Region Line,2027
-187,188,189,heavy_rail,SMRT Trains - Jurong Region Line,2027
-188,189,190,heavy_rail,SMRT Trains - Jurong Region Line,2027
-189,191,192,inter_city_rail,KTM Intercity - Shuttle Tebrau,2015
-190,193,198,light_rail,SBS Transit - Sengkang LRT,2003
-191,193,194,light_rail,SBS Transit - Sengkang LRT,2003
-192,194,195,light_rail,SBS Transit - Sengkang LRT,2003
-193,195,196,light_rail,SBS Transit - Sengkang LRT,2003
-194,196,197,light_rail,SBS Transit - Sengkang LRT,2003
-195,197,206,light_rail,SBS Transit - Sengkang LRT,2005
-196,198,199,light_rail,SBS Transit - Sengkang LRT,2005
-197,199,200,light_rail,SBS Transit - Sengkang LRT,2005
-198,200,201,light_rail,SBS Transit - Sengkang LRT,2005
-199,201,202,light_rail,SBS Transit - Sengkang LRT,2005
-200,201,204,light_rail,SBS Transit - Sengkang LRT,2005
-201,202,203,light_rail,SBS Transit - Sengkang LRT,2005
-202,203,204,light_rail,SBS Transit - Sengkang LRT,2005
-203,205,206,light_rail,SBS Transit - Sengkang LRT,2005
-204,205,204,light_rail,SBS Transit - Sengkang LRT,2005
-205,206,198,light_rail,SBS Transit - Sengkang LRT,2005
-206,207,208,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-207,208,209,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-208,209,210,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-209,210,211,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-210,211,212,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-211,212,213,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-212,212,219,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-213,213,214,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-214,214,215,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-215,215,216,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-216,216,217,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-217,217,218,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-218,218,219,light_rail,SMRT Trains - Bukit Panjang LRT,1999
-219,220,221,light_rail,SBS Transit - Punggol LRT,2005
-220,220,226,light_rail,SBS Transit - Punggol LRT,2005
-221,221,222,light_rail,SBS Transit - Punggol LRT,2005
-222,222,223,light_rail,SBS Transit - Punggol LRT,2005
-223,223,224,light_rail,SBS Transit - Punggol LRT,2005
-224,224,225,light_rail,SBS Transit - Punggol LRT,2005
-225,225,226,light_rail,SBS Transit - Punggol LRT,2005
-226,226,227,light_rail,SBS Transit - Punggol LRT,2005
-227,227,228,light_rail,SBS Transit - Punggol LRT,2014
-228,227,231,light_rail,SBS Transit - Punggol LRT,2014
-229,228,229,light_rail,SBS Transit - Punggol LRT,2014
-230,229,230,light_rail,SBS Transit - Punggol LRT,2014
-231,230,231,light_rail,SBS Transit - Punggol LRT,2014
-232,231,234,light_rail,SBS Transit - Punggol LRT,2014
-233,232,234,light_rail,SBS Transit - Punggol LRT,2014
-234,233,234,light_rail,SBS Transit - Punggol LRT,2014
+nodeID_from,nodeID_to,mode,line,year
+0,1,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+0,2,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+1,3,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+2,3,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+3,4,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+4,5,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+5,6,people_mover,Changi Airport Group - Changi Airport Skytrain,2007
+7,8,people_mover,Sentosa Development Corporation - Sentosa Express,2007
+8,10,people_mover,Sentosa Development Corporation - Sentosa Express,2007
+9,10,people_mover,Sentosa Development Corporation - Sentosa Express,2007
+11,21,heavy_rail,SBS Transit - Downtown Line,2015
+11,24,heavy_rail,SBS Transit - Downtown Line,2015
+12,15,heavy_rail,SBS Transit - Downtown Line,2013
+12,13,heavy_rail,SBS Transit - Downtown Line,2013
+13,14,heavy_rail,SBS Transit - Downtown Line,2013
+14,16,heavy_rail,SBS Transit - Downtown Line,2013
+15,31,heavy_rail,SBS Transit - Downtown Line,2017
+16,17,heavy_rail,SBS Transit - Downtown Line,2013
+17,29,heavy_rail,SBS Transit - Downtown Line,2017
+18,31,heavy_rail,SBS Transit - Downtown Line,2017
+18,19,heavy_rail,SBS Transit - Downtown Line,2015
+20,19,heavy_rail,SBS Transit - Downtown Line,2015
+20,22,heavy_rail,SBS Transit - Downtown Line,2015
+21,22,heavy_rail,SBS Transit - Downtown Line,2015
+23,28,heavy_rail,SBS Transit - Downtown Line,2015
+24,25,heavy_rail,SBS Transit - Downtown Line,2015
+25,26,heavy_rail,SBS Transit - Downtown Line,2015
+26,47,heavy_rail,SBS Transit - Downtown Line,2015
+27,28,heavy_rail,SBS Transit - Downtown Line,2015
+27,47,heavy_rail,SBS Transit - Downtown Line,2015
+29,30,heavy_rail,SBS Transit - Downtown Line,2017
+30,18,heavy_rail,SBS Transit - Downtown Line,2017
+32,43,heavy_rail,SBS Transit - Downtown Line,2017
+32,33,heavy_rail,SBS Transit - Downtown Line,2017
+33,34,heavy_rail,SBS Transit - Downtown Line,2017
+34,45,heavy_rail,SBS Transit - Downtown Line,2017
+35,36,heavy_rail,SBS Transit - Downtown Line,2017
+35,45,heavy_rail,SBS Transit - Downtown Line,2017
+36,44,heavy_rail,SBS Transit - Downtown Line,2017
+37,38,heavy_rail,SBS Transit - Downtown Line,2017
+37,44,heavy_rail,SBS Transit - Downtown Line,2017
+38,39,heavy_rail,SBS Transit - Downtown Line,2017
+39,40,heavy_rail,SBS Transit - Downtown Line,2017
+40,41,heavy_rail,SBS Transit - Downtown Line,2017
+41,42,heavy_rail,SBS Transit - Downtown Line,2025
+42,46,heavy_rail,SBS Transit - Downtown Line,2025
+43,31,heavy_rail,SBS Transit - Downtown Line,2017
+47,21,heavy_rail,SBS Transit - Downtown Line,2015
+39,37,heavy_rail,SBS Transit - Downtown Line,2017
+45,43,heavy_rail,SBS Transit - Downtown Line,2017
+48,70,heavy_rail,SMRT Trains - North South Line,1989
+49,50,heavy_rail,SMRT Trains - North South Line,1990
+49,52,heavy_rail,SMRT Trains - North South Line,2014
+50,69,heavy_rail,SMRT Trains - North South Line,1987
+51,52,heavy_rail,SMRT Trains - North South Line,2014
+53,54,heavy_rail,SMRT Trains - North South Line,1996
+54,55,heavy_rail,SMRT Trains - North South Line,1996
+55,56,heavy_rail,SMRT Trains - North South Line,1996
+56,57,heavy_rail,SMRT Trains - North South Line,1996
+57,58,heavy_rail,SMRT Trains - North South Line,1996
+58,59,heavy_rail,SMRT Trains - North South Line,1996
+59,70,heavy_rail,SMRT Trains - North South Line,1996
+60,61,heavy_rail,SMRT Trains - North South Line,1987
+61,62,heavy_rail,SMRT Trains - North South Line,1987
+62,63,heavy_rail,SMRT Trains - North South Line,1987
+63,64,heavy_rail,SMRT Trains - North South Line,1987
+64,65,heavy_rail,SMRT Trains - North South Line,1987
+65,66,heavy_rail,SMRT Trains - North South Line,1987
+66,67,heavy_rail,SMRT Trains - North South Line,1987
+67,68,heavy_rail,SMRT Trains - North South Line,1987
+68,69,heavy_rail,SMRT Trains - North South Line,1987
+60,48,heavy_rail,SMRT Trains - North South Line,1989
+71,72,heavy_rail,SMRT Trains - Circle Line,2010
+72,73,heavy_rail,SMRT Trains - Circle Line,2010
+73,78,heavy_rail,SMRT Trains - Circle Line,2012
+74,78,heavy_rail,SMRT Trains - Circle Line,2012
+75,76,heavy_rail,SMRT Trains - Circle Line,2010
+75,74,heavy_rail,SMRT Trains - Circle Line,2010
+76,77,heavy_rail,SMRT Trains - Circle Line,2010
+77,79,heavy_rail,SMRT Trains - Circle Line,2010
+79,80,heavy_rail,SMRT Trains - Circle Line,2010
+80,81,heavy_rail,SMRT Trains - Circle Line,2010
+81,82,heavy_rail,SMRT Trains - Circle Line,2010
+82,100,heavy_rail,SMRT Trains - Circle Line,2009
+83,92,heavy_rail,SMRT Trains - Circle Line,2011
+83,84,heavy_rail,SMRT Trains - Circle Line,2011
+84,85,heavy_rail,SMRT Trains - Circle Line,2011
+85,86,heavy_rail,SMRT Trains - Circle Line,2011
+86,87,heavy_rail,SMRT Trains - Circle Line,2011
+88,89,heavy_rail,SMRT Trains - Circle Line,2011
+89,90,heavy_rail,SMRT Trains - Circle Line,2011
+90,91,heavy_rail,SMRT Trains - Circle Line,2009
+91,100,heavy_rail,SMRT Trains - Circle Line,2009
+92,93,heavy_rail,SMRT Trains - Circle Line,2011
+93,99,heavy_rail,SMRT Trains - Circle Line,2011
+94,95,heavy_rail,SMRT Trains - Circle Line,2011
+94,99,heavy_rail,SMRT Trains - Circle Line,2011
+95,96,heavy_rail,SMRT Trains - Circle Line,2011
+96,102,heavy_rail,SMRT Trains - Circle Line,2011
+97,98,heavy_rail,SMRT Trains - Circle Line,2012
+97,78,heavy_rail,SMRT Trains - Circle Line,2012
+98,101,heavy_rail,SMRT Trains - Circle Line,2012
+101,103,heavy_rail,SMRT Trains - Circle Line,2012
+102,103,heavy_rail,SMRT Trains - Circle Line,2011
+87,88,heavy_rail,SMRT Trains - Circle Line,2011
+104,105,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+105,107,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+106,134,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+106,116,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+108,123,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+108,114,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+109,133,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+109,132,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+110,134,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+110,133,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+111,115,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+111,112,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+112,113,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+113,119,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+114,122,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+116,117,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+117,128,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+118,127,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+119,120,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+120,121,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+121,122,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+123,124,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+124,129,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+125,126,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+125,129,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+126,130,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+127,128,heavy_rail,SMRT Trains - Thomson-East Coast Line,2020
+130,131,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+131,132,heavy_rail,SMRT Trains - Thomson-East Coast Line,2025
+135,137,heavy_rail,SMRT Trains - East West Line,1990
+135,169,heavy_rail,SMRT Trains - East West Line,1987
+136,158,heavy_rail,SMRT Trains - East West Line,1988
+136,159,heavy_rail,SMRT Trains - East West Line,1988
+137,141,heavy_rail,SMRT Trains - East West Line,1990
+138,143,heavy_rail,SMRT Trains - East West Line,1990
+138,139,heavy_rail,SMRT Trains - East West Line,1990
+139,140,heavy_rail,SMRT Trains - East West Line,1990
+140,141,heavy_rail,SMRT Trains - East West Line,1990
+142,165,heavy_rail,SMRT Trains - East West Line,2001
+142,145,heavy_rail,SMRT Trains - East West Line,2001
+143,163,heavy_rail,SMRT Trains - East West Line,1990
+144,145,heavy_rail,SMRT Trains - East West Line,2002
+145,166,heavy_rail,SMRT Trains - East West Line,2001
+146,147,heavy_rail,SMRT Trains - East West Line,1990
+147,166,heavy_rail,SMRT Trains - East West Line,1990
+148,150,heavy_rail,SMRT Trains - East West Line,2017
+148,149,heavy_rail,SMRT Trains - East West Line,2009
+149,167,heavy_rail,SMRT Trains - East West Line,2009
+150,151,heavy_rail,SMRT Trains - East West Line,2017
+151,152,heavy_rail,SMRT Trains - East West Line,2017
+152,153,heavy_rail,SMRT Trains - East West Line,2017
+154,155,heavy_rail,SMRT Trains - East West Line,1988
+154,168,heavy_rail,SMRT Trains - East West Line,1988
+155,156,heavy_rail,SMRT Trains - East West Line,1988
+156,157,heavy_rail,SMRT Trains - East West Line,1988
+157,158,heavy_rail,SMRT Trains - East West Line,1988
+160,161,heavy_rail,SMRT Trains - East West Line,1988
+161,162,heavy_rail,SMRT Trains - East West Line,1988
+162,167,heavy_rail,SMRT Trains - East West Line,2009
+163,164,heavy_rail,SMRT Trains - East West Line,1990
+164,165,heavy_rail,SMRT Trains - East West Line,1990
+168,169,heavy_rail,SMRT Trains - East West Line,1987
+165,166,heavy_rail,SMRT Trains - East West Line,1990
+158,160,heavy_rail,SMRT Trains - East West Line,1988
+170,171,heavy_rail,SBS Transit - North East Line,2003
+170,186,heavy_rail,SBS Transit - North East Line,2003
+171,172,heavy_rail,SBS Transit - North East Line,2003
+172,173,heavy_rail,SBS Transit - North East Line,2003
+173,174,heavy_rail,SBS Transit - North East Line,2003
+174,175,heavy_rail,SBS Transit - North East Line,2003
+175,176,heavy_rail,SBS Transit - North East Line,2003
+176,180,heavy_rail,SBS Transit - North East Line,2003
+177,178,heavy_rail,SBS Transit - North East Line,2003
+177,181,heavy_rail,SBS Transit - North East Line,2003
+178,179,heavy_rail,SBS Transit - North East Line,2003
+179,180,heavy_rail,SBS Transit - North East Line,2003
+181,182,heavy_rail,SBS Transit - North East Line,2003
+182,183,heavy_rail,SBS Transit - North East Line,2003
+184,183,heavy_rail,SBS Transit - North East Line,2003
+185,186,heavy_rail,SBS Transit - North East Line,2024
+179,182,heavy_rail,SBS Transit - North East Line,2003
+187,190,heavy_rail,SMRT Trains - Jurong Region Line,2027
+188,189,heavy_rail,SMRT Trains - Jurong Region Line,2027
+189,190,heavy_rail,SMRT Trains - Jurong Region Line,2027
+191,192,inter_city_rail,KTM Intercity - Shuttle Tebrau,2015
+193,198,light_rail,SBS Transit - Sengkang LRT,2003
+193,194,light_rail,SBS Transit - Sengkang LRT,2003
+194,195,light_rail,SBS Transit - Sengkang LRT,2003
+195,196,light_rail,SBS Transit - Sengkang LRT,2003
+196,197,light_rail,SBS Transit - Sengkang LRT,2003
+197,206,light_rail,SBS Transit - Sengkang LRT,2005
+198,199,light_rail,SBS Transit - Sengkang LRT,2005
+199,200,light_rail,SBS Transit - Sengkang LRT,2005
+200,201,light_rail,SBS Transit - Sengkang LRT,2005
+201,202,light_rail,SBS Transit - Sengkang LRT,2005
+201,204,light_rail,SBS Transit - Sengkang LRT,2005
+202,203,light_rail,SBS Transit - Sengkang LRT,2005
+203,204,light_rail,SBS Transit - Sengkang LRT,2005
+205,206,light_rail,SBS Transit - Sengkang LRT,2005
+205,204,light_rail,SBS Transit - Sengkang LRT,2005
+206,198,light_rail,SBS Transit - Sengkang LRT,2005
+207,208,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+208,209,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+209,210,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+210,211,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+211,212,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+212,213,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+212,219,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+213,214,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+214,215,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+215,216,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+216,217,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+217,218,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+218,219,light_rail,SMRT Trains - Bukit Panjang LRT,1999
+220,221,light_rail,SBS Transit - Punggol LRT,2005
+220,226,light_rail,SBS Transit - Punggol LRT,2005
+221,222,light_rail,SBS Transit - Punggol LRT,2005
+222,223,light_rail,SBS Transit - Punggol LRT,2005
+223,224,light_rail,SBS Transit - Punggol LRT,2005
+224,225,light_rail,SBS Transit - Punggol LRT,2005
+225,226,light_rail,SBS Transit - Punggol LRT,2005
+226,227,light_rail,SBS Transit - Punggol LRT,2005
+227,228,light_rail,SBS Transit - Punggol LRT,2014
+227,231,light_rail,SBS Transit - Punggol LRT,2014
+228,229,light_rail,SBS Transit - Punggol LRT,2014
+229,230,light_rail,SBS Transit - Punggol LRT,2014
+230,231,light_rail,SBS Transit - Punggol LRT,2014
+231,234,light_rail,SBS Transit - Punggol LRT,2014
+232,234,light_rail,SBS Transit - Punggol LRT,2014
+233,234,light_rail,SBS Transit - Punggol LRT,2014

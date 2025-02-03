@@ -1,286 +1,286 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,6,heavy_rail,Metro de Santiago - Línea 2,2005
-1,0,1,heavy_rail,Metro de Santiago - Línea 2,2006
-2,1,2,heavy_rail,Metro de Santiago - Línea 2,2006
-3,2,18,heavy_rail,Metro de Santiago - Línea 2,2006
-4,3,23,heavy_rail,Metro de Santiago - Línea 2,2004
-5,3,5,heavy_rail,Metro de Santiago - Línea 2,2004
-6,4,17,heavy_rail,Metro de Santiago - Línea 2,2004
-7,4,24,heavy_rail,Metro de Santiago - Línea 2,2004
-8,5,6,heavy_rail,Metro de Santiago - Línea 2,2005
-9,7,12,heavy_rail,Metro de Santiago - Línea 2,1978
-10,7,10,heavy_rail,Metro de Santiago - Línea 2,1978
-11,8,11,heavy_rail,Metro de Santiago - Línea 2,1986
-12,8,9,heavy_rail,Metro de Santiago - Línea 2,1978
-13,9,10,heavy_rail,Metro de Santiago - Línea 2,1978
-14,11,19,heavy_rail,Metro de Santiago - Línea 2,1987
-15,12,13,heavy_rail,Metro de Santiago - Línea 2,1978
-16,13,14,heavy_rail,Metro de Santiago - Línea 2,1978
-17,14,15,heavy_rail,Metro de Santiago - Línea 2,1978
-18,15,16,heavy_rail,Metro de Santiago - Línea 2,1978
-19,16,17,heavy_rail,Metro de Santiago - Línea 2,2004
-20,19,23,heavy_rail,Metro de Santiago - Línea 2,2004
-21,20,22,heavy_rail,Metro de Santiago - Línea 2,2023
-22,20,21,heavy_rail,Metro de Santiago - Línea 2,2023
-23,22,25,heavy_rail,Metro de Santiago - Línea 2,2023
-24,24,25,heavy_rail,Metro de Santiago - Línea 2,2023
-25,26,44,heavy_rail,Metro de Santiago - Línea 4,2005
-26,26,40,heavy_rail,Metro de Santiago - Línea 4,2005
-27,27,34,heavy_rail,Metro de Santiago - Línea 4,2005
-28,28,39,heavy_rail,Metro de Santiago - Línea 4,2005
-29,28,41,heavy_rail,Metro de Santiago - Línea 4,2005
-30,29,47,heavy_rail,Metro de Santiago - Línea 4,2006
-31,29,48,heavy_rail,Metro de Santiago - Línea 4,2006
-32,30,33,heavy_rail,Metro de Santiago - Línea 4,2028
-33,30,42,heavy_rail,Metro de Santiago - Línea 4,2005
-34,31,32,heavy_rail,Metro de Santiago - Línea 4,2006
-35,31,40,heavy_rail,Metro de Santiago - Línea 4,2005
-36,32,35,heavy_rail,Metro de Santiago - Línea 4,2006
-37,34,43,heavy_rail,Metro de Santiago - Línea 4,2005
-38,35,36,heavy_rail,Metro de Santiago - Línea 4,2006
-39,36,37,heavy_rail,Metro de Santiago - Línea 4,2006
-40,37,48,heavy_rail,Metro de Santiago - Línea 4,2006
-41,38,47,heavy_rail,Metro de Santiago - Línea 4,2005
-42,38,39,heavy_rail,Metro de Santiago - Línea 4,2005
-43,41,45,heavy_rail,Metro de Santiago - Línea 4,2005
-44,42,46,heavy_rail,Metro de Santiago - Línea 4,2005
-45,43,44,heavy_rail,Metro de Santiago - Línea 4,2005
-46,45,46,heavy_rail,Metro de Santiago - Línea 4,2005
-47,39,45,heavy_rail,Metro de Santiago - Línea 4,2005
-48,44,40,heavy_rail,Metro de Santiago - Línea 4,2005
-49,49,53,heavy_rail,Metro de Santiago - Línea 4A,2006
-50,50,51,heavy_rail,Metro de Santiago - Línea 4A,2006
-51,50,54,heavy_rail,Metro de Santiago - Línea 4A,2006
-52,51,52,heavy_rail,Metro de Santiago - Línea 4A,2006
-53,52,53,heavy_rail,Metro de Santiago - Línea 4A,2006
-54,55,75,heavy_rail,Metro de Santiago - Línea 5,2011
-55,55,70,heavy_rail,Metro de Santiago - Línea 5,2011
-56,56,82,heavy_rail,Metro de Santiago - Línea 5,2005
-57,56,64,heavy_rail,Metro de Santiago - Línea 5,1997
-58,57,60,heavy_rail,Metro de Santiago - Línea 5,1997
-59,57,61,heavy_rail,Metro de Santiago - Línea 5,1997
-60,58,60,heavy_rail,Metro de Santiago - Línea 5,1997
-61,58,59,heavy_rail,Metro de Santiago - Línea 5,1997
-62,61,64,heavy_rail,Metro de Santiago - Línea 5,1997
-63,62,63,heavy_rail,Metro de Santiago - Línea 5,1997
-64,62,83,heavy_rail,Metro de Santiago - Línea 5,1997
-65,63,74,heavy_rail,Metro de Santiago - Línea 5,1997
-66,65,72,heavy_rail,Metro de Santiago - Línea 5,2004
-67,65,66,heavy_rail,Metro de Santiago - Línea 5,2000
-68,66,67,heavy_rail,Metro de Santiago - Línea 5,2000
-69,67,74,heavy_rail,Metro de Santiago - Línea 5,2000
-70,68,73,heavy_rail,Metro de Santiago - Línea 5,2010
-71,68,76,heavy_rail,Metro de Santiago - Línea 5,2010
-72,69,80,heavy_rail,Metro de Santiago - Línea 5,2011
-73,69,75,heavy_rail,Metro de Santiago - Línea 5,2011
-74,70,71,heavy_rail,Metro de Santiago - Línea 5,2011
-75,71,81,heavy_rail,Metro de Santiago - Línea 5,2011
-76,72,73,heavy_rail,Metro de Santiago - Línea 5,2004
-77,76,77,heavy_rail,Metro de Santiago - Línea 5,2010
-78,77,79,heavy_rail,Metro de Santiago - Línea 5,2010
-79,78,80,heavy_rail,Metro de Santiago - Línea 5,2011
-80,78,79,heavy_rail,Metro de Santiago - Línea 5,2011
-81,83,61,heavy_rail,Metro de Santiago - Línea 5,1997
-82,75,70,heavy_rail,Metro de Santiago - Línea 5,2011
-83,84,87,heavy_rail,Metro de Santiago - Línea 6,2017
-84,85,92,heavy_rail,Metro de Santiago - Línea 6,2017
-85,86,90,heavy_rail,Metro de Santiago - Línea 6,2017
-86,86,87,heavy_rail,Metro de Santiago - Línea 6,2017
-87,88,92,heavy_rail,Metro de Santiago - Línea 6,2017
-88,88,89,heavy_rail,Metro de Santiago - Línea 6,2027
-89,89,93,heavy_rail,Metro de Santiago - Línea 6,2027
-90,90,91,heavy_rail,Metro de Santiago - Línea 6,2017
-91,86,92,heavy_rail,Metro de Santiago - Línea 6,2017
-92,101,112,heavy_rail,Metro de Santiago - Línea 1 ,1980
-93,101,103,heavy_rail,Metro de Santiago - Línea 1 ,1980
-94,102,119,heavy_rail,Metro de Santiago - Línea 1 ,1975
-95,102,125,heavy_rail,Metro de Santiago - Línea 1 ,1975
-96,103,107,heavy_rail,Metro de Santiago - Línea 1 ,1980
-97,104,124,heavy_rail,Metro de Santiago - Línea 1 ,1980
-98,104,107,heavy_rail,Metro de Santiago - Línea 1 ,1980
-99,105,117,heavy_rail,Metro de Santiago - Línea 1 ,1975
-100,106,116,heavy_rail,Metro de Santiago - Línea 1 ,1977
-101,106,110,heavy_rail,Metro de Santiago - Línea 1 ,1977
-102,108,109,heavy_rail,Metro de Santiago - Línea 1 ,1975
-103,109,118,heavy_rail,Metro de Santiago - Línea 1 ,1975
-104,110,111,heavy_rail,Metro de Santiago - Línea 1 ,1977
-105,111,126,heavy_rail,Metro de Santiago - Línea 1 ,1977
-106,113,119,heavy_rail,Metro de Santiago - Línea 1 ,1975
-107,113,120,heavy_rail,Metro de Santiago - Línea 1 ,1975
-108,114,122,heavy_rail,Metro de Santiago - Línea 1 ,1980
-109,114,126,heavy_rail,Metro de Santiago - Línea 1 ,1977
-110,115,121,heavy_rail,Metro de Santiago - Línea 1 ,2010
-111,115,112,heavy_rail,Metro de Santiago - Línea 1 ,2010
-112,116,125,heavy_rail,Metro de Santiago - Línea 1 ,1975
-113,117,108,heavy_rail,Metro de Santiago - Línea 1 ,1975
-114,118,120,heavy_rail,Metro de Santiago - Línea 1 ,1975
-115,121,123,heavy_rail,Metro de Santiago - Línea 1 ,2010
-116,122,124,heavy_rail,Metro de Santiago - Línea 1 ,1980
-117,108,102,heavy_rail,Metro de Santiago - Línea 1 ,1975
-118,127,142,heavy_rail,Metro de Santiago - Línea 3,2019
-119,127,145,heavy_rail,Metro de Santiago - Línea 3,2019
-120,128,129,heavy_rail,Metro de Santiago - Línea 3,2019
-121,128,138,heavy_rail,Metro de Santiago - Línea 3,2019
-122,129,133,heavy_rail,Metro de Santiago - Línea 3,2019
-123,130,143,heavy_rail,Metro de Santiago - Línea 3,2022
-124,130,139,heavy_rail,Metro de Santiago - Línea 3,2019
-125,131,132,heavy_rail,Metro de Santiago - Línea 3,2019
-126,131,141,heavy_rail,Metro de Santiago - Línea 3,2019
-127,132,147,heavy_rail,Metro de Santiago - Línea 3,2019
-128,134,135,heavy_rail,Metro de Santiago - Línea 3,2022
-129,134,136,heavy_rail,Metro de Santiago - Línea 3,2022
-130,136,143,heavy_rail,Metro de Santiago - Línea 3,2022
-131,137,146,heavy_rail,Metro de Santiago - Línea 3,2019
-132,137,141,heavy_rail,Metro de Santiago - Línea 3,2019
-133,138,146,heavy_rail,Metro de Santiago - Línea 3,2019
-134,139,144,heavy_rail,Metro de Santiago - Línea 3,2019
-135,140,145,heavy_rail,Metro de Santiago - Línea 3,2019
-136,140,147,heavy_rail,Metro de Santiago - Línea 3,2019
-137,142,144,heavy_rail,Metro de Santiago - Línea 3,2019
-138,142,140,heavy_rail,Metro de Santiago - Línea 3,2019
-139,148,151,heavy_rail,Metro de Santiago - Línea 7,2027
-140,148,162,heavy_rail,Metro de Santiago - Línea 7,2027
-141,149,162,heavy_rail,Metro de Santiago - Línea 7,2027
-142,149,152,heavy_rail,Metro de Santiago - Línea 7,2027
-143,150,154,heavy_rail,Metro de Santiago - Línea 7,2027
-144,150,151,heavy_rail,Metro de Santiago - Línea 7,2027
-145,152,153,heavy_rail,Metro de Santiago - Línea 7,2027
-146,153,163,heavy_rail,Metro de Santiago - Línea 7,2027
-147,154,165,heavy_rail,Metro de Santiago - Línea 7,2027
-148,155,165,heavy_rail,Metro de Santiago - Línea 7,2027
-149,155,161,heavy_rail,Metro de Santiago - Línea 7,2027
-150,156,157,heavy_rail,Metro de Santiago - Línea 7,2027
-151,157,158,heavy_rail,Metro de Santiago - Línea 7,2027
-152,158,159,heavy_rail,Metro de Santiago - Línea 7,2027
-153,159,160,heavy_rail,Metro de Santiago - Línea 7,2027
-154,160,161,heavy_rail,Metro de Santiago - Línea 7,2027
-155,163,164,heavy_rail,Metro de Santiago - Línea 7,2027
-156,163,161,heavy_rail,Metro de Santiago - Línea 7,2027
-157,166,167,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-158,167,174,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-159,168,169,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-160,168,174,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-161,170,169,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-162,171,172,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-163,171,170,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-164,173,172,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-165,170,168,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
-166,175,177,brt,BRT - Grecia,1995
-167,175,182,brt,BRT - Grecia,2009
-168,176,178,brt,BRT - Grecia,1995
-169,176,180,brt,BRT - Grecia,1995
-170,177,179,brt,BRT - Grecia,1995
-171,178,179,brt,BRT - Grecia,1995
-172,181,183,brt,BRT - Grecia,2009
-173,181,182,brt,BRT - Grecia,2009
-174,183,192,brt,BRT - Grecia,2009
-175,184,185,brt,BRT - Grecia,2008
-176,184,193,brt,BRT - Grecia,2008
-177,185,186,brt,BRT - Grecia,2008
-178,186,187,brt,BRT - Grecia,2008
-179,187,189,brt,BRT - Grecia,2008
-180,188,190,brt,BRT - Grecia,2008
-181,188,189,brt,BRT - Grecia,2008
-182,190,191,brt,BRT - Grecia,2008
-183,191,194,brt,BRT - Grecia,2008
-184,192,193,brt,BRT - Grecia,2008
-185,194,195,brt,BRT - Grecia,2008
-186,195,196,brt,BRT - Grecia,2008
-187,188,194,brt,BRT - Grecia,2008
-188,197,212,brt,BRT - Anillo Intermedio,2015
-189,198,206,brt,BRT - Anillo Intermedio,2008
-190,198,200,brt,BRT - Anillo Intermedio,2008
-191,199,204,brt,BRT - Anillo Intermedio,2015
-192,199,210,brt,BRT - Anillo Intermedio,2009
-193,200,201,brt,BRT - Anillo Intermedio,2008
-194,202,209,brt,BRT - Anillo Intermedio,2009
-195,203,205,brt,BRT - Anillo Intermedio,2008
-196,204,208,brt,BRT - Anillo Intermedio,2015
-197,205,206,brt,BRT - Anillo Intermedio,2008
-198,207,209,brt,BRT - Anillo Intermedio,2009
-199,207,210,brt,BRT - Anillo Intermedio,2009
-200,208,211,brt,BRT - Anillo Intermedio,2015
-201,211,212,brt,BRT - Anillo Intermedio,2015
-202,214,235,brt,BRT - Departamental,2013
-203,214,229,brt,BRT - Departamental,2013
-204,215,226,brt,BRT - Departamental,2013
-205,216,225,brt,BRT - Departamental,2009
-206,217,232,brt,BRT - Departamental,2013
-207,217,231,brt,BRT - Departamental,2013
-208,218,220,brt,BRT - Departamental,2013
-209,219,220,brt,BRT - Departamental,2013
-210,219,221,brt,BRT - Departamental,2013
-211,221,222,brt,BRT - Departamental,2013
-212,222,223,brt,BRT - Departamental,2013
-213,223,224,brt,BRT - Departamental,2009
-214,224,225,brt,BRT - Departamental,2009
-215,226,227,brt,BRT - Departamental,2013
-216,227,228,brt,BRT - Departamental,2013
-217,228,235,brt,BRT - Departamental,2013
-218,229,230,brt,BRT - Departamental,2013
-219,230,231,brt,BRT - Departamental,2013
-220,232,233,brt,BRT - Departamental,2013
-221,233,234,brt,BRT - Departamental,2013
-222,235,232,brt,BRT - Departamental,2013
-223,236,237,brt,BRT - Las Rejas,2007
-224,236,242,brt,BRT - Las Rejas,2014
-225,237,238,brt,BRT - Las Rejas,2007
-226,238,239,brt,BRT - Las Rejas,2007
-227,239,240,brt,BRT - Las Rejas,2007
-228,240,241,brt,BRT - Las Rejas,2007
-229,242,243,brt,BRT - Las Rejas,2014
-230,244,245,brt,BRT - Pajaritos,2005
-231,245,246,brt,BRT - Pajaritos,2005
-232,246,247,brt,BRT - Pajaritos,2005
-233,247,248,brt,BRT - Pajaritos,2005
-234,248,249,brt,BRT - Pajaritos,2005
-235,249,250,brt,BRT - Pajaritos,2005
-236,250,251,brt,BRT - Pajaritos,2005
-237,251,252,brt,BRT - Pajaritos,2005
-238,252,254,brt,BRT - Pajaritos,2005
-239,253,254,brt,BRT - Pajaritos,2005
-240,255,256,brt,BRT - Pajaritos,2010
-241,256,257,brt,BRT - Pajaritos,2010
-242,257,258,brt,BRT - Pajaritos,2010
-243,259,260,brt,BRT - Pedro Aguirre Cerda,2008
-244,260,261,brt,BRT - Pedro Aguirre Cerda,2008
-245,261,262,brt,BRT - Pedro Aguirre Cerda,2008
-246,263,264,brt,BRT - Santa Rosa,2008
-247,263,267,brt,BRT - Santa Rosa,2008
-248,264,266,brt,BRT - Santa Rosa,2008
-249,265,268,brt,BRT - Santa Rosa,2008
-250,265,266,brt,BRT - Santa Rosa,2008
-251,267,269,brt,BRT - Santa Rosa,2008
-252,269,270,brt,BRT - Santa Rosa,2008
-253,270,271,brt,BRT - Santa Rosa,2008
-254,271,272,brt,BRT - Santa Rosa,2008
-255,272,273,brt,BRT - Santa Rosa,2008
-256,273,274,brt,BRT - Santa Rosa,2008
-257,275,286,brt,BRT - Santa Rosa,2009
-258,275,276,brt,BRT - Santa Rosa,2009
-259,277,281,brt,BRT - Santa Rosa,2009
-260,277,292,brt,BRT - Santa Rosa,2009
-261,278,279,brt,BRT - Santa Rosa,2009
-262,279,280,brt,BRT - Santa Rosa,2009
-263,280,282,brt,BRT - Santa Rosa,2009
-264,281,285,brt,BRT - Santa Rosa,2009
-265,282,283,brt,BRT - Santa Rosa,2009
-266,283,284,brt,BRT - Santa Rosa,2009
-267,284,287,brt,BRT - Santa Rosa,2009
-268,285,289,brt,BRT - Santa Rosa,2009
-269,287,288,brt,BRT - Santa Rosa,2009
-270,288,290,brt,BRT - Santa Rosa,2009
-271,289,293,brt,BRT - Santa Rosa,2009
-272,290,291,brt,BRT - Santa Rosa,2009
-273,291,292,brt,BRT - Santa Rosa,2009
-274,293,294,brt,BRT - Santa Rosa,2009
-275,294,295,brt,BRT - Santa Rosa,2009
-276,272,266,brt,BRT - Santa Rosa,2008
-277,293,276,brt,BRT - Santa Rosa,2009
-278,296,298,brt,BRT - Vicuña Mackenna,2017
-279,296,303,brt,BRT - Vicuña Mackenna,2017
-280,297,303,brt,BRT - Vicuña Mackenna,2017
-281,297,302,brt,BRT - Vicuña Mackenna,2017
-282,298,301,brt,BRT - Vicuña Mackenna,2017
-283,299,301,brt,BRT - Vicuña Mackenna,2009
-284,299,300,brt,BRT - Vicuña Mackenna,2009
+nodeID_from,nodeID_to,mode,line,year
+0,6,heavy_rail,Metro de Santiago - Línea 2,2005
+0,1,heavy_rail,Metro de Santiago - Línea 2,2006
+1,2,heavy_rail,Metro de Santiago - Línea 2,2006
+2,18,heavy_rail,Metro de Santiago - Línea 2,2006
+3,23,heavy_rail,Metro de Santiago - Línea 2,2004
+3,5,heavy_rail,Metro de Santiago - Línea 2,2004
+4,17,heavy_rail,Metro de Santiago - Línea 2,2004
+4,24,heavy_rail,Metro de Santiago - Línea 2,2004
+5,6,heavy_rail,Metro de Santiago - Línea 2,2005
+7,12,heavy_rail,Metro de Santiago - Línea 2,1978
+7,10,heavy_rail,Metro de Santiago - Línea 2,1978
+8,11,heavy_rail,Metro de Santiago - Línea 2,1986
+8,9,heavy_rail,Metro de Santiago - Línea 2,1978
+9,10,heavy_rail,Metro de Santiago - Línea 2,1978
+11,19,heavy_rail,Metro de Santiago - Línea 2,1987
+12,13,heavy_rail,Metro de Santiago - Línea 2,1978
+13,14,heavy_rail,Metro de Santiago - Línea 2,1978
+14,15,heavy_rail,Metro de Santiago - Línea 2,1978
+15,16,heavy_rail,Metro de Santiago - Línea 2,1978
+16,17,heavy_rail,Metro de Santiago - Línea 2,2004
+19,23,heavy_rail,Metro de Santiago - Línea 2,2004
+20,22,heavy_rail,Metro de Santiago - Línea 2,2023
+20,21,heavy_rail,Metro de Santiago - Línea 2,2023
+22,25,heavy_rail,Metro de Santiago - Línea 2,2023
+24,25,heavy_rail,Metro de Santiago - Línea 2,2023
+26,44,heavy_rail,Metro de Santiago - Línea 4,2005
+26,40,heavy_rail,Metro de Santiago - Línea 4,2005
+27,34,heavy_rail,Metro de Santiago - Línea 4,2005
+28,39,heavy_rail,Metro de Santiago - Línea 4,2005
+28,41,heavy_rail,Metro de Santiago - Línea 4,2005
+29,47,heavy_rail,Metro de Santiago - Línea 4,2006
+29,48,heavy_rail,Metro de Santiago - Línea 4,2006
+30,33,heavy_rail,Metro de Santiago - Línea 4,2028
+30,42,heavy_rail,Metro de Santiago - Línea 4,2005
+31,32,heavy_rail,Metro de Santiago - Línea 4,2006
+31,40,heavy_rail,Metro de Santiago - Línea 4,2005
+32,35,heavy_rail,Metro de Santiago - Línea 4,2006
+34,43,heavy_rail,Metro de Santiago - Línea 4,2005
+35,36,heavy_rail,Metro de Santiago - Línea 4,2006
+36,37,heavy_rail,Metro de Santiago - Línea 4,2006
+37,48,heavy_rail,Metro de Santiago - Línea 4,2006
+38,47,heavy_rail,Metro de Santiago - Línea 4,2005
+38,39,heavy_rail,Metro de Santiago - Línea 4,2005
+41,45,heavy_rail,Metro de Santiago - Línea 4,2005
+42,46,heavy_rail,Metro de Santiago - Línea 4,2005
+43,44,heavy_rail,Metro de Santiago - Línea 4,2005
+45,46,heavy_rail,Metro de Santiago - Línea 4,2005
+39,45,heavy_rail,Metro de Santiago - Línea 4,2005
+44,40,heavy_rail,Metro de Santiago - Línea 4,2005
+49,53,heavy_rail,Metro de Santiago - Línea 4A,2006
+50,51,heavy_rail,Metro de Santiago - Línea 4A,2006
+50,54,heavy_rail,Metro de Santiago - Línea 4A,2006
+51,52,heavy_rail,Metro de Santiago - Línea 4A,2006
+52,53,heavy_rail,Metro de Santiago - Línea 4A,2006
+55,75,heavy_rail,Metro de Santiago - Línea 5,2011
+55,70,heavy_rail,Metro de Santiago - Línea 5,2011
+56,82,heavy_rail,Metro de Santiago - Línea 5,2005
+56,64,heavy_rail,Metro de Santiago - Línea 5,1997
+57,60,heavy_rail,Metro de Santiago - Línea 5,1997
+57,61,heavy_rail,Metro de Santiago - Línea 5,1997
+58,60,heavy_rail,Metro de Santiago - Línea 5,1997
+58,59,heavy_rail,Metro de Santiago - Línea 5,1997
+61,64,heavy_rail,Metro de Santiago - Línea 5,1997
+62,63,heavy_rail,Metro de Santiago - Línea 5,1997
+62,83,heavy_rail,Metro de Santiago - Línea 5,1997
+63,74,heavy_rail,Metro de Santiago - Línea 5,1997
+65,72,heavy_rail,Metro de Santiago - Línea 5,2004
+65,66,heavy_rail,Metro de Santiago - Línea 5,2000
+66,67,heavy_rail,Metro de Santiago - Línea 5,2000
+67,74,heavy_rail,Metro de Santiago - Línea 5,2000
+68,73,heavy_rail,Metro de Santiago - Línea 5,2010
+68,76,heavy_rail,Metro de Santiago - Línea 5,2010
+69,80,heavy_rail,Metro de Santiago - Línea 5,2011
+69,75,heavy_rail,Metro de Santiago - Línea 5,2011
+70,71,heavy_rail,Metro de Santiago - Línea 5,2011
+71,81,heavy_rail,Metro de Santiago - Línea 5,2011
+72,73,heavy_rail,Metro de Santiago - Línea 5,2004
+76,77,heavy_rail,Metro de Santiago - Línea 5,2010
+77,79,heavy_rail,Metro de Santiago - Línea 5,2010
+78,80,heavy_rail,Metro de Santiago - Línea 5,2011
+78,79,heavy_rail,Metro de Santiago - Línea 5,2011
+83,61,heavy_rail,Metro de Santiago - Línea 5,1997
+75,70,heavy_rail,Metro de Santiago - Línea 5,2011
+84,87,heavy_rail,Metro de Santiago - Línea 6,2017
+85,92,heavy_rail,Metro de Santiago - Línea 6,2017
+86,90,heavy_rail,Metro de Santiago - Línea 6,2017
+86,87,heavy_rail,Metro de Santiago - Línea 6,2017
+88,92,heavy_rail,Metro de Santiago - Línea 6,2017
+88,89,heavy_rail,Metro de Santiago - Línea 6,2027
+89,93,heavy_rail,Metro de Santiago - Línea 6,2027
+90,91,heavy_rail,Metro de Santiago - Línea 6,2017
+86,92,heavy_rail,Metro de Santiago - Línea 6,2017
+101,112,heavy_rail,Metro de Santiago - Línea 1 ,1980
+101,103,heavy_rail,Metro de Santiago - Línea 1 ,1980
+102,119,heavy_rail,Metro de Santiago - Línea 1 ,1975
+102,125,heavy_rail,Metro de Santiago - Línea 1 ,1975
+103,107,heavy_rail,Metro de Santiago - Línea 1 ,1980
+104,124,heavy_rail,Metro de Santiago - Línea 1 ,1980
+104,107,heavy_rail,Metro de Santiago - Línea 1 ,1980
+105,117,heavy_rail,Metro de Santiago - Línea 1 ,1975
+106,116,heavy_rail,Metro de Santiago - Línea 1 ,1977
+106,110,heavy_rail,Metro de Santiago - Línea 1 ,1977
+108,109,heavy_rail,Metro de Santiago - Línea 1 ,1975
+109,118,heavy_rail,Metro de Santiago - Línea 1 ,1975
+110,111,heavy_rail,Metro de Santiago - Línea 1 ,1977
+111,126,heavy_rail,Metro de Santiago - Línea 1 ,1977
+113,119,heavy_rail,Metro de Santiago - Línea 1 ,1975
+113,120,heavy_rail,Metro de Santiago - Línea 1 ,1975
+114,122,heavy_rail,Metro de Santiago - Línea 1 ,1980
+114,126,heavy_rail,Metro de Santiago - Línea 1 ,1977
+115,121,heavy_rail,Metro de Santiago - Línea 1 ,2010
+115,112,heavy_rail,Metro de Santiago - Línea 1 ,2010
+116,125,heavy_rail,Metro de Santiago - Línea 1 ,1975
+117,108,heavy_rail,Metro de Santiago - Línea 1 ,1975
+118,120,heavy_rail,Metro de Santiago - Línea 1 ,1975
+121,123,heavy_rail,Metro de Santiago - Línea 1 ,2010
+122,124,heavy_rail,Metro de Santiago - Línea 1 ,1980
+108,102,heavy_rail,Metro de Santiago - Línea 1 ,1975
+127,142,heavy_rail,Metro de Santiago - Línea 3,2019
+127,145,heavy_rail,Metro de Santiago - Línea 3,2019
+128,129,heavy_rail,Metro de Santiago - Línea 3,2019
+128,138,heavy_rail,Metro de Santiago - Línea 3,2019
+129,133,heavy_rail,Metro de Santiago - Línea 3,2019
+130,143,heavy_rail,Metro de Santiago - Línea 3,2022
+130,139,heavy_rail,Metro de Santiago - Línea 3,2019
+131,132,heavy_rail,Metro de Santiago - Línea 3,2019
+131,141,heavy_rail,Metro de Santiago - Línea 3,2019
+132,147,heavy_rail,Metro de Santiago - Línea 3,2019
+134,135,heavy_rail,Metro de Santiago - Línea 3,2022
+134,136,heavy_rail,Metro de Santiago - Línea 3,2022
+136,143,heavy_rail,Metro de Santiago - Línea 3,2022
+137,146,heavy_rail,Metro de Santiago - Línea 3,2019
+137,141,heavy_rail,Metro de Santiago - Línea 3,2019
+138,146,heavy_rail,Metro de Santiago - Línea 3,2019
+139,144,heavy_rail,Metro de Santiago - Línea 3,2019
+140,145,heavy_rail,Metro de Santiago - Línea 3,2019
+140,147,heavy_rail,Metro de Santiago - Línea 3,2019
+142,144,heavy_rail,Metro de Santiago - Línea 3,2019
+142,140,heavy_rail,Metro de Santiago - Línea 3,2019
+148,151,heavy_rail,Metro de Santiago - Línea 7,2027
+148,162,heavy_rail,Metro de Santiago - Línea 7,2027
+149,162,heavy_rail,Metro de Santiago - Línea 7,2027
+149,152,heavy_rail,Metro de Santiago - Línea 7,2027
+150,154,heavy_rail,Metro de Santiago - Línea 7,2027
+150,151,heavy_rail,Metro de Santiago - Línea 7,2027
+152,153,heavy_rail,Metro de Santiago - Línea 7,2027
+153,163,heavy_rail,Metro de Santiago - Línea 7,2027
+154,165,heavy_rail,Metro de Santiago - Línea 7,2027
+155,165,heavy_rail,Metro de Santiago - Línea 7,2027
+155,161,heavy_rail,Metro de Santiago - Línea 7,2027
+156,157,heavy_rail,Metro de Santiago - Línea 7,2027
+157,158,heavy_rail,Metro de Santiago - Línea 7,2027
+158,159,heavy_rail,Metro de Santiago - Línea 7,2027
+159,160,heavy_rail,Metro de Santiago - Línea 7,2027
+160,161,heavy_rail,Metro de Santiago - Línea 7,2027
+163,164,heavy_rail,Metro de Santiago - Línea 7,2027
+163,161,heavy_rail,Metro de Santiago - Línea 7,2027
+166,167,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+167,174,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+168,169,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+168,174,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+170,169,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+171,172,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+171,170,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+173,172,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+170,168,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
+175,177,brt,BRT - Grecia,1995
+175,182,brt,BRT - Grecia,2009
+176,178,brt,BRT - Grecia,1995
+176,180,brt,BRT - Grecia,1995
+177,179,brt,BRT - Grecia,1995
+178,179,brt,BRT - Grecia,1995
+181,183,brt,BRT - Grecia,2009
+181,182,brt,BRT - Grecia,2009
+183,192,brt,BRT - Grecia,2009
+184,185,brt,BRT - Grecia,2008
+184,193,brt,BRT - Grecia,2008
+185,186,brt,BRT - Grecia,2008
+186,187,brt,BRT - Grecia,2008
+187,189,brt,BRT - Grecia,2008
+188,190,brt,BRT - Grecia,2008
+188,189,brt,BRT - Grecia,2008
+190,191,brt,BRT - Grecia,2008
+191,194,brt,BRT - Grecia,2008
+192,193,brt,BRT - Grecia,2008
+194,195,brt,BRT - Grecia,2008
+195,196,brt,BRT - Grecia,2008
+188,194,brt,BRT - Grecia,2008
+197,212,brt,BRT - Anillo Intermedio,2015
+198,206,brt,BRT - Anillo Intermedio,2008
+198,200,brt,BRT - Anillo Intermedio,2008
+199,204,brt,BRT - Anillo Intermedio,2015
+199,210,brt,BRT - Anillo Intermedio,2009
+200,201,brt,BRT - Anillo Intermedio,2008
+202,209,brt,BRT - Anillo Intermedio,2009
+203,205,brt,BRT - Anillo Intermedio,2008
+204,208,brt,BRT - Anillo Intermedio,2015
+205,206,brt,BRT - Anillo Intermedio,2008
+207,209,brt,BRT - Anillo Intermedio,2009
+207,210,brt,BRT - Anillo Intermedio,2009
+208,211,brt,BRT - Anillo Intermedio,2015
+211,212,brt,BRT - Anillo Intermedio,2015
+214,235,brt,BRT - Departamental,2013
+214,229,brt,BRT - Departamental,2013
+215,226,brt,BRT - Departamental,2013
+216,225,brt,BRT - Departamental,2009
+217,232,brt,BRT - Departamental,2013
+217,231,brt,BRT - Departamental,2013
+218,220,brt,BRT - Departamental,2013
+219,220,brt,BRT - Departamental,2013
+219,221,brt,BRT - Departamental,2013
+221,222,brt,BRT - Departamental,2013
+222,223,brt,BRT - Departamental,2013
+223,224,brt,BRT - Departamental,2009
+224,225,brt,BRT - Departamental,2009
+226,227,brt,BRT - Departamental,2013
+227,228,brt,BRT - Departamental,2013
+228,235,brt,BRT - Departamental,2013
+229,230,brt,BRT - Departamental,2013
+230,231,brt,BRT - Departamental,2013
+232,233,brt,BRT - Departamental,2013
+233,234,brt,BRT - Departamental,2013
+235,232,brt,BRT - Departamental,2013
+236,237,brt,BRT - Las Rejas,2007
+236,242,brt,BRT - Las Rejas,2014
+237,238,brt,BRT - Las Rejas,2007
+238,239,brt,BRT - Las Rejas,2007
+239,240,brt,BRT - Las Rejas,2007
+240,241,brt,BRT - Las Rejas,2007
+242,243,brt,BRT - Las Rejas,2014
+244,245,brt,BRT - Pajaritos,2005
+245,246,brt,BRT - Pajaritos,2005
+246,247,brt,BRT - Pajaritos,2005
+247,248,brt,BRT - Pajaritos,2005
+248,249,brt,BRT - Pajaritos,2005
+249,250,brt,BRT - Pajaritos,2005
+250,251,brt,BRT - Pajaritos,2005
+251,252,brt,BRT - Pajaritos,2005
+252,254,brt,BRT - Pajaritos,2005
+253,254,brt,BRT - Pajaritos,2005
+255,256,brt,BRT - Pajaritos,2010
+256,257,brt,BRT - Pajaritos,2010
+257,258,brt,BRT - Pajaritos,2010
+259,260,brt,BRT - Pedro Aguirre Cerda,2008
+260,261,brt,BRT - Pedro Aguirre Cerda,2008
+261,262,brt,BRT - Pedro Aguirre Cerda,2008
+263,264,brt,BRT - Santa Rosa,2008
+263,267,brt,BRT - Santa Rosa,2008
+264,266,brt,BRT - Santa Rosa,2008
+265,268,brt,BRT - Santa Rosa,2008
+265,266,brt,BRT - Santa Rosa,2008
+267,269,brt,BRT - Santa Rosa,2008
+269,270,brt,BRT - Santa Rosa,2008
+270,271,brt,BRT - Santa Rosa,2008
+271,272,brt,BRT - Santa Rosa,2008
+272,273,brt,BRT - Santa Rosa,2008
+273,274,brt,BRT - Santa Rosa,2008
+275,286,brt,BRT - Santa Rosa,2009
+275,276,brt,BRT - Santa Rosa,2009
+277,281,brt,BRT - Santa Rosa,2009
+277,292,brt,BRT - Santa Rosa,2009
+278,279,brt,BRT - Santa Rosa,2009
+279,280,brt,BRT - Santa Rosa,2009
+280,282,brt,BRT - Santa Rosa,2009
+281,285,brt,BRT - Santa Rosa,2009
+282,283,brt,BRT - Santa Rosa,2009
+283,284,brt,BRT - Santa Rosa,2009
+284,287,brt,BRT - Santa Rosa,2009
+285,289,brt,BRT - Santa Rosa,2009
+287,288,brt,BRT - Santa Rosa,2009
+288,290,brt,BRT - Santa Rosa,2009
+289,293,brt,BRT - Santa Rosa,2009
+290,291,brt,BRT - Santa Rosa,2009
+291,292,brt,BRT - Santa Rosa,2009
+293,294,brt,BRT - Santa Rosa,2009
+294,295,brt,BRT - Santa Rosa,2009
+272,266,brt,BRT - Santa Rosa,2008
+293,276,brt,BRT - Santa Rosa,2009
+296,298,brt,BRT - Vicuña Mackenna,2017
+296,303,brt,BRT - Vicuña Mackenna,2017
+297,303,brt,BRT - Vicuña Mackenna,2017
+297,302,brt,BRT - Vicuña Mackenna,2017
+298,301,brt,BRT - Vicuña Mackenna,2017
+299,301,brt,BRT - Vicuña Mackenna,2009
+299,300,brt,BRT - Vicuña Mackenna,2009

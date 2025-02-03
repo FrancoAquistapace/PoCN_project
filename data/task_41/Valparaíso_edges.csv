@@ -1,10 +1,10 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,3,4,people_mover,Ascensores (Funiculares) - Barón,1906
-1,5,6,people_mover,Ascensores (Funiculares) - Artillería,1892
-2,7,8,people_mover,Ascensores (Funiculares) - Cordillera,1894
-3,9,10,people_mover,Ascensores (Funiculares) - Concepción,1883
-4,11,12,people_mover,Ascensores (Funiculares) - El Peral,1901
-5,13,14,people_mover,Ascensores (Funiculares) - Reina Victoria,1903
-6,15,16,people_mover,Ascensores (Funiculares) - Espíritu Santo,1911
-7,17,18,people_mover,Ascensores (Funiculares) - San Agustín,1913
-8,19,20,people_mover,Ascensores (Funiculares) - Polanco,1911
+nodeID_from,nodeID_to,mode,line,year
+3,4,people_mover,Ascensores (Funiculares) - Barón,1906
+5,6,people_mover,Ascensores (Funiculares) - Artillería,1892
+7,8,people_mover,Ascensores (Funiculares) - Cordillera,1894
+9,10,people_mover,Ascensores (Funiculares) - Concepción,1883
+11,12,people_mover,Ascensores (Funiculares) - El Peral,1901
+13,14,people_mover,Ascensores (Funiculares) - Reina Victoria,1903
+15,16,people_mover,Ascensores (Funiculares) - Espíritu Santo,1911
+17,18,people_mover,Ascensores (Funiculares) - San Agustín,1913
+19,20,people_mover,Ascensores (Funiculares) - Polanco,1911

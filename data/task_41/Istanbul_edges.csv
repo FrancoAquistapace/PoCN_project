@@ -1,327 +1,327 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,4,heavy_rail,Metro İstanbul - M2,2014
-1,0,6,heavy_rail,Metro İstanbul - M2,2014
-2,1,10,heavy_rail,Metro İstanbul - M2,2009
-3,1,3,heavy_rail,Metro İstanbul - M2,2011
-4,2,13,heavy_rail,Metro İstanbul - M2,2011
-5,4,5,heavy_rail,Metro İstanbul - M2,2014
-6,5,7,heavy_rail,Metro İstanbul - M2,2014
-7,6,9,heavy_rail,Metro İstanbul - M2,2009
-8,8,14,heavy_rail,Metro İstanbul - M2,2000
-9,8,15,heavy_rail,Metro İstanbul - M2,2000
-10,9,15,heavy_rail,Metro İstanbul - M2,2000
-11,10,14,heavy_rail,Metro İstanbul - M2,2000
-12,11,12,heavy_rail,Metro İstanbul - M2,2009
-13,11,1,heavy_rail,Metro İstanbul - M2,2009
-14,12,13,heavy_rail,Metro İstanbul - M2,2010
-15,16,36,heavy_rail,Metro İstanbul - M3,2024
-16,16,35,heavy_rail,Metro İstanbul - M3,2024
-17,17,27,heavy_rail,Metro İstanbul - M3,2024
-18,17,26,heavy_rail,Metro İstanbul - M3,2024
-19,18,26,heavy_rail,Metro İstanbul - M3,2024
-20,18,19,heavy_rail,Metro İstanbul - M3,2024
-21,19,25,heavy_rail,Metro İstanbul - M3,2013
-22,20,25,heavy_rail,Metro İstanbul - M3,2013
-23,20,24,heavy_rail,Metro İstanbul - M3,2014
-24,21,22,heavy_rail,Metro İstanbul - M3,2013
-25,21,24,heavy_rail,Metro İstanbul - M3,2014
-26,22,23,heavy_rail,Metro İstanbul - M3,2013
-27,23,29,heavy_rail,Metro İstanbul - M3,2023
-28,27,28,heavy_rail,Metro İstanbul - M3,2024
-29,28,35,heavy_rail,Metro İstanbul - M3,2024
-30,29,32,heavy_rail,Metro İstanbul - M3,2023
-31,30,21,heavy_rail,Metro İstanbul - M3,2014
-32,31,30,heavy_rail,Metro İstanbul - M3,2014
-33,31,33,heavy_rail,Metro İstanbul - M3,2023
-34,33,34,heavy_rail,Metro İstanbul - M3,2023
-35,33,23,heavy_rail,Metro İstanbul - M3,2023
-36,34,37,heavy_rail,Metro İstanbul - M3,2023
-37,28,17,heavy_rail,Metro İstanbul - M3,2024
-38,38,40,heavy_rail,Metro İstanbul - M4,2012
-39,38,42,heavy_rail,Metro İstanbul - M4,2012
-40,39,40,heavy_rail,Metro İstanbul - M4,2012
-41,39,43,heavy_rail,Metro İstanbul - M4,2012
-42,41,43,heavy_rail,Metro İstanbul - M4,2012
-43,42,44,heavy_rail,Metro İstanbul - M4,2012
-44,44,45,heavy_rail,Metro İstanbul - M4,2012
-45,45,46,heavy_rail,Metro İstanbul - M4,2012
-46,46,47,heavy_rail,Metro İstanbul - M4,2012
-47,47,48,heavy_rail,Metro İstanbul - M4,2012
-48,48,49,heavy_rail,Metro İstanbul - M4,2012
-49,49,50,heavy_rail,Metro İstanbul - M4,2012
-50,50,51,heavy_rail,Metro İstanbul - M4,2012
-51,51,52,heavy_rail,Metro İstanbul - M4,2012
-52,52,55,heavy_rail,Metro İstanbul - M4,2012
-53,53,54,heavy_rail,Metro İstanbul - M4,2025
-54,53,66,heavy_rail,Metro İstanbul - M4,2025
-55,54,56,heavy_rail,Metro İstanbul - M4,2016
-56,55,56,heavy_rail,Metro İstanbul - M4,2016
-57,57,62,heavy_rail,Metro İstanbul - M4,2025
-58,58,66,heavy_rail,Metro İstanbul - M4,2025
-59,59,60,heavy_rail,Metro İstanbul - M4,2025
-60,59,66,heavy_rail,Metro İstanbul - M4,2025
-61,60,61,heavy_rail,Metro İstanbul - M4,2025
-62,61,62,heavy_rail,Metro İstanbul - M4,2025
-63,63,58,heavy_rail,Metro İstanbul - M4,2022
-64,63,64,heavy_rail,Metro İstanbul - M4,2022
-65,64,65,heavy_rail,Metro İstanbul - M4,2022
-66,51,39,heavy_rail,Metro İstanbul - M4,2012
-67,59,61,heavy_rail,Metro İstanbul - M4,2025
-68,67,68,heavy_rail,Metro İstanbul - M5,2017
-69,67,72,heavy_rail,Metro İstanbul - M5,2017
-70,68,87,heavy_rail,Metro İstanbul - M5,2017
-71,69,87,heavy_rail,Metro İstanbul - M5,2017
-72,69,70,heavy_rail,Metro İstanbul - M5,2017
-73,70,71,heavy_rail,Metro İstanbul - M5,2017
-74,71,88,heavy_rail,Metro İstanbul - M5,2017
-75,73,75,heavy_rail,Metro İstanbul - M5,2018
-76,73,88,heavy_rail,Metro İstanbul - M5,2018
-77,74,78,heavy_rail,Metro İstanbul - M5,2018
-78,74,79,heavy_rail,Metro İstanbul - M5,2018
-79,75,76,heavy_rail,Metro İstanbul - M5,2018
-80,76,77,heavy_rail,Metro İstanbul - M5,2018
-81,77,78,heavy_rail,Metro İstanbul - M5,2018
-82,79,80,heavy_rail,Metro İstanbul - M5,2024
-83,80,82,heavy_rail,Metro İstanbul - M5,2024
-84,81,83,heavy_rail,Metro İstanbul - M5,2024
-85,81,82,heavy_rail,Metro İstanbul - M5,2024
-86,83,90,heavy_rail,Metro İstanbul - M5,2024
-87,84,85,heavy_rail,Metro İstanbul - M5,2026
-88,85,86,heavy_rail,Metro İstanbul - M5,2026
-89,86,89,heavy_rail,Metro İstanbul - M5,2026
-90,89,90,heavy_rail,Metro İstanbul - M5,2024
-91,91,94,heavy_rail,Metro İstanbul - M6,2015
-92,92,93,heavy_rail,Metro İstanbul - M6,2015
-93,93,94,heavy_rail,Metro İstanbul - M6,2015
-94,95,113,heavy_rail,Metro İstanbul - M7,2023
-95,95,101,heavy_rail,Metro İstanbul - M7,2023
-96,96,117,heavy_rail,Metro İstanbul - M7,2026
-97,96,109,heavy_rail,Metro İstanbul - M7,2020
-98,97,98,heavy_rail,Metro İstanbul - M7,2020
-99,97,101,heavy_rail,Metro İstanbul - M7,2020
-100,98,100,heavy_rail,Metro İstanbul - M7,2020
-101,99,102,heavy_rail,Metro İstanbul - M7,2020
-102,99,100,heavy_rail,Metro İstanbul - M7,2020
-103,102,103,heavy_rail,Metro İstanbul - M7,2020
-104,103,104,heavy_rail,Metro İstanbul - M7,2020
-105,104,105,heavy_rail,Metro İstanbul - M7,2020
-106,105,106,heavy_rail,Metro İstanbul - M7,2020
-107,106,107,heavy_rail,Metro İstanbul - M7,2020
-108,107,108,heavy_rail,Metro İstanbul - M7,2020
-109,108,109,heavy_rail,Metro İstanbul - M7,2020
-110,110,113,heavy_rail,Metro İstanbul - M7,2023
-111,110,114,heavy_rail,Metro İstanbul - M7,2026
-112,111,116,heavy_rail,Metro İstanbul - M7,2026
-113,112,116,heavy_rail,Metro İstanbul - M7,2026
-114,112,117,heavy_rail,Metro İstanbul - M7,2026
-115,114,115,heavy_rail,Metro İstanbul - M7,2026
-116,108,97,heavy_rail,Metro İstanbul - M7,2020
-117,118,121,heavy_rail,Metro İstanbul - M9,2021
-118,119,118,heavy_rail,Metro İstanbul - M9,2014
-119,119,122,heavy_rail,Metro İstanbul - M9,2014
-120,120,129,heavy_rail,Metro İstanbul - M9,2024
-121,120,121,heavy_rail,Metro İstanbul - M9,2021
-122,123,125,heavy_rail,Metro İstanbul - M9,2024
-123,124,125,heavy_rail,Metro İstanbul - M9,2024
-124,124,126,heavy_rail,Metro İstanbul - M9,2024
-125,126,130,heavy_rail,Metro İstanbul - M9,2024
-126,127,128,heavy_rail,Metro İstanbul - M9,2024
-127,127,130,heavy_rail,Metro İstanbul - M9,2024
-128,128,129,heavy_rail,Metro İstanbul - M9,2024
-129,131,136,heavy_rail,Metro İstanbul - M10,2026
-130,131,133,heavy_rail,Metro İstanbul - M10,2026
-131,132,136,heavy_rail,Metro İstanbul - M10,2026
-132,133,134,heavy_rail,Metro İstanbul - M10,2022
-133,134,135,heavy_rail,Metro İstanbul - M10,2022
-134,137,138,heavy_rail,Metro İstanbul - M8,2023
-135,138,143,heavy_rail,Metro İstanbul - M8,2023
-136,139,141,heavy_rail,Metro İstanbul - M8,2023
-137,139,144,heavy_rail,Metro İstanbul - M8,2023
-138,140,146,heavy_rail,Metro İstanbul - M8,2023
-139,140,149,heavy_rail,Metro İstanbul - M8,2023
-140,141,143,heavy_rail,Metro İstanbul - M8,2023
-141,142,149,heavy_rail,Metro İstanbul - M8,2023
-142,142,147,heavy_rail,Metro İstanbul - M8,2023
-143,144,145,heavy_rail,Metro İstanbul - M8,2023
-144,145,146,heavy_rail,Metro İstanbul - M8,2023
-145,147,148,heavy_rail,Metro İstanbul - M8,2023
-146,142,141,heavy_rail,Metro İstanbul - M8,2023
-147,150,158,heavy_rail,Metro İstanbul - M12,2026
-148,150,157,heavy_rail,Metro İstanbul - M12,2026
-149,151,153,heavy_rail,Metro İstanbul - M12,2026
-150,152,156,heavy_rail,Metro İstanbul - M12,2026
-151,152,157,heavy_rail,Metro İstanbul - M12,2026
-152,153,154,heavy_rail,Metro İstanbul - M12,2026
-153,154,155,heavy_rail,Metro İstanbul - M12,2026
-154,155,156,heavy_rail,Metro İstanbul - M12,2026
-155,158,159,heavy_rail,Metro İstanbul - M12,2026
-156,159,160,heavy_rail,Metro İstanbul - M12,2026
-157,155,158,heavy_rail,Metro İstanbul - M12,2026
-158,167,172,heavy_rail,UAB - M11,2024
-159,168,180,heavy_rail,UAB - M11,2025
-160,168,181,heavy_rail,UAB - M11,2025
-161,169,177,heavy_rail,UAB - M11,2024
-162,169,178,heavy_rail,UAB - M11,2024
-163,170,174,heavy_rail,UAB - M11,2023
-164,170,173,heavy_rail,UAB - M11,2023
-165,171,180,heavy_rail,UAB - M11,2025
-166,172,173,heavy_rail,UAB - M11,2024
-167,175,176,heavy_rail,UAB - M11,2023
-168,176,177,heavy_rail,UAB - M11,2023
-169,178,179,heavy_rail,UAB - M11,2024
-170,179,182,heavy_rail,UAB - M11,2025
-171,181,182,heavy_rail,UAB - M11,2025
-172,170,182,heavy_rail,UAB - M11,2025
-173,183,202,tram,Metro İstanbul - T4,2007
-174,184,185,tram,Metro İstanbul - T4,2007
-175,184,204,tram,Metro İstanbul - T4,2007
-176,185,186,tram,Metro İstanbul - T4,2007
-177,186,187,tram,Metro İstanbul - T4,2007
-178,188,192,tram,Metro İstanbul - T4,2009
-179,188,189,tram,Metro İstanbul - T4,2009
-180,189,190,tram,Metro İstanbul - T4,2009
-181,190,191,tram,Metro İstanbul - T4,2009
-182,192,193,tram,Metro İstanbul - T4,2009
-183,193,194,tram,Metro İstanbul - T4,2007
-184,194,195,tram,Metro İstanbul - T4,2007
-185,195,196,tram,Metro İstanbul - T4,2007
-186,196,197,tram,Metro İstanbul - T4,2007
-187,197,198,tram,Metro İstanbul - T4,2007
-188,198,199,tram,Metro İstanbul - T4,2007
-189,199,200,tram,Metro İstanbul - T4,2007
-190,200,201,tram,Metro İstanbul - T4,2007
-191,201,183,tram,Metro İstanbul - T4,2007
-192,202,205,tram,Metro İstanbul - T4,2007
-193,203,204,tram,Metro İstanbul - T4,2007
-194,203,205,tram,Metro İstanbul - T4,2007
-195,185,183,tram,Metro İstanbul - T4,2007
-196,206,207,tram,İETT - T2,1990
-197,207,208,tram,İETT - T2,1990
-198,208,209,tram,İETT - T2,1990
-199,209,210,tram,İETT - T2,1990
-200,211,212,tram,İETT - F2,1875
-201,213,225,light_rail,Metro İstanbul - T5,2023
-202,213,226,light_rail,Metro İstanbul - T5,2023
-203,214,216,light_rail,Metro İstanbul - T5,2021
-204,215,214,light_rail,Metro İstanbul - T5,2021
-205,216,217,light_rail,Metro İstanbul - T5,2021
-206,217,218,light_rail,Metro İstanbul - T5,2021
-207,218,219,light_rail,Metro İstanbul - T5,2021
-208,220,221,light_rail,Metro İstanbul - T5,2021
-209,221,222,light_rail,Metro İstanbul - T5,2021
-210,222,223,light_rail,Metro İstanbul - T5,2021
-211,223,224,light_rail,Metro İstanbul - T5,2021
-212,224,225,light_rail,Metro İstanbul - T5,2023
-213,223,219,light_rail,Metro İstanbul - T5,2021
-214,227,235,light_rail,Metro İstanbul - M1A,2014
-215,228,231,light_rail,Metro İstanbul - M1A,1994
-216,228,232,light_rail,Metro İstanbul - M1A,1994
-217,229,230,light_rail,Metro İstanbul - M1A,1994
-218,229,241,light_rail,Metro İstanbul - M1A,1994
-219,230,231,light_rail,Metro İstanbul - M1A,1994
-220,232,234,light_rail,Metro İstanbul - M1A,1995
-221,233,234,light_rail,Metro İstanbul - M1A,1995
-222,235,236,light_rail,Metro İstanbul - M1A,2014
-223,236,237,light_rail,Metro İstanbul - M1A,1989
-224,237,238,light_rail,Metro İstanbul - M1A,1989
-225,238,239,light_rail,Metro İstanbul - M1A,1989
-226,239,241,light_rail,Metro İstanbul - M1A,1994
-227,240,241,light_rail,Metro İstanbul - M1A,1994
-228,242,255,light_rail,Metro İstanbul - M1B,2014
-229,243,262,light_rail,Metro İstanbul - M1B,2014
-230,243,244,light_rail,Metro İstanbul - M1B,2014
-231,244,245,light_rail,Metro İstanbul - M1B,2014
-232,245,246,light_rail,Metro İstanbul - M1B,2014
-233,246,247,light_rail,Metro İstanbul - M1B,2014
-234,247,248,light_rail,Metro İstanbul - M1B,2026
-235,248,249,light_rail,Metro İstanbul - M1B,2026
-236,249,257,light_rail,Metro İstanbul - M1B,2026
-237,250,257,light_rail,Metro İstanbul - M1B,2026
-238,250,251,light_rail,Metro İstanbul - M1B,2026
-239,251,252,light_rail,Metro İstanbul - M1B,2026
-240,252,253,light_rail,Metro İstanbul - M1B,2026
-241,253,254,light_rail,Metro İstanbul - M1B,2026
-242,255,256,light_rail,Metro İstanbul - M1B,2014
-243,256,258,light_rail,Metro İstanbul - M1B,1989
-244,258,259,light_rail,Metro İstanbul - M1B,1989
-245,259,260,light_rail,Metro İstanbul - M1B,1989
-246,260,262,light_rail,Metro İstanbul - M1B,2012
-247,261,262,light_rail,Metro İstanbul - M1B,2012
-248,263,264,light_rail,Metro İstanbul - F1,2006
-249,265,266,light_rail,Metro İstanbul - F4,2022
-250,268,278,light_rail,Metro İstanbul - T1,1992
-251,268,277,light_rail,Metro İstanbul - T1,1992
-252,269,292,light_rail,Metro İstanbul - T1,2005
-253,269,274,light_rail,Metro İstanbul - T1,2006
-254,270,271,light_rail,Metro İstanbul - T1,1994
-255,270,290,light_rail,Metro İstanbul - T1,1994
-256,271,272,light_rail,Metro İstanbul - T1,1992
-257,272,273,light_rail,Metro İstanbul - T1,1992
-258,273,275,light_rail,Metro İstanbul - T1,1992
-259,274,299,light_rail,Metro İstanbul - T1,2006
-260,275,277,light_rail,Metro İstanbul - T1,1992
-261,276,280,light_rail,Metro İstanbul - T1,2006
-262,278,279,light_rail,Metro İstanbul - T1,1992
-263,279,281,light_rail,Metro İstanbul - T1,1992
-264,280,293,light_rail,Metro İstanbul - T1,2006
-265,281,282,light_rail,Metro İstanbul - T1,1992
-266,282,283,light_rail,Metro İstanbul - T1,1992
-267,283,289,light_rail,Metro İstanbul - T1,1992
-268,284,298,light_rail,Metro İstanbul - T1,2006
-269,284,285,light_rail,Metro İstanbul - T1,2006
-270,285,286,light_rail,Metro İstanbul - T1,1994
-271,286,287,light_rail,Metro İstanbul - T1,1994
-272,287,288,light_rail,Metro İstanbul - T1,1994
-273,288,290,light_rail,Metro İstanbul - T1,1994
-274,289,291,light_rail,Metro İstanbul - T1,1996
-275,291,292,light_rail,Metro İstanbul - T1,2005
-276,293,294,light_rail,Metro İstanbul - T1,2006
-277,294,295,light_rail,Metro İstanbul - T1,2006
-278,295,296,light_rail,Metro İstanbul - T1,2006
-279,296,297,light_rail,Metro İstanbul - T1,2006
-280,297,298,light_rail,Metro İstanbul - T1,2006
-281,291,277,light_rail,Metro İstanbul - T1,1996
-282,300,314,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-283,300,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-284,301,306,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
-285,301,317,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
-286,302,303,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-287,302,338,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-288,303,304,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-289,305,318,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-290,306,307,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
-291,307,305,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-292,308,340,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-293,308,309,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-294,309,310,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-295,310,311,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-296,311,312,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-297,312,313,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-298,313,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-299,314,316,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-300,316,317,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-301,318,319,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-302,319,342,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-303,320,321,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-304,320,342,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-305,321,322,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-306,322,323,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-307,323,324,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-308,324,325,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-309,325,326,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-310,326,327,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-311,327,328,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-312,328,329,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-313,329,330,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-314,330,331,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-315,331,341,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-316,332,333,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-317,332,341,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-318,333,334,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-319,334,335,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-320,335,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-321,336,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-322,336,337,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-323,337,338,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-324,337,320,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-325,314,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+nodeID_from,nodeID_to,mode,line,year
+0,4,heavy_rail,Metro İstanbul - M2,2014
+0,6,heavy_rail,Metro İstanbul - M2,2014
+1,10,heavy_rail,Metro İstanbul - M2,2009
+1,3,heavy_rail,Metro İstanbul - M2,2011
+2,13,heavy_rail,Metro İstanbul - M2,2011
+4,5,heavy_rail,Metro İstanbul - M2,2014
+5,7,heavy_rail,Metro İstanbul - M2,2014
+6,9,heavy_rail,Metro İstanbul - M2,2009
+8,14,heavy_rail,Metro İstanbul - M2,2000
+8,15,heavy_rail,Metro İstanbul - M2,2000
+9,15,heavy_rail,Metro İstanbul - M2,2000
+10,14,heavy_rail,Metro İstanbul - M2,2000
+11,12,heavy_rail,Metro İstanbul - M2,2009
+11,1,heavy_rail,Metro İstanbul - M2,2009
+12,13,heavy_rail,Metro İstanbul - M2,2010
+16,36,heavy_rail,Metro İstanbul - M3,2024
+16,35,heavy_rail,Metro İstanbul - M3,2024
+17,27,heavy_rail,Metro İstanbul - M3,2024
+17,26,heavy_rail,Metro İstanbul - M3,2024
+18,26,heavy_rail,Metro İstanbul - M3,2024
+18,19,heavy_rail,Metro İstanbul - M3,2024
+19,25,heavy_rail,Metro İstanbul - M3,2013
+20,25,heavy_rail,Metro İstanbul - M3,2013
+20,24,heavy_rail,Metro İstanbul - M3,2014
+21,22,heavy_rail,Metro İstanbul - M3,2013
+21,24,heavy_rail,Metro İstanbul - M3,2014
+22,23,heavy_rail,Metro İstanbul - M3,2013
+23,29,heavy_rail,Metro İstanbul - M3,2023
+27,28,heavy_rail,Metro İstanbul - M3,2024
+28,35,heavy_rail,Metro İstanbul - M3,2024
+29,32,heavy_rail,Metro İstanbul - M3,2023
+30,21,heavy_rail,Metro İstanbul - M3,2014
+31,30,heavy_rail,Metro İstanbul - M3,2014
+31,33,heavy_rail,Metro İstanbul - M3,2023
+33,34,heavy_rail,Metro İstanbul - M3,2023
+33,23,heavy_rail,Metro İstanbul - M3,2023
+34,37,heavy_rail,Metro İstanbul - M3,2023
+28,17,heavy_rail,Metro İstanbul - M3,2024
+38,40,heavy_rail,Metro İstanbul - M4,2012
+38,42,heavy_rail,Metro İstanbul - M4,2012
+39,40,heavy_rail,Metro İstanbul - M4,2012
+39,43,heavy_rail,Metro İstanbul - M4,2012
+41,43,heavy_rail,Metro İstanbul - M4,2012
+42,44,heavy_rail,Metro İstanbul - M4,2012
+44,45,heavy_rail,Metro İstanbul - M4,2012
+45,46,heavy_rail,Metro İstanbul - M4,2012
+46,47,heavy_rail,Metro İstanbul - M4,2012
+47,48,heavy_rail,Metro İstanbul - M4,2012
+48,49,heavy_rail,Metro İstanbul - M4,2012
+49,50,heavy_rail,Metro İstanbul - M4,2012
+50,51,heavy_rail,Metro İstanbul - M4,2012
+51,52,heavy_rail,Metro İstanbul - M4,2012
+52,55,heavy_rail,Metro İstanbul - M4,2012
+53,54,heavy_rail,Metro İstanbul - M4,2025
+53,66,heavy_rail,Metro İstanbul - M4,2025
+54,56,heavy_rail,Metro İstanbul - M4,2016
+55,56,heavy_rail,Metro İstanbul - M4,2016
+57,62,heavy_rail,Metro İstanbul - M4,2025
+58,66,heavy_rail,Metro İstanbul - M4,2025
+59,60,heavy_rail,Metro İstanbul - M4,2025
+59,66,heavy_rail,Metro İstanbul - M4,2025
+60,61,heavy_rail,Metro İstanbul - M4,2025
+61,62,heavy_rail,Metro İstanbul - M4,2025
+63,58,heavy_rail,Metro İstanbul - M4,2022
+63,64,heavy_rail,Metro İstanbul - M4,2022
+64,65,heavy_rail,Metro İstanbul - M4,2022
+51,39,heavy_rail,Metro İstanbul - M4,2012
+59,61,heavy_rail,Metro İstanbul - M4,2025
+67,68,heavy_rail,Metro İstanbul - M5,2017
+67,72,heavy_rail,Metro İstanbul - M5,2017
+68,87,heavy_rail,Metro İstanbul - M5,2017
+69,87,heavy_rail,Metro İstanbul - M5,2017
+69,70,heavy_rail,Metro İstanbul - M5,2017
+70,71,heavy_rail,Metro İstanbul - M5,2017
+71,88,heavy_rail,Metro İstanbul - M5,2017
+73,75,heavy_rail,Metro İstanbul - M5,2018
+73,88,heavy_rail,Metro İstanbul - M5,2018
+74,78,heavy_rail,Metro İstanbul - M5,2018
+74,79,heavy_rail,Metro İstanbul - M5,2018
+75,76,heavy_rail,Metro İstanbul - M5,2018
+76,77,heavy_rail,Metro İstanbul - M5,2018
+77,78,heavy_rail,Metro İstanbul - M5,2018
+79,80,heavy_rail,Metro İstanbul - M5,2024
+80,82,heavy_rail,Metro İstanbul - M5,2024
+81,83,heavy_rail,Metro İstanbul - M5,2024
+81,82,heavy_rail,Metro İstanbul - M5,2024
+83,90,heavy_rail,Metro İstanbul - M5,2024
+84,85,heavy_rail,Metro İstanbul - M5,2026
+85,86,heavy_rail,Metro İstanbul - M5,2026
+86,89,heavy_rail,Metro İstanbul - M5,2026
+89,90,heavy_rail,Metro İstanbul - M5,2024
+91,94,heavy_rail,Metro İstanbul - M6,2015
+92,93,heavy_rail,Metro İstanbul - M6,2015
+93,94,heavy_rail,Metro İstanbul - M6,2015
+95,113,heavy_rail,Metro İstanbul - M7,2023
+95,101,heavy_rail,Metro İstanbul - M7,2023
+96,117,heavy_rail,Metro İstanbul - M7,2026
+96,109,heavy_rail,Metro İstanbul - M7,2020
+97,98,heavy_rail,Metro İstanbul - M7,2020
+97,101,heavy_rail,Metro İstanbul - M7,2020
+98,100,heavy_rail,Metro İstanbul - M7,2020
+99,102,heavy_rail,Metro İstanbul - M7,2020
+99,100,heavy_rail,Metro İstanbul - M7,2020
+102,103,heavy_rail,Metro İstanbul - M7,2020
+103,104,heavy_rail,Metro İstanbul - M7,2020
+104,105,heavy_rail,Metro İstanbul - M7,2020
+105,106,heavy_rail,Metro İstanbul - M7,2020
+106,107,heavy_rail,Metro İstanbul - M7,2020
+107,108,heavy_rail,Metro İstanbul - M7,2020
+108,109,heavy_rail,Metro İstanbul - M7,2020
+110,113,heavy_rail,Metro İstanbul - M7,2023
+110,114,heavy_rail,Metro İstanbul - M7,2026
+111,116,heavy_rail,Metro İstanbul - M7,2026
+112,116,heavy_rail,Metro İstanbul - M7,2026
+112,117,heavy_rail,Metro İstanbul - M7,2026
+114,115,heavy_rail,Metro İstanbul - M7,2026
+108,97,heavy_rail,Metro İstanbul - M7,2020
+118,121,heavy_rail,Metro İstanbul - M9,2021
+119,118,heavy_rail,Metro İstanbul - M9,2014
+119,122,heavy_rail,Metro İstanbul - M9,2014
+120,129,heavy_rail,Metro İstanbul - M9,2024
+120,121,heavy_rail,Metro İstanbul - M9,2021
+123,125,heavy_rail,Metro İstanbul - M9,2024
+124,125,heavy_rail,Metro İstanbul - M9,2024
+124,126,heavy_rail,Metro İstanbul - M9,2024
+126,130,heavy_rail,Metro İstanbul - M9,2024
+127,128,heavy_rail,Metro İstanbul - M9,2024
+127,130,heavy_rail,Metro İstanbul - M9,2024
+128,129,heavy_rail,Metro İstanbul - M9,2024
+131,136,heavy_rail,Metro İstanbul - M10,2026
+131,133,heavy_rail,Metro İstanbul - M10,2026
+132,136,heavy_rail,Metro İstanbul - M10,2026
+133,134,heavy_rail,Metro İstanbul - M10,2022
+134,135,heavy_rail,Metro İstanbul - M10,2022
+137,138,heavy_rail,Metro İstanbul - M8,2023
+138,143,heavy_rail,Metro İstanbul - M8,2023
+139,141,heavy_rail,Metro İstanbul - M8,2023
+139,144,heavy_rail,Metro İstanbul - M8,2023
+140,146,heavy_rail,Metro İstanbul - M8,2023
+140,149,heavy_rail,Metro İstanbul - M8,2023
+141,143,heavy_rail,Metro İstanbul - M8,2023
+142,149,heavy_rail,Metro İstanbul - M8,2023
+142,147,heavy_rail,Metro İstanbul - M8,2023
+144,145,heavy_rail,Metro İstanbul - M8,2023
+145,146,heavy_rail,Metro İstanbul - M8,2023
+147,148,heavy_rail,Metro İstanbul - M8,2023
+142,141,heavy_rail,Metro İstanbul - M8,2023
+150,158,heavy_rail,Metro İstanbul - M12,2026
+150,157,heavy_rail,Metro İstanbul - M12,2026
+151,153,heavy_rail,Metro İstanbul - M12,2026
+152,156,heavy_rail,Metro İstanbul - M12,2026
+152,157,heavy_rail,Metro İstanbul - M12,2026
+153,154,heavy_rail,Metro İstanbul - M12,2026
+154,155,heavy_rail,Metro İstanbul - M12,2026
+155,156,heavy_rail,Metro İstanbul - M12,2026
+158,159,heavy_rail,Metro İstanbul - M12,2026
+159,160,heavy_rail,Metro İstanbul - M12,2026
+155,158,heavy_rail,Metro İstanbul - M12,2026
+167,172,heavy_rail,UAB - M11,2024
+168,180,heavy_rail,UAB - M11,2025
+168,181,heavy_rail,UAB - M11,2025
+169,177,heavy_rail,UAB - M11,2024
+169,178,heavy_rail,UAB - M11,2024
+170,174,heavy_rail,UAB - M11,2023
+170,173,heavy_rail,UAB - M11,2023
+171,180,heavy_rail,UAB - M11,2025
+172,173,heavy_rail,UAB - M11,2024
+175,176,heavy_rail,UAB - M11,2023
+176,177,heavy_rail,UAB - M11,2023
+178,179,heavy_rail,UAB - M11,2024
+179,182,heavy_rail,UAB - M11,2025
+181,182,heavy_rail,UAB - M11,2025
+170,182,heavy_rail,UAB - M11,2025
+183,202,tram,Metro İstanbul - T4,2007
+184,185,tram,Metro İstanbul - T4,2007
+184,204,tram,Metro İstanbul - T4,2007
+185,186,tram,Metro İstanbul - T4,2007
+186,187,tram,Metro İstanbul - T4,2007
+188,192,tram,Metro İstanbul - T4,2009
+188,189,tram,Metro İstanbul - T4,2009
+189,190,tram,Metro İstanbul - T4,2009
+190,191,tram,Metro İstanbul - T4,2009
+192,193,tram,Metro İstanbul - T4,2009
+193,194,tram,Metro İstanbul - T4,2007
+194,195,tram,Metro İstanbul - T4,2007
+195,196,tram,Metro İstanbul - T4,2007
+196,197,tram,Metro İstanbul - T4,2007
+197,198,tram,Metro İstanbul - T4,2007
+198,199,tram,Metro İstanbul - T4,2007
+199,200,tram,Metro İstanbul - T4,2007
+200,201,tram,Metro İstanbul - T4,2007
+201,183,tram,Metro İstanbul - T4,2007
+202,205,tram,Metro İstanbul - T4,2007
+203,204,tram,Metro İstanbul - T4,2007
+203,205,tram,Metro İstanbul - T4,2007
+185,183,tram,Metro İstanbul - T4,2007
+206,207,tram,İETT - T2,1990
+207,208,tram,İETT - T2,1990
+208,209,tram,İETT - T2,1990
+209,210,tram,İETT - T2,1990
+211,212,tram,İETT - F2,1875
+213,225,light_rail,Metro İstanbul - T5,2023
+213,226,light_rail,Metro İstanbul - T5,2023
+214,216,light_rail,Metro İstanbul - T5,2021
+215,214,light_rail,Metro İstanbul - T5,2021
+216,217,light_rail,Metro İstanbul - T5,2021
+217,218,light_rail,Metro İstanbul - T5,2021
+218,219,light_rail,Metro İstanbul - T5,2021
+220,221,light_rail,Metro İstanbul - T5,2021
+221,222,light_rail,Metro İstanbul - T5,2021
+222,223,light_rail,Metro İstanbul - T5,2021
+223,224,light_rail,Metro İstanbul - T5,2021
+224,225,light_rail,Metro İstanbul - T5,2023
+223,219,light_rail,Metro İstanbul - T5,2021
+227,235,light_rail,Metro İstanbul - M1A,2014
+228,231,light_rail,Metro İstanbul - M1A,1994
+228,232,light_rail,Metro İstanbul - M1A,1994
+229,230,light_rail,Metro İstanbul - M1A,1994
+229,241,light_rail,Metro İstanbul - M1A,1994
+230,231,light_rail,Metro İstanbul - M1A,1994
+232,234,light_rail,Metro İstanbul - M1A,1995
+233,234,light_rail,Metro İstanbul - M1A,1995
+235,236,light_rail,Metro İstanbul - M1A,2014
+236,237,light_rail,Metro İstanbul - M1A,1989
+237,238,light_rail,Metro İstanbul - M1A,1989
+238,239,light_rail,Metro İstanbul - M1A,1989
+239,241,light_rail,Metro İstanbul - M1A,1994
+240,241,light_rail,Metro İstanbul - M1A,1994
+242,255,light_rail,Metro İstanbul - M1B,2014
+243,262,light_rail,Metro İstanbul - M1B,2014
+243,244,light_rail,Metro İstanbul - M1B,2014
+244,245,light_rail,Metro İstanbul - M1B,2014
+245,246,light_rail,Metro İstanbul - M1B,2014
+246,247,light_rail,Metro İstanbul - M1B,2014
+247,248,light_rail,Metro İstanbul - M1B,2026
+248,249,light_rail,Metro İstanbul - M1B,2026
+249,257,light_rail,Metro İstanbul - M1B,2026
+250,257,light_rail,Metro İstanbul - M1B,2026
+250,251,light_rail,Metro İstanbul - M1B,2026
+251,252,light_rail,Metro İstanbul - M1B,2026
+252,253,light_rail,Metro İstanbul - M1B,2026
+253,254,light_rail,Metro İstanbul - M1B,2026
+255,256,light_rail,Metro İstanbul - M1B,2014
+256,258,light_rail,Metro İstanbul - M1B,1989
+258,259,light_rail,Metro İstanbul - M1B,1989
+259,260,light_rail,Metro İstanbul - M1B,1989
+260,262,light_rail,Metro İstanbul - M1B,2012
+261,262,light_rail,Metro İstanbul - M1B,2012
+263,264,light_rail,Metro İstanbul - F1,2006
+265,266,light_rail,Metro İstanbul - F4,2022
+268,278,light_rail,Metro İstanbul - T1,1992
+268,277,light_rail,Metro İstanbul - T1,1992
+269,292,light_rail,Metro İstanbul - T1,2005
+269,274,light_rail,Metro İstanbul - T1,2006
+270,271,light_rail,Metro İstanbul - T1,1994
+270,290,light_rail,Metro İstanbul - T1,1994
+271,272,light_rail,Metro İstanbul - T1,1992
+272,273,light_rail,Metro İstanbul - T1,1992
+273,275,light_rail,Metro İstanbul - T1,1992
+274,299,light_rail,Metro İstanbul - T1,2006
+275,277,light_rail,Metro İstanbul - T1,1992
+276,280,light_rail,Metro İstanbul - T1,2006
+278,279,light_rail,Metro İstanbul - T1,1992
+279,281,light_rail,Metro İstanbul - T1,1992
+280,293,light_rail,Metro İstanbul - T1,2006
+281,282,light_rail,Metro İstanbul - T1,1992
+282,283,light_rail,Metro İstanbul - T1,1992
+283,289,light_rail,Metro İstanbul - T1,1992
+284,298,light_rail,Metro İstanbul - T1,2006
+284,285,light_rail,Metro İstanbul - T1,2006
+285,286,light_rail,Metro İstanbul - T1,1994
+286,287,light_rail,Metro İstanbul - T1,1994
+287,288,light_rail,Metro İstanbul - T1,1994
+288,290,light_rail,Metro İstanbul - T1,1994
+289,291,light_rail,Metro İstanbul - T1,1996
+291,292,light_rail,Metro İstanbul - T1,2005
+293,294,light_rail,Metro İstanbul - T1,2006
+294,295,light_rail,Metro İstanbul - T1,2006
+295,296,light_rail,Metro İstanbul - T1,2006
+296,297,light_rail,Metro İstanbul - T1,2006
+297,298,light_rail,Metro İstanbul - T1,2006
+291,277,light_rail,Metro İstanbul - T1,1996
+300,314,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+300,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+301,306,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
+301,317,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
+302,303,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+302,338,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+303,304,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+305,318,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+306,307,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
+307,305,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+308,340,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+308,309,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+309,310,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+310,311,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+311,312,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+312,313,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+313,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+314,316,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+316,317,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+318,319,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+319,342,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+320,321,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+320,342,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+321,322,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+322,323,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+323,324,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+324,325,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+325,326,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+326,327,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+327,328,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+328,329,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+329,330,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+330,331,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+331,341,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+332,333,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+332,341,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+333,334,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+334,335,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+335,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+336,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+336,337,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+337,338,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+337,320,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+314,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019

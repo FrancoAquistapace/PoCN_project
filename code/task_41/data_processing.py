@@ -650,8 +650,10 @@ for c_count, city_id in enumerate(cities_df['id']):
         city_edges = pd.DataFrame(edge_list)
 
     # Write files
-    city_nodes.to_csv(folder_path + city_name + '_nodes.csv')
-    city_edges.to_csv(folder_path + city_name + '_edges.csv')
+    city_nodes.to_csv(folder_path + city_name + '_nodes.csv',
+                     index=False)
+    city_edges.to_csv(folder_path + city_name + '_edges.csv', 
+                     index=False)
 
 print('Process completed')
 exit()

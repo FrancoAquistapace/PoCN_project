@@ -1,173 +1,173 @@
-,nodeID,nodeLabel,latitude,longitude,mode,year
-0,0,Fontaine Lestang,1.4184089,43.5875305,heavy_rail,0.0
-1,1,Jolimont,1.4633846,43.6152782,heavy_rail,0.0
-2,2,Capitole,1.445382,43.6044765,heavy_rail,0.0
-3,3,Esquirol,1.4439146,43.6001467,heavy_rail,0.0
-4,4,Arènes,1.4185414,43.593404,heavy_rail,0.0
-5,5,Jean Jaurès,1.4489455,43.6058533,heavy_rail,0.0
-6,6,Mermoz,1.4152039,43.5835153,heavy_rail,0.0
-7,7,Basso Cambo,1.3922839,43.569943,heavy_rail,0.0
-8,8,Mirail Université,1.402032,43.5745945,heavy_rail,0.0
-9,9,Reynerie,1.4018908,43.5708457,heavy_rail,0.0
-10,10,Bellefontaine,1.3982966,43.5660825,heavy_rail,0.0
-11,11,Roseraie,1.4696735,43.6199318,heavy_rail,0.0
-12,12,Saint-Cyprien République,1.4316578,43.5979948,heavy_rail,0.0
-13,13,Marengo SNCF,1.4550373,43.6107605,heavy_rail,0.0
-14,14,Patte d'Oie,1.4232471,43.5964459,heavy_rail,0.0
-15,15,Argoulets,1.4768303,43.6243703,heavy_rail,0.0
-16,16,Balma Gramont,1.4827089,43.6291183,heavy_rail,0.0
-17,17,Andromède-Lycée,1.3735958,43.6548396,light_rail,0.0
-18,18,Grand Noble,1.3774771,43.6447688,light_rail,0.0
-19,19,Odyssud - Ritouret,1.3853347,43.6362564,light_rail,0.0
-20,20,Odyssud - Ritouret,1.3853341,43.6362305,light_rail,0.0
-21,21,Beauzelle,1.3695259,43.6602643,light_rail,0.0
-22,22,Patinoire Barradels,1.38276,43.6400747,light_rail,0.0
-23,23,Patinoire Barradels,1.3819876,43.6407513,light_rail,0.0
-24,24,Place Georges Brassens,1.3756173,43.6485429,light_rail,0.0
-25,25,Guyenne - Berry,1.3917438,43.6308743,light_rail,0.0
-26,26,Aéroconstellation,1.3625569,43.6635798,light_rail,0.0
-27,27,Aéroconstellation,1.3625788,43.6634646,light_rail,0.0
-28,28,Place Georges Brassens,1.3756491,43.6485505,light_rail,0.0
-29,29,Andromède-Lycée,1.3735646,43.6548279,light_rail,0.0
-30,30,Grand Noble,1.3774584,43.6447442,light_rail,0.0
-31,31,Beauzelle,1.3694901,43.6602556,light_rail,0.0
-32,32,Place du Relais,1.3900718,43.636771,light_rail,0.0
-33,33,Pasteur Mairie de Blagnac,1.3913438,43.6340381,light_rail,0.0
-34,34,Guyenne - Berry,1.3917091,43.6308735,light_rail,0.0
-35,35,Pasteur Mairie de Blagnac,1.3912346,43.6346092,light_rail,0.0
-36,36,Place du Relais,1.3900798,43.6367417,light_rail,0.0
-37,37,Ancely,1.3969311,43.6182283,light_rail,0.0
-38,38,Servanty Airbus,1.3934923,43.6254903,light_rail,0.0
-39,39,Servanty Airbus,1.3934578,43.6254815,light_rail,0.0
-40,40,Arènes Romaines,1.3983014,43.6141015,light_rail,0.0
-41,41,Purpan,1.4020256,43.6091124,light_rail,0.0
-42,42,Ancely,1.3968926,43.6182325,light_rail,0.0
-43,43,Arènes Romaines,1.3983027,43.6140753,light_rail,0.0
-44,44,Purpan,1.4019875,43.609111,light_rail,0.0
-45,45,Casselardit,1.4076812,43.6031468,light_rail,0.0
-46,46,Arènes,1.4179282,43.5928437,light_rail,0.0
-47,47,Zénith,1.4094423,43.5948728,light_rail,0.0
-48,48,Casselardit,1.4076568,43.6031174,light_rail,0.0
-49,49,Cartoucherie,1.411406,43.6008658,light_rail,0.0
-50,50,Arènes,1.4179244,43.5928144,light_rail,0.0
-51,51,Cartoucherie,1.4113643,43.6008706,light_rail,0.0
-52,52,Zénith,1.4094088,43.5948825,light_rail,0.0
-53,53,Déodat de Séverac,1.4216813,43.5896483,light_rail,0.0
-54,54,Croix de Pierre,1.4278901,43.5856208,light_rail,0.0
-55,55,Déodat de Séverac,1.4216528,43.5896256,light_rail,0.0
-56,56,Déodat de Séverac,1.4216057,43.5896336,light_rail,0.0
-57,57,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,light_rail,0.0
-58,58,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,light_rail,0.0
-59,59,Croix de Pierre,1.4278747,43.5855872,light_rail,0.0
-60,60,Palais de Justice,1.4440732,43.5927354,light_rail,0.0
-61,61,Palais de Justice,1.4440516,43.5927702,light_rail,0.0
-62,62,Île du Ramier,1.4404078,43.5921882,light_rail,0.0
-63,63,Île du Ramier,1.4404187,43.5922184,light_rail,0.0
-64,64,Fer à Cheval,1.4354601,43.5926438,light_rail,0.0
-65,65,Fer à Cheval,1.4354553,43.5926134,light_rail,0.0
-66,66,Aéroport,1.3743893,43.631332,light_rail,0.0
-67,67,Aéroport,1.3743666,43.6313538,light_rail,0.0
-68,68,Ancely,1.3969311,43.6182283,light_rail,0.0
-69,69,Daurat,1.3793834,43.6288606,light_rail,0.0
-70,70,Arènes Romaines,1.3983014,43.6141015,light_rail,0.0
-71,71,Daurat,1.3793754,43.6288325,light_rail,0.0
-72,72,Nadot,1.3865858,43.6244433,light_rail,0.0
-73,73,Purpan,1.4020256,43.6091124,light_rail,0.0
-74,74,Nadot,1.3867564,43.6244036,light_rail,0.0
-75,75,Ancely,1.3968926,43.6182325,light_rail,0.0
-76,76,Arènes Romaines,1.3983027,43.6140753,light_rail,0.0
-77,77,Purpan,1.4019875,43.609111,light_rail,0.0
-78,78,Casselardit,1.4076812,43.6031468,light_rail,0.0
-79,79,Arènes,1.4179282,43.5928437,light_rail,0.0
-80,80,Zénith,1.4094423,43.5948728,light_rail,0.0
-81,81,Casselardit,1.4076568,43.6031174,light_rail,0.0
-82,82,Cartoucherie,1.411406,43.6008658,light_rail,0.0
-83,83,Arènes,1.4179244,43.5928144,light_rail,0.0
-84,84,Cartoucherie,1.4113643,43.6008706,light_rail,0.0
-85,85,Zénith,1.4094088,43.5948825,light_rail,0.0
-86,86,Déodat de Séverac,1.4216813,43.5896483,light_rail,0.0
-87,87,Croix de Pierre,1.4278901,43.5856208,light_rail,0.0
-88,88,Déodat de Séverac,1.4216528,43.5896256,light_rail,0.0
-89,89,Déodat de Séverac,1.4216057,43.5896336,light_rail,0.0
-90,90,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,light_rail,0.0
-91,91,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,light_rail,0.0
-92,92,Croix de Pierre,1.4278747,43.5855872,light_rail,0.0
-93,93,Palais de Justice,1.4440732,43.5927354,light_rail,0.0
-94,94,Palais de Justice,1.4440516,43.5927702,light_rail,0.0
-95,95,Île du Ramier,1.4404078,43.5921882,light_rail,0.0
-96,96,Île du Ramier,1.4404187,43.5922184,light_rail,0.0
-97,97,Fer à Cheval,1.4354601,43.5926438,light_rail,0.0
-98,98,Fer à Cheval,1.4354553,43.5926134,light_rail,0.0
-99,99,Fontaine Lestang,1.4184089,43.5875305,None,0.0
-100,100,Jolimont,1.4633846,43.6152782,None,0.0
-101,101,Capitole,1.445382,43.6044765,None,0.0
-102,102,Esquirol,1.4439146,43.6001467,None,0.0
-103,103,Arènes,1.4185414,43.593404,None,0.0
-104,104,Jean Jaurès,1.4489455,43.6058533,None,0.0
-105,105,Mermoz,1.4152039,43.5835153,None,0.0
-106,106,Andromède-Lycée,1.3735958,43.6548396,None,0.0
-107,107,Bagatelle,1.4121307,43.5798869,None,0.0
-108,108,Basso Cambo,1.3922839,43.569943,None,0.0
-109,109,Mirail Université,1.402032,43.5745945,None,0.0
-110,110,Reynerie,1.4018908,43.5708457,None,0.0
-111,111,Bellefontaine,1.3982966,43.5660825,None,0.0
-112,112,Roseraie,1.4696735,43.6199318,None,0.0
-113,113,Saint-Cyprien République,1.4316578,43.5979948,None,0.0
-114,114,Marengo SNCF,1.4550373,43.6107605,None,0.0
-115,115,Patte d'Oie,1.4232471,43.5964459,None,0.0
-116,116,Argoulets,1.4768303,43.6243703,None,0.0
-117,117,Grand Noble,1.3774771,43.6447688,None,0.0
-118,118,Balma Gramont,1.4827089,43.6291183,None,0.0
-119,119,Odyssud - Ritouret,1.3853347,43.6362564,None,0.0
-120,120,Odyssud - Ritouret,1.3853341,43.6362305,None,0.0
-121,121,Beauzelle,1.3695259,43.6602643,None,0.0
-122,122,Patinoire Barradels,1.38276,43.6400747,None,0.0
-123,123,Patinoire Barradels,1.3819876,43.6407513,None,0.0
-124,124,Place Georges Brassens,1.3756173,43.6485429,None,0.0
-125,125,Guyenne - Berry,1.3917438,43.6308743,None,0.0
-126,126,Aéroconstellation,1.3625569,43.6635798,None,0.0
-127,127,Aéroconstellation,1.3625788,43.6634646,None,0.0
-128,128,Place Georges Brassens,1.3756491,43.6485505,None,0.0
-129,129,Andromède-Lycée,1.3735646,43.6548279,None,0.0
-130,130,Grand Noble,1.3774584,43.6447442,None,0.0
-131,131,Beauzelle,1.3694901,43.6602556,None,0.0
-132,132,Place du Relais,1.3900718,43.636771,None,0.0
-133,133,Pasteur Mairie de Blagnac,1.3913438,43.6340381,None,0.0
-134,134,Guyenne - Berry,1.3917091,43.6308735,None,0.0
-135,135,Aéroport,1.3743893,43.631332,None,0.0
-136,136,Aéroport,1.3743666,43.6313538,None,0.0
-137,137,Pasteur Mairie de Blagnac,1.3912346,43.6346092,None,0.0
-138,138,Place du Relais,1.3900798,43.6367417,None,0.0
-139,139,Ancely,1.3969311,43.6182283,None,0.0
-140,140,Servanty Airbus,1.3934923,43.6254903,None,0.0
-141,141,Servanty Airbus,1.3934578,43.6254815,None,0.0
-142,142,Daurat,1.3793834,43.6288606,None,0.0
-143,143,Arènes Romaines,1.3983014,43.6141015,None,0.0
-144,144,Daurat,1.3793754,43.6288325,None,0.0
-145,145,Nadot,1.3865858,43.6244433,None,0.0
-146,146,Purpan,1.4020256,43.6091124,None,0.0
-147,147,Nadot,1.3867564,43.6244036,None,0.0
-148,148,Ancely,1.3968926,43.6182325,None,0.0
-149,149,Arènes Romaines,1.3983027,43.6140753,None,0.0
-150,150,Purpan,1.4019875,43.609111,None,0.0
-151,151,Casselardit,1.4076812,43.6031468,None,0.0
-152,152,Arènes,1.4179282,43.5928437,None,0.0
-153,153,Zénith,1.4094423,43.5948728,None,0.0
-154,154,Casselardit,1.4076568,43.6031174,None,0.0
-155,155,Cartoucherie,1.411406,43.6008658,None,0.0
-156,156,Arènes,1.4179244,43.5928144,None,0.0
-157,157,Cartoucherie,1.4113643,43.6008706,None,0.0
-158,158,Zénith,1.4094088,43.5948825,None,0.0
-159,159,Déodat de Séverac,1.4216813,43.5896483,None,0.0
-160,160,Croix de Pierre,1.4278901,43.5856208,None,0.0
-161,161,Déodat de Séverac,1.4216528,43.5896256,None,0.0
-162,162,Déodat de Séverac,1.4216057,43.5896336,None,0.0
-163,163,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,None,0.0
-164,164,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,None,0.0
-165,165,Croix de Pierre,1.4278747,43.5855872,None,0.0
-166,166,Palais de Justice,1.4440732,43.5927354,None,0.0
-167,167,Palais de Justice,1.4440516,43.5927702,None,0.0
-168,168,Île du Ramier,1.4404078,43.5921882,None,0.0
-169,169,Île du Ramier,1.4404187,43.5922184,None,0.0
-170,170,Fer à Cheval,1.4354601,43.5926438,None,0.0
-171,171,Fer à Cheval,1.4354553,43.5926134,None,0.0
+nodeID,nodeLabel,latitude,longitude,mode,year
+0,Fontaine Lestang,1.4184089,43.5875305,heavy_rail,0.0
+1,Jolimont,1.4633846,43.6152782,heavy_rail,0.0
+2,Capitole,1.445382,43.6044765,heavy_rail,0.0
+3,Esquirol,1.4439146,43.6001467,heavy_rail,0.0
+4,Arènes,1.4185414,43.593404,heavy_rail,0.0
+5,Jean Jaurès,1.4489455,43.6058533,heavy_rail,0.0
+6,Mermoz,1.4152039,43.5835153,heavy_rail,0.0
+7,Basso Cambo,1.3922839,43.569943,heavy_rail,0.0
+8,Mirail Université,1.402032,43.5745945,heavy_rail,0.0
+9,Reynerie,1.4018908,43.5708457,heavy_rail,0.0
+10,Bellefontaine,1.3982966,43.5660825,heavy_rail,0.0
+11,Roseraie,1.4696735,43.6199318,heavy_rail,0.0
+12,Saint-Cyprien République,1.4316578,43.5979948,heavy_rail,0.0
+13,Marengo SNCF,1.4550373,43.6107605,heavy_rail,0.0
+14,Patte d'Oie,1.4232471,43.5964459,heavy_rail,0.0
+15,Argoulets,1.4768303,43.6243703,heavy_rail,0.0
+16,Balma Gramont,1.4827089,43.6291183,heavy_rail,0.0
+17,Andromède-Lycée,1.3735958,43.6548396,light_rail,0.0
+18,Grand Noble,1.3774771,43.6447688,light_rail,0.0
+19,Odyssud - Ritouret,1.3853347,43.6362564,light_rail,0.0
+20,Odyssud - Ritouret,1.3853341,43.6362305,light_rail,0.0
+21,Beauzelle,1.3695259,43.6602643,light_rail,0.0
+22,Patinoire Barradels,1.38276,43.6400747,light_rail,0.0
+23,Patinoire Barradels,1.3819876,43.6407513,light_rail,0.0
+24,Place Georges Brassens,1.3756173,43.6485429,light_rail,0.0
+25,Guyenne - Berry,1.3917438,43.6308743,light_rail,0.0
+26,Aéroconstellation,1.3625569,43.6635798,light_rail,0.0
+27,Aéroconstellation,1.3625788,43.6634646,light_rail,0.0
+28,Place Georges Brassens,1.3756491,43.6485505,light_rail,0.0
+29,Andromède-Lycée,1.3735646,43.6548279,light_rail,0.0
+30,Grand Noble,1.3774584,43.6447442,light_rail,0.0
+31,Beauzelle,1.3694901,43.6602556,light_rail,0.0
+32,Place du Relais,1.3900718,43.636771,light_rail,0.0
+33,Pasteur Mairie de Blagnac,1.3913438,43.6340381,light_rail,0.0
+34,Guyenne - Berry,1.3917091,43.6308735,light_rail,0.0
+35,Pasteur Mairie de Blagnac,1.3912346,43.6346092,light_rail,0.0
+36,Place du Relais,1.3900798,43.6367417,light_rail,0.0
+37,Ancely,1.3969311,43.6182283,light_rail,0.0
+38,Servanty Airbus,1.3934923,43.6254903,light_rail,0.0
+39,Servanty Airbus,1.3934578,43.6254815,light_rail,0.0
+40,Arènes Romaines,1.3983014,43.6141015,light_rail,0.0
+41,Purpan,1.4020256,43.6091124,light_rail,0.0
+42,Ancely,1.3968926,43.6182325,light_rail,0.0
+43,Arènes Romaines,1.3983027,43.6140753,light_rail,0.0
+44,Purpan,1.4019875,43.609111,light_rail,0.0
+45,Casselardit,1.4076812,43.6031468,light_rail,0.0
+46,Arènes,1.4179282,43.5928437,light_rail,0.0
+47,Zénith,1.4094423,43.5948728,light_rail,0.0
+48,Casselardit,1.4076568,43.6031174,light_rail,0.0
+49,Cartoucherie,1.411406,43.6008658,light_rail,0.0
+50,Arènes,1.4179244,43.5928144,light_rail,0.0
+51,Cartoucherie,1.4113643,43.6008706,light_rail,0.0
+52,Zénith,1.4094088,43.5948825,light_rail,0.0
+53,Déodat de Séverac,1.4216813,43.5896483,light_rail,0.0
+54,Croix de Pierre,1.4278901,43.5856208,light_rail,0.0
+55,Déodat de Séverac,1.4216528,43.5896256,light_rail,0.0
+56,Déodat de Séverac,1.4216057,43.5896336,light_rail,0.0
+57,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,light_rail,0.0
+58,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,light_rail,0.0
+59,Croix de Pierre,1.4278747,43.5855872,light_rail,0.0
+60,Palais de Justice,1.4440732,43.5927354,light_rail,0.0
+61,Palais de Justice,1.4440516,43.5927702,light_rail,0.0
+62,Île du Ramier,1.4404078,43.5921882,light_rail,0.0
+63,Île du Ramier,1.4404187,43.5922184,light_rail,0.0
+64,Fer à Cheval,1.4354601,43.5926438,light_rail,0.0
+65,Fer à Cheval,1.4354553,43.5926134,light_rail,0.0
+66,Aéroport,1.3743893,43.631332,light_rail,0.0
+67,Aéroport,1.3743666,43.6313538,light_rail,0.0
+68,Ancely,1.3969311,43.6182283,light_rail,0.0
+69,Daurat,1.3793834,43.6288606,light_rail,0.0
+70,Arènes Romaines,1.3983014,43.6141015,light_rail,0.0
+71,Daurat,1.3793754,43.6288325,light_rail,0.0
+72,Nadot,1.3865858,43.6244433,light_rail,0.0
+73,Purpan,1.4020256,43.6091124,light_rail,0.0
+74,Nadot,1.3867564,43.6244036,light_rail,0.0
+75,Ancely,1.3968926,43.6182325,light_rail,0.0
+76,Arènes Romaines,1.3983027,43.6140753,light_rail,0.0
+77,Purpan,1.4019875,43.609111,light_rail,0.0
+78,Casselardit,1.4076812,43.6031468,light_rail,0.0
+79,Arènes,1.4179282,43.5928437,light_rail,0.0
+80,Zénith,1.4094423,43.5948728,light_rail,0.0
+81,Casselardit,1.4076568,43.6031174,light_rail,0.0
+82,Cartoucherie,1.411406,43.6008658,light_rail,0.0
+83,Arènes,1.4179244,43.5928144,light_rail,0.0
+84,Cartoucherie,1.4113643,43.6008706,light_rail,0.0
+85,Zénith,1.4094088,43.5948825,light_rail,0.0
+86,Déodat de Séverac,1.4216813,43.5896483,light_rail,0.0
+87,Croix de Pierre,1.4278901,43.5856208,light_rail,0.0
+88,Déodat de Séverac,1.4216528,43.5896256,light_rail,0.0
+89,Déodat de Séverac,1.4216057,43.5896336,light_rail,0.0
+90,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,light_rail,0.0
+91,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,light_rail,0.0
+92,Croix de Pierre,1.4278747,43.5855872,light_rail,0.0
+93,Palais de Justice,1.4440732,43.5927354,light_rail,0.0
+94,Palais de Justice,1.4440516,43.5927702,light_rail,0.0
+95,Île du Ramier,1.4404078,43.5921882,light_rail,0.0
+96,Île du Ramier,1.4404187,43.5922184,light_rail,0.0
+97,Fer à Cheval,1.4354601,43.5926438,light_rail,0.0
+98,Fer à Cheval,1.4354553,43.5926134,light_rail,0.0
+99,Fontaine Lestang,1.4184089,43.5875305,None,0.0
+100,Jolimont,1.4633846,43.6152782,None,0.0
+101,Capitole,1.445382,43.6044765,None,0.0
+102,Esquirol,1.4439146,43.6001467,None,0.0
+103,Arènes,1.4185414,43.593404,None,0.0
+104,Jean Jaurès,1.4489455,43.6058533,None,0.0
+105,Mermoz,1.4152039,43.5835153,None,0.0
+106,Andromède-Lycée,1.3735958,43.6548396,None,0.0
+107,Bagatelle,1.4121307,43.5798869,None,0.0
+108,Basso Cambo,1.3922839,43.569943,None,0.0
+109,Mirail Université,1.402032,43.5745945,None,0.0
+110,Reynerie,1.4018908,43.5708457,None,0.0
+111,Bellefontaine,1.3982966,43.5660825,None,0.0
+112,Roseraie,1.4696735,43.6199318,None,0.0
+113,Saint-Cyprien République,1.4316578,43.5979948,None,0.0
+114,Marengo SNCF,1.4550373,43.6107605,None,0.0
+115,Patte d'Oie,1.4232471,43.5964459,None,0.0
+116,Argoulets,1.4768303,43.6243703,None,0.0
+117,Grand Noble,1.3774771,43.6447688,None,0.0
+118,Balma Gramont,1.4827089,43.6291183,None,0.0
+119,Odyssud - Ritouret,1.3853347,43.6362564,None,0.0
+120,Odyssud - Ritouret,1.3853341,43.6362305,None,0.0
+121,Beauzelle,1.3695259,43.6602643,None,0.0
+122,Patinoire Barradels,1.38276,43.6400747,None,0.0
+123,Patinoire Barradels,1.3819876,43.6407513,None,0.0
+124,Place Georges Brassens,1.3756173,43.6485429,None,0.0
+125,Guyenne - Berry,1.3917438,43.6308743,None,0.0
+126,Aéroconstellation,1.3625569,43.6635798,None,0.0
+127,Aéroconstellation,1.3625788,43.6634646,None,0.0
+128,Place Georges Brassens,1.3756491,43.6485505,None,0.0
+129,Andromède-Lycée,1.3735646,43.6548279,None,0.0
+130,Grand Noble,1.3774584,43.6447442,None,0.0
+131,Beauzelle,1.3694901,43.6602556,None,0.0
+132,Place du Relais,1.3900718,43.636771,None,0.0
+133,Pasteur Mairie de Blagnac,1.3913438,43.6340381,None,0.0
+134,Guyenne - Berry,1.3917091,43.6308735,None,0.0
+135,Aéroport,1.3743893,43.631332,None,0.0
+136,Aéroport,1.3743666,43.6313538,None,0.0
+137,Pasteur Mairie de Blagnac,1.3912346,43.6346092,None,0.0
+138,Place du Relais,1.3900798,43.6367417,None,0.0
+139,Ancely,1.3969311,43.6182283,None,0.0
+140,Servanty Airbus,1.3934923,43.6254903,None,0.0
+141,Servanty Airbus,1.3934578,43.6254815,None,0.0
+142,Daurat,1.3793834,43.6288606,None,0.0
+143,Arènes Romaines,1.3983014,43.6141015,None,0.0
+144,Daurat,1.3793754,43.6288325,None,0.0
+145,Nadot,1.3865858,43.6244433,None,0.0
+146,Purpan,1.4020256,43.6091124,None,0.0
+147,Nadot,1.3867564,43.6244036,None,0.0
+148,Ancely,1.3968926,43.6182325,None,0.0
+149,Arènes Romaines,1.3983027,43.6140753,None,0.0
+150,Purpan,1.4019875,43.609111,None,0.0
+151,Casselardit,1.4076812,43.6031468,None,0.0
+152,Arènes,1.4179282,43.5928437,None,0.0
+153,Zénith,1.4094423,43.5948728,None,0.0
+154,Casselardit,1.4076568,43.6031174,None,0.0
+155,Cartoucherie,1.411406,43.6008658,None,0.0
+156,Arènes,1.4179244,43.5928144,None,0.0
+157,Cartoucherie,1.4113643,43.6008706,None,0.0
+158,Zénith,1.4094088,43.5948825,None,0.0
+159,Déodat de Séverac,1.4216813,43.5896483,None,0.0
+160,Croix de Pierre,1.4278901,43.5856208,None,0.0
+161,Déodat de Séverac,1.4216528,43.5896256,None,0.0
+162,Déodat de Séverac,1.4216057,43.5896336,None,0.0
+163,Avenue de Muret-Marcel Cavaillé,1.431827,43.5893778,None,0.0
+164,Avenue de Muret-Marcel Cavaillé,1.4318767,43.5893643,None,0.0
+165,Croix de Pierre,1.4278747,43.5855872,None,0.0
+166,Palais de Justice,1.4440732,43.5927354,None,0.0
+167,Palais de Justice,1.4440516,43.5927702,None,0.0
+168,Île du Ramier,1.4404078,43.5921882,None,0.0
+169,Île du Ramier,1.4404187,43.5922184,None,0.0
+170,Fer à Cheval,1.4354601,43.5926438,None,0.0
+171,Fer à Cheval,1.4354553,43.5926134,None,0.0

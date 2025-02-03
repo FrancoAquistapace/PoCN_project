@@ -1,6 +1,6 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,5,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
-1,1,4,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
-2,2,3,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
-3,2,1,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
-4,4,5,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
+nodeID_from,nodeID_to,mode,line,year
+0,5,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
+1,4,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
+2,3,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
+2,1,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008
+4,5,commuter_rail,Cercanías Renfe - C-1 Casetas - Miraflores,2008

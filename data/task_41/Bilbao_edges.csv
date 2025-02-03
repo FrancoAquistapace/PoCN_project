@@ -1,21 +1,21 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,6,tram,Tranvía - A,2002
-1,0,5,tram,Tranvía - A,2002
-2,1,7,tram,Tranvía - A,2002
-3,2,9,tram,Tranvía - A,2003
-4,2,8,tram,Tranvía - A,2003
-5,3,10,tram,Tranvía - A,2004
-6,3,9,tram,Tranvía - A,2003
-7,4,5,tram,Tranvía - A,2002
-8,6,7,tram,Tranvía - A,2002
-9,8,1,tram,Tranvía - A,2003
-10,10,11,tram,Tranvía - A,2004
-11,11,12,tram,Tranvía - A,2012
-12,13,12,tram,Tranvía - A,2012
-13,13,3,tram,Tranvía - A,2012
-14,14,15,heavy_rail,Metro Bilbao - L3,2017
-15,15,20,heavy_rail,Metro Bilbao - L3,2017
-16,16,17,heavy_rail,Metro Bilbao - L3,2017
-17,16,19,heavy_rail,Metro Bilbao - L3,2017
-18,17,18,heavy_rail,Metro Bilbao - L3,2017
-19,19,15,heavy_rail,Metro Bilbao - L3,2017
+nodeID_from,nodeID_to,mode,line,year
+0,6,tram,Tranvía - A,2002
+0,5,tram,Tranvía - A,2002
+1,7,tram,Tranvía - A,2002
+2,9,tram,Tranvía - A,2003
+2,8,tram,Tranvía - A,2003
+3,10,tram,Tranvía - A,2004
+3,9,tram,Tranvía - A,2003
+4,5,tram,Tranvía - A,2002
+6,7,tram,Tranvía - A,2002
+8,1,tram,Tranvía - A,2003
+10,11,tram,Tranvía - A,2004
+11,12,tram,Tranvía - A,2012
+13,12,tram,Tranvía - A,2012
+13,3,tram,Tranvía - A,2012
+14,15,heavy_rail,Metro Bilbao - L3,2017
+15,20,heavy_rail,Metro Bilbao - L3,2017
+16,17,heavy_rail,Metro Bilbao - L3,2017
+16,19,heavy_rail,Metro Bilbao - L3,2017
+17,18,heavy_rail,Metro Bilbao - L3,2017
+19,15,heavy_rail,Metro Bilbao - L3,2017

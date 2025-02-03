@@ -1,7 +1,7 @@
-,nodeID,nodeLabel,latitude,longitude,mode,year
-0,0,UFR Médecine,5.9561028,47.2236646,light_rail,2014.0
-1,1,UFR Médecine,5.9560297,47.2237177,light_rail,2014.0
-2,2,UFR Médecine,5.9561028,47.2236646,light_rail,2014.0
-3,3,UFR Médecine,5.9560297,47.2237177,light_rail,2014.0
-4,4,UFR Médecine,5.9561028,47.2236646,None,2014.0
-5,5,UFR Médecine,5.9560297,47.2237177,None,2014.0
+nodeID,nodeLabel,latitude,longitude,mode,year
+0,UFR Médecine,5.9561028,47.2236646,light_rail,2014.0
+1,UFR Médecine,5.9560297,47.2237177,light_rail,2014.0
+2,UFR Médecine,5.9561028,47.2236646,light_rail,2014.0
+3,UFR Médecine,5.9560297,47.2237177,light_rail,2014.0
+4,UFR Médecine,5.9561028,47.2236646,None,2014.0
+5,UFR Médecine,5.9560297,47.2237177,None,2014.0

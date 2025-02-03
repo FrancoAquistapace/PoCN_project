@@ -1,971 +1,971 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,6,heavy_rail,Seoul Metropolitan Subway - 2,1983
-1,1,2,heavy_rail,Seoul Metropolitan Subway - 2,1980
-2,1,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
-3,2,46,heavy_rail,Seoul Metropolitan Subway - 2,1980
-4,3,25,heavy_rail,Seoul Metropolitan Subway - 2,1983
-5,3,24,heavy_rail,Seoul Metropolitan Subway - 2,1983
-6,4,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
-7,4,5,heavy_rail,Seoul Metropolitan Subway - 2,1982
-8,5,34,heavy_rail,Seoul Metropolitan Subway - 2,1982
-9,6,7,heavy_rail,Seoul Metropolitan Subway - 2,1983
-10,6,26,heavy_rail,Seoul Metropolitan Subway - 2,1983
-11,7,8,heavy_rail,Seoul Metropolitan Subway - 2,1983
-12,8,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
-13,9,10,heavy_rail,Seoul Metropolitan Subway - 2,1983
-14,9,38,heavy_rail,Seoul Metropolitan Subway - 2,1983
-15,10,39,heavy_rail,Seoul Metropolitan Subway - 2,1984
-16,11,12,heavy_rail,Seoul Metropolitan Subway - 2,1984
-17,11,20,heavy_rail,Seoul Metropolitan Subway - 2,1992
-18,12,15,heavy_rail,Seoul Metropolitan Subway - 2,1984
-19,13,14,heavy_rail,Seoul Metropolitan Subway - 2,1984
-20,13,16,heavy_rail,Seoul Metropolitan Subway - 2,1984
-21,14,23,heavy_rail,Seoul Metropolitan Subway - 2,1984
-22,15,44,heavy_rail,Seoul Metropolitan Subway - 2,1984
-23,16,49,heavy_rail,Seoul Metropolitan Subway - 2,1984
-24,17,30,heavy_rail,Seoul Metropolitan Subway - 2,1980
-25,17,47,heavy_rail,Seoul Metropolitan Subway - 2,1980
-26,18,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
-27,18,32,heavy_rail,Seoul Metropolitan Subway - 2,1980
-28,19,36,heavy_rail,Seoul Metropolitan Subway - 2,1983
-29,19,37,heavy_rail,Seoul Metropolitan Subway - 2,1983
-30,21,50,heavy_rail,Seoul Metropolitan Subway - 2,1996
-31,21,22,heavy_rail,Seoul Metropolitan Subway - 2,1996
-32,22,20,heavy_rail,Seoul Metropolitan Subway - 2,1996
-33,23,24,heavy_rail,Seoul Metropolitan Subway - 2,1984
-34,25,26,heavy_rail,Seoul Metropolitan Subway - 2,1983
-35,27,28,heavy_rail,Seoul Metropolitan Subway - 2,1983
-36,28,29,heavy_rail,Seoul Metropolitan Subway - 2,1983
-37,29,47,heavy_rail,Seoul Metropolitan Subway - 2,1983
-38,30,31,heavy_rail,Seoul Metropolitan Subway - 2,1980
-39,31,32,heavy_rail,Seoul Metropolitan Subway - 2,1980
-40,34,35,heavy_rail,Seoul Metropolitan Subway - 2,1982
-41,35,36,heavy_rail,Seoul Metropolitan Subway - 2,1982
-42,37,38,heavy_rail,Seoul Metropolitan Subway - 2,1983
-43,39,40,heavy_rail,Seoul Metropolitan Subway - 2,1984
-44,40,41,heavy_rail,Seoul Metropolitan Subway - 2,1984
-45,41,42,heavy_rail,Seoul Metropolitan Subway - 2,1984
-46,42,43,heavy_rail,Seoul Metropolitan Subway - 2,1984
-47,43,11,heavy_rail,Seoul Metropolitan Subway - 2,1984
-48,45,48,heavy_rail,Seoul Metropolitan Subway - 2,1984
-49,45,44,heavy_rail,Seoul Metropolitan Subway - 2,1984
-50,46,8,heavy_rail,Seoul Metropolitan Subway - 2,1983
-51,48,49,heavy_rail,Seoul Metropolitan Subway - 2,1984
-52,47,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
-53,26,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
-54,10,14,heavy_rail,Seoul Metropolitan Subway - 2,1984
-55,51,127,heavy_rail,Seoul Metropolitan Subway - 1,1974
-56,51,142,heavy_rail,Seoul Metropolitan Subway - 1,1974
-57,52,115,heavy_rail,Seoul Metropolitan Subway - 1,1974
-58,52,53,heavy_rail,Seoul Metropolitan Subway - 1,1974
-59,53,60,heavy_rail,Seoul Metropolitan Subway - 1,1985
-60,54,149,heavy_rail,Seoul Metropolitan Subway - 1,1974
-61,55,56,heavy_rail,Seoul Metropolitan Subway - 1,1974
-62,56,57,heavy_rail,Seoul Metropolitan Subway - 1,1974
-63,57,58,heavy_rail,Seoul Metropolitan Subway - 1,1974
-64,58,121,heavy_rail,Seoul Metropolitan Subway - 1,1974
-65,59,63,heavy_rail,Seoul Metropolitan Subway - 1,1974
-66,59,65,heavy_rail,Seoul Metropolitan Subway - 1,1974
-67,60,80,heavy_rail,Seoul Metropolitan Subway - 1,1985
-68,61,126,heavy_rail,Seoul Metropolitan Subway - 1,1974
-69,61,125,heavy_rail,Seoul Metropolitan Subway - 1,1974
-70,62,136,heavy_rail,Seoul Metropolitan Subway - 1,1974
-71,62,64,heavy_rail,Seoul Metropolitan Subway - 1,1974
-72,63,67,heavy_rail,Seoul Metropolitan Subway - 1,1974
-73,64,65,heavy_rail,Seoul Metropolitan Subway - 1,1974
-74,66,144,heavy_rail,Seoul Metropolitan Subway - 1,1974
-75,66,81,heavy_rail,Seoul Metropolitan Subway - 1,1974
-76,67,68,heavy_rail,Seoul Metropolitan Subway - 1,1974
-77,68,69,heavy_rail,Seoul Metropolitan Subway - 1,1974
-78,69,137,heavy_rail,Seoul Metropolitan Subway - 1,1974
-79,70,71,heavy_rail,Seoul Metropolitan Subway - 1,1974
-80,70,123,heavy_rail,Seoul Metropolitan Subway - 1,1974
-81,71,72,heavy_rail,Seoul Metropolitan Subway - 1,1974
-82,72,140,heavy_rail,Seoul Metropolitan Subway - 1,1974
-83,73,82,heavy_rail,Seoul Metropolitan Subway - 1,1987
-84,73,74,heavy_rail,Seoul Metropolitan Subway - 1,1986
-85,74,75,heavy_rail,Seoul Metropolitan Subway - 1,1986
-86,75,76,heavy_rail,Seoul Metropolitan Subway - 1,1986
-87,76,77,heavy_rail,Seoul Metropolitan Subway - 1,1986
-88,77,78,heavy_rail,Seoul Metropolitan Subway - 1,1986
-89,78,114,heavy_rail,Seoul Metropolitan Subway - 1,1986
-90,79,114,heavy_rail,Seoul Metropolitan Subway - 1,1985
-91,79,80,heavy_rail,Seoul Metropolitan Subway - 1,1985
-92,81,145,heavy_rail,Seoul Metropolitan Subway - 1,1974
-93,82,113,heavy_rail,Seoul Metropolitan Subway - 1,2006
-94,83,146,heavy_rail,Seoul Metropolitan Subway - 1,2003
-95,83,84,heavy_rail,Seoul Metropolitan Subway - 1,2005
-96,84,99,heavy_rail,Seoul Metropolitan Subway - 1,2010
-97,85,99,heavy_rail,Seoul Metropolitan Subway - 1,2010
-98,86,87,heavy_rail,Seoul Metropolitan Subway - 1,2005
-99,86,85,heavy_rail,Seoul Metropolitan Subway - 1,2005
-100,87,88,heavy_rail,Seoul Metropolitan Subway - 1,2005
-101,88,89,heavy_rail,Seoul Metropolitan Subway - 1,2005
-102,89,90,heavy_rail,Seoul Metropolitan Subway - 1,2005
-103,90,147,heavy_rail,Seoul Metropolitan Subway - 1,2005
-104,91,128,heavy_rail,Seoul Metropolitan Subway - 1,1974
-105,91,119,heavy_rail,Seoul Metropolitan Subway - 1,1974
-106,92,93,heavy_rail,Seoul Metropolitan Subway - 1,2023
-107,93,141,heavy_rail,Seoul Metropolitan Subway - 1,2006
-108,94,95,heavy_rail,Seoul Metropolitan Subway - 1,2005
-109,94,148,heavy_rail,Seoul Metropolitan Subway - 1,2005
-110,95,96,heavy_rail,Seoul Metropolitan Subway - 1,2005
-111,96,97,heavy_rail,Seoul Metropolitan Subway - 1,2008
-112,97,100,heavy_rail,Seoul Metropolitan Subway - 1,2008
-113,98,113,heavy_rail,Seoul Metropolitan Subway - 1,2006
-114,100,101,heavy_rail,Seoul Metropolitan Subway - 1,2008
-115,101,102,heavy_rail,Seoul Metropolitan Subway - 1,2008
-116,102,118,heavy_rail,Seoul Metropolitan Subway - 1,2008
-117,103,118,heavy_rail,Seoul Metropolitan Subway - 1,2008
-118,103,104,heavy_rail,Seoul Metropolitan Subway - 1,2008
-119,104,105,heavy_rail,Seoul Metropolitan Subway - 1,2008
-120,106,128,heavy_rail,Seoul Metropolitan Subway - 1,1974
-121,106,107,heavy_rail,Seoul Metropolitan Subway - 1,1974
-122,107,120,heavy_rail,Seoul Metropolitan Subway - 1,1974
-123,108,120,heavy_rail,Seoul Metropolitan Subway - 1,1974
-124,108,149,heavy_rail,Seoul Metropolitan Subway - 1,1974
-125,109,110,heavy_rail,Seoul Metropolitan Subway - 1,2006
-126,109,141,heavy_rail,Seoul Metropolitan Subway - 1,2006
-127,111,112,heavy_rail,Seoul Metropolitan Subway - 1,2006
-128,111,110,heavy_rail,Seoul Metropolitan Subway - 1,2006
-129,112,98,heavy_rail,Seoul Metropolitan Subway - 1,2006
-130,115,116,heavy_rail,Seoul Metropolitan Subway - 1,1974
-131,117,150,heavy_rail,Seoul Metropolitan Subway - 1,1974
-132,117,116,heavy_rail,Seoul Metropolitan Subway - 1,1974
-133,119,150,heavy_rail,Seoul Metropolitan Subway - 1,1974
-134,121,122,heavy_rail,Seoul Metropolitan Subway - 1,1974
-135,122,123,heavy_rail,Seoul Metropolitan Subway - 1,1974
-136,123,124,heavy_rail,Seoul Metropolitan Subway - 1,1974
-137,124,125,heavy_rail,Seoul Metropolitan Subway - 1,1974
-138,126,133,heavy_rail,Seoul Metropolitan Subway - 1,1974
-139,127,143,heavy_rail,Seoul Metropolitan Subway - 1,1974
-140,129,132,heavy_rail,Seoul Metropolitan Subway - 1,2023
-141,129,130,heavy_rail,Seoul Metropolitan Subway - 1,2023
-142,131,130,heavy_rail,Seoul Metropolitan Subway - 1,2023
-143,133,134,heavy_rail,Seoul Metropolitan Subway - 1,1974
-144,134,135,heavy_rail,Seoul Metropolitan Subway - 1,1974
-145,135,136,heavy_rail,Seoul Metropolitan Subway - 1,1974
-146,137,138,heavy_rail,Seoul Metropolitan Subway - 1,1974
-147,138,139,heavy_rail,Seoul Metropolitan Subway - 1,1974
-148,140,142,heavy_rail,Seoul Metropolitan Subway - 1,1974
-149,143,144,heavy_rail,Seoul Metropolitan Subway - 1,1974
-150,145,146,heavy_rail,Seoul Metropolitan Subway - 1,1974
-151,147,148,heavy_rail,Seoul Metropolitan Subway - 1,2005
-152,86,95,heavy_rail,Seoul Metropolitan Subway - 1,2005
-153,125,137,heavy_rail,Seoul Metropolitan Subway - 1,1974
-154,92,129,heavy_rail,Seoul Metropolitan Subway - 1,2023
-155,112,109,heavy_rail,Seoul Metropolitan Subway - 1,2006
-156,120,119,heavy_rail,Seoul Metropolitan Subway - 1,1974
-157,54,81,heavy_rail,Seoul Metropolitan Subway - 1,1974
-158,151,163,heavy_rail,Seoul Metropolitan Subway - 3,1990
-159,152,153,heavy_rail,Seoul Metropolitan Subway - 3,1985
-160,152,176,heavy_rail,Seoul Metropolitan Subway - 3,1985
-161,153,191,heavy_rail,Seoul Metropolitan Subway - 3,1985
-162,154,166,heavy_rail,Seoul Metropolitan Subway - 3,1985
-163,155,158,heavy_rail,Seoul Metropolitan Subway - 3,1993
-164,155,157,heavy_rail,Seoul Metropolitan Subway - 3,1985
-165,156,157,heavy_rail,Seoul Metropolitan Subway - 3,1985
-166,156,185,heavy_rail,Seoul Metropolitan Subway - 3,1985
-167,158,159,heavy_rail,Seoul Metropolitan Subway - 3,1993
-168,159,167,heavy_rail,Seoul Metropolitan Subway - 3,1993
-169,160,163,heavy_rail,Seoul Metropolitan Subway - 3,1990
-170,161,164,heavy_rail,Seoul Metropolitan Subway - 3,1996
-171,162,187,heavy_rail,Seoul Metropolitan Subway - 3,2010
-172,164,165,heavy_rail,Seoul Metropolitan Subway - 3,1996
-173,165,169,heavy_rail,Seoul Metropolitan Subway - 3,1996
-174,166,178,heavy_rail,Seoul Metropolitan Subway - 3,1985
-175,167,168,heavy_rail,Seoul Metropolitan Subway - 3,1993
-176,168,186,heavy_rail,Seoul Metropolitan Subway - 3,1993
-177,169,170,heavy_rail,Seoul Metropolitan Subway - 3,1996
-178,171,172,heavy_rail,Seoul Metropolitan Subway - 3,1996
-179,171,170,heavy_rail,Seoul Metropolitan Subway - 3,1996
-180,172,173,heavy_rail,Seoul Metropolitan Subway - 3,1996
-181,173,174,heavy_rail,Seoul Metropolitan Subway - 3,1996
-182,174,175,heavy_rail,Seoul Metropolitan Subway - 3,1996
-183,175,160,heavy_rail,Seoul Metropolitan Subway - 3,1996
-184,176,151,heavy_rail,Seoul Metropolitan Subway - 3,1990
-185,177,194,heavy_rail,Seoul Metropolitan Subway - 3,1985
-186,177,193,heavy_rail,Seoul Metropolitan Subway - 3,1985
-187,178,194,heavy_rail,Seoul Metropolitan Subway - 3,1985
-188,179,189,heavy_rail,Seoul Metropolitan Subway - 3,1985
-189,179,180,heavy_rail,Seoul Metropolitan Subway - 3,1985
-190,180,181,heavy_rail,Seoul Metropolitan Subway - 3,1985
-191,182,183,heavy_rail,Seoul Metropolitan Subway - 3,1985
-192,182,181,heavy_rail,Seoul Metropolitan Subway - 3,1985
-193,183,184,heavy_rail,Seoul Metropolitan Subway - 3,1985
-194,184,185,heavy_rail,Seoul Metropolitan Subway - 3,1985
-195,186,190,heavy_rail,Seoul Metropolitan Subway - 3,1993
-196,187,188,heavy_rail,Seoul Metropolitan Subway - 3,2010
-197,189,154,heavy_rail,Seoul Metropolitan Subway - 3,1985
-198,190,195,heavy_rail,Seoul Metropolitan Subway - 3,2010
-199,191,192,heavy_rail,Seoul Metropolitan Subway - 3,1985
-200,192,193,heavy_rail,Seoul Metropolitan Subway - 3,1985
-201,195,162,heavy_rail,Seoul Metropolitan Subway - 3,2010
-202,174,171,heavy_rail,Seoul Metropolitan Subway - 3,1996
-203,152,184,heavy_rail,Seoul Metropolitan Subway - 3,1985
-204,196,197,heavy_rail,Seoul Metropolitan Subway - 4,1985
-205,196,204,heavy_rail,Seoul Metropolitan Subway - 4,1993
-206,197,215,heavy_rail,Seoul Metropolitan Subway - 4,1985
-207,198,228,heavy_rail,Seoul Metropolitan Subway - 4,1985
-208,198,200,heavy_rail,Seoul Metropolitan Subway - 4,1985
-209,199,201,heavy_rail,Seoul Metropolitan Subway - 4,1985
-210,199,215,heavy_rail,Seoul Metropolitan Subway - 4,1985
-211,200,218,heavy_rail,Seoul Metropolitan Subway - 4,1985
-212,201,224,heavy_rail,Seoul Metropolitan Subway - 4,1985
-213,202,228,heavy_rail,Seoul Metropolitan Subway - 4,1985
-214,202,236,heavy_rail,Seoul Metropolitan Subway - 4,1985
-215,203,235,heavy_rail,Seoul Metropolitan Subway - 4,1985
-216,203,211,heavy_rail,Seoul Metropolitan Subway - 4,1994
-217,205,229,heavy_rail,Seoul Metropolitan Subway - 4,1985
-218,205,206,heavy_rail,Seoul Metropolitan Subway - 4,1985
-219,206,236,heavy_rail,Seoul Metropolitan Subway - 4,1985
-220,207,216,heavy_rail,Seoul Metropolitan Subway - 4,1994
-221,207,221,heavy_rail,Seoul Metropolitan Subway - 4,1994
-222,208,219,heavy_rail,Seoul Metropolitan Subway - 4,1994
-223,209,210,heavy_rail,Seoul Metropolitan Subway - 4,2000
-224,209,212,heavy_rail,Seoul Metropolitan Subway - 4,2000
-225,211,220,heavy_rail,Seoul Metropolitan Subway - 4,1994
-226,213,232,heavy_rail,Seoul Metropolitan Subway - 4,1994
-227,214,204,heavy_rail,Seoul Metropolitan Subway - 4,2022
-228,216,220,heavy_rail,Seoul Metropolitan Subway - 4,1994
-229,217,222,heavy_rail,Seoul Metropolitan Subway - 4,2022
-230,218,227,heavy_rail,Seoul Metropolitan Subway - 4,1985
-231,219,213,heavy_rail,Seoul Metropolitan Subway - 4,1994
-232,221,232,heavy_rail,Seoul Metropolitan Subway - 4,1994
-233,222,223,heavy_rail,Seoul Metropolitan Subway - 4,2022
-234,224,225,heavy_rail,Seoul Metropolitan Subway - 4,1985
-235,225,226,heavy_rail,Seoul Metropolitan Subway - 4,1985
-236,226,234,heavy_rail,Seoul Metropolitan Subway - 4,1985
-237,227,233,heavy_rail,Seoul Metropolitan Subway - 4,1985
-238,229,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
-239,231,235,heavy_rail,Seoul Metropolitan Subway - 4,1985
-240,231,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
-241,233,234,heavy_rail,Seoul Metropolitan Subway - 4,1985
-242,216,221,heavy_rail,Seoul Metropolitan Subway - 4,1994
-243,214,223,heavy_rail,Seoul Metropolitan Subway - 4,2022
-244,199,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
-245,237,262,heavy_rail,Seoul Metropolitan Subway - 5,2020
-246,237,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
-247,238,242,heavy_rail,Seoul Metropolitan Subway - 5,1996
-248,238,239,heavy_rail,Seoul Metropolitan Subway - 5,1996
-249,239,250,heavy_rail,Seoul Metropolitan Subway - 5,1996
-250,240,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
-251,240,258,heavy_rail,Seoul Metropolitan Subway - 5,1996
-252,241,277,heavy_rail,Seoul Metropolitan Subway - 5,1996
-253,241,276,heavy_rail,Seoul Metropolitan Subway - 5,1996
-254,242,251,heavy_rail,Seoul Metropolitan Subway - 5,1996
-255,243,268,heavy_rail,Seoul Metropolitan Subway - 5,1996
-256,243,267,heavy_rail,Seoul Metropolitan Subway - 5,1996
-257,244,243,heavy_rail,Seoul Metropolitan Subway - 5,1996
-258,244,269,heavy_rail,Seoul Metropolitan Subway - 5,1996
-259,245,246,heavy_rail,Seoul Metropolitan Subway - 5,1996
-260,246,247,heavy_rail,Seoul Metropolitan Subway - 5,1996
-261,247,248,heavy_rail,Seoul Metropolitan Subway - 5,1996
-262,248,249,heavy_rail,Seoul Metropolitan Subway - 5,1996
-263,249,250,heavy_rail,Seoul Metropolitan Subway - 5,1996
-264,251,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
-265,252,266,heavy_rail,Seoul Metropolitan Subway - 5,1996
-266,252,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
-267,253,266,heavy_rail,Seoul Metropolitan Subway - 5,1995
-268,253,279,heavy_rail,Seoul Metropolitan Subway - 5,1995
-269,254,240,heavy_rail,Seoul Metropolitan Subway - 5,1995
-270,255,275,heavy_rail,Seoul Metropolitan Subway - 5,1996
-271,255,276,heavy_rail,Seoul Metropolitan Subway - 5,1996
-272,256,259,heavy_rail,Seoul Metropolitan Subway - 5,1996
-273,256,260,heavy_rail,Seoul Metropolitan Subway - 5,1996
-274,257,267,heavy_rail,Seoul Metropolitan Subway - 5,1996
-275,259,261,heavy_rail,Seoul Metropolitan Subway - 5,1996
-276,260,289,heavy_rail,Seoul Metropolitan Subway - 5,1996
-277,261,258,heavy_rail,Seoul Metropolitan Subway - 5,1996
-278,262,287,heavy_rail,Seoul Metropolitan Subway - 5,2020
-279,263,264,heavy_rail,Seoul Metropolitan Subway - 5,2021
-280,264,288,heavy_rail,Seoul Metropolitan Subway - 5,2021
-281,265,289,heavy_rail,Seoul Metropolitan Subway - 5,1996
-282,269,270,heavy_rail,Seoul Metropolitan Subway - 5,1996
-283,270,271,heavy_rail,Seoul Metropolitan Subway - 5,1996
-284,271,291,heavy_rail,Seoul Metropolitan Subway - 5,1996
-285,272,273,heavy_rail,Seoul Metropolitan Subway - 5,1996
-286,272,291,heavy_rail,Seoul Metropolitan Subway - 5,1996
-287,273,274,heavy_rail,Seoul Metropolitan Subway - 5,1996
-288,274,275,heavy_rail,Seoul Metropolitan Subway - 5,1996
-289,277,278,heavy_rail,Seoul Metropolitan Subway - 5,1996
-290,278,245,heavy_rail,Seoul Metropolitan Subway - 5,1996
-291,279,280,heavy_rail,Seoul Metropolitan Subway - 5,1995
-292,280,281,heavy_rail,Seoul Metropolitan Subway - 5,1995
-293,281,282,heavy_rail,Seoul Metropolitan Subway - 5,1995
-294,282,283,heavy_rail,Seoul Metropolitan Subway - 5,1995
-295,283,254,heavy_rail,Seoul Metropolitan Subway - 5,1995
-296,284,285,heavy_rail,Seoul Metropolitan Subway - 5,1995
-297,284,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
-298,285,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
-299,287,288,heavy_rail,Seoul Metropolitan Subway - 5,2020
-300,285,254,heavy_rail,Seoul Metropolitan Subway - 5,1995
-301,261,260,heavy_rail,Seoul Metropolitan Subway - 5,1996
-302,245,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
-303,293,327,heavy_rail,Seoul Metropolitan Subway - 6,2000
-304,293,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
-305,294,297,heavy_rail,Seoul Metropolitan Subway - 6,2000
-306,294,331,heavy_rail,Seoul Metropolitan Subway - 6,2000
-307,295,299,heavy_rail,Seoul Metropolitan Subway - 6,2000
-308,295,298,heavy_rail,Seoul Metropolitan Subway - 6,2000
-309,296,320,heavy_rail,Seoul Metropolitan Subway - 6,2000
-310,296,298,heavy_rail,Seoul Metropolitan Subway - 6,2000
-311,297,315,heavy_rail,Seoul Metropolitan Subway - 6,2000
-312,299,300,heavy_rail,Seoul Metropolitan Subway - 6,2000
-313,300,321,heavy_rail,Seoul Metropolitan Subway - 6,2000
-314,301,315,heavy_rail,Seoul Metropolitan Subway - 6,2000
-315,301,302,heavy_rail,Seoul Metropolitan Subway - 6,2000
-316,302,303,heavy_rail,Seoul Metropolitan Subway - 6,2000
-317,303,322,heavy_rail,Seoul Metropolitan Subway - 6,2000
-318,304,330,heavy_rail,Seoul Metropolitan Subway - 6,2000
-319,304,318,heavy_rail,Seoul Metropolitan Subway - 6,2000
-320,305,319,heavy_rail,Seoul Metropolitan Subway - 6,2000
-321,305,306,heavy_rail,Seoul Metropolitan Subway - 6,2000
-322,306,318,heavy_rail,Seoul Metropolitan Subway - 6,2000
-323,307,312,heavy_rail,Seoul Metropolitan Subway - 6,2000
-324,307,308,heavy_rail,Seoul Metropolitan Subway - 6,2000
-325,308,310,heavy_rail,Seoul Metropolitan Subway - 6,2000
-326,308,311,heavy_rail,Seoul Metropolitan Subway - 6,2000
-327,309,313,heavy_rail,Seoul Metropolitan Subway - 6,2000
-328,309,310,heavy_rail,Seoul Metropolitan Subway - 6,2000
-329,310,312,heavy_rail,Seoul Metropolitan Subway - 6,2000
-330,313,316,heavy_rail,Seoul Metropolitan Subway - 6,2000
-331,314,329,heavy_rail,Seoul Metropolitan Subway - 6,2019
-332,316,317,heavy_rail,Seoul Metropolitan Subway - 6,2000
-333,317,330,heavy_rail,Seoul Metropolitan Subway - 6,2000
-334,319,320,heavy_rail,Seoul Metropolitan Subway - 6,2000
-335,321,331,heavy_rail,Seoul Metropolitan Subway - 6,2000
-336,322,323,heavy_rail,Seoul Metropolitan Subway - 6,2000
-337,323,324,heavy_rail,Seoul Metropolitan Subway - 6,2000
-338,324,325,heavy_rail,Seoul Metropolitan Subway - 6,2000
-339,325,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
-340,327,328,heavy_rail,Seoul Metropolitan Subway - 6,2000
-341,328,329,heavy_rail,Seoul Metropolitan Subway - 6,2000
-342,316,296,heavy_rail,Seoul Metropolitan Subway - 6,2000
-343,332,356,heavy_rail,Incheon Subway - Line 1,1999
-344,332,335,heavy_rail,Incheon Subway - Line 1,1999
-345,333,334,heavy_rail,Incheon Subway - Line 1,1999
-346,333,335,heavy_rail,Incheon Subway - Line 1,1999
-347,334,336,heavy_rail,Incheon Subway - Line 1,1999
-348,336,337,heavy_rail,Incheon Subway - Line 1,1999
-349,337,338,heavy_rail,Incheon Subway - Line 1,1999
-350,338,339,heavy_rail,Incheon Subway - Line 1,1999
-351,339,340,heavy_rail,Incheon Subway - Line 1,1999
-352,340,341,heavy_rail,Incheon Subway - Line 1,1999
-353,341,344,heavy_rail,Incheon Subway - Line 1,2009
-354,342,343,heavy_rail,Incheon Subway - Line 1,2007
-355,342,357,heavy_rail,Incheon Subway - Line 1,1999
-356,344,345,heavy_rail,Incheon Subway - Line 1,2009
-357,345,346,heavy_rail,Incheon Subway - Line 1,2009
-358,346,347,heavy_rail,Incheon Subway - Line 1,2009
-359,347,348,heavy_rail,Incheon Subway - Line 1,2009
-360,348,361,heavy_rail,Incheon Subway - Line 1,2020
-361,349,357,heavy_rail,Incheon Subway - Line 1,1999
-362,349,350,heavy_rail,Incheon Subway - Line 1,1999
-363,350,351,heavy_rail,Incheon Subway - Line 1,1999
-364,351,352,heavy_rail,Incheon Subway - Line 1,1999
-365,352,353,heavy_rail,Incheon Subway - Line 1,1999
-366,353,359,heavy_rail,Incheon Subway - Line 1,1999
-367,354,358,heavy_rail,Incheon Subway - Line 1,1999
-368,354,359,heavy_rail,Incheon Subway - Line 1,1999
-369,355,358,heavy_rail,Incheon Subway - Line 1,1999
-370,355,356,heavy_rail,Incheon Subway - Line 1,1999
-371,360,361,heavy_rail,Incheon Subway - Line 1,2020
-372,354,339,heavy_rail,Incheon Subway - Line 1,1999
-373,362,403,heavy_rail,Seoul Metropolitan Subway - 9,2028
-374,362,363,heavy_rail,Seoul Metropolitan Subway - 9,2028
-375,363,383,heavy_rail,Seoul Metropolitan Subway - 9,2028
-376,364,390,heavy_rail,Seoul Metropolitan Subway - 9,2009
-377,364,374,heavy_rail,Seoul Metropolitan Subway - 9,2009
-378,365,386,heavy_rail,Seoul Metropolitan Subway - 9,2009
-379,366,367,heavy_rail,Seoul Metropolitan Subway - 9,2009
-380,366,386,heavy_rail,Seoul Metropolitan Subway - 9,2009
-381,367,368,heavy_rail,Seoul Metropolitan Subway - 9,2009
-382,368,369,heavy_rail,Seoul Metropolitan Subway - 9,2009
-383,369,370,heavy_rail,Seoul Metropolitan Subway - 9,2009
-384,370,371,heavy_rail,Seoul Metropolitan Subway - 9,2009
-385,371,372,heavy_rail,Seoul Metropolitan Subway - 9,2009
-386,372,388,heavy_rail,Seoul Metropolitan Subway - 9,2009
-387,373,392,heavy_rail,Seoul Metropolitan Subway - 9,2009
-388,373,391,heavy_rail,Seoul Metropolitan Subway - 9,2009
-389,374,387,heavy_rail,Seoul Metropolitan Subway - 9,2009
-390,375,396,heavy_rail,Seoul Metropolitan Subway - 9,2015
-391,375,380,heavy_rail,Seoul Metropolitan Subway - 9,2015
-392,376,396,heavy_rail,Seoul Metropolitan Subway - 9,2009
-393,376,395,heavy_rail,Seoul Metropolitan Subway - 9,2009
-394,377,398,heavy_rail,Seoul Metropolitan Subway - 9,2018
-395,377,397,heavy_rail,Seoul Metropolitan Subway - 9,2018
-396,378,402,heavy_rail,Seoul Metropolitan Subway - 9,2018
-397,378,401,heavy_rail,Seoul Metropolitan Subway - 9,2018
-398,379,400,heavy_rail,Seoul Metropolitan Subway - 9,2018
-399,379,399,heavy_rail,Seoul Metropolitan Subway - 9,2018
-400,380,381,heavy_rail,Seoul Metropolitan Subway - 9,2015
-401,381,382,heavy_rail,Seoul Metropolitan Subway - 9,2015
-402,382,397,heavy_rail,Seoul Metropolitan Subway - 9,2015
-403,383,384,heavy_rail,Seoul Metropolitan Subway - 9,2028
-404,385,394,heavy_rail,Seoul Metropolitan Subway - 9,2009
-405,385,393,heavy_rail,Seoul Metropolitan Subway - 9,2009
-406,387,391,heavy_rail,Seoul Metropolitan Subway - 9,2009
-407,388,389,heavy_rail,Seoul Metropolitan Subway - 9,2009
-408,389,390,heavy_rail,Seoul Metropolitan Subway - 9,2009
-409,392,393,heavy_rail,Seoul Metropolitan Subway - 9,2009
-410,394,395,heavy_rail,Seoul Metropolitan Subway - 9,2009
-411,398,399,heavy_rail,Seoul Metropolitan Subway - 9,2018
-412,400,401,heavy_rail,Seoul Metropolitan Subway - 9,2018
-413,402,403,heavy_rail,Seoul Metropolitan Subway - 9,2018
-414,399,400,heavy_rail,Seoul Metropolitan Subway - 9,2018
-415,366,394,heavy_rail,Seoul Metropolitan Subway - 9,2009
-416,404,429,heavy_rail,Seoul Metropolitan Subway - 7,2027
-417,404,460,heavy_rail,Seoul Metropolitan Subway - 7,2027
-418,405,436,heavy_rail,Seoul Metropolitan Subway - 7,1996
-419,405,435,heavy_rail,Seoul Metropolitan Subway - 7,1996
-420,406,426,heavy_rail,Seoul Metropolitan Subway - 7,1996
-421,407,445,heavy_rail,Seoul Metropolitan Subway - 7,1996
-422,407,420,heavy_rail,Seoul Metropolitan Subway - 7,2000
-423,408,462,heavy_rail,Seoul Metropolitan Subway - 7,1996
-424,408,439,heavy_rail,Seoul Metropolitan Subway - 7,1996
-425,409,453,heavy_rail,Seoul Metropolitan Subway - 7,2000
-426,409,454,heavy_rail,Seoul Metropolitan Subway - 7,2000
-427,410,452,heavy_rail,Seoul Metropolitan Subway - 7,2000
-428,410,451,heavy_rail,Seoul Metropolitan Subway - 7,2000
-429,411,412,heavy_rail,Seoul Metropolitan Subway - 7,2000
-430,412,413,heavy_rail,Seoul Metropolitan Subway - 7,2000
-431,413,414,heavy_rail,Seoul Metropolitan Subway - 7,2000
-432,414,415,heavy_rail,Seoul Metropolitan Subway - 7,2000
-433,415,464,heavy_rail,Seoul Metropolitan Subway - 7,2000
-434,416,419,heavy_rail,Seoul Metropolitan Subway - 7,2000
-435,416,464,heavy_rail,Seoul Metropolitan Subway - 7,2000
-436,417,459,heavy_rail,Seoul Metropolitan Subway - 7,2012
-437,417,418,heavy_rail,Seoul Metropolitan Subway - 7,2012
-438,418,422,heavy_rail,Seoul Metropolitan Subway - 7,2012
-439,419,446,heavy_rail,Seoul Metropolitan Subway - 7,2000
-440,421,452,heavy_rail,Seoul Metropolitan Subway - 7,2000
-441,421,453,heavy_rail,Seoul Metropolitan Subway - 7,2000
-442,422,423,heavy_rail,Seoul Metropolitan Subway - 7,2021
-443,424,456,heavy_rail,Seoul Metropolitan Subway - 7,2012
-444,424,457,heavy_rail,Seoul Metropolitan Subway - 7,2012
-445,425,432,heavy_rail,Seoul Metropolitan Subway - 7,2025
-446,426,434,heavy_rail,Seoul Metropolitan Subway - 7,1996
-447,427,428,heavy_rail,Seoul Metropolitan Subway - 7,2027
-448,427,461,heavy_rail,Seoul Metropolitan Subway - 7,2027
-449,428,430,heavy_rail,Seoul Metropolitan Subway - 7,2027
-450,429,430,heavy_rail,Seoul Metropolitan Subway - 7,2027
-451,431,454,heavy_rail,Seoul Metropolitan Subway - 7,2000
-452,431,455,heavy_rail,Seoul Metropolitan Subway - 7,2012
-453,432,406,heavy_rail,Seoul Metropolitan Subway - 7,2025
-454,433,444,heavy_rail,Seoul Metropolitan Subway - 7,1996
-455,433,445,heavy_rail,Seoul Metropolitan Subway - 7,1996
-456,434,435,heavy_rail,Seoul Metropolitan Subway - 7,1996
-457,436,437,heavy_rail,Seoul Metropolitan Subway - 7,1996
-458,437,438,heavy_rail,Seoul Metropolitan Subway - 7,1996
-459,438,462,heavy_rail,Seoul Metropolitan Subway - 7,1996
-460,439,440,heavy_rail,Seoul Metropolitan Subway - 7,1996
-461,440,441,heavy_rail,Seoul Metropolitan Subway - 7,1996
-462,441,442,heavy_rail,Seoul Metropolitan Subway - 7,1996
-463,442,443,heavy_rail,Seoul Metropolitan Subway - 7,1996
-464,443,444,heavy_rail,Seoul Metropolitan Subway - 7,1996
-465,446,463,heavy_rail,Seoul Metropolitan Subway - 7,2000
-466,447,448,heavy_rail,Seoul Metropolitan Subway - 7,2000
-467,447,463,heavy_rail,Seoul Metropolitan Subway - 7,2000
-468,448,449,heavy_rail,Seoul Metropolitan Subway - 7,2000
-469,449,450,heavy_rail,Seoul Metropolitan Subway - 7,2000
-470,450,451,heavy_rail,Seoul Metropolitan Subway - 7,2000
-471,455,456,heavy_rail,Seoul Metropolitan Subway - 7,2012
-472,457,458,heavy_rail,Seoul Metropolitan Subway - 7,2012
-473,458,459,heavy_rail,Seoul Metropolitan Subway - 7,2012
-474,456,417,heavy_rail,Seoul Metropolitan Subway - 7,2012
-475,435,433,heavy_rail,Seoul Metropolitan Subway - 7,1996
-476,423,460,heavy_rail,Seoul Metropolitan Subway - 7,2021
-477,449,420,heavy_rail,Seoul Metropolitan Subway - 7,2000
-478,465,467,heavy_rail,Seoul Metropolitan Subway - 8,1999
-479,465,469,heavy_rail,Seoul Metropolitan Subway - 8,1999
-480,466,483,heavy_rail,Seoul Metropolitan Subway - 8,1996
-481,466,482,heavy_rail,Seoul Metropolitan Subway - 8,1996
-482,467,468,heavy_rail,Seoul Metropolitan Subway - 8,2023
-483,468,472,heavy_rail,Seoul Metropolitan Subway - 8,2023
-484,469,476,heavy_rail,Seoul Metropolitan Subway - 8,1999
-485,470,471,heavy_rail,Seoul Metropolitan Subway - 8,2023
-486,470,473,heavy_rail,Seoul Metropolitan Subway - 8,2023
-487,471,474,heavy_rail,Seoul Metropolitan Subway - 8,2023
-488,475,474,heavy_rail,Seoul Metropolitan Subway - 8,2023
-489,476,487,heavy_rail,Seoul Metropolitan Subway - 8,1999
-490,477,487,heavy_rail,Seoul Metropolitan Subway - 8,1996
-491,477,478,heavy_rail,Seoul Metropolitan Subway - 8,1996
-492,478,479,heavy_rail,Seoul Metropolitan Subway - 8,1996
-493,479,480,heavy_rail,Seoul Metropolitan Subway - 8,1996
-494,480,481,heavy_rail,Seoul Metropolitan Subway - 8,1996
-495,483,484,heavy_rail,Seoul Metropolitan Subway - 8,1996
-496,484,485,heavy_rail,Seoul Metropolitan Subway - 8,1996
-497,485,486,heavy_rail,Seoul Metropolitan Subway - 8,1996
-498,485,481,heavy_rail,Seoul Metropolitan Subway - 8,1996
-499,472,471,heavy_rail,Seoul Metropolitan Subway - 8,2023
-500,488,490,commuter_rail,Korail - AREX,2010
-501,489,494,commuter_rail,Korail - AREX,2010
-502,489,495,commuter_rail,Korail - AREX,2007
-503,490,493,commuter_rail,Korail - AREX,2010
-504,491,493,commuter_rail,Korail - AREX,2010
-505,492,496,commuter_rail,Korail - AREX,2007
-506,492,498,commuter_rail,Korail - AREX,2007
-507,494,491,commuter_rail,Korail - AREX,2010
-508,495,496,commuter_rail,Korail - AREX,2007
-509,497,501,commuter_rail,Korail - AREX,2018
-510,498,499,commuter_rail,Korail - AREX,2007
-511,499,500,commuter_rail,Korail - AREX,2007
-512,500,501,commuter_rail,Korail - AREX,2018
-513,499,496,commuter_rail,Korail - AREX,2007
-514,502,516,commuter_rail,Others - Seohae Line,2023
-515,502,503,commuter_rail,Others - Seohae Line,2018
-516,503,504,commuter_rail,Others - Seohae Line,2018
-517,504,505,commuter_rail,Others - Seohae Line,2018
-518,505,506,commuter_rail,Others - Seohae Line,2018
-519,506,507,commuter_rail,Others - Seohae Line,2018
-520,507,508,commuter_rail,Others - Seohae Line,2018
-521,508,509,commuter_rail,Others - Seohae Line,2018
-522,509,510,commuter_rail,Others - Seohae Line,2018
-523,510,511,commuter_rail,Others - Seohae Line,2018
-524,511,512,commuter_rail,Others - Seohae Line,2018
-525,513,514,commuter_rail,Others - Seohae Line,2023
-526,514,515,commuter_rail,Others - Seohae Line,2023
-527,515,516,commuter_rail,Others - Seohae Line,2023
-528,517,519,commuter_rail,Korail - Ilsan Line,1996
-529,518,527,commuter_rail,Korail - Ilsan Line,1996
-530,519,520,commuter_rail,Korail - Ilsan Line,1996
-531,520,521,commuter_rail,Korail - Ilsan Line,1996
-532,521,522,commuter_rail,Korail - Ilsan Line,1996
-533,523,524,commuter_rail,Korail - Ilsan Line,1996
-534,523,522,commuter_rail,Korail - Ilsan Line,1996
-535,524,525,commuter_rail,Korail - Ilsan Line,1996
-536,525,526,commuter_rail,Korail - Ilsan Line,1996
-537,526,527,commuter_rail,Korail - Ilsan Line,1996
-538,526,523,commuter_rail,Korail - Ilsan Line,1996
-539,528,543,commuter_rail,Korail - Gyeongchun Line,2006
-540,529,531,commuter_rail,Korail - Gyeongchun Line,2011
-541,529,532,commuter_rail,Korail - Gyeongchun Line,2011
-542,530,544,commuter_rail,Korail - Gyeongchun Line,2011
-543,530,534,commuter_rail,Korail - Gyeongchun Line,2011
-544,531,534,commuter_rail,Korail - Gyeongchun Line,2011
-545,533,532,commuter_rail,Korail - Gyeongchun Line,2011
-546,533,546,commuter_rail,Korail - Gyeongchun Line,2011
-547,535,536,commuter_rail,Korail - Gyeongchun Line,2011
-548,535,552,commuter_rail,Korail - Gyeongchun Line,2011
-549,536,537,commuter_rail,Korail - Gyeongchun Line,2011
-550,537,538,commuter_rail,Korail - Gyeongchun Line,2011
-551,538,539,commuter_rail,Korail - Gyeongchun Line,2011
-552,539,540,commuter_rail,Korail - Gyeongchun Line,2011
-553,540,541,commuter_rail,Korail - Gyeongchun Line,2011
-554,542,544,commuter_rail,Korail - Gyeongchun Line,2014
-555,543,545,commuter_rail,Korail - Gyeongchun Line,2006
-556,545,544,commuter_rail,Korail - Gyeongchun Line,2011
-557,546,547,commuter_rail,Korail - Gyeongchun Line,2011
-558,547,548,commuter_rail,Korail - Gyeongchun Line,2011
-559,548,549,commuter_rail,Korail - Gyeongchun Line,2011
-560,550,551,commuter_rail,Korail - Gyeongchun Line,2011
-561,550,549,commuter_rail,Korail - Gyeongchun Line,2011
-562,551,552,commuter_rail,Korail - Gyeongchun Line,2011
-563,531,532,commuter_rail,Korail - Gyeongchun Line,2011
-564,550,539,commuter_rail,Korail - Gyeongchun Line,2011
-565,553,574,commuter_rail,Korail - Suin Line,2012
-566,553,554,commuter_rail,Korail - Suin Line,2012
-567,554,555,commuter_rail,Korail - Suin Line,2012
-568,555,556,commuter_rail,Korail - Suin Line,2012
-569,556,557,commuter_rail,Korail - Suin Line,2012
-570,557,558,commuter_rail,Korail - Suin Line,2012
-571,558,559,commuter_rail,Korail - Suin Line,2012
-572,560,565,commuter_rail,Korail - Suin Line,2016
-573,561,565,commuter_rail,Korail - Suin Line,2016
-574,561,562,commuter_rail,Korail - Suin Line,2016
-575,562,563,commuter_rail,Korail - Suin Line,2016
-576,563,564,commuter_rail,Korail - Suin Line,2016
-577,566,567,commuter_rail,Korail - Suin Line,2000
-578,566,568,commuter_rail,Korail - Suin Line,2000
-579,567,574,commuter_rail,Korail - Suin Line,2012
-580,568,573,commuter_rail,Korail - Suin Line,2020
-581,569,570,commuter_rail,Korail - Suin Line,2020
-582,570,571,commuter_rail,Korail - Suin Line,2020
-583,571,572,commuter_rail,Korail - Suin Line,2020
-584,572,573,commuter_rail,Korail - Suin Line,2020
-585,559,560,commuter_rail,Korail - Suin Line,2012
-586,575,576,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-587,575,594,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-588,577,593,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-589,578,593,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-590,578,579,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-591,579,580,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-592,580,581,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-593,581,582,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-594,582,583,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-595,583,584,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-596,584,585,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-597,585,586,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-598,586,587,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-599,587,588,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-600,588,589,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-601,589,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-602,590,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-603,590,592,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-604,592,624,commuter_rail,Korail - Gyeongui-Jungang Line,2020
-605,594,629,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-606,595,626,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-607,595,601,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-608,596,625,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-609,597,595,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-610,598,624,commuter_rail,Korail - Gyeongui-Jungang Line,2022
-611,598,599,commuter_rail,Korail - Gyeongui-Jungang Line,2022
-612,600,615,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-613,600,628,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-614,601,602,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-615,602,603,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-616,603,627,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-617,604,614,commuter_rail,Korail - Gyeongui-Jungang Line,2006
-618,604,622,commuter_rail,Korail - Gyeongui-Jungang Line,2006
-619,605,616,commuter_rail,Korail - Gyeongui-Jungang Line,2017
-620,605,611,commuter_rail,Korail - Gyeongui-Jungang Line,2010
-621,606,616,commuter_rail,Korail - Gyeongui-Jungang Line,2017
-622,607,608,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-623,607,613,commuter_rail,Korail - Gyeongui-Jungang Line,2010
-624,608,609,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-625,609,610,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-626,610,617,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-627,611,612,commuter_rail,Korail - Gyeongui-Jungang Line,2010
-628,612,613,commuter_rail,Korail - Gyeongui-Jungang Line,2010
-629,614,623,commuter_rail,Korail - Gyeongui-Jungang Line,2006
-630,617,618,commuter_rail,Korail - Gyeongui-Jungang Line,2008
-631,618,619,commuter_rail,Korail - Gyeongui-Jungang Line,2008
-632,619,620,commuter_rail,Korail - Gyeongui-Jungang Line,2008
-633,620,621,commuter_rail,Korail - Gyeongui-Jungang Line,2006
-634,621,622,commuter_rail,Korail - Gyeongui-Jungang Line,2006
-635,625,629,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-636,626,596,commuter_rail,Korail - Gyeongui-Jungang Line,2013
-637,627,628,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-638,576,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
-639,630,631,commuter_rail,Korail - Gyeonggang Line,2016
-640,631,632,commuter_rail,Korail - Gyeonggang Line,2016
-641,632,633,commuter_rail,Korail - Gyeonggang Line,2016
-642,633,634,commuter_rail,Korail - Gyeonggang Line,2016
-643,634,635,commuter_rail,Korail - Gyeonggang Line,2016
-644,635,636,commuter_rail,Korail - Gyeonggang Line,2016
-645,636,637,commuter_rail,Korail - Gyeonggang Line,2016
-646,637,638,commuter_rail,Korail - Gyeonggang Line,2016
-647,638,639,commuter_rail,Korail - Gyeonggang Line,2016
-648,639,640,commuter_rail,Korail - Gyeonggang Line,2016
-649,641,669,commuter_rail,Korail - Bundang Line,2003
-650,641,675,commuter_rail,Korail - Bundang Line,2003
-651,642,643,commuter_rail,Korail - Bundang Line,1994
-652,643,646,commuter_rail,Korail - Bundang Line,1994
-653,644,645,commuter_rail,Korail - Bundang Line,1994
-654,644,646,commuter_rail,Korail - Bundang Line,1994
-655,645,647,commuter_rail,Korail - Bundang Line,1994
-656,647,648,commuter_rail,Korail - Bundang Line,1994
-657,648,676,commuter_rail,Korail - Bundang Line,1994
-658,649,677,commuter_rail,Korail - Bundang Line,1994
-659,649,660,commuter_rail,Korail - Bundang Line,2004
-660,650,653,commuter_rail,Korail - Bundang Line,2003
-661,650,651,commuter_rail,Korail - Bundang Line,2003
-662,651,669,commuter_rail,Korail - Bundang Line,2003
-663,652,653,commuter_rail,Korail - Bundang Line,2003
-664,652,674,commuter_rail,Korail - Bundang Line,2003
-665,654,655,commuter_rail,Korail - Bundang Line,2012
-666,654,656,commuter_rail,Korail - Bundang Line,2012
-667,655,674,commuter_rail,Korail - Bundang Line,2012
-668,656,657,commuter_rail,Korail - Bundang Line,2012
-669,657,658,commuter_rail,Korail - Bundang Line,2012
-670,658,672,commuter_rail,Korail - Bundang Line,2019
-671,659,660,commuter_rail,Korail - Bundang Line,2011
-672,659,663,commuter_rail,Korail - Bundang Line,2011
-673,661,662,commuter_rail,Korail - Bundang Line,2012
-674,661,664,commuter_rail,Korail - Bundang Line,2012
-675,662,663,commuter_rail,Korail - Bundang Line,2011
-676,665,668,commuter_rail,Korail - Bundang Line,2013
-677,665,666,commuter_rail,Korail - Bundang Line,2013
-678,666,667,commuter_rail,Korail - Bundang Line,2012
-679,667,671,commuter_rail,Korail - Bundang Line,2012
-680,668,670,commuter_rail,Korail - Bundang Line,2013
-681,670,673,commuter_rail,Korail - Bundang Line,2013
-682,675,642,commuter_rail,Korail - Bundang Line,1994
-683,676,677,commuter_rail,Korail - Bundang Line,1994
-684,642,676,commuter_rail,Korail - Bundang Line,1994
-685,664,671,commuter_rail,Korail - Bundang Line,2012
-686,651,653,commuter_rail,Korail - Bundang Line,2003
-687,678,682,commuter_rail,Korail - Ansan Line,2000
-688,678,681,commuter_rail,Korail - Ansan Line,2000
-689,679,680,commuter_rail,Korail - Ansan Line,2000
-690,679,681,commuter_rail,Korail - Ansan Line,2000
-691,683,686,commuter_rail,Korail - Gwacheon Line,1994
-692,683,689,commuter_rail,Korail - Gwacheon Line,1994
-693,684,688,commuter_rail,Korail - Gwacheon Line,1994
-694,685,690,commuter_rail,Korail - Gwacheon Line,1994
-695,686,688,commuter_rail,Korail - Gwacheon Line,1994
-696,687,685,commuter_rail,Korail - Gwacheon Line,1994
-697,689,690,commuter_rail,Korail - Gwacheon Line,1994
-698,686,689,commuter_rail,Korail - Gwacheon Line,1994
-699,691,718,commuter_rail,Korail - Gyeongbu Line,1974
-700,691,720,commuter_rail,Korail - Gyeongbu Line,1974
-701,692,717,commuter_rail,Korail - Gyeongbu Line,1974
-702,693,694,commuter_rail,Korail - Gyeongbu Line,1974
-703,694,695,commuter_rail,Korail - Gyeongbu Line,1974
-704,695,696,commuter_rail,Korail - Gyeongbu Line,1974
-705,696,715,commuter_rail,Korail - Gyeongbu Line,1974
-706,697,722,commuter_rail,Korail - Gyeongbu Line,1974
-707,697,701,commuter_rail,Korail - Gyeongbu Line,1974
-708,698,699,commuter_rail,Korail - Gyeongbu Line,1974
-709,698,716,commuter_rail,Korail - Gyeongbu Line,1974
-710,699,700,commuter_rail,Korail - Gyeongbu Line,1974
-711,700,719,commuter_rail,Korail - Gyeongbu Line,1974
-712,701,723,commuter_rail,Korail - Gyeongbu Line,1974
-713,702,724,commuter_rail,Korail - Gyeongbu Line,2003
-714,702,703,commuter_rail,Korail - Gyeongbu Line,2005
-715,703,714,commuter_rail,Korail - Gyeongbu Line,2005
-716,704,714,commuter_rail,Korail - Gyeongbu Line,2005
-717,705,706,commuter_rail,Korail - Gyeongbu Line,2005
-718,705,704,commuter_rail,Korail - Gyeongbu Line,2005
-719,706,707,commuter_rail,Korail - Gyeongbu Line,2005
-720,707,708,commuter_rail,Korail - Gyeongbu Line,2005
-721,708,709,commuter_rail,Korail - Gyeongbu Line,2005
-722,709,725,commuter_rail,Korail - Gyeongbu Line,2005
-723,710,711,commuter_rail,Korail - Gyeongbu Line,2005
-724,710,726,commuter_rail,Korail - Gyeongbu Line,2005
-725,711,712,commuter_rail,Korail - Gyeongbu Line,2005
-726,712,713,commuter_rail,Korail - Gyeongbu Line,2005
-727,715,716,commuter_rail,Korail - Gyeongbu Line,1974
-728,717,693,commuter_rail,Korail - Gyeongbu Line,1974
-729,718,721,commuter_rail,Korail - Gyeongbu Line,1974
-730,719,720,commuter_rail,Korail - Gyeongbu Line,1974
-731,721,722,commuter_rail,Korail - Gyeongbu Line,1974
-732,723,724,commuter_rail,Korail - Gyeongbu Line,1974
-733,725,726,commuter_rail,Korail - Gyeongbu Line,2005
-734,705,711,commuter_rail,Korail - Gyeongbu Line,2005
-735,693,701,commuter_rail,Korail - Gyeongbu Line,1974
-736,727,730,commuter_rail,Korail - Gyeongin Line,1974
-737,727,732,commuter_rail,Korail - Gyeongin Line,1974
-738,728,740,commuter_rail,Korail - Gyeongin Line,1974
-739,728,739,commuter_rail,Korail - Gyeongin Line,1974
-740,729,744,commuter_rail,Korail - Gyeongin Line,1974
-741,729,731,commuter_rail,Korail - Gyeongin Line,1974
-742,730,733,commuter_rail,Korail - Gyeongin Line,1974
-743,731,732,commuter_rail,Korail - Gyeongin Line,1974
-744,733,734,commuter_rail,Korail - Gyeongin Line,1974
-745,734,735,commuter_rail,Korail - Gyeongin Line,1974
-746,735,745,commuter_rail,Korail - Gyeongin Line,1974
-747,736,737,commuter_rail,Korail - Gyeongin Line,1974
-748,737,738,commuter_rail,Korail - Gyeongin Line,1974
-749,738,739,commuter_rail,Korail - Gyeongin Line,1974
-750,740,741,commuter_rail,Korail - Gyeongin Line,1974
-751,741,742,commuter_rail,Korail - Gyeongin Line,1974
-752,742,743,commuter_rail,Korail - Gyeongin Line,1974
-753,743,744,commuter_rail,Korail - Gyeongin Line,1974
-754,745,746,commuter_rail,Korail - Gyeongin Line,1974
-755,746,747,commuter_rail,Korail - Gyeongin Line,1974
-756,739,745,commuter_rail,Korail - Gyeongin Line,1974
-757,748,769,commuter_rail,Korail - Gyeongwon Line,1974
-758,748,749,commuter_rail,Korail - Gyeongwon Line,1974
-759,749,750,commuter_rail,Korail - Gyeongwon Line,1985
-760,750,758,commuter_rail,Korail - Gyeongwon Line,1985
-761,751,759,commuter_rail,Korail - Gyeongwon Line,1987
-762,751,752,commuter_rail,Korail - Gyeongwon Line,1986
-763,752,753,commuter_rail,Korail - Gyeongwon Line,1986
-764,753,754,commuter_rail,Korail - Gyeongwon Line,1986
-765,754,755,commuter_rail,Korail - Gyeongwon Line,1986
-766,755,756,commuter_rail,Korail - Gyeongwon Line,1986
-767,756,768,commuter_rail,Korail - Gyeongwon Line,1986
-768,757,768,commuter_rail,Korail - Gyeongwon Line,1985
-769,757,758,commuter_rail,Korail - Gyeongwon Line,1985
-770,759,767,commuter_rail,Korail - Gyeongwon Line,2006
-771,760,761,commuter_rail,Korail - Gyeongwon Line,2023
-772,761,775,commuter_rail,Korail - Gyeongwon Line,2006
-773,762,767,commuter_rail,Korail - Gyeongwon Line,2006
-774,763,764,commuter_rail,Korail - Gyeongwon Line,2006
-775,763,775,commuter_rail,Korail - Gyeongwon Line,2006
-776,765,766,commuter_rail,Korail - Gyeongwon Line,2006
-777,765,764,commuter_rail,Korail - Gyeongwon Line,2006
-778,766,762,commuter_rail,Korail - Gyeongwon Line,2006
-779,769,770,commuter_rail,Korail - Gyeongwon Line,1974
-780,771,774,commuter_rail,Korail - Gyeongwon Line,2023
-781,771,772,commuter_rail,Korail - Gyeongwon Line,2023
-782,773,772,commuter_rail,Korail - Gyeongwon Line,2023
-783,760,771,commuter_rail,Korail - Gyeongwon Line,2023
-784,766,763,commuter_rail,Korail - Gyeongwon Line,2006
-785,776,777,commuter_rail,Korail - Janghang Line,2008
-786,777,778,commuter_rail,Korail - Janghang Line,2008
-787,778,782,commuter_rail,Korail - Janghang Line,2008
-788,779,782,commuter_rail,Korail - Janghang Line,2008
-789,779,780,commuter_rail,Korail - Janghang Line,2008
-790,780,781,commuter_rail,Korail - Janghang Line,2008
-791,783,784,commuter_rail,Korail - Mangu Line,2014
-792,785,791,commuter_rail,Others - Shinbundang Line,2022
-793,786,787,commuter_rail,Others - Shinbundang Line,2011
-794,786,785,commuter_rail,Others - Shinbundang Line,2022
-795,787,793,commuter_rail,Others - Shinbundang Line,2011
-796,788,792,commuter_rail,Others - Shinbundang Line,2022
-797,789,796,commuter_rail,Others - Shinbundang Line,2016
-798,789,790,commuter_rail,Others - Shinbundang Line,2016
-799,790,797,commuter_rail,Others - Shinbundang Line,2016
-800,791,792,commuter_rail,Others - Shinbundang Line,2022
-801,794,795,commuter_rail,Others - Shinbundang Line,2016
-802,795,796,commuter_rail,Others - Shinbundang Line,2016
-803,797,798,commuter_rail,Others - Shinbundang Line,2016
-804,798,799,commuter_rail,Others - Shinbundang Line,2016
-805,799,800,commuter_rail,Others - Shinbundang Line,2016
-806,793,794,commuter_rail,Others - Shinbundang Line,2011
-807,801,816,commuter_rail,Korail - Jungang Line,1979
-808,801,826,commuter_rail,Korail - Jungang Line,1979
-809,802,803,commuter_rail,Korail - Jungang Line,1979
-810,803,804,commuter_rail,Korail - Jungang Line,1979
-811,804,825,commuter_rail,Korail - Jungang Line,1979
-812,805,815,commuter_rail,Korail - Jungang Line,2006
-813,805,823,commuter_rail,Korail - Jungang Line,2006
-814,806,817,commuter_rail,Korail - Jungang Line,2017
-815,806,812,commuter_rail,Korail - Jungang Line,2010
-816,807,817,commuter_rail,Korail - Jungang Line,2017
-817,808,809,commuter_rail,Korail - Jungang Line,2009
-818,808,814,commuter_rail,Korail - Jungang Line,2010
-819,809,810,commuter_rail,Korail - Jungang Line,2009
-820,810,811,commuter_rail,Korail - Jungang Line,2009
-821,811,818,commuter_rail,Korail - Jungang Line,2009
-822,812,813,commuter_rail,Korail - Jungang Line,2010
-823,813,814,commuter_rail,Korail - Jungang Line,2010
-824,815,824,commuter_rail,Korail - Jungang Line,2006
-825,818,819,commuter_rail,Korail - Jungang Line,2008
-826,819,820,commuter_rail,Korail - Jungang Line,2008
-827,820,821,commuter_rail,Korail - Jungang Line,2008
-828,821,822,commuter_rail,Korail - Jungang Line,2006
-829,822,823,commuter_rail,Korail - Jungang Line,2006
-830,825,826,commuter_rail,Korail - Jungang Line,1979
-831,827,828,commuter_rail,Korail - Gyeongui Line,2013
-832,827,846,commuter_rail,Korail - Gyeongui Line,2013
-833,829,845,commuter_rail,Korail - Gyeongui Line,2009
-834,830,845,commuter_rail,Korail - Gyeongui Line,2009
-835,830,831,commuter_rail,Korail - Gyeongui Line,2009
-836,831,832,commuter_rail,Korail - Gyeongui Line,2009
-837,832,833,commuter_rail,Korail - Gyeongui Line,2009
-838,833,834,commuter_rail,Korail - Gyeongui Line,2009
-839,834,835,commuter_rail,Korail - Gyeongui Line,2009
-840,835,836,commuter_rail,Korail - Gyeongui Line,2009
-841,836,837,commuter_rail,Korail - Gyeongui Line,2009
-842,837,838,commuter_rail,Korail - Gyeongui Line,2009
-843,838,839,commuter_rail,Korail - Gyeongui Line,2009
-844,839,840,commuter_rail,Korail - Gyeongui Line,2009
-845,840,841,commuter_rail,Korail - Gyeongui Line,2009
-846,841,843,commuter_rail,Korail - Gyeongui Line,2009
-847,842,843,commuter_rail,Korail - Gyeongui Line,2009
-848,842,844,commuter_rail,Korail - Gyeongui Line,2009
-849,844,853,commuter_rail,Korail - Gyeongui Line,2020
-850,846,856,commuter_rail,Korail - Gyeongui Line,2013
-851,847,855,commuter_rail,Korail - Gyeongui Line,2015
-852,847,849,commuter_rail,Korail - Gyeongui Line,2015
-853,848,854,commuter_rail,Korail - Gyeongui Line,2013
-854,850,847,commuter_rail,Korail - Gyeongui Line,2015
-855,851,853,commuter_rail,Korail - Gyeongui Line,2022
-856,851,852,commuter_rail,Korail - Gyeongui Line,2022
-857,854,856,commuter_rail,Korail - Gyeongui Line,2013
-858,855,848,commuter_rail,Korail - Gyeongui Line,2013
-859,828,843,commuter_rail,Korail - Gyeongui Line,2009
-860,857,860,commuter_rail,Korail - Sin-Ansan Line,2024
-861,858,859,commuter_rail,Korail - Sin-Ansan Line,2024
-862,858,860,commuter_rail,Korail - Sin-Ansan Line,2024
-863,859,864,commuter_rail,Korail - Sin-Ansan Line,2024
-864,861,864,commuter_rail,Korail - Sin-Ansan Line,2024
-865,861,866,commuter_rail,Korail - Sin-Ansan Line,2024
-866,862,866,commuter_rail,Korail - Sin-Ansan Line,2024
-867,862,863,commuter_rail,Korail - Sin-Ansan Line,2024
-868,865,863,commuter_rail,Korail - Sin-Ansan Line,2024
-869,858,862,commuter_rail,Korail - Sin-Ansan Line,2024
-870,867,868,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-871,868,869,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-872,869,870,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-873,870,871,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-874,871,872,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-875,872,873,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-876,873,874,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-877,875,874,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-878,875,876,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-879,876,877,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-880,877,879,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-881,878,879,light_rail,Seoul Light Rail Transit - Ui LRT,2017
-882,880,886,light_rail,Others - Gimpo Goldline,2019
-883,880,881,light_rail,Others - Gimpo Goldline,2019
-884,881,882,light_rail,Others - Gimpo Goldline,2019
-885,882,887,light_rail,Others - Gimpo Goldline,2019
-886,883,889,light_rail,Others - Gimpo Goldline,2019
-887,883,888,light_rail,Others - Gimpo Goldline,2019
-888,884,889,light_rail,Others - Gimpo Goldline,2019
-889,884,885,light_rail,Others - Gimpo Goldline,2019
-890,887,888,light_rail,Others - Gimpo Goldline,2019
-891,888,889,light_rail,Others - Gimpo Goldline,2019
-892,890,895,light_rail,Incheon Subway - Line 2,2016
-893,890,892,light_rail,Incheon Subway - Line 2,2016
-894,891,894,light_rail,Incheon Subway - Line 2,2016
-895,891,895,light_rail,Incheon Subway - Line 2,2016
-896,893,894,light_rail,Incheon Subway - Line 2,2016
-897,896,902,light_rail,Incheon Subway - Line 2,2016
-898,896,893,light_rail,Incheon Subway - Line 2,2016
-899,897,903,light_rail,Incheon Subway - Line 2,2016
-900,897,906,light_rail,Incheon Subway - Line 2,2016
-901,898,899,light_rail,Incheon Subway - Line 2,2016
-902,898,903,light_rail,Incheon Subway - Line 2,2016
-903,900,901,light_rail,Incheon Subway - Line 2,2016
-904,901,902,light_rail,Incheon Subway - Line 2,2016
-905,904,906,light_rail,Incheon Subway - Line 2,2016
-906,904,905,light_rail,Incheon Subway - Line 2,2016
-907,905,913,light_rail,Incheon Subway - Line 2,2016
-908,907,914,light_rail,Incheon Subway - Line 2,2016
-909,907,908,light_rail,Incheon Subway - Line 2,2016
-910,908,909,light_rail,Incheon Subway - Line 2,2016
-911,909,910,light_rail,Incheon Subway - Line 2,2016
-912,910,911,light_rail,Incheon Subway - Line 2,2016
-913,911,912,light_rail,Incheon Subway - Line 2,2016
-914,912,913,light_rail,Incheon Subway - Line 2,2016
-915,914,916,light_rail,Incheon Subway - Line 2,2016
-916,915,916,light_rail,Incheon Subway - Line 2,2016
-917,891,914,light_rail,Incheon Subway - Line 2,2016
-918,917,918,light_rail,Others - U Line,2012
-919,917,926,light_rail,Others - U Line,2012
-920,918,927,light_rail,Others - U Line,2012
-921,919,925,light_rail,Others - U Line,2012
-922,920,921,light_rail,Others - U Line,2012
-923,920,932,light_rail,Others - U Line,2012
-924,921,928,light_rail,Others - U Line,2012
-925,922,932,light_rail,Others - U Line,2012
-926,922,931,light_rail,Others - U Line,2012
-927,923,924,light_rail,Others - U Line,2012
-928,923,929,light_rail,Others - U Line,2012
-929,924,930,light_rail,Others - U Line,2012
-930,925,926,light_rail,Others - U Line,2012
-931,928,926,light_rail,Others - U Line,2012
-932,930,931,light_rail,Others - U Line,2012
-933,928,931,light_rail,Others - U Line,2012
-934,933,938,people_mover,Others - Incheon Airport Maglev,2016
-935,933,937,people_mover,Others - Incheon Airport Maglev,2016
-936,934,937,people_mover,Others - Incheon Airport Maglev,2016
-937,935,936,people_mover,Others - Incheon Airport Maglev,2016
-938,935,938,people_mover,Others - Incheon Airport Maglev,2016
-939,939,940,people_mover,Others - EverLine,2013
-940,940,941,people_mover,Others - EverLine,2013
-941,941,942,people_mover,Others - EverLine,2013
-942,942,943,people_mover,Others - EverLine,2013
-943,943,944,people_mover,Others - EverLine,2013
-944,944,945,people_mover,Others - EverLine,2013
-945,945,946,people_mover,Others - EverLine,2013
-946,946,947,people_mover,Others - EverLine,2013
-947,947,948,people_mover,Others - EverLine,2013
-948,948,949,people_mover,Others - EverLine,2013
-949,949,950,people_mover,Others - EverLine,2013
-950,950,951,people_mover,Others - EverLine,2013
-951,951,952,people_mover,Others - EverLine,2013
-952,952,953,people_mover,Others - EverLine,2013
-953,954,955,people_mover,Others - Wolmi Sea Train,2019
-954,955,956,people_mover,Others - Wolmi Sea Train,2019
-955,956,957,people_mover,Others - Wolmi Sea Train,2019
-956,958,962,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-957,958,960,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-958,959,962,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-959,959,967,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-960,960,968,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-961,961,966,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-962,961,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-963,963,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-964,963,965,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-965,966,967,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-966,958,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-967,969,972,high_speed_rail,SRT - Suseo Line,2016
-968,969,971,high_speed_rail,SRT - Suseo Line,2016
-969,970,972,high_speed_rail,SRT - Suseo Line,2016
+nodeID_from,nodeID_to,mode,line,year
+0,6,heavy_rail,Seoul Metropolitan Subway - 2,1983
+1,2,heavy_rail,Seoul Metropolitan Subway - 2,1980
+1,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
+2,46,heavy_rail,Seoul Metropolitan Subway - 2,1980
+3,25,heavy_rail,Seoul Metropolitan Subway - 2,1983
+3,24,heavy_rail,Seoul Metropolitan Subway - 2,1983
+4,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
+4,5,heavy_rail,Seoul Metropolitan Subway - 2,1982
+5,34,heavy_rail,Seoul Metropolitan Subway - 2,1982
+6,7,heavy_rail,Seoul Metropolitan Subway - 2,1983
+6,26,heavy_rail,Seoul Metropolitan Subway - 2,1983
+7,8,heavy_rail,Seoul Metropolitan Subway - 2,1983
+8,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
+9,10,heavy_rail,Seoul Metropolitan Subway - 2,1983
+9,38,heavy_rail,Seoul Metropolitan Subway - 2,1983
+10,39,heavy_rail,Seoul Metropolitan Subway - 2,1984
+11,12,heavy_rail,Seoul Metropolitan Subway - 2,1984
+11,20,heavy_rail,Seoul Metropolitan Subway - 2,1992
+12,15,heavy_rail,Seoul Metropolitan Subway - 2,1984
+13,14,heavy_rail,Seoul Metropolitan Subway - 2,1984
+13,16,heavy_rail,Seoul Metropolitan Subway - 2,1984
+14,23,heavy_rail,Seoul Metropolitan Subway - 2,1984
+15,44,heavy_rail,Seoul Metropolitan Subway - 2,1984
+16,49,heavy_rail,Seoul Metropolitan Subway - 2,1984
+17,30,heavy_rail,Seoul Metropolitan Subway - 2,1980
+17,47,heavy_rail,Seoul Metropolitan Subway - 2,1980
+18,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
+18,32,heavy_rail,Seoul Metropolitan Subway - 2,1980
+19,36,heavy_rail,Seoul Metropolitan Subway - 2,1983
+19,37,heavy_rail,Seoul Metropolitan Subway - 2,1983
+21,50,heavy_rail,Seoul Metropolitan Subway - 2,1996
+21,22,heavy_rail,Seoul Metropolitan Subway - 2,1996
+22,20,heavy_rail,Seoul Metropolitan Subway - 2,1996
+23,24,heavy_rail,Seoul Metropolitan Subway - 2,1984
+25,26,heavy_rail,Seoul Metropolitan Subway - 2,1983
+27,28,heavy_rail,Seoul Metropolitan Subway - 2,1983
+28,29,heavy_rail,Seoul Metropolitan Subway - 2,1983
+29,47,heavy_rail,Seoul Metropolitan Subway - 2,1983
+30,31,heavy_rail,Seoul Metropolitan Subway - 2,1980
+31,32,heavy_rail,Seoul Metropolitan Subway - 2,1980
+34,35,heavy_rail,Seoul Metropolitan Subway - 2,1982
+35,36,heavy_rail,Seoul Metropolitan Subway - 2,1982
+37,38,heavy_rail,Seoul Metropolitan Subway - 2,1983
+39,40,heavy_rail,Seoul Metropolitan Subway - 2,1984
+40,41,heavy_rail,Seoul Metropolitan Subway - 2,1984
+41,42,heavy_rail,Seoul Metropolitan Subway - 2,1984
+42,43,heavy_rail,Seoul Metropolitan Subway - 2,1984
+43,11,heavy_rail,Seoul Metropolitan Subway - 2,1984
+45,48,heavy_rail,Seoul Metropolitan Subway - 2,1984
+45,44,heavy_rail,Seoul Metropolitan Subway - 2,1984
+46,8,heavy_rail,Seoul Metropolitan Subway - 2,1983
+48,49,heavy_rail,Seoul Metropolitan Subway - 2,1984
+47,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
+26,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
+10,14,heavy_rail,Seoul Metropolitan Subway - 2,1984
+51,127,heavy_rail,Seoul Metropolitan Subway - 1,1974
+51,142,heavy_rail,Seoul Metropolitan Subway - 1,1974
+52,115,heavy_rail,Seoul Metropolitan Subway - 1,1974
+52,53,heavy_rail,Seoul Metropolitan Subway - 1,1974
+53,60,heavy_rail,Seoul Metropolitan Subway - 1,1985
+54,149,heavy_rail,Seoul Metropolitan Subway - 1,1974
+55,56,heavy_rail,Seoul Metropolitan Subway - 1,1974
+56,57,heavy_rail,Seoul Metropolitan Subway - 1,1974
+57,58,heavy_rail,Seoul Metropolitan Subway - 1,1974
+58,121,heavy_rail,Seoul Metropolitan Subway - 1,1974
+59,63,heavy_rail,Seoul Metropolitan Subway - 1,1974
+59,65,heavy_rail,Seoul Metropolitan Subway - 1,1974
+60,80,heavy_rail,Seoul Metropolitan Subway - 1,1985
+61,126,heavy_rail,Seoul Metropolitan Subway - 1,1974
+61,125,heavy_rail,Seoul Metropolitan Subway - 1,1974
+62,136,heavy_rail,Seoul Metropolitan Subway - 1,1974
+62,64,heavy_rail,Seoul Metropolitan Subway - 1,1974
+63,67,heavy_rail,Seoul Metropolitan Subway - 1,1974
+64,65,heavy_rail,Seoul Metropolitan Subway - 1,1974
+66,144,heavy_rail,Seoul Metropolitan Subway - 1,1974
+66,81,heavy_rail,Seoul Metropolitan Subway - 1,1974
+67,68,heavy_rail,Seoul Metropolitan Subway - 1,1974
+68,69,heavy_rail,Seoul Metropolitan Subway - 1,1974
+69,137,heavy_rail,Seoul Metropolitan Subway - 1,1974
+70,71,heavy_rail,Seoul Metropolitan Subway - 1,1974
+70,123,heavy_rail,Seoul Metropolitan Subway - 1,1974
+71,72,heavy_rail,Seoul Metropolitan Subway - 1,1974
+72,140,heavy_rail,Seoul Metropolitan Subway - 1,1974
+73,82,heavy_rail,Seoul Metropolitan Subway - 1,1987
+73,74,heavy_rail,Seoul Metropolitan Subway - 1,1986
+74,75,heavy_rail,Seoul Metropolitan Subway - 1,1986
+75,76,heavy_rail,Seoul Metropolitan Subway - 1,1986
+76,77,heavy_rail,Seoul Metropolitan Subway - 1,1986
+77,78,heavy_rail,Seoul Metropolitan Subway - 1,1986
+78,114,heavy_rail,Seoul Metropolitan Subway - 1,1986
+79,114,heavy_rail,Seoul Metropolitan Subway - 1,1985
+79,80,heavy_rail,Seoul Metropolitan Subway - 1,1985
+81,145,heavy_rail,Seoul Metropolitan Subway - 1,1974
+82,113,heavy_rail,Seoul Metropolitan Subway - 1,2006
+83,146,heavy_rail,Seoul Metropolitan Subway - 1,2003
+83,84,heavy_rail,Seoul Metropolitan Subway - 1,2005
+84,99,heavy_rail,Seoul Metropolitan Subway - 1,2010
+85,99,heavy_rail,Seoul Metropolitan Subway - 1,2010
+86,87,heavy_rail,Seoul Metropolitan Subway - 1,2005
+86,85,heavy_rail,Seoul Metropolitan Subway - 1,2005
+87,88,heavy_rail,Seoul Metropolitan Subway - 1,2005
+88,89,heavy_rail,Seoul Metropolitan Subway - 1,2005
+89,90,heavy_rail,Seoul Metropolitan Subway - 1,2005
+90,147,heavy_rail,Seoul Metropolitan Subway - 1,2005
+91,128,heavy_rail,Seoul Metropolitan Subway - 1,1974
+91,119,heavy_rail,Seoul Metropolitan Subway - 1,1974
+92,93,heavy_rail,Seoul Metropolitan Subway - 1,2023
+93,141,heavy_rail,Seoul Metropolitan Subway - 1,2006
+94,95,heavy_rail,Seoul Metropolitan Subway - 1,2005
+94,148,heavy_rail,Seoul Metropolitan Subway - 1,2005
+95,96,heavy_rail,Seoul Metropolitan Subway - 1,2005
+96,97,heavy_rail,Seoul Metropolitan Subway - 1,2008
+97,100,heavy_rail,Seoul Metropolitan Subway - 1,2008
+98,113,heavy_rail,Seoul Metropolitan Subway - 1,2006
+100,101,heavy_rail,Seoul Metropolitan Subway - 1,2008
+101,102,heavy_rail,Seoul Metropolitan Subway - 1,2008
+102,118,heavy_rail,Seoul Metropolitan Subway - 1,2008
+103,118,heavy_rail,Seoul Metropolitan Subway - 1,2008
+103,104,heavy_rail,Seoul Metropolitan Subway - 1,2008
+104,105,heavy_rail,Seoul Metropolitan Subway - 1,2008
+106,128,heavy_rail,Seoul Metropolitan Subway - 1,1974
+106,107,heavy_rail,Seoul Metropolitan Subway - 1,1974
+107,120,heavy_rail,Seoul Metropolitan Subway - 1,1974
+108,120,heavy_rail,Seoul Metropolitan Subway - 1,1974
+108,149,heavy_rail,Seoul Metropolitan Subway - 1,1974
+109,110,heavy_rail,Seoul Metropolitan Subway - 1,2006
+109,141,heavy_rail,Seoul Metropolitan Subway - 1,2006
+111,112,heavy_rail,Seoul Metropolitan Subway - 1,2006
+111,110,heavy_rail,Seoul Metropolitan Subway - 1,2006
+112,98,heavy_rail,Seoul Metropolitan Subway - 1,2006
+115,116,heavy_rail,Seoul Metropolitan Subway - 1,1974
+117,150,heavy_rail,Seoul Metropolitan Subway - 1,1974
+117,116,heavy_rail,Seoul Metropolitan Subway - 1,1974
+119,150,heavy_rail,Seoul Metropolitan Subway - 1,1974
+121,122,heavy_rail,Seoul Metropolitan Subway - 1,1974
+122,123,heavy_rail,Seoul Metropolitan Subway - 1,1974
+123,124,heavy_rail,Seoul Metropolitan Subway - 1,1974
+124,125,heavy_rail,Seoul Metropolitan Subway - 1,1974
+126,133,heavy_rail,Seoul Metropolitan Subway - 1,1974
+127,143,heavy_rail,Seoul Metropolitan Subway - 1,1974
+129,132,heavy_rail,Seoul Metropolitan Subway - 1,2023
+129,130,heavy_rail,Seoul Metropolitan Subway - 1,2023
+131,130,heavy_rail,Seoul Metropolitan Subway - 1,2023
+133,134,heavy_rail,Seoul Metropolitan Subway - 1,1974
+134,135,heavy_rail,Seoul Metropolitan Subway - 1,1974
+135,136,heavy_rail,Seoul Metropolitan Subway - 1,1974
+137,138,heavy_rail,Seoul Metropolitan Subway - 1,1974
+138,139,heavy_rail,Seoul Metropolitan Subway - 1,1974
+140,142,heavy_rail,Seoul Metropolitan Subway - 1,1974
+143,144,heavy_rail,Seoul Metropolitan Subway - 1,1974
+145,146,heavy_rail,Seoul Metropolitan Subway - 1,1974
+147,148,heavy_rail,Seoul Metropolitan Subway - 1,2005
+86,95,heavy_rail,Seoul Metropolitan Subway - 1,2005
+125,137,heavy_rail,Seoul Metropolitan Subway - 1,1974
+92,129,heavy_rail,Seoul Metropolitan Subway - 1,2023
+112,109,heavy_rail,Seoul Metropolitan Subway - 1,2006
+120,119,heavy_rail,Seoul Metropolitan Subway - 1,1974
+54,81,heavy_rail,Seoul Metropolitan Subway - 1,1974
+151,163,heavy_rail,Seoul Metropolitan Subway - 3,1990
+152,153,heavy_rail,Seoul Metropolitan Subway - 3,1985
+152,176,heavy_rail,Seoul Metropolitan Subway - 3,1985
+153,191,heavy_rail,Seoul Metropolitan Subway - 3,1985
+154,166,heavy_rail,Seoul Metropolitan Subway - 3,1985
+155,158,heavy_rail,Seoul Metropolitan Subway - 3,1993
+155,157,heavy_rail,Seoul Metropolitan Subway - 3,1985
+156,157,heavy_rail,Seoul Metropolitan Subway - 3,1985
+156,185,heavy_rail,Seoul Metropolitan Subway - 3,1985
+158,159,heavy_rail,Seoul Metropolitan Subway - 3,1993
+159,167,heavy_rail,Seoul Metropolitan Subway - 3,1993
+160,163,heavy_rail,Seoul Metropolitan Subway - 3,1990
+161,164,heavy_rail,Seoul Metropolitan Subway - 3,1996
+162,187,heavy_rail,Seoul Metropolitan Subway - 3,2010
+164,165,heavy_rail,Seoul Metropolitan Subway - 3,1996
+165,169,heavy_rail,Seoul Metropolitan Subway - 3,1996
+166,178,heavy_rail,Seoul Metropolitan Subway - 3,1985
+167,168,heavy_rail,Seoul Metropolitan Subway - 3,1993
+168,186,heavy_rail,Seoul Metropolitan Subway - 3,1993
+169,170,heavy_rail,Seoul Metropolitan Subway - 3,1996
+171,172,heavy_rail,Seoul Metropolitan Subway - 3,1996
+171,170,heavy_rail,Seoul Metropolitan Subway - 3,1996
+172,173,heavy_rail,Seoul Metropolitan Subway - 3,1996
+173,174,heavy_rail,Seoul Metropolitan Subway - 3,1996
+174,175,heavy_rail,Seoul Metropolitan Subway - 3,1996
+175,160,heavy_rail,Seoul Metropolitan Subway - 3,1996
+176,151,heavy_rail,Seoul Metropolitan Subway - 3,1990
+177,194,heavy_rail,Seoul Metropolitan Subway - 3,1985
+177,193,heavy_rail,Seoul Metropolitan Subway - 3,1985
+178,194,heavy_rail,Seoul Metropolitan Subway - 3,1985
+179,189,heavy_rail,Seoul Metropolitan Subway - 3,1985
+179,180,heavy_rail,Seoul Metropolitan Subway - 3,1985
+180,181,heavy_rail,Seoul Metropolitan Subway - 3,1985
+182,183,heavy_rail,Seoul Metropolitan Subway - 3,1985
+182,181,heavy_rail,Seoul Metropolitan Subway - 3,1985
+183,184,heavy_rail,Seoul Metropolitan Subway - 3,1985
+184,185,heavy_rail,Seoul Metropolitan Subway - 3,1985
+186,190,heavy_rail,Seoul Metropolitan Subway - 3,1993
+187,188,heavy_rail,Seoul Metropolitan Subway - 3,2010
+189,154,heavy_rail,Seoul Metropolitan Subway - 3,1985
+190,195,heavy_rail,Seoul Metropolitan Subway - 3,2010
+191,192,heavy_rail,Seoul Metropolitan Subway - 3,1985
+192,193,heavy_rail,Seoul Metropolitan Subway - 3,1985
+195,162,heavy_rail,Seoul Metropolitan Subway - 3,2010
+174,171,heavy_rail,Seoul Metropolitan Subway - 3,1996
+152,184,heavy_rail,Seoul Metropolitan Subway - 3,1985
+196,197,heavy_rail,Seoul Metropolitan Subway - 4,1985
+196,204,heavy_rail,Seoul Metropolitan Subway - 4,1993
+197,215,heavy_rail,Seoul Metropolitan Subway - 4,1985
+198,228,heavy_rail,Seoul Metropolitan Subway - 4,1985
+198,200,heavy_rail,Seoul Metropolitan Subway - 4,1985
+199,201,heavy_rail,Seoul Metropolitan Subway - 4,1985
+199,215,heavy_rail,Seoul Metropolitan Subway - 4,1985
+200,218,heavy_rail,Seoul Metropolitan Subway - 4,1985
+201,224,heavy_rail,Seoul Metropolitan Subway - 4,1985
+202,228,heavy_rail,Seoul Metropolitan Subway - 4,1985
+202,236,heavy_rail,Seoul Metropolitan Subway - 4,1985
+203,235,heavy_rail,Seoul Metropolitan Subway - 4,1985
+203,211,heavy_rail,Seoul Metropolitan Subway - 4,1994
+205,229,heavy_rail,Seoul Metropolitan Subway - 4,1985
+205,206,heavy_rail,Seoul Metropolitan Subway - 4,1985
+206,236,heavy_rail,Seoul Metropolitan Subway - 4,1985
+207,216,heavy_rail,Seoul Metropolitan Subway - 4,1994
+207,221,heavy_rail,Seoul Metropolitan Subway - 4,1994
+208,219,heavy_rail,Seoul Metropolitan Subway - 4,1994
+209,210,heavy_rail,Seoul Metropolitan Subway - 4,2000
+209,212,heavy_rail,Seoul Metropolitan Subway - 4,2000
+211,220,heavy_rail,Seoul Metropolitan Subway - 4,1994
+213,232,heavy_rail,Seoul Metropolitan Subway - 4,1994
+214,204,heavy_rail,Seoul Metropolitan Subway - 4,2022
+216,220,heavy_rail,Seoul Metropolitan Subway - 4,1994
+217,222,heavy_rail,Seoul Metropolitan Subway - 4,2022
+218,227,heavy_rail,Seoul Metropolitan Subway - 4,1985
+219,213,heavy_rail,Seoul Metropolitan Subway - 4,1994
+221,232,heavy_rail,Seoul Metropolitan Subway - 4,1994
+222,223,heavy_rail,Seoul Metropolitan Subway - 4,2022
+224,225,heavy_rail,Seoul Metropolitan Subway - 4,1985
+225,226,heavy_rail,Seoul Metropolitan Subway - 4,1985
+226,234,heavy_rail,Seoul Metropolitan Subway - 4,1985
+227,233,heavy_rail,Seoul Metropolitan Subway - 4,1985
+229,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
+231,235,heavy_rail,Seoul Metropolitan Subway - 4,1985
+231,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
+233,234,heavy_rail,Seoul Metropolitan Subway - 4,1985
+216,221,heavy_rail,Seoul Metropolitan Subway - 4,1994
+214,223,heavy_rail,Seoul Metropolitan Subway - 4,2022
+199,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
+237,262,heavy_rail,Seoul Metropolitan Subway - 5,2020
+237,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
+238,242,heavy_rail,Seoul Metropolitan Subway - 5,1996
+238,239,heavy_rail,Seoul Metropolitan Subway - 5,1996
+239,250,heavy_rail,Seoul Metropolitan Subway - 5,1996
+240,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
+240,258,heavy_rail,Seoul Metropolitan Subway - 5,1996
+241,277,heavy_rail,Seoul Metropolitan Subway - 5,1996
+241,276,heavy_rail,Seoul Metropolitan Subway - 5,1996
+242,251,heavy_rail,Seoul Metropolitan Subway - 5,1996
+243,268,heavy_rail,Seoul Metropolitan Subway - 5,1996
+243,267,heavy_rail,Seoul Metropolitan Subway - 5,1996
+244,243,heavy_rail,Seoul Metropolitan Subway - 5,1996
+244,269,heavy_rail,Seoul Metropolitan Subway - 5,1996
+245,246,heavy_rail,Seoul Metropolitan Subway - 5,1996
+246,247,heavy_rail,Seoul Metropolitan Subway - 5,1996
+247,248,heavy_rail,Seoul Metropolitan Subway - 5,1996
+248,249,heavy_rail,Seoul Metropolitan Subway - 5,1996
+249,250,heavy_rail,Seoul Metropolitan Subway - 5,1996
+251,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
+252,266,heavy_rail,Seoul Metropolitan Subway - 5,1996
+252,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
+253,266,heavy_rail,Seoul Metropolitan Subway - 5,1995
+253,279,heavy_rail,Seoul Metropolitan Subway - 5,1995
+254,240,heavy_rail,Seoul Metropolitan Subway - 5,1995
+255,275,heavy_rail,Seoul Metropolitan Subway - 5,1996
+255,276,heavy_rail,Seoul Metropolitan Subway - 5,1996
+256,259,heavy_rail,Seoul Metropolitan Subway - 5,1996
+256,260,heavy_rail,Seoul Metropolitan Subway - 5,1996
+257,267,heavy_rail,Seoul Metropolitan Subway - 5,1996
+259,261,heavy_rail,Seoul Metropolitan Subway - 5,1996
+260,289,heavy_rail,Seoul Metropolitan Subway - 5,1996
+261,258,heavy_rail,Seoul Metropolitan Subway - 5,1996
+262,287,heavy_rail,Seoul Metropolitan Subway - 5,2020
+263,264,heavy_rail,Seoul Metropolitan Subway - 5,2021
+264,288,heavy_rail,Seoul Metropolitan Subway - 5,2021
+265,289,heavy_rail,Seoul Metropolitan Subway - 5,1996
+269,270,heavy_rail,Seoul Metropolitan Subway - 5,1996
+270,271,heavy_rail,Seoul Metropolitan Subway - 5,1996
+271,291,heavy_rail,Seoul Metropolitan Subway - 5,1996
+272,273,heavy_rail,Seoul Metropolitan Subway - 5,1996
+272,291,heavy_rail,Seoul Metropolitan Subway - 5,1996
+273,274,heavy_rail,Seoul Metropolitan Subway - 5,1996
+274,275,heavy_rail,Seoul Metropolitan Subway - 5,1996
+277,278,heavy_rail,Seoul Metropolitan Subway - 5,1996
+278,245,heavy_rail,Seoul Metropolitan Subway - 5,1996
+279,280,heavy_rail,Seoul Metropolitan Subway - 5,1995
+280,281,heavy_rail,Seoul Metropolitan Subway - 5,1995
+281,282,heavy_rail,Seoul Metropolitan Subway - 5,1995
+282,283,heavy_rail,Seoul Metropolitan Subway - 5,1995
+283,254,heavy_rail,Seoul Metropolitan Subway - 5,1995
+284,285,heavy_rail,Seoul Metropolitan Subway - 5,1995
+284,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
+285,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
+287,288,heavy_rail,Seoul Metropolitan Subway - 5,2020
+285,254,heavy_rail,Seoul Metropolitan Subway - 5,1995
+261,260,heavy_rail,Seoul Metropolitan Subway - 5,1996
+245,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
+293,327,heavy_rail,Seoul Metropolitan Subway - 6,2000
+293,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
+294,297,heavy_rail,Seoul Metropolitan Subway - 6,2000
+294,331,heavy_rail,Seoul Metropolitan Subway - 6,2000
+295,299,heavy_rail,Seoul Metropolitan Subway - 6,2000
+295,298,heavy_rail,Seoul Metropolitan Subway - 6,2000
+296,320,heavy_rail,Seoul Metropolitan Subway - 6,2000
+296,298,heavy_rail,Seoul Metropolitan Subway - 6,2000
+297,315,heavy_rail,Seoul Metropolitan Subway - 6,2000
+299,300,heavy_rail,Seoul Metropolitan Subway - 6,2000
+300,321,heavy_rail,Seoul Metropolitan Subway - 6,2000
+301,315,heavy_rail,Seoul Metropolitan Subway - 6,2000
+301,302,heavy_rail,Seoul Metropolitan Subway - 6,2000
+302,303,heavy_rail,Seoul Metropolitan Subway - 6,2000
+303,322,heavy_rail,Seoul Metropolitan Subway - 6,2000
+304,330,heavy_rail,Seoul Metropolitan Subway - 6,2000
+304,318,heavy_rail,Seoul Metropolitan Subway - 6,2000
+305,319,heavy_rail,Seoul Metropolitan Subway - 6,2000
+305,306,heavy_rail,Seoul Metropolitan Subway - 6,2000
+306,318,heavy_rail,Seoul Metropolitan Subway - 6,2000
+307,312,heavy_rail,Seoul Metropolitan Subway - 6,2000
+307,308,heavy_rail,Seoul Metropolitan Subway - 6,2000
+308,310,heavy_rail,Seoul Metropolitan Subway - 6,2000
+308,311,heavy_rail,Seoul Metropolitan Subway - 6,2000
+309,313,heavy_rail,Seoul Metropolitan Subway - 6,2000
+309,310,heavy_rail,Seoul Metropolitan Subway - 6,2000
+310,312,heavy_rail,Seoul Metropolitan Subway - 6,2000
+313,316,heavy_rail,Seoul Metropolitan Subway - 6,2000
+314,329,heavy_rail,Seoul Metropolitan Subway - 6,2019
+316,317,heavy_rail,Seoul Metropolitan Subway - 6,2000
+317,330,heavy_rail,Seoul Metropolitan Subway - 6,2000
+319,320,heavy_rail,Seoul Metropolitan Subway - 6,2000
+321,331,heavy_rail,Seoul Metropolitan Subway - 6,2000
+322,323,heavy_rail,Seoul Metropolitan Subway - 6,2000
+323,324,heavy_rail,Seoul Metropolitan Subway - 6,2000
+324,325,heavy_rail,Seoul Metropolitan Subway - 6,2000
+325,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
+327,328,heavy_rail,Seoul Metropolitan Subway - 6,2000
+328,329,heavy_rail,Seoul Metropolitan Subway - 6,2000
+316,296,heavy_rail,Seoul Metropolitan Subway - 6,2000
+332,356,heavy_rail,Incheon Subway - Line 1,1999
+332,335,heavy_rail,Incheon Subway - Line 1,1999
+333,334,heavy_rail,Incheon Subway - Line 1,1999
+333,335,heavy_rail,Incheon Subway - Line 1,1999
+334,336,heavy_rail,Incheon Subway - Line 1,1999
+336,337,heavy_rail,Incheon Subway - Line 1,1999
+337,338,heavy_rail,Incheon Subway - Line 1,1999
+338,339,heavy_rail,Incheon Subway - Line 1,1999
+339,340,heavy_rail,Incheon Subway - Line 1,1999
+340,341,heavy_rail,Incheon Subway - Line 1,1999
+341,344,heavy_rail,Incheon Subway - Line 1,2009
+342,343,heavy_rail,Incheon Subway - Line 1,2007
+342,357,heavy_rail,Incheon Subway - Line 1,1999
+344,345,heavy_rail,Incheon Subway - Line 1,2009
+345,346,heavy_rail,Incheon Subway - Line 1,2009
+346,347,heavy_rail,Incheon Subway - Line 1,2009
+347,348,heavy_rail,Incheon Subway - Line 1,2009
+348,361,heavy_rail,Incheon Subway - Line 1,2020
+349,357,heavy_rail,Incheon Subway - Line 1,1999
+349,350,heavy_rail,Incheon Subway - Line 1,1999
+350,351,heavy_rail,Incheon Subway - Line 1,1999
+351,352,heavy_rail,Incheon Subway - Line 1,1999
+352,353,heavy_rail,Incheon Subway - Line 1,1999
+353,359,heavy_rail,Incheon Subway - Line 1,1999
+354,358,heavy_rail,Incheon Subway - Line 1,1999
+354,359,heavy_rail,Incheon Subway - Line 1,1999
+355,358,heavy_rail,Incheon Subway - Line 1,1999
+355,356,heavy_rail,Incheon Subway - Line 1,1999
+360,361,heavy_rail,Incheon Subway - Line 1,2020
+354,339,heavy_rail,Incheon Subway - Line 1,1999
+362,403,heavy_rail,Seoul Metropolitan Subway - 9,2028
+362,363,heavy_rail,Seoul Metropolitan Subway - 9,2028
+363,383,heavy_rail,Seoul Metropolitan Subway - 9,2028
+364,390,heavy_rail,Seoul Metropolitan Subway - 9,2009
+364,374,heavy_rail,Seoul Metropolitan Subway - 9,2009
+365,386,heavy_rail,Seoul Metropolitan Subway - 9,2009
+366,367,heavy_rail,Seoul Metropolitan Subway - 9,2009
+366,386,heavy_rail,Seoul Metropolitan Subway - 9,2009
+367,368,heavy_rail,Seoul Metropolitan Subway - 9,2009
+368,369,heavy_rail,Seoul Metropolitan Subway - 9,2009
+369,370,heavy_rail,Seoul Metropolitan Subway - 9,2009
+370,371,heavy_rail,Seoul Metropolitan Subway - 9,2009
+371,372,heavy_rail,Seoul Metropolitan Subway - 9,2009
+372,388,heavy_rail,Seoul Metropolitan Subway - 9,2009
+373,392,heavy_rail,Seoul Metropolitan Subway - 9,2009
+373,391,heavy_rail,Seoul Metropolitan Subway - 9,2009
+374,387,heavy_rail,Seoul Metropolitan Subway - 9,2009
+375,396,heavy_rail,Seoul Metropolitan Subway - 9,2015
+375,380,heavy_rail,Seoul Metropolitan Subway - 9,2015
+376,396,heavy_rail,Seoul Metropolitan Subway - 9,2009
+376,395,heavy_rail,Seoul Metropolitan Subway - 9,2009
+377,398,heavy_rail,Seoul Metropolitan Subway - 9,2018
+377,397,heavy_rail,Seoul Metropolitan Subway - 9,2018
+378,402,heavy_rail,Seoul Metropolitan Subway - 9,2018
+378,401,heavy_rail,Seoul Metropolitan Subway - 9,2018
+379,400,heavy_rail,Seoul Metropolitan Subway - 9,2018
+379,399,heavy_rail,Seoul Metropolitan Subway - 9,2018
+380,381,heavy_rail,Seoul Metropolitan Subway - 9,2015
+381,382,heavy_rail,Seoul Metropolitan Subway - 9,2015
+382,397,heavy_rail,Seoul Metropolitan Subway - 9,2015
+383,384,heavy_rail,Seoul Metropolitan Subway - 9,2028
+385,394,heavy_rail,Seoul Metropolitan Subway - 9,2009
+385,393,heavy_rail,Seoul Metropolitan Subway - 9,2009
+387,391,heavy_rail,Seoul Metropolitan Subway - 9,2009
+388,389,heavy_rail,Seoul Metropolitan Subway - 9,2009
+389,390,heavy_rail,Seoul Metropolitan Subway - 9,2009
+392,393,heavy_rail,Seoul Metropolitan Subway - 9,2009
+394,395,heavy_rail,Seoul Metropolitan Subway - 9,2009
+398,399,heavy_rail,Seoul Metropolitan Subway - 9,2018
+400,401,heavy_rail,Seoul Metropolitan Subway - 9,2018
+402,403,heavy_rail,Seoul Metropolitan Subway - 9,2018
+399,400,heavy_rail,Seoul Metropolitan Subway - 9,2018
+366,394,heavy_rail,Seoul Metropolitan Subway - 9,2009
+404,429,heavy_rail,Seoul Metropolitan Subway - 7,2027
+404,460,heavy_rail,Seoul Metropolitan Subway - 7,2027
+405,436,heavy_rail,Seoul Metropolitan Subway - 7,1996
+405,435,heavy_rail,Seoul Metropolitan Subway - 7,1996
+406,426,heavy_rail,Seoul Metropolitan Subway - 7,1996
+407,445,heavy_rail,Seoul Metropolitan Subway - 7,1996
+407,420,heavy_rail,Seoul Metropolitan Subway - 7,2000
+408,462,heavy_rail,Seoul Metropolitan Subway - 7,1996
+408,439,heavy_rail,Seoul Metropolitan Subway - 7,1996
+409,453,heavy_rail,Seoul Metropolitan Subway - 7,2000
+409,454,heavy_rail,Seoul Metropolitan Subway - 7,2000
+410,452,heavy_rail,Seoul Metropolitan Subway - 7,2000
+410,451,heavy_rail,Seoul Metropolitan Subway - 7,2000
+411,412,heavy_rail,Seoul Metropolitan Subway - 7,2000
+412,413,heavy_rail,Seoul Metropolitan Subway - 7,2000
+413,414,heavy_rail,Seoul Metropolitan Subway - 7,2000
+414,415,heavy_rail,Seoul Metropolitan Subway - 7,2000
+415,464,heavy_rail,Seoul Metropolitan Subway - 7,2000
+416,419,heavy_rail,Seoul Metropolitan Subway - 7,2000
+416,464,heavy_rail,Seoul Metropolitan Subway - 7,2000
+417,459,heavy_rail,Seoul Metropolitan Subway - 7,2012
+417,418,heavy_rail,Seoul Metropolitan Subway - 7,2012
+418,422,heavy_rail,Seoul Metropolitan Subway - 7,2012
+419,446,heavy_rail,Seoul Metropolitan Subway - 7,2000
+421,452,heavy_rail,Seoul Metropolitan Subway - 7,2000
+421,453,heavy_rail,Seoul Metropolitan Subway - 7,2000
+422,423,heavy_rail,Seoul Metropolitan Subway - 7,2021
+424,456,heavy_rail,Seoul Metropolitan Subway - 7,2012
+424,457,heavy_rail,Seoul Metropolitan Subway - 7,2012
+425,432,heavy_rail,Seoul Metropolitan Subway - 7,2025
+426,434,heavy_rail,Seoul Metropolitan Subway - 7,1996
+427,428,heavy_rail,Seoul Metropolitan Subway - 7,2027
+427,461,heavy_rail,Seoul Metropolitan Subway - 7,2027
+428,430,heavy_rail,Seoul Metropolitan Subway - 7,2027
+429,430,heavy_rail,Seoul Metropolitan Subway - 7,2027
+431,454,heavy_rail,Seoul Metropolitan Subway - 7,2000
+431,455,heavy_rail,Seoul Metropolitan Subway - 7,2012
+432,406,heavy_rail,Seoul Metropolitan Subway - 7,2025
+433,444,heavy_rail,Seoul Metropolitan Subway - 7,1996
+433,445,heavy_rail,Seoul Metropolitan Subway - 7,1996
+434,435,heavy_rail,Seoul Metropolitan Subway - 7,1996
+436,437,heavy_rail,Seoul Metropolitan Subway - 7,1996
+437,438,heavy_rail,Seoul Metropolitan Subway - 7,1996
+438,462,heavy_rail,Seoul Metropolitan Subway - 7,1996
+439,440,heavy_rail,Seoul Metropolitan Subway - 7,1996
+440,441,heavy_rail,Seoul Metropolitan Subway - 7,1996
+441,442,heavy_rail,Seoul Metropolitan Subway - 7,1996
+442,443,heavy_rail,Seoul Metropolitan Subway - 7,1996
+443,444,heavy_rail,Seoul Metropolitan Subway - 7,1996
+446,463,heavy_rail,Seoul Metropolitan Subway - 7,2000
+447,448,heavy_rail,Seoul Metropolitan Subway - 7,2000
+447,463,heavy_rail,Seoul Metropolitan Subway - 7,2000
+448,449,heavy_rail,Seoul Metropolitan Subway - 7,2000
+449,450,heavy_rail,Seoul Metropolitan Subway - 7,2000
+450,451,heavy_rail,Seoul Metropolitan Subway - 7,2000
+455,456,heavy_rail,Seoul Metropolitan Subway - 7,2012
+457,458,heavy_rail,Seoul Metropolitan Subway - 7,2012
+458,459,heavy_rail,Seoul Metropolitan Subway - 7,2012
+456,417,heavy_rail,Seoul Metropolitan Subway - 7,2012
+435,433,heavy_rail,Seoul Metropolitan Subway - 7,1996
+423,460,heavy_rail,Seoul Metropolitan Subway - 7,2021
+449,420,heavy_rail,Seoul Metropolitan Subway - 7,2000
+465,467,heavy_rail,Seoul Metropolitan Subway - 8,1999
+465,469,heavy_rail,Seoul Metropolitan Subway - 8,1999
+466,483,heavy_rail,Seoul Metropolitan Subway - 8,1996
+466,482,heavy_rail,Seoul Metropolitan Subway - 8,1996
+467,468,heavy_rail,Seoul Metropolitan Subway - 8,2023
+468,472,heavy_rail,Seoul Metropolitan Subway - 8,2023
+469,476,heavy_rail,Seoul Metropolitan Subway - 8,1999
+470,471,heavy_rail,Seoul Metropolitan Subway - 8,2023
+470,473,heavy_rail,Seoul Metropolitan Subway - 8,2023
+471,474,heavy_rail,Seoul Metropolitan Subway - 8,2023
+475,474,heavy_rail,Seoul Metropolitan Subway - 8,2023
+476,487,heavy_rail,Seoul Metropolitan Subway - 8,1999
+477,487,heavy_rail,Seoul Metropolitan Subway - 8,1996
+477,478,heavy_rail,Seoul Metropolitan Subway - 8,1996
+478,479,heavy_rail,Seoul Metropolitan Subway - 8,1996
+479,480,heavy_rail,Seoul Metropolitan Subway - 8,1996
+480,481,heavy_rail,Seoul Metropolitan Subway - 8,1996
+483,484,heavy_rail,Seoul Metropolitan Subway - 8,1996
+484,485,heavy_rail,Seoul Metropolitan Subway - 8,1996
+485,486,heavy_rail,Seoul Metropolitan Subway - 8,1996
+485,481,heavy_rail,Seoul Metropolitan Subway - 8,1996
+472,471,heavy_rail,Seoul Metropolitan Subway - 8,2023
+488,490,commuter_rail,Korail - AREX,2010
+489,494,commuter_rail,Korail - AREX,2010
+489,495,commuter_rail,Korail - AREX,2007
+490,493,commuter_rail,Korail - AREX,2010
+491,493,commuter_rail,Korail - AREX,2010
+492,496,commuter_rail,Korail - AREX,2007
+492,498,commuter_rail,Korail - AREX,2007
+494,491,commuter_rail,Korail - AREX,2010
+495,496,commuter_rail,Korail - AREX,2007
+497,501,commuter_rail,Korail - AREX,2018
+498,499,commuter_rail,Korail - AREX,2007
+499,500,commuter_rail,Korail - AREX,2007
+500,501,commuter_rail,Korail - AREX,2018
+499,496,commuter_rail,Korail - AREX,2007
+502,516,commuter_rail,Others - Seohae Line,2023
+502,503,commuter_rail,Others - Seohae Line,2018
+503,504,commuter_rail,Others - Seohae Line,2018
+504,505,commuter_rail,Others - Seohae Line,2018
+505,506,commuter_rail,Others - Seohae Line,2018
+506,507,commuter_rail,Others - Seohae Line,2018
+507,508,commuter_rail,Others - Seohae Line,2018
+508,509,commuter_rail,Others - Seohae Line,2018
+509,510,commuter_rail,Others - Seohae Line,2018
+510,511,commuter_rail,Others - Seohae Line,2018
+511,512,commuter_rail,Others - Seohae Line,2018
+513,514,commuter_rail,Others - Seohae Line,2023
+514,515,commuter_rail,Others - Seohae Line,2023
+515,516,commuter_rail,Others - Seohae Line,2023
+517,519,commuter_rail,Korail - Ilsan Line,1996
+518,527,commuter_rail,Korail - Ilsan Line,1996
+519,520,commuter_rail,Korail - Ilsan Line,1996
+520,521,commuter_rail,Korail - Ilsan Line,1996
+521,522,commuter_rail,Korail - Ilsan Line,1996
+523,524,commuter_rail,Korail - Ilsan Line,1996
+523,522,commuter_rail,Korail - Ilsan Line,1996
+524,525,commuter_rail,Korail - Ilsan Line,1996
+525,526,commuter_rail,Korail - Ilsan Line,1996
+526,527,commuter_rail,Korail - Ilsan Line,1996
+526,523,commuter_rail,Korail - Ilsan Line,1996
+528,543,commuter_rail,Korail - Gyeongchun Line,2006
+529,531,commuter_rail,Korail - Gyeongchun Line,2011
+529,532,commuter_rail,Korail - Gyeongchun Line,2011
+530,544,commuter_rail,Korail - Gyeongchun Line,2011
+530,534,commuter_rail,Korail - Gyeongchun Line,2011
+531,534,commuter_rail,Korail - Gyeongchun Line,2011
+533,532,commuter_rail,Korail - Gyeongchun Line,2011
+533,546,commuter_rail,Korail - Gyeongchun Line,2011
+535,536,commuter_rail,Korail - Gyeongchun Line,2011
+535,552,commuter_rail,Korail - Gyeongchun Line,2011
+536,537,commuter_rail,Korail - Gyeongchun Line,2011
+537,538,commuter_rail,Korail - Gyeongchun Line,2011
+538,539,commuter_rail,Korail - Gyeongchun Line,2011
+539,540,commuter_rail,Korail - Gyeongchun Line,2011
+540,541,commuter_rail,Korail - Gyeongchun Line,2011
+542,544,commuter_rail,Korail - Gyeongchun Line,2014
+543,545,commuter_rail,Korail - Gyeongchun Line,2006
+545,544,commuter_rail,Korail - Gyeongchun Line,2011
+546,547,commuter_rail,Korail - Gyeongchun Line,2011
+547,548,commuter_rail,Korail - Gyeongchun Line,2011
+548,549,commuter_rail,Korail - Gyeongchun Line,2011
+550,551,commuter_rail,Korail - Gyeongchun Line,2011
+550,549,commuter_rail,Korail - Gyeongchun Line,2011
+551,552,commuter_rail,Korail - Gyeongchun Line,2011
+531,532,commuter_rail,Korail - Gyeongchun Line,2011
+550,539,commuter_rail,Korail - Gyeongchun Line,2011
+553,574,commuter_rail,Korail - Suin Line,2012
+553,554,commuter_rail,Korail - Suin Line,2012
+554,555,commuter_rail,Korail - Suin Line,2012
+555,556,commuter_rail,Korail - Suin Line,2012
+556,557,commuter_rail,Korail - Suin Line,2012
+557,558,commuter_rail,Korail - Suin Line,2012
+558,559,commuter_rail,Korail - Suin Line,2012
+560,565,commuter_rail,Korail - Suin Line,2016
+561,565,commuter_rail,Korail - Suin Line,2016
+561,562,commuter_rail,Korail - Suin Line,2016
+562,563,commuter_rail,Korail - Suin Line,2016
+563,564,commuter_rail,Korail - Suin Line,2016
+566,567,commuter_rail,Korail - Suin Line,2000
+566,568,commuter_rail,Korail - Suin Line,2000
+567,574,commuter_rail,Korail - Suin Line,2012
+568,573,commuter_rail,Korail - Suin Line,2020
+569,570,commuter_rail,Korail - Suin Line,2020
+570,571,commuter_rail,Korail - Suin Line,2020
+571,572,commuter_rail,Korail - Suin Line,2020
+572,573,commuter_rail,Korail - Suin Line,2020
+559,560,commuter_rail,Korail - Suin Line,2012
+575,576,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+575,594,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+577,593,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+578,593,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+578,579,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+579,580,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+580,581,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+581,582,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+582,583,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+583,584,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+584,585,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+585,586,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+586,587,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+587,588,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+588,589,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+589,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+590,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+590,592,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+592,624,commuter_rail,Korail - Gyeongui-Jungang Line,2020
+594,629,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+595,626,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+595,601,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+596,625,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+597,595,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+598,624,commuter_rail,Korail - Gyeongui-Jungang Line,2022
+598,599,commuter_rail,Korail - Gyeongui-Jungang Line,2022
+600,615,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+600,628,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+601,602,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+602,603,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+603,627,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+604,614,commuter_rail,Korail - Gyeongui-Jungang Line,2006
+604,622,commuter_rail,Korail - Gyeongui-Jungang Line,2006
+605,616,commuter_rail,Korail - Gyeongui-Jungang Line,2017
+605,611,commuter_rail,Korail - Gyeongui-Jungang Line,2010
+606,616,commuter_rail,Korail - Gyeongui-Jungang Line,2017
+607,608,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+607,613,commuter_rail,Korail - Gyeongui-Jungang Line,2010
+608,609,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+609,610,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+610,617,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+611,612,commuter_rail,Korail - Gyeongui-Jungang Line,2010
+612,613,commuter_rail,Korail - Gyeongui-Jungang Line,2010
+614,623,commuter_rail,Korail - Gyeongui-Jungang Line,2006
+617,618,commuter_rail,Korail - Gyeongui-Jungang Line,2008
+618,619,commuter_rail,Korail - Gyeongui-Jungang Line,2008
+619,620,commuter_rail,Korail - Gyeongui-Jungang Line,2008
+620,621,commuter_rail,Korail - Gyeongui-Jungang Line,2006
+621,622,commuter_rail,Korail - Gyeongui-Jungang Line,2006
+625,629,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+626,596,commuter_rail,Korail - Gyeongui-Jungang Line,2013
+627,628,commuter_rail,Korail - Gyeongui-Jungang Line,2015
+576,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+630,631,commuter_rail,Korail - Gyeonggang Line,2016
+631,632,commuter_rail,Korail - Gyeonggang Line,2016
+632,633,commuter_rail,Korail - Gyeonggang Line,2016
+633,634,commuter_rail,Korail - Gyeonggang Line,2016
+634,635,commuter_rail,Korail - Gyeonggang Line,2016
+635,636,commuter_rail,Korail - Gyeonggang Line,2016
+636,637,commuter_rail,Korail - Gyeonggang Line,2016
+637,638,commuter_rail,Korail - Gyeonggang Line,2016
+638,639,commuter_rail,Korail - Gyeonggang Line,2016
+639,640,commuter_rail,Korail - Gyeonggang Line,2016
+641,669,commuter_rail,Korail - Bundang Line,2003
+641,675,commuter_rail,Korail - Bundang Line,2003
+642,643,commuter_rail,Korail - Bundang Line,1994
+643,646,commuter_rail,Korail - Bundang Line,1994
+644,645,commuter_rail,Korail - Bundang Line,1994
+644,646,commuter_rail,Korail - Bundang Line,1994
+645,647,commuter_rail,Korail - Bundang Line,1994
+647,648,commuter_rail,Korail - Bundang Line,1994
+648,676,commuter_rail,Korail - Bundang Line,1994
+649,677,commuter_rail,Korail - Bundang Line,1994
+649,660,commuter_rail,Korail - Bundang Line,2004
+650,653,commuter_rail,Korail - Bundang Line,2003
+650,651,commuter_rail,Korail - Bundang Line,2003
+651,669,commuter_rail,Korail - Bundang Line,2003
+652,653,commuter_rail,Korail - Bundang Line,2003
+652,674,commuter_rail,Korail - Bundang Line,2003
+654,655,commuter_rail,Korail - Bundang Line,2012
+654,656,commuter_rail,Korail - Bundang Line,2012
+655,674,commuter_rail,Korail - Bundang Line,2012
+656,657,commuter_rail,Korail - Bundang Line,2012
+657,658,commuter_rail,Korail - Bundang Line,2012
+658,672,commuter_rail,Korail - Bundang Line,2019
+659,660,commuter_rail,Korail - Bundang Line,2011
+659,663,commuter_rail,Korail - Bundang Line,2011
+661,662,commuter_rail,Korail - Bundang Line,2012
+661,664,commuter_rail,Korail - Bundang Line,2012
+662,663,commuter_rail,Korail - Bundang Line,2011
+665,668,commuter_rail,Korail - Bundang Line,2013
+665,666,commuter_rail,Korail - Bundang Line,2013
+666,667,commuter_rail,Korail - Bundang Line,2012
+667,671,commuter_rail,Korail - Bundang Line,2012
+668,670,commuter_rail,Korail - Bundang Line,2013
+670,673,commuter_rail,Korail - Bundang Line,2013
+675,642,commuter_rail,Korail - Bundang Line,1994
+676,677,commuter_rail,Korail - Bundang Line,1994
+642,676,commuter_rail,Korail - Bundang Line,1994
+664,671,commuter_rail,Korail - Bundang Line,2012
+651,653,commuter_rail,Korail - Bundang Line,2003
+678,682,commuter_rail,Korail - Ansan Line,2000
+678,681,commuter_rail,Korail - Ansan Line,2000
+679,680,commuter_rail,Korail - Ansan Line,2000
+679,681,commuter_rail,Korail - Ansan Line,2000
+683,686,commuter_rail,Korail - Gwacheon Line,1994
+683,689,commuter_rail,Korail - Gwacheon Line,1994
+684,688,commuter_rail,Korail - Gwacheon Line,1994
+685,690,commuter_rail,Korail - Gwacheon Line,1994
+686,688,commuter_rail,Korail - Gwacheon Line,1994
+687,685,commuter_rail,Korail - Gwacheon Line,1994
+689,690,commuter_rail,Korail - Gwacheon Line,1994
+686,689,commuter_rail,Korail - Gwacheon Line,1994
+691,718,commuter_rail,Korail - Gyeongbu Line,1974
+691,720,commuter_rail,Korail - Gyeongbu Line,1974
+692,717,commuter_rail,Korail - Gyeongbu Line,1974
+693,694,commuter_rail,Korail - Gyeongbu Line,1974
+694,695,commuter_rail,Korail - Gyeongbu Line,1974
+695,696,commuter_rail,Korail - Gyeongbu Line,1974
+696,715,commuter_rail,Korail - Gyeongbu Line,1974
+697,722,commuter_rail,Korail - Gyeongbu Line,1974
+697,701,commuter_rail,Korail - Gyeongbu Line,1974
+698,699,commuter_rail,Korail - Gyeongbu Line,1974
+698,716,commuter_rail,Korail - Gyeongbu Line,1974
+699,700,commuter_rail,Korail - Gyeongbu Line,1974
+700,719,commuter_rail,Korail - Gyeongbu Line,1974
+701,723,commuter_rail,Korail - Gyeongbu Line,1974
+702,724,commuter_rail,Korail - Gyeongbu Line,2003
+702,703,commuter_rail,Korail - Gyeongbu Line,2005
+703,714,commuter_rail,Korail - Gyeongbu Line,2005
+704,714,commuter_rail,Korail - Gyeongbu Line,2005
+705,706,commuter_rail,Korail - Gyeongbu Line,2005
+705,704,commuter_rail,Korail - Gyeongbu Line,2005
+706,707,commuter_rail,Korail - Gyeongbu Line,2005
+707,708,commuter_rail,Korail - Gyeongbu Line,2005
+708,709,commuter_rail,Korail - Gyeongbu Line,2005
+709,725,commuter_rail,Korail - Gyeongbu Line,2005
+710,711,commuter_rail,Korail - Gyeongbu Line,2005
+710,726,commuter_rail,Korail - Gyeongbu Line,2005
+711,712,commuter_rail,Korail - Gyeongbu Line,2005
+712,713,commuter_rail,Korail - Gyeongbu Line,2005
+715,716,commuter_rail,Korail - Gyeongbu Line,1974
+717,693,commuter_rail,Korail - Gyeongbu Line,1974
+718,721,commuter_rail,Korail - Gyeongbu Line,1974
+719,720,commuter_rail,Korail - Gyeongbu Line,1974
+721,722,commuter_rail,Korail - Gyeongbu Line,1974
+723,724,commuter_rail,Korail - Gyeongbu Line,1974
+725,726,commuter_rail,Korail - Gyeongbu Line,2005
+705,711,commuter_rail,Korail - Gyeongbu Line,2005
+693,701,commuter_rail,Korail - Gyeongbu Line,1974
+727,730,commuter_rail,Korail - Gyeongin Line,1974
+727,732,commuter_rail,Korail - Gyeongin Line,1974
+728,740,commuter_rail,Korail - Gyeongin Line,1974
+728,739,commuter_rail,Korail - Gyeongin Line,1974
+729,744,commuter_rail,Korail - Gyeongin Line,1974
+729,731,commuter_rail,Korail - Gyeongin Line,1974
+730,733,commuter_rail,Korail - Gyeongin Line,1974
+731,732,commuter_rail,Korail - Gyeongin Line,1974
+733,734,commuter_rail,Korail - Gyeongin Line,1974
+734,735,commuter_rail,Korail - Gyeongin Line,1974
+735,745,commuter_rail,Korail - Gyeongin Line,1974
+736,737,commuter_rail,Korail - Gyeongin Line,1974
+737,738,commuter_rail,Korail - Gyeongin Line,1974
+738,739,commuter_rail,Korail - Gyeongin Line,1974
+740,741,commuter_rail,Korail - Gyeongin Line,1974
+741,742,commuter_rail,Korail - Gyeongin Line,1974
+742,743,commuter_rail,Korail - Gyeongin Line,1974
+743,744,commuter_rail,Korail - Gyeongin Line,1974
+745,746,commuter_rail,Korail - Gyeongin Line,1974
+746,747,commuter_rail,Korail - Gyeongin Line,1974
+739,745,commuter_rail,Korail - Gyeongin Line,1974
+748,769,commuter_rail,Korail - Gyeongwon Line,1974
+748,749,commuter_rail,Korail - Gyeongwon Line,1974
+749,750,commuter_rail,Korail - Gyeongwon Line,1985
+750,758,commuter_rail,Korail - Gyeongwon Line,1985
+751,759,commuter_rail,Korail - Gyeongwon Line,1987
+751,752,commuter_rail,Korail - Gyeongwon Line,1986
+752,753,commuter_rail,Korail - Gyeongwon Line,1986
+753,754,commuter_rail,Korail - Gyeongwon Line,1986
+754,755,commuter_rail,Korail - Gyeongwon Line,1986
+755,756,commuter_rail,Korail - Gyeongwon Line,1986
+756,768,commuter_rail,Korail - Gyeongwon Line,1986
+757,768,commuter_rail,Korail - Gyeongwon Line,1985
+757,758,commuter_rail,Korail - Gyeongwon Line,1985
+759,767,commuter_rail,Korail - Gyeongwon Line,2006
+760,761,commuter_rail,Korail - Gyeongwon Line,2023
+761,775,commuter_rail,Korail - Gyeongwon Line,2006
+762,767,commuter_rail,Korail - Gyeongwon Line,2006
+763,764,commuter_rail,Korail - Gyeongwon Line,2006
+763,775,commuter_rail,Korail - Gyeongwon Line,2006
+765,766,commuter_rail,Korail - Gyeongwon Line,2006
+765,764,commuter_rail,Korail - Gyeongwon Line,2006
+766,762,commuter_rail,Korail - Gyeongwon Line,2006
+769,770,commuter_rail,Korail - Gyeongwon Line,1974
+771,774,commuter_rail,Korail - Gyeongwon Line,2023
+771,772,commuter_rail,Korail - Gyeongwon Line,2023
+773,772,commuter_rail,Korail - Gyeongwon Line,2023
+760,771,commuter_rail,Korail - Gyeongwon Line,2023
+766,763,commuter_rail,Korail - Gyeongwon Line,2006
+776,777,commuter_rail,Korail - Janghang Line,2008
+777,778,commuter_rail,Korail - Janghang Line,2008
+778,782,commuter_rail,Korail - Janghang Line,2008
+779,782,commuter_rail,Korail - Janghang Line,2008
+779,780,commuter_rail,Korail - Janghang Line,2008
+780,781,commuter_rail,Korail - Janghang Line,2008
+783,784,commuter_rail,Korail - Mangu Line,2014
+785,791,commuter_rail,Others - Shinbundang Line,2022
+786,787,commuter_rail,Others - Shinbundang Line,2011
+786,785,commuter_rail,Others - Shinbundang Line,2022
+787,793,commuter_rail,Others - Shinbundang Line,2011
+788,792,commuter_rail,Others - Shinbundang Line,2022
+789,796,commuter_rail,Others - Shinbundang Line,2016
+789,790,commuter_rail,Others - Shinbundang Line,2016
+790,797,commuter_rail,Others - Shinbundang Line,2016
+791,792,commuter_rail,Others - Shinbundang Line,2022
+794,795,commuter_rail,Others - Shinbundang Line,2016
+795,796,commuter_rail,Others - Shinbundang Line,2016
+797,798,commuter_rail,Others - Shinbundang Line,2016
+798,799,commuter_rail,Others - Shinbundang Line,2016
+799,800,commuter_rail,Others - Shinbundang Line,2016
+793,794,commuter_rail,Others - Shinbundang Line,2011
+801,816,commuter_rail,Korail - Jungang Line,1979
+801,826,commuter_rail,Korail - Jungang Line,1979
+802,803,commuter_rail,Korail - Jungang Line,1979
+803,804,commuter_rail,Korail - Jungang Line,1979
+804,825,commuter_rail,Korail - Jungang Line,1979
+805,815,commuter_rail,Korail - Jungang Line,2006
+805,823,commuter_rail,Korail - Jungang Line,2006
+806,817,commuter_rail,Korail - Jungang Line,2017
+806,812,commuter_rail,Korail - Jungang Line,2010
+807,817,commuter_rail,Korail - Jungang Line,2017
+808,809,commuter_rail,Korail - Jungang Line,2009
+808,814,commuter_rail,Korail - Jungang Line,2010
+809,810,commuter_rail,Korail - Jungang Line,2009
+810,811,commuter_rail,Korail - Jungang Line,2009
+811,818,commuter_rail,Korail - Jungang Line,2009
+812,813,commuter_rail,Korail - Jungang Line,2010
+813,814,commuter_rail,Korail - Jungang Line,2010
+815,824,commuter_rail,Korail - Jungang Line,2006
+818,819,commuter_rail,Korail - Jungang Line,2008
+819,820,commuter_rail,Korail - Jungang Line,2008
+820,821,commuter_rail,Korail - Jungang Line,2008
+821,822,commuter_rail,Korail - Jungang Line,2006
+822,823,commuter_rail,Korail - Jungang Line,2006
+825,826,commuter_rail,Korail - Jungang Line,1979
+827,828,commuter_rail,Korail - Gyeongui Line,2013
+827,846,commuter_rail,Korail - Gyeongui Line,2013
+829,845,commuter_rail,Korail - Gyeongui Line,2009
+830,845,commuter_rail,Korail - Gyeongui Line,2009
+830,831,commuter_rail,Korail - Gyeongui Line,2009
+831,832,commuter_rail,Korail - Gyeongui Line,2009
+832,833,commuter_rail,Korail - Gyeongui Line,2009
+833,834,commuter_rail,Korail - Gyeongui Line,2009
+834,835,commuter_rail,Korail - Gyeongui Line,2009
+835,836,commuter_rail,Korail - Gyeongui Line,2009
+836,837,commuter_rail,Korail - Gyeongui Line,2009
+837,838,commuter_rail,Korail - Gyeongui Line,2009
+838,839,commuter_rail,Korail - Gyeongui Line,2009
+839,840,commuter_rail,Korail - Gyeongui Line,2009
+840,841,commuter_rail,Korail - Gyeongui Line,2009
+841,843,commuter_rail,Korail - Gyeongui Line,2009
+842,843,commuter_rail,Korail - Gyeongui Line,2009
+842,844,commuter_rail,Korail - Gyeongui Line,2009
+844,853,commuter_rail,Korail - Gyeongui Line,2020
+846,856,commuter_rail,Korail - Gyeongui Line,2013
+847,855,commuter_rail,Korail - Gyeongui Line,2015
+847,849,commuter_rail,Korail - Gyeongui Line,2015
+848,854,commuter_rail,Korail - Gyeongui Line,2013
+850,847,commuter_rail,Korail - Gyeongui Line,2015
+851,853,commuter_rail,Korail - Gyeongui Line,2022
+851,852,commuter_rail,Korail - Gyeongui Line,2022
+854,856,commuter_rail,Korail - Gyeongui Line,2013
+855,848,commuter_rail,Korail - Gyeongui Line,2013
+828,843,commuter_rail,Korail - Gyeongui Line,2009
+857,860,commuter_rail,Korail - Sin-Ansan Line,2024
+858,859,commuter_rail,Korail - Sin-Ansan Line,2024
+858,860,commuter_rail,Korail - Sin-Ansan Line,2024
+859,864,commuter_rail,Korail - Sin-Ansan Line,2024
+861,864,commuter_rail,Korail - Sin-Ansan Line,2024
+861,866,commuter_rail,Korail - Sin-Ansan Line,2024
+862,866,commuter_rail,Korail - Sin-Ansan Line,2024
+862,863,commuter_rail,Korail - Sin-Ansan Line,2024
+865,863,commuter_rail,Korail - Sin-Ansan Line,2024
+858,862,commuter_rail,Korail - Sin-Ansan Line,2024
+867,868,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+868,869,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+869,870,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+870,871,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+871,872,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+872,873,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+873,874,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+875,874,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+875,876,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+876,877,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+877,879,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+878,879,light_rail,Seoul Light Rail Transit - Ui LRT,2017
+880,886,light_rail,Others - Gimpo Goldline,2019
+880,881,light_rail,Others - Gimpo Goldline,2019
+881,882,light_rail,Others - Gimpo Goldline,2019
+882,887,light_rail,Others - Gimpo Goldline,2019
+883,889,light_rail,Others - Gimpo Goldline,2019
+883,888,light_rail,Others - Gimpo Goldline,2019
+884,889,light_rail,Others - Gimpo Goldline,2019
+884,885,light_rail,Others - Gimpo Goldline,2019
+887,888,light_rail,Others - Gimpo Goldline,2019
+888,889,light_rail,Others - Gimpo Goldline,2019
+890,895,light_rail,Incheon Subway - Line 2,2016
+890,892,light_rail,Incheon Subway - Line 2,2016
+891,894,light_rail,Incheon Subway - Line 2,2016
+891,895,light_rail,Incheon Subway - Line 2,2016
+893,894,light_rail,Incheon Subway - Line 2,2016
+896,902,light_rail,Incheon Subway - Line 2,2016
+896,893,light_rail,Incheon Subway - Line 2,2016
+897,903,light_rail,Incheon Subway - Line 2,2016
+897,906,light_rail,Incheon Subway - Line 2,2016
+898,899,light_rail,Incheon Subway - Line 2,2016
+898,903,light_rail,Incheon Subway - Line 2,2016
+900,901,light_rail,Incheon Subway - Line 2,2016
+901,902,light_rail,Incheon Subway - Line 2,2016
+904,906,light_rail,Incheon Subway - Line 2,2016
+904,905,light_rail,Incheon Subway - Line 2,2016
+905,913,light_rail,Incheon Subway - Line 2,2016
+907,914,light_rail,Incheon Subway - Line 2,2016
+907,908,light_rail,Incheon Subway - Line 2,2016
+908,909,light_rail,Incheon Subway - Line 2,2016
+909,910,light_rail,Incheon Subway - Line 2,2016
+910,911,light_rail,Incheon Subway - Line 2,2016
+911,912,light_rail,Incheon Subway - Line 2,2016
+912,913,light_rail,Incheon Subway - Line 2,2016
+914,916,light_rail,Incheon Subway - Line 2,2016
+915,916,light_rail,Incheon Subway - Line 2,2016
+891,914,light_rail,Incheon Subway - Line 2,2016
+917,918,light_rail,Others - U Line,2012
+917,926,light_rail,Others - U Line,2012
+918,927,light_rail,Others - U Line,2012
+919,925,light_rail,Others - U Line,2012
+920,921,light_rail,Others - U Line,2012
+920,932,light_rail,Others - U Line,2012
+921,928,light_rail,Others - U Line,2012
+922,932,light_rail,Others - U Line,2012
+922,931,light_rail,Others - U Line,2012
+923,924,light_rail,Others - U Line,2012
+923,929,light_rail,Others - U Line,2012
+924,930,light_rail,Others - U Line,2012
+925,926,light_rail,Others - U Line,2012
+928,926,light_rail,Others - U Line,2012
+930,931,light_rail,Others - U Line,2012
+928,931,light_rail,Others - U Line,2012
+933,938,people_mover,Others - Incheon Airport Maglev,2016
+933,937,people_mover,Others - Incheon Airport Maglev,2016
+934,937,people_mover,Others - Incheon Airport Maglev,2016
+935,936,people_mover,Others - Incheon Airport Maglev,2016
+935,938,people_mover,Others - Incheon Airport Maglev,2016
+939,940,people_mover,Others - EverLine,2013
+940,941,people_mover,Others - EverLine,2013
+941,942,people_mover,Others - EverLine,2013
+942,943,people_mover,Others - EverLine,2013
+943,944,people_mover,Others - EverLine,2013
+944,945,people_mover,Others - EverLine,2013
+945,946,people_mover,Others - EverLine,2013
+946,947,people_mover,Others - EverLine,2013
+947,948,people_mover,Others - EverLine,2013
+948,949,people_mover,Others - EverLine,2013
+949,950,people_mover,Others - EverLine,2013
+950,951,people_mover,Others - EverLine,2013
+951,952,people_mover,Others - EverLine,2013
+952,953,people_mover,Others - EverLine,2013
+954,955,people_mover,Others - Wolmi Sea Train,2019
+955,956,people_mover,Others - Wolmi Sea Train,2019
+956,957,people_mover,Others - Wolmi Sea Train,2019
+958,962,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+958,960,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+959,962,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+959,967,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+960,968,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+961,966,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+961,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+963,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+963,965,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+966,967,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+958,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+969,972,high_speed_rail,SRT - Suseo Line,2016
+969,971,high_speed_rail,SRT - Suseo Line,2016
+970,972,high_speed_rail,SRT - Suseo Line,2016

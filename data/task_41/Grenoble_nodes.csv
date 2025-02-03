@@ -1,353 +1,353 @@
-,nodeID,nodeLabel,latitude,longitude,mode,year
-0,0,Grand'Place,5.7321696,45.1590543,default,1987.0
-1,1,Grand'Place,5.7321703,45.1590846,default,1987.0
-2,2,Les Granges,5.7278277,45.1569295,default,1996.0
-3,3,Pôle Sud - Alpexpo,5.7328343,45.1571768,default,1987.0
-4,4,Surieux,5.7220731,45.1583285,default,1996.0
-5,5,Les Granges,5.7278272,45.1569572,default,1996.0
-6,6,Marie Curie,5.7171104,45.1456253,default,1996.0
-7,7,Pôle Sud - Alpexpo,5.7328331,45.1572088,default,1987.0
-8,8,Surieux,5.7220916,45.1583488,default,1996.0
-9,9,Essarts - La Butte,5.7191827,45.1559443,default,1996.0
-10,10,Auguste Delaune,5.7153742,45.1424083,default,1996.0
-11,11,Denis Papin,5.7132065,45.1385151,default,1997.0
-12,12,Essarts - La Butte,5.7192191,45.1559416,default,1996.0
-13,13,Grenoble - Gares,5.7152968,45.189958,default,1987.0
-14,14,Berriat - Le Magasin,5.7068612,45.1887695,default,1987.0
-15,15,Échirolles - Gare,5.7184674,45.153079,default,1996.0
-16,16,Échirolles - Gare,5.7184269,45.1530848,default,1996.0
-17,17,Denis Papin,5.7131113,45.13839,default,1997.0
-18,18,La Rampe - Centre-Ville,5.7179542,45.1487544,default,1996.0
-19,19,Auguste Delaune,5.7153413,45.1424157,default,1996.0
-20,20,La Rampe - Centre-Ville,5.7179901,45.1487503,default,1996.0
-21,21,Marie Curie,5.7170817,45.1456294,default,1996.0
-22,22,Grenoble - Gares,5.7151695,45.190014,default,1987.0
-23,23,Saint-Bruno,5.7138428,45.188377,default,1987.0
-24,24,Saint-Bruno,5.7138404,45.1883507,default,1987.0
-25,25,Berriat - Le Magasin,5.7066603,45.1888062,default,1987.0
-26,26,Louis Maisonnat,5.6942097,45.1892135,default,1987.0
-27,27,Fontaine - Hôtel de Ville - La Source,5.6874779,45.1912766,default,1987.0
-28,28,Louis Maisonnat,5.6942122,45.1891902,default,1987.0
-29,29,Fontaine - Hôtel de Ville - La Source,5.6874632,45.1912543,default,1987.0
-30,30,Charles Michels,5.6801788,45.1938373,default,1987.0
-31,31,Charles Michels,5.6801918,45.1938623,default,1987.0
-32,32,La Poya,5.6723453,45.1970335,default,1987.0
-33,33,Les Fontainades - Le Vog,5.6983701,45.1890784,default,1987.0
-34,34,Les Fontainades - Le Vog,5.6983684,45.1891077,default,1987.0
-35,35,La Poya,5.6723467,45.1970717,default,1987.0
-36,36,Grenoble - Gares,5.7150515,45.1901535,default,1987.0
-37,37,Victor Hugo,5.7251056,45.1898164,default,1987.0
-38,38,Victor Hugo,5.7250858,45.1898405,default,1987.0
-39,39,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,default,1987.0
-40,40,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,default,1987.0
-41,41,Alsace - Lorraine,5.720335,45.1894027,default,1987.0
-42,42,Alsace - Lorraine,5.7203275,45.1893767,default,1987.0
-43,43,Chavant,5.7317282,45.1845327,default,1987.0
-44,44,Chavant,5.7316866,45.1845351,default,1987.0
-45,45,Verdun-Préfecture,5.7315163,45.1882626,default,1987.0
-46,46,Verdun-Préfecture,5.7314841,45.1882482,default,1987.0
-47,47,Albert 1er de Belgique,5.7317569,45.1816369,default,1987.0
-48,48,Albert 1er de Belgique,5.7317202,45.1816377,default,1987.0
-49,49,Mounier,5.7318343,45.1789337,default,1987.0
-50,50,Mounier,5.731798,45.1789348,default,1987.0
-51,51,MC2 - Maison de la Culture,5.7320207,45.1734925,default,1987.0
-52,52,MC2 - Maison de la Culture,5.7319903,45.1734916,default,1987.0
-53,53,Malherbe,5.7322435,45.1694661,default,1987.0
-54,54,Malherbe,5.732218,45.1694654,default,1987.0
-55,55,La Bruyère,5.731189,45.1662743,default,1987.0
-56,56,La Bruyère,5.731166,45.166297,default,1987.0
-57,57,Arlequin,5.7305461,45.1634677,default,1987.0
-58,58,Arlequin,5.7305119,45.1634652,default,1987.0
-59,59,Michallon,5.7455409,45.2003255,default,1990.0
-60,60,La Tronche - Hôpital,5.7412319,45.2006102,default,1990.0
-61,61,Cité Internationale,5.7111904,45.1948871,default,2001.0
-62,62,Palais de Justice – Gare,5.7116839,45.1911726,default,1999.0
-63,63,Cité Internationale,5.7111575,45.1948908,default,2001.0
-64,64,Grenoble - Gares,5.7151695,45.190014,default,1987.0
-65,65,CEA - Cambridge,5.7045072,45.2021494,default,2014.0
-66,66,Presqu'île,5.699566,45.205984,default,2014.0
-67,67,CEA - Cambridge,5.7037052,45.2027987,default,2014.0
-68,68,Mayencin - Champ Roman,5.7790805,45.1846606,default,2006.0
-69,69,Presqu'île,5.6995414,45.2059605,default,2014.0
-70,70,Gières - Gare - Universités,5.7856008,45.185426,default,2006.0
-71,71,Michallon,5.745532,45.2003468,default,1990.0
-72,72,Mayencin - Champ Roman,5.7791564,45.1846933,default,2006.0
-73,73,La Tronche - Hôpital,5.7412043,45.2006259,default,1990.0
-74,74,Gières - Gare - Universités,5.7855882,45.185447,default,2006.0
-75,75,Grand Sablon,5.7498299,45.1990562,default,1990.0
-76,76,Grand Sablon,5.7498169,45.1990308,default,1990.0
-77,77,Gières - Plaine des Sports,5.7846214,45.1876032,default,2006.0
-78,78,Condillac - Universités,5.7744482,45.189118,default,2006.0
-79,79,Les Taillées - Universités,5.7578672,45.192282,default,1990.0
-80,80,Les Taillées - Universités,5.757883,45.1923045,default,1990.0
-81,81,Palais de Justice – Gare,5.7117139,45.1911935,default,1999.0
-82,82,Gabriel Fauré,5.7645939,45.1923179,default,1990.0
-83,83,Condillac - Universités,5.7743685,45.1890448,default,2006.0
-84,84,Bibliothèques Universitaires,5.770957,45.1923234,default,1990.0
-85,85,Bibliothèques Universitaires,5.7709116,45.1923184,default,1990.0
-86,86,Gabriel Fauré,5.7645958,45.1922913,default,1990.0
-87,87,Grenoble - Gares,5.7150515,45.1901535,default,1987.0
-88,88,Victor Hugo,5.7251056,45.1898164,default,1987.0
-89,89,Victor Hugo,5.7250858,45.1898405,default,1987.0
-90,90,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,default,1987.0
-91,91,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,default,1987.0
-92,92,Alsace - Lorraine,5.720335,45.1894027,default,1987.0
-93,93,Alsace - Lorraine,5.7203275,45.1893767,default,1987.0
-94,94,Sainte-Claire - Les Halles,5.7306694,45.1913491,default,1990.0
-95,95,Notre-Dame - Musée,5.7321547,45.1935654,default,1990.0
-96,96,Notre-Dame - Musée,5.7321954,45.1936545,default,1990.0
-97,97,Île Verte,5.7367666,45.197252,default,1990.0
-98,98,Île Verte,5.7367394,45.1972676,default,1990.0
-99,99,Hector Berlioz - Universités,5.7587284,45.1910807,default,2006.0
-100,100,Gustave Rivet,5.7281332,45.1823282,default,2006.0
-101,101,Condillac - Universités,5.7743959,45.1890675,default,2006.0
-102,102,Le Prisme,5.6904944,45.1663442,default,2006.0
-103,103,Mas des Îles,5.6942941,45.1676364,default,2006.0
-104,104,Grand Pré,5.6942048,45.1721384,default,2006.0
-105,105,Fauconnière,5.6942326,45.1764647,default,2006.0
-106,106,Fauconnière,5.6942673,45.176463,default,2006.0
-107,107,Seyssinet Pariset - Hôtel de Ville,5.6964593,45.1802059,default,2006.0
-108,108,Seyssinet Pariset - Hôtel de Ville,5.6962823,45.180271,default,2006.0
-109,109,Gabriel Fauré,5.7645939,45.1923179,default,1990.0
-110,110,Condillac - Universités,5.7743685,45.1890448,default,2006.0
-111,111,Bibliothèques Universitaires,5.770957,45.1923234,default,1990.0
-112,112,Bibliothèques Universitaires,5.7709116,45.1923184,default,1990.0
-113,113,Hector Berlioz - Universités,5.7587716,45.1910766,default,2006.0
-114,114,Gabriel Fauré,5.7645958,45.1922913,default,1990.0
-115,115,Neyrpic - Belledonne,5.7568569,45.1867322,default,2006.0
-116,116,Le Prisme,5.6904488,45.1663401,default,2006.0
-117,117,Mas des Îles,5.6942518,45.1676377,default,2006.0
-118,118,Grand Pré,5.6941671,45.1721361,default,2006.0
-119,119,Péri - Brossolette,5.7513509,45.1877406,default,2006.0
-120,120,Neyrpic - Belledonne,5.7565727,45.1868233,default,2006.0
-121,121,Vallier - Libération,5.7156192,45.1802924,default,2006.0
-122,122,Grenoble - Hôtel de Ville,5.7378795,45.1874928,default,2006.0
-123,123,Foch - Ferrié,5.7225636,45.1807999,default,2006.0
-124,124,Foch - Ferrié,5.7225552,45.180829,default,2006.0
-125,125,Gustave Rivet,5.7281086,45.182356,default,
-126,126,Grenoble - Hôtel de Ville,5.7378603,45.1875158,default,2006.0
-127,127,Flandrin - Valmy,5.7444483,45.1870116,default,2006.0
-128,128,Péri - Brossolette,5.7513418,45.1876783,default,2006.0
-129,129,Vallier - Catane,5.7062372,45.1800916,default,2006.0
-130,130,Vallier - Catane,5.7062406,45.180066,default,2006.0
-131,131,Vallier - Docteur Calmette,5.7107751,45.180132,default,2006.0
-132,132,Vallier - Docteur Calmette,5.7107737,45.1801571,default,2006.0
-133,133,Vallier - Libération,5.7156165,45.1803225,default,2006.0
-134,134,Flandrin - Valmy,5.7446478,45.1870916,default,2006.0
-135,135,Chavant,5.7317282,45.1845327,default,1987.0
-136,136,Chavant,5.7316866,45.1845351,default,1987.0
-137,137,Gare supérieure,5.724660137573437,45.19857416098847,default,1934.0
-138,138,Gare inférieure,5.726102046963746,45.19296606113642,default,1934.0
-139,139,Les Taillées - Universités,5.7578436,45.1922269,default,2007.0
-140,140,Parc Jo Blanchon,5.7572846,45.175131,default,2007.0
-141,141,Neyrpic - Belledonne,5.7568569,45.1867322,default,2006.0
-142,142,Neyrpic - Belledonne,5.7565727,45.1868233,default,2006.0
-143,143,Maison Communale,5.7542885,45.1844865,default,2007.0
-144,144,Édouard Vaillant,5.7551694,45.1794122,default,2007.0
-145,145,Édouard Vaillant,5.7552044,45.1794184,default,2007.0
-146,146,Parc Jo Blanchon,5.7573176,45.1751416,default,2007.0
-147,147,Maison Communale,5.7543325,45.1844794,default,2007.0
-148,148,Étienne Grappe,5.7577966,45.1721341,default,2007.0
-149,149,Karben,5.6712139,45.2422762,default,2015.0
-150,150,La Pinéa - Saint-Robert,5.6759649,45.2354563,default,2015.0
-151,151,Pont de Vence,5.6825852,45.2299084,default,2015.0
-152,152,Le Muret,5.6865757,45.2256596,default,2015.0
-153,153,Le Muret,5.6866516,45.2256891,default,2015.0
-154,154,Casamaures Village,5.7168878,45.1988173,default,2014.0
-155,155,Louise Michel,5.7127694,45.1693642,default,2014.0
-156,156,Alliés,5.7143251,45.1739832,default,2014.0
-157,157,Alliés,5.7142877,45.1739907,default,2014.0
-158,158,Horloge,5.698384,45.2139065,default,2015.0
-159,159,Vallier - Libération,5.7162374,45.1797766,default,2014.0
-160,160,Casamaures Village,5.7168507,45.198827,default,2014.0
-161,161,Vallier - Libération,5.7162848,45.1797685,default,2014.0
-162,162,Condorcet,5.7179921,45.1848578,default,2014.0
-163,163,Condorcet,5.7179529,45.1848624,default,2014.0
-164,164,Esplanade Centre,5.716871,45.1956538,default,2014.0
-165,165,Alsace - Lorraine,5.7193646,45.1889274,default,2014.0
-166,166,Alsace - Lorraine,5.7193174,45.188935,default,2014.0
-167,167,Esplanade Centre,5.7169096,45.1956655,default,2014.0
-168,168,Louise Michel,5.7127399,45.1693713,default,2014.0
-169,169,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067612,45.2077691,default,2014.0
-170,170,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067977,45.2077864,default,2014.0
-171,171,Horloge,5.69836,45.2138812,default,2015.0
-172,172,Néron,5.6936399,45.2176711,default,2015.0
-173,173,Néron,5.6935658,45.2176409,default,2015.0
-174,174,Fiancey - Prédieu,5.6890051,45.222884,default,2015.0
-175,175,Fiancey - Prédieu,5.6890815,45.2229152,default,2015.0
-176,176,Rafour,5.6665962,45.248247,default,2015.0
-177,177,Karben,5.671178,45.2422623,default,2015.0
-178,178,La Pinéa - Saint-Robert,5.6758932,45.2354202,default,2015.0
-179,179,Pont de Vence,5.6825512,45.2298876,default,2015.0
-180,180,Rafour,5.666555,45.2482374,default,2015.0
-181,181,Les Bonnais,5.672810916873203,45.24007426162527,default,999999.0
-182,182,Les Bonnais,5.672771612642379,45.2400635484926,default,999999.0
-183,183,Grand'Place,5.7321696,45.1590543,None,1987.0
-184,184,Grand'Place,5.7321703,45.1590846,None,1987.0
-185,185,Les Granges,5.7278277,45.1569295,None,1996.0
-186,186,Pôle Sud - Alpexpo,5.7328343,45.1571768,None,1987.0
-187,187,Surieux,5.7220731,45.1583285,None,1996.0
-188,188,Les Granges,5.7278272,45.1569572,None,1996.0
-189,189,Marie Curie,5.7171104,45.1456253,None,1996.0
-190,190,Pôle Sud - Alpexpo,5.7328331,45.1572088,None,1987.0
-191,191,Surieux,5.7220916,45.1583488,None,1996.0
-192,192,Essarts - La Butte,5.7191827,45.1559443,None,1996.0
-193,193,Auguste Delaune,5.7153742,45.1424083,None,1996.0
-194,194,Denis Papin,5.7132065,45.1385151,None,1997.0
-195,195,Essarts - La Butte,5.7192191,45.1559416,None,1996.0
-196,196,Grenoble - Gares,5.7152968,45.189958,None,1987.0
-197,197,Berriat - Le Magasin,5.7068612,45.1887695,None,1987.0
-198,198,Échirolles - Gare,5.7184674,45.153079,None,1996.0
-199,199,Échirolles - Gare,5.7184269,45.1530848,None,1996.0
-200,200,Denis Papin,5.7131113,45.13839,None,1997.0
-201,201,La Rampe - Centre-Ville,5.7179542,45.1487544,None,1996.0
-202,202,Auguste Delaune,5.7153413,45.1424157,None,1996.0
-203,203,Michallon,5.7455409,45.2003255,None,1990.0
-204,204,La Tronche - Hôpital,5.7412319,45.2006102,None,1990.0
-205,205,La Rampe - Centre-Ville,5.7179901,45.1487503,None,1996.0
-206,206,Marie Curie,5.7170817,45.1456294,None,1996.0
-207,207,Cité Internationale,5.7111904,45.1948871,None,2001.0
-208,208,Palais de Justice – Gare,5.7116839,45.1911726,None,1999.0
-209,209,Cité Internationale,5.7111575,45.1948908,None,2001.0
-210,210,Grenoble - Gares,5.7151695,45.190014,None,1987.0
-211,211,CEA - Cambridge,5.7045072,45.2021494,None,2014.0
-212,212,Hector Berlioz - Universités,5.7587284,45.1910807,None,2006.0
-213,213,Presqu'île,5.699566,45.205984,None,2014.0
-214,214,Saint-Bruno,5.7138428,45.188377,None,1987.0
-215,215,Saint-Bruno,5.7138404,45.1883507,None,1987.0
-216,216,Berriat - Le Magasin,5.7066603,45.1888062,None,1987.0
-217,217,Louis Maisonnat,5.6942097,45.1892135,None,1987.0
-218,218,Fontaine - Hôtel de Ville - La Source,5.6874779,45.1912766,None,1987.0
-219,219,Louis Maisonnat,5.6942122,45.1891902,None,1987.0
-220,220,Fontaine - Hôtel de Ville - La Source,5.6874632,45.1912543,None,1987.0
-221,221,CEA - Cambridge,5.7037052,45.2027987,None,2014.0
-222,222,Charles Michels,5.6801788,45.1938373,None,1987.0
-223,223,Mayencin - Champ Roman,5.7790805,45.1846606,None,2006.0
-224,224,Charles Michels,5.6801918,45.1938623,None,1987.0
-225,225,La Poya,5.6723453,45.1970335,None,1987.0
-226,226,Presqu'île,5.6995414,45.2059605,None,2014.0
-227,227,Les Fontainades - Le Vog,5.6983701,45.1890784,None,1987.0
-228,228,Les Fontainades - Le Vog,5.6983684,45.1891077,None,1987.0
-229,229,La Poya,5.6723467,45.1970717,None,1987.0
-230,230,Gières - Gare - Universités,5.7856008,45.185426,None,2006.0
-231,231,Gustave Rivet,5.7281332,45.1823282,None,2006.0
-232,232,Michallon,5.745532,45.2003468,None,1990.0
-233,233,Mayencin - Champ Roman,5.7791564,45.1846933,None,2006.0
-234,234,La Tronche - Hôpital,5.7412043,45.2006259,None,1990.0
-235,235,Gières - Gare - Universités,5.7855882,45.185447,None,2006.0
-236,236,Grand Sablon,5.7498299,45.1990562,None,1990.0
-237,237,Grand Sablon,5.7498169,45.1990308,None,1990.0
-238,238,Gières - Plaine des Sports,5.7846214,45.1876032,None,2006.0
-239,239,Condillac - Universités,5.7743959,45.1890675,None,2006.0
-240,240,Karben,5.6712139,45.2422762,None,2015.0
-241,241,Condillac - Universités,5.7744482,45.189118,None,2006.0
-242,242,Palluel,5.6616797,45.2548812,None,0.0
-243,243,La Pinéa - Saint-Robert,5.6759649,45.2354563,None,2015.0
-244,244,Pont de Vence,5.6825852,45.2299084,None,2015.0
-245,245,Les Taillées - Universités,5.7578672,45.192282,None,1990.0
-246,246,Le Prisme,5.6904944,45.1663442,None,2006.0
-247,247,Les Taillées - Universités,5.757883,45.1923045,None,1990.0
-248,248,Palais de Justice – Gare,5.7117139,45.1911935,None,1999.0
-249,249,Mas des Îles,5.6942941,45.1676364,None,2006.0
-250,250,Grand Pré,5.6942048,45.1721384,None,2006.0
-251,251,Fauconnière,5.6942326,45.1764647,None,2006.0
-252,252,Fauconnière,5.6942673,45.176463,None,2006.0
-253,253,Seyssinet Pariset - Hôtel de Ville,5.6964593,45.1802059,None,2006.0
-254,254,Seyssinet Pariset - Hôtel de Ville,5.6962823,45.180271,None,2006.0
-255,255,Gabriel Fauré,5.7645939,45.1923179,None,1990.0
-256,256,Condillac - Universités,5.7743685,45.1890448,None,2006.0
-257,257,Bibliothèques Universitaires,5.770957,45.1923234,None,1990.0
-258,258,Bibliothèques Universitaires,5.7709116,45.1923184,None,1990.0
-259,259,Hector Berlioz - Universités,5.7587716,45.1910766,None,2006.0
-260,260,Gabriel Fauré,5.7645958,45.1922913,None,1990.0
-261,261,Les Taillées - Universités,5.7578436,45.1922269,None,2007.0
-262,262,Parc Jo Blanchon,5.7572846,45.175131,None,2007.0
-263,263,Neyrpic - Belledonne,5.7568569,45.1867322,None,2006.0
-264,264,Le Prisme,5.6904488,45.1663401,None,2006.0
-265,265,Mas des Îles,5.6942518,45.1676377,None,2006.0
-266,266,Grand Pré,5.6941671,45.1721361,None,2006.0
-267,267,Péri - Brossolette,5.7513509,45.1877406,None,2006.0
-268,268,Neyrpic - Belledonne,5.7565727,45.1868233,None,2006.0
-269,269,Maison Communale,5.7542885,45.1844865,None,2007.0
-270,270,Édouard Vaillant,5.7551694,45.1794122,None,2007.0
-271,271,Édouard Vaillant,5.7552044,45.1794184,None,2007.0
-272,272,Parc Jo Blanchon,5.7573176,45.1751416,None,2007.0
-273,273,Vallier - Libération,5.7156192,45.1802924,None,2006.0
-274,274,Grenoble - Hôtel de Ville,5.7378795,45.1874928,None,2006.0
-275,275,Foch - Ferrié,5.7225636,45.1807999,None,2006.0
-276,276,Foch - Ferrié,5.7225552,45.180829,None,2006.0
-277,277,Gustave Rivet,5.7281086,45.182356,None,
-278,278,Grenoble - Hôtel de Ville,5.7378603,45.1875158,None,2006.0
-279,279,Le Muret,5.6865757,45.2256596,None,2015.0
-280,280,Flandrin - Valmy,5.7444483,45.1870116,None,2006.0
-281,281,Péri - Brossolette,5.7513418,45.1876783,None,2006.0
-282,282,Vallier - Catane,5.7062372,45.1800916,None,2006.0
-283,283,Vallier - Catane,5.7062406,45.180066,None,2006.0
-284,284,Vallier - Docteur Calmette,5.7107751,45.180132,None,2006.0
-285,285,Vallier - Docteur Calmette,5.7107737,45.1801571,None,2006.0
-286,286,Vallier - Libération,5.7156165,45.1803225,None,2006.0
-287,287,Flandrin - Valmy,5.7446478,45.1870916,None,2006.0
-288,288,Le Muret,5.6866516,45.2256891,None,2015.0
-289,289,Casamaures Village,5.7168878,45.1988173,None,2014.0
-290,290,Maison Communale,5.7543325,45.1844794,None,2007.0
-291,291,Louise Michel,5.7127694,45.1693642,None,2014.0
-292,292,Étienne Grappe,5.7577966,45.1721341,None,2007.0
-293,293,Alliés,5.7143251,45.1739832,None,2014.0
-294,294,Alliés,5.7142877,45.1739907,None,2014.0
-295,295,Horloge,5.698384,45.2139065,None,2015.0
-296,296,Vallier - Libération,5.7162374,45.1797766,None,2014.0
-297,297,Casamaures Village,5.7168507,45.198827,None,2014.0
-298,298,Vallier - Libération,5.7162848,45.1797685,None,2014.0
-299,299,Condorcet,5.7179921,45.1848578,None,2014.0
-300,300,Condorcet,5.7179529,45.1848624,None,2014.0
-301,301,Esplanade Centre,5.716871,45.1956538,None,2014.0
-302,302,Alsace - Lorraine,5.7193646,45.1889274,None,2014.0
-303,303,Alsace - Lorraine,5.7193174,45.188935,None,2014.0
-304,304,Esplanade Centre,5.7169096,45.1956655,None,2014.0
-305,305,Louise Michel,5.7127399,45.1693713,None,2014.0
-306,306,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067612,45.2077691,None,2014.0
-307,307,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067977,45.2077864,None,2014.0
-308,308,Horloge,5.69836,45.2138812,None,2015.0
-309,309,Néron,5.6936399,45.2176711,None,2015.0
-310,310,Néron,5.6935658,45.2176409,None,2015.0
-311,311,Fiancey - Prédieu,5.6890051,45.222884,None,2015.0
-312,312,Fiancey - Prédieu,5.6890815,45.2229152,None,2015.0
-313,313,Gare supérieure,5.724660137573437,45.19857416098847,None,1934.0
-314,314,Gare inférieure,5.726102046963746,45.19296606113642,None,1934.0
-315,315,Rafour,5.6665962,45.248247,None,2015.0
-316,316,Karben,5.671178,45.2422623,None,2015.0
-317,317,La Pinéa - Saint-Robert,5.6758932,45.2354202,None,2015.0
-318,318,Palluel,5.6616417,45.2548706,None,0.0
-319,319,Pont de Vence,5.6825512,45.2298876,None,2015.0
-320,320,Rafour,5.666555,45.2482374,None,2015.0
-321,321,Les Bonnais,5.672810916873203,45.24007426162527,None,999999.0
-322,322,Les Bonnais,5.672771612642379,45.2400635484926,None,999999.0
-323,323,Grenoble - Gares,5.7150515,45.1901535,None,1987.0
-324,324,Victor Hugo,5.7251056,45.1898164,None,1987.0
-325,325,Victor Hugo,5.7250858,45.1898405,None,1987.0
-326,326,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,None,1987.0
-327,327,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,None,1987.0
-328,328,Alsace - Lorraine,5.720335,45.1894027,None,1987.0
-329,329,Alsace - Lorraine,5.7203275,45.1893767,None,1987.0
-330,330,Chavant,5.7317282,45.1845327,None,1987.0
-331,331,Chavant,5.7316866,45.1845351,None,1987.0
-332,332,Sainte-Claire - Les Halles,5.7306694,45.1913491,None,1990.0
-333,333,Notre-Dame - Musée,5.7321547,45.1935654,None,1990.0
-334,334,Notre-Dame - Musée,5.7321954,45.1936545,None,1990.0
-335,335,Île Verte,5.7367666,45.197252,None,1990.0
-336,336,Île Verte,5.7367394,45.1972676,None,1990.0
-337,337,Sainte-Claire - Les Halles,5.7306379,45.1913645,None,0.0
-338,338,Verdun-Préfecture,5.7315163,45.1882626,None,1987.0
-339,339,Verdun-Préfecture,5.7314841,45.1882482,None,1987.0
-340,340,Albert 1er de Belgique,5.7317569,45.1816369,None,1987.0
-341,341,Albert 1er de Belgique,5.7317202,45.1816377,None,1987.0
-342,342,Mounier,5.7318343,45.1789337,None,1987.0
-343,343,Mounier,5.731798,45.1789348,None,1987.0
-344,344,MC2 - Maison de la Culture,5.7320207,45.1734925,None,1987.0
-345,345,MC2 - Maison de la Culture,5.7319903,45.1734916,None,1987.0
-346,346,Malherbe,5.7322435,45.1694661,None,1987.0
-347,347,Malherbe,5.732218,45.1694654,None,1987.0
-348,348,La Bruyère,5.731189,45.1662743,None,1987.0
-349,349,La Bruyère,5.731166,45.166297,None,1987.0
-350,350,Arlequin,5.7305461,45.1634677,None,1987.0
-351,351,Arlequin,5.7305119,45.1634652,None,1987.0
+nodeID,nodeLabel,latitude,longitude,mode,year
+0,Grand'Place,5.7321696,45.1590543,default,1987.0
+1,Grand'Place,5.7321703,45.1590846,default,1987.0
+2,Les Granges,5.7278277,45.1569295,default,1996.0
+3,Pôle Sud - Alpexpo,5.7328343,45.1571768,default,1987.0
+4,Surieux,5.7220731,45.1583285,default,1996.0
+5,Les Granges,5.7278272,45.1569572,default,1996.0
+6,Marie Curie,5.7171104,45.1456253,default,1996.0
+7,Pôle Sud - Alpexpo,5.7328331,45.1572088,default,1987.0
+8,Surieux,5.7220916,45.1583488,default,1996.0
+9,Essarts - La Butte,5.7191827,45.1559443,default,1996.0
+10,Auguste Delaune,5.7153742,45.1424083,default,1996.0
+11,Denis Papin,5.7132065,45.1385151,default,1997.0
+12,Essarts - La Butte,5.7192191,45.1559416,default,1996.0
+13,Grenoble - Gares,5.7152968,45.189958,default,1987.0
+14,Berriat - Le Magasin,5.7068612,45.1887695,default,1987.0
+15,Échirolles - Gare,5.7184674,45.153079,default,1996.0
+16,Échirolles - Gare,5.7184269,45.1530848,default,1996.0
+17,Denis Papin,5.7131113,45.13839,default,1997.0
+18,La Rampe - Centre-Ville,5.7179542,45.1487544,default,1996.0
+19,Auguste Delaune,5.7153413,45.1424157,default,1996.0
+20,La Rampe - Centre-Ville,5.7179901,45.1487503,default,1996.0
+21,Marie Curie,5.7170817,45.1456294,default,1996.0
+22,Grenoble - Gares,5.7151695,45.190014,default,1987.0
+23,Saint-Bruno,5.7138428,45.188377,default,1987.0
+24,Saint-Bruno,5.7138404,45.1883507,default,1987.0
+25,Berriat - Le Magasin,5.7066603,45.1888062,default,1987.0
+26,Louis Maisonnat,5.6942097,45.1892135,default,1987.0
+27,Fontaine - Hôtel de Ville - La Source,5.6874779,45.1912766,default,1987.0
+28,Louis Maisonnat,5.6942122,45.1891902,default,1987.0
+29,Fontaine - Hôtel de Ville - La Source,5.6874632,45.1912543,default,1987.0
+30,Charles Michels,5.6801788,45.1938373,default,1987.0
+31,Charles Michels,5.6801918,45.1938623,default,1987.0
+32,La Poya,5.6723453,45.1970335,default,1987.0
+33,Les Fontainades - Le Vog,5.6983701,45.1890784,default,1987.0
+34,Les Fontainades - Le Vog,5.6983684,45.1891077,default,1987.0
+35,La Poya,5.6723467,45.1970717,default,1987.0
+36,Grenoble - Gares,5.7150515,45.1901535,default,1987.0
+37,Victor Hugo,5.7251056,45.1898164,default,1987.0
+38,Victor Hugo,5.7250858,45.1898405,default,1987.0
+39,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,default,1987.0
+40,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,default,1987.0
+41,Alsace - Lorraine,5.720335,45.1894027,default,1987.0
+42,Alsace - Lorraine,5.7203275,45.1893767,default,1987.0
+43,Chavant,5.7317282,45.1845327,default,1987.0
+44,Chavant,5.7316866,45.1845351,default,1987.0
+45,Verdun-Préfecture,5.7315163,45.1882626,default,1987.0
+46,Verdun-Préfecture,5.7314841,45.1882482,default,1987.0
+47,Albert 1er de Belgique,5.7317569,45.1816369,default,1987.0
+48,Albert 1er de Belgique,5.7317202,45.1816377,default,1987.0
+49,Mounier,5.7318343,45.1789337,default,1987.0
+50,Mounier,5.731798,45.1789348,default,1987.0
+51,MC2 - Maison de la Culture,5.7320207,45.1734925,default,1987.0
+52,MC2 - Maison de la Culture,5.7319903,45.1734916,default,1987.0
+53,Malherbe,5.7322435,45.1694661,default,1987.0
+54,Malherbe,5.732218,45.1694654,default,1987.0
+55,La Bruyère,5.731189,45.1662743,default,1987.0
+56,La Bruyère,5.731166,45.166297,default,1987.0
+57,Arlequin,5.7305461,45.1634677,default,1987.0
+58,Arlequin,5.7305119,45.1634652,default,1987.0
+59,Michallon,5.7455409,45.2003255,default,1990.0
+60,La Tronche - Hôpital,5.7412319,45.2006102,default,1990.0
+61,Cité Internationale,5.7111904,45.1948871,default,2001.0
+62,Palais de Justice – Gare,5.7116839,45.1911726,default,1999.0
+63,Cité Internationale,5.7111575,45.1948908,default,2001.0
+64,Grenoble - Gares,5.7151695,45.190014,default,1987.0
+65,CEA - Cambridge,5.7045072,45.2021494,default,2014.0
+66,Presqu'île,5.699566,45.205984,default,2014.0
+67,CEA - Cambridge,5.7037052,45.2027987,default,2014.0
+68,Mayencin - Champ Roman,5.7790805,45.1846606,default,2006.0
+69,Presqu'île,5.6995414,45.2059605,default,2014.0
+70,Gières - Gare - Universités,5.7856008,45.185426,default,2006.0
+71,Michallon,5.745532,45.2003468,default,1990.0
+72,Mayencin - Champ Roman,5.7791564,45.1846933,default,2006.0
+73,La Tronche - Hôpital,5.7412043,45.2006259,default,1990.0
+74,Gières - Gare - Universités,5.7855882,45.185447,default,2006.0
+75,Grand Sablon,5.7498299,45.1990562,default,1990.0
+76,Grand Sablon,5.7498169,45.1990308,default,1990.0
+77,Gières - Plaine des Sports,5.7846214,45.1876032,default,2006.0
+78,Condillac - Universités,5.7744482,45.189118,default,2006.0
+79,Les Taillées - Universités,5.7578672,45.192282,default,1990.0
+80,Les Taillées - Universités,5.757883,45.1923045,default,1990.0
+81,Palais de Justice – Gare,5.7117139,45.1911935,default,1999.0
+82,Gabriel Fauré,5.7645939,45.1923179,default,1990.0
+83,Condillac - Universités,5.7743685,45.1890448,default,2006.0
+84,Bibliothèques Universitaires,5.770957,45.1923234,default,1990.0
+85,Bibliothèques Universitaires,5.7709116,45.1923184,default,1990.0
+86,Gabriel Fauré,5.7645958,45.1922913,default,1990.0
+87,Grenoble - Gares,5.7150515,45.1901535,default,1987.0
+88,Victor Hugo,5.7251056,45.1898164,default,1987.0
+89,Victor Hugo,5.7250858,45.1898405,default,1987.0
+90,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,default,1987.0
+91,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,default,1987.0
+92,Alsace - Lorraine,5.720335,45.1894027,default,1987.0
+93,Alsace - Lorraine,5.7203275,45.1893767,default,1987.0
+94,Sainte-Claire - Les Halles,5.7306694,45.1913491,default,1990.0
+95,Notre-Dame - Musée,5.7321547,45.1935654,default,1990.0
+96,Notre-Dame - Musée,5.7321954,45.1936545,default,1990.0
+97,Île Verte,5.7367666,45.197252,default,1990.0
+98,Île Verte,5.7367394,45.1972676,default,1990.0
+99,Hector Berlioz - Universités,5.7587284,45.1910807,default,2006.0
+100,Gustave Rivet,5.7281332,45.1823282,default,2006.0
+101,Condillac - Universités,5.7743959,45.1890675,default,2006.0
+102,Le Prisme,5.6904944,45.1663442,default,2006.0
+103,Mas des Îles,5.6942941,45.1676364,default,2006.0
+104,Grand Pré,5.6942048,45.1721384,default,2006.0
+105,Fauconnière,5.6942326,45.1764647,default,2006.0
+106,Fauconnière,5.6942673,45.176463,default,2006.0
+107,Seyssinet Pariset - Hôtel de Ville,5.6964593,45.1802059,default,2006.0
+108,Seyssinet Pariset - Hôtel de Ville,5.6962823,45.180271,default,2006.0
+109,Gabriel Fauré,5.7645939,45.1923179,default,1990.0
+110,Condillac - Universités,5.7743685,45.1890448,default,2006.0
+111,Bibliothèques Universitaires,5.770957,45.1923234,default,1990.0
+112,Bibliothèques Universitaires,5.7709116,45.1923184,default,1990.0
+113,Hector Berlioz - Universités,5.7587716,45.1910766,default,2006.0
+114,Gabriel Fauré,5.7645958,45.1922913,default,1990.0
+115,Neyrpic - Belledonne,5.7568569,45.1867322,default,2006.0
+116,Le Prisme,5.6904488,45.1663401,default,2006.0
+117,Mas des Îles,5.6942518,45.1676377,default,2006.0
+118,Grand Pré,5.6941671,45.1721361,default,2006.0
+119,Péri - Brossolette,5.7513509,45.1877406,default,2006.0
+120,Neyrpic - Belledonne,5.7565727,45.1868233,default,2006.0
+121,Vallier - Libération,5.7156192,45.1802924,default,2006.0
+122,Grenoble - Hôtel de Ville,5.7378795,45.1874928,default,2006.0
+123,Foch - Ferrié,5.7225636,45.1807999,default,2006.0
+124,Foch - Ferrié,5.7225552,45.180829,default,2006.0
+125,Gustave Rivet,5.7281086,45.182356,default,
+126,Grenoble - Hôtel de Ville,5.7378603,45.1875158,default,2006.0
+127,Flandrin - Valmy,5.7444483,45.1870116,default,2006.0
+128,Péri - Brossolette,5.7513418,45.1876783,default,2006.0
+129,Vallier - Catane,5.7062372,45.1800916,default,2006.0
+130,Vallier - Catane,5.7062406,45.180066,default,2006.0
+131,Vallier - Docteur Calmette,5.7107751,45.180132,default,2006.0
+132,Vallier - Docteur Calmette,5.7107737,45.1801571,default,2006.0
+133,Vallier - Libération,5.7156165,45.1803225,default,2006.0
+134,Flandrin - Valmy,5.7446478,45.1870916,default,2006.0
+135,Chavant,5.7317282,45.1845327,default,1987.0
+136,Chavant,5.7316866,45.1845351,default,1987.0
+137,Gare supérieure,5.724660137573437,45.19857416098847,default,1934.0
+138,Gare inférieure,5.726102046963746,45.19296606113642,default,1934.0
+139,Les Taillées - Universités,5.7578436,45.1922269,default,2007.0
+140,Parc Jo Blanchon,5.7572846,45.175131,default,2007.0
+141,Neyrpic - Belledonne,5.7568569,45.1867322,default,2006.0
+142,Neyrpic - Belledonne,5.7565727,45.1868233,default,2006.0
+143,Maison Communale,5.7542885,45.1844865,default,2007.0
+144,Édouard Vaillant,5.7551694,45.1794122,default,2007.0
+145,Édouard Vaillant,5.7552044,45.1794184,default,2007.0
+146,Parc Jo Blanchon,5.7573176,45.1751416,default,2007.0
+147,Maison Communale,5.7543325,45.1844794,default,2007.0
+148,Étienne Grappe,5.7577966,45.1721341,default,2007.0
+149,Karben,5.6712139,45.2422762,default,2015.0
+150,La Pinéa - Saint-Robert,5.6759649,45.2354563,default,2015.0
+151,Pont de Vence,5.6825852,45.2299084,default,2015.0
+152,Le Muret,5.6865757,45.2256596,default,2015.0
+153,Le Muret,5.6866516,45.2256891,default,2015.0
+154,Casamaures Village,5.7168878,45.1988173,default,2014.0
+155,Louise Michel,5.7127694,45.1693642,default,2014.0
+156,Alliés,5.7143251,45.1739832,default,2014.0
+157,Alliés,5.7142877,45.1739907,default,2014.0
+158,Horloge,5.698384,45.2139065,default,2015.0
+159,Vallier - Libération,5.7162374,45.1797766,default,2014.0
+160,Casamaures Village,5.7168507,45.198827,default,2014.0
+161,Vallier - Libération,5.7162848,45.1797685,default,2014.0
+162,Condorcet,5.7179921,45.1848578,default,2014.0
+163,Condorcet,5.7179529,45.1848624,default,2014.0
+164,Esplanade Centre,5.716871,45.1956538,default,2014.0
+165,Alsace - Lorraine,5.7193646,45.1889274,default,2014.0
+166,Alsace - Lorraine,5.7193174,45.188935,default,2014.0
+167,Esplanade Centre,5.7169096,45.1956655,default,2014.0
+168,Louise Michel,5.7127399,45.1693713,default,2014.0
+169,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067612,45.2077691,default,2014.0
+170,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067977,45.2077864,default,2014.0
+171,Horloge,5.69836,45.2138812,default,2015.0
+172,Néron,5.6936399,45.2176711,default,2015.0
+173,Néron,5.6935658,45.2176409,default,2015.0
+174,Fiancey - Prédieu,5.6890051,45.222884,default,2015.0
+175,Fiancey - Prédieu,5.6890815,45.2229152,default,2015.0
+176,Rafour,5.6665962,45.248247,default,2015.0
+177,Karben,5.671178,45.2422623,default,2015.0
+178,La Pinéa - Saint-Robert,5.6758932,45.2354202,default,2015.0
+179,Pont de Vence,5.6825512,45.2298876,default,2015.0
+180,Rafour,5.666555,45.2482374,default,2015.0
+181,Les Bonnais,5.672810916873203,45.24007426162527,default,999999.0
+182,Les Bonnais,5.672771612642379,45.2400635484926,default,999999.0
+183,Grand'Place,5.7321696,45.1590543,None,1987.0
+184,Grand'Place,5.7321703,45.1590846,None,1987.0
+185,Les Granges,5.7278277,45.1569295,None,1996.0
+186,Pôle Sud - Alpexpo,5.7328343,45.1571768,None,1987.0
+187,Surieux,5.7220731,45.1583285,None,1996.0
+188,Les Granges,5.7278272,45.1569572,None,1996.0
+189,Marie Curie,5.7171104,45.1456253,None,1996.0
+190,Pôle Sud - Alpexpo,5.7328331,45.1572088,None,1987.0
+191,Surieux,5.7220916,45.1583488,None,1996.0
+192,Essarts - La Butte,5.7191827,45.1559443,None,1996.0
+193,Auguste Delaune,5.7153742,45.1424083,None,1996.0
+194,Denis Papin,5.7132065,45.1385151,None,1997.0
+195,Essarts - La Butte,5.7192191,45.1559416,None,1996.0
+196,Grenoble - Gares,5.7152968,45.189958,None,1987.0
+197,Berriat - Le Magasin,5.7068612,45.1887695,None,1987.0
+198,Échirolles - Gare,5.7184674,45.153079,None,1996.0
+199,Échirolles - Gare,5.7184269,45.1530848,None,1996.0
+200,Denis Papin,5.7131113,45.13839,None,1997.0
+201,La Rampe - Centre-Ville,5.7179542,45.1487544,None,1996.0
+202,Auguste Delaune,5.7153413,45.1424157,None,1996.0
+203,Michallon,5.7455409,45.2003255,None,1990.0
+204,La Tronche - Hôpital,5.7412319,45.2006102,None,1990.0
+205,La Rampe - Centre-Ville,5.7179901,45.1487503,None,1996.0
+206,Marie Curie,5.7170817,45.1456294,None,1996.0
+207,Cité Internationale,5.7111904,45.1948871,None,2001.0
+208,Palais de Justice – Gare,5.7116839,45.1911726,None,1999.0
+209,Cité Internationale,5.7111575,45.1948908,None,2001.0
+210,Grenoble - Gares,5.7151695,45.190014,None,1987.0
+211,CEA - Cambridge,5.7045072,45.2021494,None,2014.0
+212,Hector Berlioz - Universités,5.7587284,45.1910807,None,2006.0
+213,Presqu'île,5.699566,45.205984,None,2014.0
+214,Saint-Bruno,5.7138428,45.188377,None,1987.0
+215,Saint-Bruno,5.7138404,45.1883507,None,1987.0
+216,Berriat - Le Magasin,5.7066603,45.1888062,None,1987.0
+217,Louis Maisonnat,5.6942097,45.1892135,None,1987.0
+218,Fontaine - Hôtel de Ville - La Source,5.6874779,45.1912766,None,1987.0
+219,Louis Maisonnat,5.6942122,45.1891902,None,1987.0
+220,Fontaine - Hôtel de Ville - La Source,5.6874632,45.1912543,None,1987.0
+221,CEA - Cambridge,5.7037052,45.2027987,None,2014.0
+222,Charles Michels,5.6801788,45.1938373,None,1987.0
+223,Mayencin - Champ Roman,5.7790805,45.1846606,None,2006.0
+224,Charles Michels,5.6801918,45.1938623,None,1987.0
+225,La Poya,5.6723453,45.1970335,None,1987.0
+226,Presqu'île,5.6995414,45.2059605,None,2014.0
+227,Les Fontainades - Le Vog,5.6983701,45.1890784,None,1987.0
+228,Les Fontainades - Le Vog,5.6983684,45.1891077,None,1987.0
+229,La Poya,5.6723467,45.1970717,None,1987.0
+230,Gières - Gare - Universités,5.7856008,45.185426,None,2006.0
+231,Gustave Rivet,5.7281332,45.1823282,None,2006.0
+232,Michallon,5.745532,45.2003468,None,1990.0
+233,Mayencin - Champ Roman,5.7791564,45.1846933,None,2006.0
+234,La Tronche - Hôpital,5.7412043,45.2006259,None,1990.0
+235,Gières - Gare - Universités,5.7855882,45.185447,None,2006.0
+236,Grand Sablon,5.7498299,45.1990562,None,1990.0
+237,Grand Sablon,5.7498169,45.1990308,None,1990.0
+238,Gières - Plaine des Sports,5.7846214,45.1876032,None,2006.0
+239,Condillac - Universités,5.7743959,45.1890675,None,2006.0
+240,Karben,5.6712139,45.2422762,None,2015.0
+241,Condillac - Universités,5.7744482,45.189118,None,2006.0
+242,Palluel,5.6616797,45.2548812,None,0.0
+243,La Pinéa - Saint-Robert,5.6759649,45.2354563,None,2015.0
+244,Pont de Vence,5.6825852,45.2299084,None,2015.0
+245,Les Taillées - Universités,5.7578672,45.192282,None,1990.0
+246,Le Prisme,5.6904944,45.1663442,None,2006.0
+247,Les Taillées - Universités,5.757883,45.1923045,None,1990.0
+248,Palais de Justice – Gare,5.7117139,45.1911935,None,1999.0
+249,Mas des Îles,5.6942941,45.1676364,None,2006.0
+250,Grand Pré,5.6942048,45.1721384,None,2006.0
+251,Fauconnière,5.6942326,45.1764647,None,2006.0
+252,Fauconnière,5.6942673,45.176463,None,2006.0
+253,Seyssinet Pariset - Hôtel de Ville,5.6964593,45.1802059,None,2006.0
+254,Seyssinet Pariset - Hôtel de Ville,5.6962823,45.180271,None,2006.0
+255,Gabriel Fauré,5.7645939,45.1923179,None,1990.0
+256,Condillac - Universités,5.7743685,45.1890448,None,2006.0
+257,Bibliothèques Universitaires,5.770957,45.1923234,None,1990.0
+258,Bibliothèques Universitaires,5.7709116,45.1923184,None,1990.0
+259,Hector Berlioz - Universités,5.7587716,45.1910766,None,2006.0
+260,Gabriel Fauré,5.7645958,45.1922913,None,1990.0
+261,Les Taillées - Universités,5.7578436,45.1922269,None,2007.0
+262,Parc Jo Blanchon,5.7572846,45.175131,None,2007.0
+263,Neyrpic - Belledonne,5.7568569,45.1867322,None,2006.0
+264,Le Prisme,5.6904488,45.1663401,None,2006.0
+265,Mas des Îles,5.6942518,45.1676377,None,2006.0
+266,Grand Pré,5.6941671,45.1721361,None,2006.0
+267,Péri - Brossolette,5.7513509,45.1877406,None,2006.0
+268,Neyrpic - Belledonne,5.7565727,45.1868233,None,2006.0
+269,Maison Communale,5.7542885,45.1844865,None,2007.0
+270,Édouard Vaillant,5.7551694,45.1794122,None,2007.0
+271,Édouard Vaillant,5.7552044,45.1794184,None,2007.0
+272,Parc Jo Blanchon,5.7573176,45.1751416,None,2007.0
+273,Vallier - Libération,5.7156192,45.1802924,None,2006.0
+274,Grenoble - Hôtel de Ville,5.7378795,45.1874928,None,2006.0
+275,Foch - Ferrié,5.7225636,45.1807999,None,2006.0
+276,Foch - Ferrié,5.7225552,45.180829,None,2006.0
+277,Gustave Rivet,5.7281086,45.182356,None,
+278,Grenoble - Hôtel de Ville,5.7378603,45.1875158,None,2006.0
+279,Le Muret,5.6865757,45.2256596,None,2015.0
+280,Flandrin - Valmy,5.7444483,45.1870116,None,2006.0
+281,Péri - Brossolette,5.7513418,45.1876783,None,2006.0
+282,Vallier - Catane,5.7062372,45.1800916,None,2006.0
+283,Vallier - Catane,5.7062406,45.180066,None,2006.0
+284,Vallier - Docteur Calmette,5.7107751,45.180132,None,2006.0
+285,Vallier - Docteur Calmette,5.7107737,45.1801571,None,2006.0
+286,Vallier - Libération,5.7156165,45.1803225,None,2006.0
+287,Flandrin - Valmy,5.7446478,45.1870916,None,2006.0
+288,Le Muret,5.6866516,45.2256891,None,2015.0
+289,Casamaures Village,5.7168878,45.1988173,None,2014.0
+290,Maison Communale,5.7543325,45.1844794,None,2007.0
+291,Louise Michel,5.7127694,45.1693642,None,2014.0
+292,Étienne Grappe,5.7577966,45.1721341,None,2007.0
+293,Alliés,5.7143251,45.1739832,None,2014.0
+294,Alliés,5.7142877,45.1739907,None,2014.0
+295,Horloge,5.698384,45.2139065,None,2015.0
+296,Vallier - Libération,5.7162374,45.1797766,None,2014.0
+297,Casamaures Village,5.7168507,45.198827,None,2014.0
+298,Vallier - Libération,5.7162848,45.1797685,None,2014.0
+299,Condorcet,5.7179921,45.1848578,None,2014.0
+300,Condorcet,5.7179529,45.1848624,None,2014.0
+301,Esplanade Centre,5.716871,45.1956538,None,2014.0
+302,Alsace - Lorraine,5.7193646,45.1889274,None,2014.0
+303,Alsace - Lorraine,5.7193174,45.188935,None,2014.0
+304,Esplanade Centre,5.7169096,45.1956655,None,2014.0
+305,Louise Michel,5.7127399,45.1693713,None,2014.0
+306,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067612,45.2077691,None,2014.0
+307,Saint-Martin-le-Vinoux - Hôtel de Ville,5.7067977,45.2077864,None,2014.0
+308,Horloge,5.69836,45.2138812,None,2015.0
+309,Néron,5.6936399,45.2176711,None,2015.0
+310,Néron,5.6935658,45.2176409,None,2015.0
+311,Fiancey - Prédieu,5.6890051,45.222884,None,2015.0
+312,Fiancey - Prédieu,5.6890815,45.2229152,None,2015.0
+313,Gare supérieure,5.724660137573437,45.19857416098847,None,1934.0
+314,Gare inférieure,5.726102046963746,45.19296606113642,None,1934.0
+315,Rafour,5.6665962,45.248247,None,2015.0
+316,Karben,5.671178,45.2422623,None,2015.0
+317,La Pinéa - Saint-Robert,5.6758932,45.2354202,None,2015.0
+318,Palluel,5.6616417,45.2548706,None,0.0
+319,Pont de Vence,5.6825512,45.2298876,None,2015.0
+320,Rafour,5.666555,45.2482374,None,2015.0
+321,Les Bonnais,5.672810916873203,45.24007426162527,None,999999.0
+322,Les Bonnais,5.672771612642379,45.2400635484926,None,999999.0
+323,Grenoble - Gares,5.7150515,45.1901535,None,1987.0
+324,Victor Hugo,5.7251056,45.1898164,None,1987.0
+325,Victor Hugo,5.7250858,45.1898405,None,1987.0
+326,Hubert Dubedout - Maison du tourisme,5.7282758,45.1901756,None,1987.0
+327,Hubert Dubedout - Maison du tourisme,5.7282686,45.1901482,None,1987.0
+328,Alsace - Lorraine,5.720335,45.1894027,None,1987.0
+329,Alsace - Lorraine,5.7203275,45.1893767,None,1987.0
+330,Chavant,5.7317282,45.1845327,None,1987.0
+331,Chavant,5.7316866,45.1845351,None,1987.0
+332,Sainte-Claire - Les Halles,5.7306694,45.1913491,None,1990.0
+333,Notre-Dame - Musée,5.7321547,45.1935654,None,1990.0
+334,Notre-Dame - Musée,5.7321954,45.1936545,None,1990.0
+335,Île Verte,5.7367666,45.197252,None,1990.0
+336,Île Verte,5.7367394,45.1972676,None,1990.0
+337,Sainte-Claire - Les Halles,5.7306379,45.1913645,None,0.0
+338,Verdun-Préfecture,5.7315163,45.1882626,None,1987.0
+339,Verdun-Préfecture,5.7314841,45.1882482,None,1987.0
+340,Albert 1er de Belgique,5.7317569,45.1816369,None,1987.0
+341,Albert 1er de Belgique,5.7317202,45.1816377,None,1987.0
+342,Mounier,5.7318343,45.1789337,None,1987.0
+343,Mounier,5.731798,45.1789348,None,1987.0
+344,MC2 - Maison de la Culture,5.7320207,45.1734925,None,1987.0
+345,MC2 - Maison de la Culture,5.7319903,45.1734916,None,1987.0
+346,Malherbe,5.7322435,45.1694661,None,1987.0
+347,Malherbe,5.732218,45.1694654,None,1987.0
+348,La Bruyère,5.731189,45.1662743,None,1987.0
+349,La Bruyère,5.731166,45.166297,None,1987.0
+350,Arlequin,5.7305461,45.1634677,None,1987.0
+351,Arlequin,5.7305119,45.1634652,None,1987.0

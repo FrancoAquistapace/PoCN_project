@@ -1,255 +1,255 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,light_rail,Turismo - Expresso Turístico • Luz-Mogi das Cruzes (CPTM),2009.0
-1,2,3,light_rail,Turismo - Expresso Turístico • Luz-Paranapiacaba (CPTM),2009.0
-2,3,4,light_rail,Turismo - Expresso Turístico • Luz-Paranapiacaba (CPTM),2009.0
-3,6,7,light_rail,Turismo - Trem de Guararema (ABPF),1876.0
-4,8,9,light_rail,Turismo - Trem dos Imigrantes (ABPF),1967.0
-5,10,13,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
-6,11,12,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
-7,12,13,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
-8,15,21,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-9,15,22,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-10,16,17,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-11,16,18,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-12,17,21,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-13,18,19,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-14,19,20,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-15,17,18,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
-16,23,39,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-17,23,29,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-18,24,26,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
-19,24,35,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
-20,25,37,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-21,25,39,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-22,26,36,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-23,27,42,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-24,27,28,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-25,28,30,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-26,29,45,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-27,30,38,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-28,31,45,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-29,31,34,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-30,32,33,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
-31,33,35,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
-32,34,36,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-33,37,44,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-34,38,41,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-35,40,41,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
-36,42,43,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-37,43,44,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-38,44,34,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-39,46,48,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
-40,46,50,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
-41,47,51,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
-42,47,49,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
-43,48,49,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1980.0
-44,50,61,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
-45,51,62,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
-46,52,53,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-47,52,62,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-48,53,63,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-49,54,58,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-50,54,57,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-51,55,56,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-52,56,57,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-53,58,59,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
-54,59,60,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
-55,60,61,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
-56,64,65,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-57,64,69,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-58,65,68,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-59,66,72,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-60,66,73,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-61,67,69,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-62,67,70,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-63,68,76,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-64,71,70,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-65,71,73,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-66,72,74,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-67,75,80,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-68,76,80,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-69,77,79,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-70,77,74,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-71,78,79,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-72,78,81,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-73,76,72,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-74,82,89,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-75,83,88,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-76,83,97,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-77,84,94,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-78,84,98,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1892.0
-79,85,89,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-80,85,87,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-81,86,90,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-82,87,97,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-83,88,91,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-84,90,93,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-85,91,92,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-86,92,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-87,93,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-88,94,96,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-89,96,90,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-90,99,100,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
-91,99,104,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
-92,100,102,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
-93,101,103,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
-94,101,105,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
-95,102,106,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
-96,103,104,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
-97,105,108,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
-98,106,107,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2014.0
-99,108,109,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
-100,110,123,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-101,111,115,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-102,111,114,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-103,112,120,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-104,112,118,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-105,113,120,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-106,113,115,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-107,114,121,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-108,116,121,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-109,116,117,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-110,117,124,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-111,118,119,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),999999.0
-112,122,124,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-113,122,123,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-114,122,112,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-115,125,130,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
-116,125,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
-117,126,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2006.0
-118,126,135,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2006.0
-119,127,134,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
-120,127,129,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
-121,130,138,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
-122,131,132,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
-123,131,134,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
-124,132,133,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1991.0
-125,133,136,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
-126,135,136,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
-127,137,138,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),999999.0
-128,139,147,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2010.0
-129,139,143,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
-130,140,149,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2021.0
-131,140,145,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2018.0
-132,141,143,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
-133,141,148,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
-134,142,146,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
-135,142,147,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2010.0
-136,144,148,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
-137,145,146,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2018.0
-138,150,162,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
-139,150,151,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
-140,151,153,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
-141,152,153,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-142,152,154,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-143,154,165,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-144,155,166,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-145,155,165,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-146,156,157,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-147,157,166,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
-148,158,163,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
-149,158,160,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
-150,159,164,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2014.0
-151,160,161,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
-152,161,159,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
-153,162,164,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
-154,167,169,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-155,167,168,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-156,168,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-157,169,179,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-158,170,171,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-159,171,172,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-160,172,173,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-161,173,174,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-162,174,175,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-163,175,176,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-164,176,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-165,178,179,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-166,169,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-167,180,185,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-168,180,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-169,181,186,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-170,181,188,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-171,182,183,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-172,182,191,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-173,183,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-174,185,186,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-175,187,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-176,187,193,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-177,188,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-178,189,190,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-179,190,193,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-180,193,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-181,194,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
-182,195,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
-183,197,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-184,197,212,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-185,198,217,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-186,198,202,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-187,199,206,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-188,199,204,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-189,200,216,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-190,200,217,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-191,201,216,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-192,201,218,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-193,202,214,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-194,203,214,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-195,203,204,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-196,205,209,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-197,205,208,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-198,206,215,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-199,207,218,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-200,208,215,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-201,209,210,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-202,210,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-203,213,212,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-204,201,197,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-205,219,220,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),
-206,220,225,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-207,221,227,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-208,221,228,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-209,222,223,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-210,223,224,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-211,224,236,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-212,225,238,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-213,226,233,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-214,226,232,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-215,229,232,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-216,230,235,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-217,230,234,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-218,231,235,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-219,233,234,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-220,236,231,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-221,237,238,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-222,231,237,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-223,239,240,bus,Metrorrodoviário - Linha B • Diadema-Berrini (Metra),2010.0
-224,241,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2014.0
-225,242,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2013.0
-226,244,246,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),
-227,244,248,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),
-228,245,246,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),2018.0
-229,247,248,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),2017.0
-230,249,250,bus,Metrorrodoviário - Itapecerica-João Dias-Centro (SPTrans),2000.0
-231,251,253,bus,Metrorrodoviário - Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans),2004.0
-232,251,252,bus,Metrorrodoviário - Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans),2004.0
-233,255,257,bus,Metrorrodoviário - Pirituba-Lapa-Centro (SPTrans),2003.0
-234,256,257,bus,Metrorrodoviário - Pirituba-Lapa-Centro (SPTrans),2003.0
-235,259,260,bus,Metrorrodoviário - Inajar-Rio Branco-Centro (SPTrans),1991.0
-236,261,263,bus,Metrorrodoviário - Parelheiros-Rio Bonito-Santo Amaro (SPTrans),2004.0
-237,262,263,bus,Metrorrodoviário - Parelheiros-Rio Bonito-Santo Amaro (SPTrans),2004.0
-238,264,268,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
-239,264,269,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
-240,265,270,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1988.0
-241,265,271,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1988.0
-242,266,267,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
-243,267,269,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
-244,271,267,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
-245,272,273,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-246,273,274,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-247,274,275,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-248,275,280,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-249,276,277,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-250,277,278,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
-251,278,279,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2009.0
-252,279,281,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2009.0
-253,280,278,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+nodeID_from,nodeID_to,mode,line,year
+0,1,light_rail,Turismo - Expresso Turístico • Luz-Mogi das Cruzes (CPTM),2009.0
+2,3,light_rail,Turismo - Expresso Turístico • Luz-Paranapiacaba (CPTM),2009.0
+3,4,light_rail,Turismo - Expresso Turístico • Luz-Paranapiacaba (CPTM),2009.0
+6,7,light_rail,Turismo - Trem de Guararema (ABPF),1876.0
+8,9,light_rail,Turismo - Trem dos Imigrantes (ABPF),1967.0
+10,13,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
+11,12,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
+12,13,light_rail,Turismo - Estrada de Ferro Perus-Pirapora (IFPPC),1914.0
+15,21,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+15,22,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+16,17,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+16,18,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+17,21,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+18,19,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+19,20,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+17,18,heavy_rail,Metroferroviário - Linha 17 • Ouro (ViaMobilidade),999999.0
+23,39,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+23,29,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+24,26,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
+24,35,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
+25,37,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+25,39,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+26,36,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+27,42,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+27,28,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+28,30,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+29,45,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+30,38,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+31,45,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+31,34,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+32,33,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
+33,35,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1998.0
+34,36,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+37,44,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+38,41,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+40,41,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
+42,43,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+43,44,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+44,34,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+46,48,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
+46,50,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
+47,51,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
+47,49,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
+48,49,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1980.0
+50,61,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
+51,62,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
+52,53,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+52,62,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+53,63,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+54,58,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+54,57,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+55,56,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+56,57,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+58,59,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1988.0
+59,60,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
+60,61,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1986.0
+64,65,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+64,69,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+65,68,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+66,72,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+66,73,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+67,69,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+67,70,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+68,76,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+71,70,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+71,73,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+72,74,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+75,80,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+76,80,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+77,79,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+77,74,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+78,79,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+78,81,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+76,72,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+82,89,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+83,88,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+83,97,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+84,94,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+84,98,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1892.0
+85,89,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+85,87,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+86,90,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+87,97,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+88,91,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+90,93,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+91,92,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+92,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+93,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+94,96,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+96,90,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+99,100,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
+99,104,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
+100,102,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
+101,103,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
+101,105,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
+102,106,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
+103,104,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
+105,108,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
+106,107,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2014.0
+108,109,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2019.0
+110,123,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+111,115,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+111,114,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+112,120,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+112,118,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+113,120,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+113,115,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+114,121,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+116,121,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+116,117,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+117,124,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+118,119,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),999999.0
+122,124,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+122,123,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+122,112,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+125,130,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
+125,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
+126,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2006.0
+126,135,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2006.0
+127,134,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
+127,129,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
+130,138,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
+131,132,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
+131,134,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1998.0
+132,133,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1991.0
+133,136,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
+135,136,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),1992.0
+137,138,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),999999.0
+139,147,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2010.0
+139,143,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
+140,149,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2021.0
+140,145,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2018.0
+141,143,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
+141,148,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
+142,146,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
+142,147,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2010.0
+144,148,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2011.0
+145,146,heavy_rail,Metroferroviário - Linha 4 • Amarela (ViaQuatro),2018.0
+150,162,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
+150,151,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
+151,153,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
+152,153,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+152,154,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+154,165,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+155,166,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+155,165,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+156,157,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+157,166,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2018.0
+158,163,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
+158,160,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
+159,164,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2014.0
+160,161,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
+161,159,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2002.0
+162,164,heavy_rail,Metroferroviário - Linha 5 • Lilás (ViaMobilidade),2017.0
+167,169,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+167,168,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+168,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+169,179,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+170,171,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+171,172,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+172,173,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+173,174,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+174,175,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+175,176,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+176,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+178,179,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+169,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+180,185,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+180,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+181,186,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+181,188,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+182,183,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+182,191,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+183,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+185,186,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+187,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+187,193,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+188,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+189,190,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+190,193,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+193,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+194,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
+195,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
+197,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+197,212,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+198,217,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+198,202,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+199,206,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+199,204,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+200,216,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+200,217,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+201,216,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+201,218,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+202,214,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+203,214,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+203,204,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+205,209,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+205,208,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+206,215,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+207,218,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+208,215,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+209,210,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+210,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+213,212,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+201,197,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+219,220,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),
+220,225,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+221,227,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+221,228,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+222,223,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+223,224,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+224,236,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+225,238,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+226,233,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+226,232,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+229,232,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+230,235,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+230,234,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+231,235,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+233,234,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+236,231,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+237,238,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+231,237,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+239,240,bus,Metrorrodoviário - Linha B • Diadema-Berrini (Metra),2010.0
+241,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2014.0
+242,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2013.0
+244,246,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),
+244,248,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),
+245,246,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),2018.0
+247,248,bus,Metrorrodoviário - Linha D • Itapevi-Butantã (EMTU),2017.0
+249,250,bus,Metrorrodoviário - Itapecerica-João Dias-Centro (SPTrans),2000.0
+251,253,bus,Metrorrodoviário - Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans),2004.0
+251,252,bus,Metrorrodoviário - Jd. Ângela-Guarapiranga-Santo Amaro (SPTrans),2004.0
+255,257,bus,Metrorrodoviário - Pirituba-Lapa-Centro (SPTrans),2003.0
+256,257,bus,Metrorrodoviário - Pirituba-Lapa-Centro (SPTrans),2003.0
+259,260,bus,Metrorrodoviário - Inajar-Rio Branco-Centro (SPTrans),1991.0
+261,263,bus,Metrorrodoviário - Parelheiros-Rio Bonito-Santo Amaro (SPTrans),2004.0
+262,263,bus,Metrorrodoviário - Parelheiros-Rio Bonito-Santo Amaro (SPTrans),2004.0
+264,268,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
+264,269,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
+265,270,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1988.0
+265,271,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1988.0
+266,267,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
+267,269,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
+271,267,bus,Metrorrodoviário - Linha A • Corredor ABD (Metra),1990.0
+272,273,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+273,274,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+274,275,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+275,280,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+276,277,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+277,278,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0
+278,279,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2009.0
+279,281,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2009.0
+280,278,brt,Metrorrodoviário - Expresso Tiradentes (SPTrans),2007.0

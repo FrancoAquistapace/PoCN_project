@@ -1,56 +1,56 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,6,brt,TEOR - T3,2007
-1,0,4,brt,TEOR - T3,2007
-2,1,6,brt,TEOR - T3,2007
-3,2,3,brt,TEOR - T3,2007
-4,3,1,brt,TEOR - T3,2007
-5,5,4,brt,TEOR - T3,2007
-6,7,11,brt,TEOR - T2,2001
-7,7,9,brt,TEOR - T2,2007
-8,8,11,brt,TEOR - T2,2001
-9,10,9,brt,TEOR - T2,2007
-10,12,16,brt,TEOR - T1,2002
-11,12,14,brt,TEOR - T1,2002
-12,13,15,brt,TEOR - T1,2002
-13,13,16,brt,TEOR - T1,2002
-14,17,19,brt,TEOR - T4,2022
-15,18,20,brt,TEOR - T4,2019
-16,18,19,brt,TEOR - T4,2019
-17,21,22,light_rail,Tramway (Métro officiellement) - M,1994
-18,22,26,light_rail,Tramway (Métro officiellement) - M,1994
-19,23,40,light_rail,Tramway (Métro officiellement) - M,1997
-20,23,32,light_rail,Tramway (Métro officiellement) - M,1997
-21,24,33,light_rail,Tramway (Métro officiellement) - M,1997
-22,24,34,light_rail,Tramway (Métro officiellement) - M,1997
-23,25,53,light_rail,Tramway (Métro officiellement) - M,1997
-24,26,30,light_rail,Tramway (Métro officiellement) - M,1994
-25,27,28,light_rail,Tramway (Métro officiellement) - M,1994
-26,28,39,light_rail,Tramway (Métro officiellement) - M,1994
-27,29,58,light_rail,Tramway (Métro officiellement) - M,1994
-28,29,37,light_rail,Tramway (Métro officiellement) - M,1994
-29,31,59,light_rail,Tramway (Métro officiellement) - M,1997
-30,32,60,light_rail,Tramway (Métro officiellement) - M,1997
-31,34,50,light_rail,Tramway (Métro officiellement) - M,1997
-32,35,52,light_rail,Tramway (Métro officiellement) - M,1997
-33,36,53,light_rail,Tramway (Métro officiellement) - M,1997
-34,36,52,light_rail,Tramway (Métro officiellement) - M,1997
-35,37,54,light_rail,Tramway (Métro officiellement) - M,1994
-36,37,41,light_rail,Tramway (Métro officiellement) - M,1994
-37,38,55,light_rail,Tramway (Métro officiellement) - M,1994
-38,38,41,light_rail,Tramway (Métro officiellement) - M,1994
-39,39,51,light_rail,Tramway (Métro officiellement) - M,1994
-40,42,45,light_rail,Tramway (Métro officiellement) - M,1994
-41,42,51,light_rail,Tramway (Métro officiellement) - M,1994
-42,43,44,light_rail,Tramway (Métro officiellement) - M,1994
-43,43,35,light_rail,Tramway (Métro officiellement) - M,1997
-44,46,47,light_rail,Tramway (Métro officiellement) - M,1994
-45,47,49,light_rail,Tramway (Métro officiellement) - M,1994
-46,48,49,light_rail,Tramway (Métro officiellement) - M,1994
-47,56,57,light_rail,Tramway (Métro officiellement) - M,1994
-48,57,48,light_rail,Tramway (Métro officiellement) - M,1994
-49,59,60,light_rail,Tramway (Métro officiellement) - M,1997
-50,29,52,light_rail,Tramway (Métro officiellement) - M,1997
-51,30,35,light_rail,Tramway (Métro officiellement) - M,1997
-52,42,47,light_rail,Tramway (Métro officiellement) - M,1994
-53,56,21,light_rail,Tramway (Métro officiellement) - M,1994
-54,62,63,bus,Bus FAST  - F9,2022
+nodeID_from,nodeID_to,mode,line,year
+0,6,brt,TEOR - T3,2007
+0,4,brt,TEOR - T3,2007
+1,6,brt,TEOR - T3,2007
+2,3,brt,TEOR - T3,2007
+3,1,brt,TEOR - T3,2007
+5,4,brt,TEOR - T3,2007
+7,11,brt,TEOR - T2,2001
+7,9,brt,TEOR - T2,2007
+8,11,brt,TEOR - T2,2001
+10,9,brt,TEOR - T2,2007
+12,16,brt,TEOR - T1,2002
+12,14,brt,TEOR - T1,2002
+13,15,brt,TEOR - T1,2002
+13,16,brt,TEOR - T1,2002
+17,19,brt,TEOR - T4,2022
+18,20,brt,TEOR - T4,2019
+18,19,brt,TEOR - T4,2019
+21,22,light_rail,Tramway (Métro officiellement) - M,1994
+22,26,light_rail,Tramway (Métro officiellement) - M,1994
+23,40,light_rail,Tramway (Métro officiellement) - M,1997
+23,32,light_rail,Tramway (Métro officiellement) - M,1997
+24,33,light_rail,Tramway (Métro officiellement) - M,1997
+24,34,light_rail,Tramway (Métro officiellement) - M,1997
+25,53,light_rail,Tramway (Métro officiellement) - M,1997
+26,30,light_rail,Tramway (Métro officiellement) - M,1994
+27,28,light_rail,Tramway (Métro officiellement) - M,1994
+28,39,light_rail,Tramway (Métro officiellement) - M,1994
+29,58,light_rail,Tramway (Métro officiellement) - M,1994
+29,37,light_rail,Tramway (Métro officiellement) - M,1994
+31,59,light_rail,Tramway (Métro officiellement) - M,1997
+32,60,light_rail,Tramway (Métro officiellement) - M,1997
+34,50,light_rail,Tramway (Métro officiellement) - M,1997
+35,52,light_rail,Tramway (Métro officiellement) - M,1997
+36,53,light_rail,Tramway (Métro officiellement) - M,1997
+36,52,light_rail,Tramway (Métro officiellement) - M,1997
+37,54,light_rail,Tramway (Métro officiellement) - M,1994
+37,41,light_rail,Tramway (Métro officiellement) - M,1994
+38,55,light_rail,Tramway (Métro officiellement) - M,1994
+38,41,light_rail,Tramway (Métro officiellement) - M,1994
+39,51,light_rail,Tramway (Métro officiellement) - M,1994
+42,45,light_rail,Tramway (Métro officiellement) - M,1994
+42,51,light_rail,Tramway (Métro officiellement) - M,1994
+43,44,light_rail,Tramway (Métro officiellement) - M,1994
+43,35,light_rail,Tramway (Métro officiellement) - M,1997
+46,47,light_rail,Tramway (Métro officiellement) - M,1994
+47,49,light_rail,Tramway (Métro officiellement) - M,1994
+48,49,light_rail,Tramway (Métro officiellement) - M,1994
+56,57,light_rail,Tramway (Métro officiellement) - M,1994
+57,48,light_rail,Tramway (Métro officiellement) - M,1994
+59,60,light_rail,Tramway (Métro officiellement) - M,1997
+29,52,light_rail,Tramway (Métro officiellement) - M,1997
+30,35,light_rail,Tramway (Métro officiellement) - M,1997
+42,47,light_rail,Tramway (Métro officiellement) - M,1994
+56,21,light_rail,Tramway (Métro officiellement) - M,1994
+62,63,bus,Bus FAST  - F9,2022

@@ -1,101 +1,101 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,5,light_rail,Tramway - Ligne 1,2006
-1,1,9,light_rail,Tramway - Ligne 1,2006
-2,2,6,light_rail,Tramway - Ligne 1,2006
-3,3,14,light_rail,Tramway - Ligne 1,2006
-4,3,20,light_rail,Tramway - Ligne 1,2006
-5,4,7,light_rail,Tramway - Ligne 1,2006
-6,4,2,light_rail,Tramway - Ligne 1,2006
-7,5,1,light_rail,Tramway - Ligne 1,2006
-8,6,0,light_rail,Tramway - Ligne 1,2006
-9,8,16,light_rail,Tramway - Ligne 1,2006
-10,8,13,light_rail,Tramway - Ligne 1,2006
-11,9,3,light_rail,Tramway - Ligne 1,2006
-12,10,18,light_rail,Tramway - Ligne 1,2006
-13,11,13,light_rail,Tramway - Ligne 1,2006
-14,11,17,light_rail,Tramway - Ligne 1,2006
-15,12,17,light_rail,Tramway - Ligne 1,2006
-16,15,19,light_rail,Tramway - Ligne 1,2006
-17,15,12,light_rail,Tramway - Ligne 1,2006
-18,18,22,light_rail,Tramway - Ligne 1,2006
-19,19,18,light_rail,Tramway - Ligne 1,2006
-20,21,22,light_rail,Tramway - Ligne 1,2006
-21,7,16,light_rail,Tramway - Ligne 1,2006
-22,2,5,light_rail,Tramway - Ligne 1,2006
-23,23,30,light_rail,Tramway - Ligne 2,2006
-24,24,33,light_rail,Tramway - Ligne 2,2006
-25,25,34,light_rail,Tramway - Ligne 2,2006
-26,25,30,light_rail,Tramway - Ligne 2,2006
-27,26,31,light_rail,Tramway - Ligne 2,2006
-28,26,29,light_rail,Tramway - Ligne 2,2006
-29,27,32,light_rail,Tramway - Ligne 2,2006
-30,27,31,light_rail,Tramway - Ligne 2,2006
-31,28,29,light_rail,Tramway - Ligne 2,2006
-32,33,23,light_rail,Tramway - Ligne 2,2006
-33,35,36,light_rail,Tramway - Ligne 2,2006
-34,35,40,light_rail,Tramway - Ligne 2,2006
-35,37,41,light_rail,Tramway - Ligne 2,2006
-36,37,42,light_rail,Tramway - Ligne 2,2006
-37,38,48,light_rail,Tramway - Ligne 2,2006
-38,39,42,light_rail,Tramway - Ligne 2,2006
-39,39,43,light_rail,Tramway - Ligne 2,2006
-40,40,43,light_rail,Tramway - Ligne 2,2006
-41,41,48,light_rail,Tramway - Ligne 2,2006
-42,44,49,light_rail,Tramway - Ligne 2,2006
-43,45,47,light_rail,Tramway - Ligne 2,2006
-44,46,50,light_rail,Tramway - Ligne 2,2006
-45,46,47,light_rail,Tramway - Ligne 2,2006
-46,49,45,light_rail,Tramway - Ligne 2,2006
-47,31,36,light_rail,Tramway - Ligne 2,2006
-48,39,41,light_rail,Tramway - Ligne 2,2006
-49,47,38,light_rail,Tramway - Ligne 2,2006
-50,51,52,light_rail,Tramway - Ligne 3,2006
-51,51,56,light_rail,Tramway - Ligne 3,2006
-52,53,57,light_rail,Tramway - Ligne 3,2006
-53,53,59,light_rail,Tramway - Ligne 3,2006
-54,54,58,light_rail,Tramway - Ligne 3,2006
-55,54,61,light_rail,Tramway - Ligne 3,2006
-56,55,59,light_rail,Tramway - Ligne 3,2006
-57,55,60,light_rail,Tramway - Ligne 3,2006
-58,56,60,light_rail,Tramway - Ligne 3,2006
-59,57,58,light_rail,Tramway - Ligne 3,2006
-60,61,62,light_rail,Tramway - Ligne 3,2006
-61,63,64,light_rail,Tramway - Ligne 3,2009
-62,64,67,light_rail,Tramway - Ligne 3,2009
-63,65,67,light_rail,Tramway - Ligne 3,2009
-64,66,61,light_rail,Tramway - Ligne 3,2009
-65,68,69,light_rail,Tramway - Ligne 3,2009
-66,68,65,light_rail,Tramway - Ligne 3,2009
-67,63,52,light_rail,Tramway - Ligne 3,2009
-68,55,57,light_rail,Tramway - Ligne 3,2006
-69,70,71,commuter_rail,Tramway - Tram-train,2006
-70,70,75,commuter_rail,Tramway - Tram-train,2006
-71,72,76,commuter_rail,Tramway - Tram-train,2006
-72,72,78,commuter_rail,Tramway - Tram-train,2006
-73,73,77,commuter_rail,Tramway - Tram-train,2006
-74,73,80,commuter_rail,Tramway - Tram-train,2006
-75,74,78,commuter_rail,Tramway - Tram-train,2006
-76,74,79,commuter_rail,Tramway - Tram-train,2006
-77,75,79,commuter_rail,Tramway - Tram-train,2006
-78,76,77,commuter_rail,Tramway - Tram-train,2006
-79,80,81,commuter_rail,Tramway - Tram-train,2006
-80,82,83,commuter_rail,Tramway - Tram-train,2009
-81,83,86,commuter_rail,Tramway - Tram-train,2009
-82,84,86,commuter_rail,Tramway - Tram-train,2009
-83,85,80,commuter_rail,Tramway - Tram-train,2009
-84,87,88,commuter_rail,Tramway - Tram-train,2009
-85,87,84,commuter_rail,Tramway - Tram-train,2009
-86,89,91,commuter_rail,Tramway - Tram-train,2009
-87,89,90,commuter_rail,Tramway - Tram-train,2009
-88,90,92,commuter_rail,Tramway - Tram-train,2009
-89,90,93,commuter_rail,Tramway - Tram-train,2009
-90,93,94,commuter_rail,Tramway - Tram-train,2009
-91,94,95,commuter_rail,Tramway - Tram-train,2009
-92,95,98,commuter_rail,Tramway - Tram-train,2009
-93,96,98,commuter_rail,Tramway - Tram-train,2009
-94,96,99,commuter_rail,Tramway - Tram-train,2009
-95,97,100,commuter_rail,Tramway - Tram-train,2009
-96,97,99,commuter_rail,Tramway - Tram-train,2009
-97,82,71,commuter_rail,Tramway - Tram-train,2009
-98,74,76,commuter_rail,Tramway - Tram-train,2006
-99,88,91,commuter_rail,Tramway - Tram-train,2009
+nodeID_from,nodeID_to,mode,line,year
+0,5,light_rail,Tramway - Ligne 1,2006
+1,9,light_rail,Tramway - Ligne 1,2006
+2,6,light_rail,Tramway - Ligne 1,2006
+3,14,light_rail,Tramway - Ligne 1,2006
+3,20,light_rail,Tramway - Ligne 1,2006
+4,7,light_rail,Tramway - Ligne 1,2006
+4,2,light_rail,Tramway - Ligne 1,2006
+5,1,light_rail,Tramway - Ligne 1,2006
+6,0,light_rail,Tramway - Ligne 1,2006
+8,16,light_rail,Tramway - Ligne 1,2006
+8,13,light_rail,Tramway - Ligne 1,2006
+9,3,light_rail,Tramway - Ligne 1,2006
+10,18,light_rail,Tramway - Ligne 1,2006
+11,13,light_rail,Tramway - Ligne 1,2006
+11,17,light_rail,Tramway - Ligne 1,2006
+12,17,light_rail,Tramway - Ligne 1,2006
+15,19,light_rail,Tramway - Ligne 1,2006
+15,12,light_rail,Tramway - Ligne 1,2006
+18,22,light_rail,Tramway - Ligne 1,2006
+19,18,light_rail,Tramway - Ligne 1,2006
+21,22,light_rail,Tramway - Ligne 1,2006
+7,16,light_rail,Tramway - Ligne 1,2006
+2,5,light_rail,Tramway - Ligne 1,2006
+23,30,light_rail,Tramway - Ligne 2,2006
+24,33,light_rail,Tramway - Ligne 2,2006
+25,34,light_rail,Tramway - Ligne 2,2006
+25,30,light_rail,Tramway - Ligne 2,2006
+26,31,light_rail,Tramway - Ligne 2,2006
+26,29,light_rail,Tramway - Ligne 2,2006
+27,32,light_rail,Tramway - Ligne 2,2006
+27,31,light_rail,Tramway - Ligne 2,2006
+28,29,light_rail,Tramway - Ligne 2,2006
+33,23,light_rail,Tramway - Ligne 2,2006
+35,36,light_rail,Tramway - Ligne 2,2006
+35,40,light_rail,Tramway - Ligne 2,2006
+37,41,light_rail,Tramway - Ligne 2,2006
+37,42,light_rail,Tramway - Ligne 2,2006
+38,48,light_rail,Tramway - Ligne 2,2006
+39,42,light_rail,Tramway - Ligne 2,2006
+39,43,light_rail,Tramway - Ligne 2,2006
+40,43,light_rail,Tramway - Ligne 2,2006
+41,48,light_rail,Tramway - Ligne 2,2006
+44,49,light_rail,Tramway - Ligne 2,2006
+45,47,light_rail,Tramway - Ligne 2,2006
+46,50,light_rail,Tramway - Ligne 2,2006
+46,47,light_rail,Tramway - Ligne 2,2006
+49,45,light_rail,Tramway - Ligne 2,2006
+31,36,light_rail,Tramway - Ligne 2,2006
+39,41,light_rail,Tramway - Ligne 2,2006
+47,38,light_rail,Tramway - Ligne 2,2006
+51,52,light_rail,Tramway - Ligne 3,2006
+51,56,light_rail,Tramway - Ligne 3,2006
+53,57,light_rail,Tramway - Ligne 3,2006
+53,59,light_rail,Tramway - Ligne 3,2006
+54,58,light_rail,Tramway - Ligne 3,2006
+54,61,light_rail,Tramway - Ligne 3,2006
+55,59,light_rail,Tramway - Ligne 3,2006
+55,60,light_rail,Tramway - Ligne 3,2006
+56,60,light_rail,Tramway - Ligne 3,2006
+57,58,light_rail,Tramway - Ligne 3,2006
+61,62,light_rail,Tramway - Ligne 3,2006
+63,64,light_rail,Tramway - Ligne 3,2009
+64,67,light_rail,Tramway - Ligne 3,2009
+65,67,light_rail,Tramway - Ligne 3,2009
+66,61,light_rail,Tramway - Ligne 3,2009
+68,69,light_rail,Tramway - Ligne 3,2009
+68,65,light_rail,Tramway - Ligne 3,2009
+63,52,light_rail,Tramway - Ligne 3,2009
+55,57,light_rail,Tramway - Ligne 3,2006
+70,71,commuter_rail,Tramway - Tram-train,2006
+70,75,commuter_rail,Tramway - Tram-train,2006
+72,76,commuter_rail,Tramway - Tram-train,2006
+72,78,commuter_rail,Tramway - Tram-train,2006
+73,77,commuter_rail,Tramway - Tram-train,2006
+73,80,commuter_rail,Tramway - Tram-train,2006
+74,78,commuter_rail,Tramway - Tram-train,2006
+74,79,commuter_rail,Tramway - Tram-train,2006
+75,79,commuter_rail,Tramway - Tram-train,2006
+76,77,commuter_rail,Tramway - Tram-train,2006
+80,81,commuter_rail,Tramway - Tram-train,2006
+82,83,commuter_rail,Tramway - Tram-train,2009
+83,86,commuter_rail,Tramway - Tram-train,2009
+84,86,commuter_rail,Tramway - Tram-train,2009
+85,80,commuter_rail,Tramway - Tram-train,2009
+87,88,commuter_rail,Tramway - Tram-train,2009
+87,84,commuter_rail,Tramway - Tram-train,2009
+89,91,commuter_rail,Tramway - Tram-train,2009
+89,90,commuter_rail,Tramway - Tram-train,2009
+90,92,commuter_rail,Tramway - Tram-train,2009
+90,93,commuter_rail,Tramway - Tram-train,2009
+93,94,commuter_rail,Tramway - Tram-train,2009
+94,95,commuter_rail,Tramway - Tram-train,2009
+95,98,commuter_rail,Tramway - Tram-train,2009
+96,98,commuter_rail,Tramway - Tram-train,2009
+96,99,commuter_rail,Tramway - Tram-train,2009
+97,100,commuter_rail,Tramway - Tram-train,2009
+97,99,commuter_rail,Tramway - Tram-train,2009
+82,71,commuter_rail,Tramway - Tram-train,2009
+74,76,commuter_rail,Tramway - Tram-train,2006
+88,91,commuter_rail,Tramway - Tram-train,2009

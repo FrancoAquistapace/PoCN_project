@@ -1,464 +1,464 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,1,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
-1,1,2,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
-2,2,3,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
-3,4,5,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
-4,4,3,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
-5,6,34,brt,Metrobús - Línea 1,2005
-6,6,27,brt,Metrobús - Línea 1,2005
-7,7,10,brt,Metrobús - Línea 1,2008
-8,8,9,brt,Metrobús - Línea 1,2008
-9,8,11,brt,Metrobús - Línea 1,2008
-10,9,10,brt,Metrobús - Línea 1,2008
-11,11,12,brt,Metrobús - Línea 1,2008
-12,12,13,brt,Metrobús - Línea 1,2008
-13,13,14,brt,Metrobús - Línea 1,2008
-14,14,15,brt,Metrobús - Línea 1,2008
-15,15,17,brt,Metrobús - Línea 1,2008
-16,16,50,brt,Metrobús - Línea 1,2008
-17,17,16,brt,Metrobús - Línea 1,2008
-18,18,30,brt,Metrobús - Línea 1,2005
-19,18,44,brt,Metrobús - Línea 1,2005
-20,19,20,brt,Metrobús - Línea 1,2005
-21,20,21,brt,Metrobús - Línea 1,2005
-22,21,22,brt,Metrobús - Línea 1,2005
-23,22,23,brt,Metrobús - Línea 1,2005
-24,23,24,brt,Metrobús - Línea 1,2005
-25,24,25,brt,Metrobús - Línea 1,2005
-26,25,26,brt,Metrobús - Línea 1,2005
-27,28,40,brt,Metrobús - Línea 1,2005
-28,28,44,brt,Metrobús - Línea 1,2005
-29,29,43,brt,Metrobús - Línea 1,2005
-30,29,51,brt,Metrobús - Línea 1,2005
-31,30,41,brt,Metrobús - Línea 1,2005
-32,31,42,brt,Metrobús - Línea 1,2005
-33,31,43,brt,Metrobús - Línea 1,2005
-34,32,41,brt,Metrobús - Línea 1,2005
-35,32,42,brt,Metrobús - Línea 1,2005
-36,33,46,brt,Metrobús - Línea 1,2005
-37,33,47,brt,Metrobús - Línea 1,2005
-38,34,40,brt,Metrobús - Línea 1,2005
-39,35,51,brt,Metrobús - Línea 1,2005
-40,35,45,brt,Metrobús - Línea 1,2005
-41,36,46,brt,Metrobús - Línea 1,2005
-42,36,45,brt,Metrobús - Línea 1,2005
-43,37,48,brt,Metrobús - Línea 1,2005
-44,37,47,brt,Metrobús - Línea 1,2005
-45,38,48,brt,Metrobús - Línea 1,2005
-46,38,49,brt,Metrobús - Línea 1,2005
-47,39,49,brt,Metrobús - Línea 1,2005
-48,39,50,brt,Metrobús - Línea 1,2005
-49,15,9,brt,Metrobús - Línea 1,2008
-50,26,39,brt,Metrobús - Línea 1,2005
-51,52,61,brt,Metrobús - Línea 7,2017
-52,52,62,brt,Metrobús - Línea 7,2017
-53,53,56,brt,Metrobús - Línea 7,2017
-54,53,54,brt,Metrobús - Línea 7,2017
-55,54,57,brt,Metrobús - Línea 7,2017
-56,55,56,brt,Metrobús - Línea 7,2017
-57,57,58,brt,Metrobús - Línea 7,2017
-58,58,59,brt,Metrobús - Línea 7,2017
-59,59,60,brt,Metrobús - Línea 7,2017
-60,60,61,brt,Metrobús - Línea 7,2017
-61,62,65,brt,Metrobús - Línea 7,2017
-62,63,65,brt,Metrobús - Línea 7,2017
-63,63,66,brt,Metrobús - Línea 7,2017
-64,64,66,brt,Metrobús - Línea 7,2017
-65,67,68,brt,Metrobús - Línea 7,2017
-66,67,64,brt,Metrobús - Línea 7,2017
-67,68,69,brt,Metrobús - Línea 7,2017
-68,69,70,brt,Metrobús - Línea 7,2017
-69,70,71,brt,Metrobús - Línea 7,2017
-70,71,72,brt,Metrobús - Línea 7,2017
-71,72,73,brt,Metrobús - Línea 7,2017
-72,73,74,brt,Metrobús - Línea 7,2017
-73,74,75,brt,Metrobús - Línea 7,2017
-74,75,76,brt,Metrobús - Línea 7,2017
-75,76,77,brt,Metrobús - Línea 7,2017
-76,77,78,brt,Metrobús - Línea 7,2017
-77,78,79,brt,Metrobús - Línea 7,2017
-78,79,82,brt,Metrobús - Línea 7,2017
-79,80,81,brt,Metrobús - Línea 7,2017
-80,80,79,brt,Metrobús - Línea 7,2017
-81,81,82,brt,Metrobús - Línea 7,2017
-82,83,82,brt,Metrobús - Línea 7,2017
-83,61,77,brt,Metrobús - Línea 7,2017
-84,84,86,brt,Metrobús - Línea 6,2016
-85,84,114,brt,Metrobús - Línea 6,2016
-86,85,87,brt,Metrobús - Línea 6,2016
-87,86,98,brt,Metrobús - Línea 6,2016
-88,87,91,brt,Metrobús - Línea 6,2016
-89,88,89,brt,Metrobús - Línea 6,2016
-90,89,90,brt,Metrobús - Línea 6,2016
-91,90,92,brt,Metrobús - Línea 6,2016
-92,91,95,brt,Metrobús - Línea 6,2016
-93,92,93,brt,Metrobús - Línea 6,2016
-94,93,94,brt,Metrobús - Línea 6,2016
-95,94,96,brt,Metrobús - Línea 6,2016
-96,95,100,brt,Metrobús - Línea 6,2016
-97,96,97,brt,Metrobús - Línea 6,2016
-98,97,99,brt,Metrobús - Línea 6,2016
-99,98,117,brt,Metrobús - Línea 6,2016
-100,99,101,brt,Metrobús - Línea 6,2016
-101,101,102,brt,Metrobús - Línea 6,2016
-102,102,103,brt,Metrobús - Línea 6,2016
-103,103,105,brt,Metrobús - Línea 6,2016
-104,104,107,brt,Metrobús - Línea 6,2016
-105,104,100,brt,Metrobús - Línea 6,2016
-106,105,106,brt,Metrobús - Línea 6,2016
-107,106,85,brt,Metrobús - Línea 6,2016
-108,107,109,brt,Metrobús - Línea 6,2016
-109,108,112,brt,Metrobús - Línea 6,2016
-110,108,115,brt,Metrobús - Línea 6,2016
-111,109,110,brt,Metrobús - Línea 6,2016
-112,110,111,brt,Metrobús - Línea 6,2016
-113,111,113,brt,Metrobús - Línea 6,2016
-114,112,116,brt,Metrobús - Línea 6,2016
-115,113,114,brt,Metrobús - Línea 6,2016
-116,114,115,brt,Metrobús - Línea 6,2016
-117,116,117,brt,Metrobús - Línea 6,2016
-118,118,119,brt,Metrobús - Línea 6,2016
-119,118,117,brt,Metrobús - Línea 6,2016
-120,119,120,brt,Metrobús - Línea 6,2016
-121,117,85,brt,Metrobús - Línea 6,2016
-122,121,123,brt,Metrobús - Línea 5,2013
-123,121,130,brt,Metrobús - Línea 5,2013
-124,122,123,brt,Metrobús - Línea 5,2013
-125,124,129,brt,Metrobús - Línea 5,2013
-126,124,131,brt,Metrobús - Línea 5,2013
-127,125,135,brt,Metrobús - Línea 5,2013
-128,125,134,brt,Metrobús - Línea 5,2013
-129,126,137,brt,Metrobús - Línea 5,2013
-130,126,136,brt,Metrobús - Línea 5,2013
-131,127,138,brt,Metrobús - Línea 5,2013
-132,128,133,brt,Metrobús - Línea 5,2013
-133,128,132,brt,Metrobús - Línea 5,2013
-134,129,130,brt,Metrobús - Línea 5,2013
-135,131,132,brt,Metrobús - Línea 5,2013
-136,133,134,brt,Metrobús - Línea 5,2013
-137,135,136,brt,Metrobús - Línea 5,2013
-138,137,138,brt,Metrobús - Línea 5,2013
-139,137,129,brt,Metrobús - Línea 5,2013
-140,139,166,brt,Metrobús - Línea 4,2012
-141,139,141,brt,Metrobús - Línea 4,2012
-142,140,148,brt,Metrobús - Línea 4,2012
-143,140,174,brt,Metrobús - Línea 4,2012
-144,141,164,brt,Metrobús - Línea 4,2012
-145,141,160,brt,Metrobús - Línea 4,2012
-146,142,166,brt,Metrobús - Línea 4,2012
-147,142,145,brt,Metrobús - Línea 4,2012
-148,143,144,brt,Metrobús - Línea 4,2012
-149,144,146,brt,Metrobús - Línea 4,2012
-150,145,154,brt,Metrobús - Línea 4,2012
-151,146,147,brt,Metrobús - Línea 4,2012
-152,146,175,brt,Metrobús - Línea 4,2012
-153,147,149,brt,Metrobús - Línea 4,2012
-154,148,161,brt,Metrobús - Línea 4,2012
-155,149,151,brt,Metrobús - Línea 4,2012
-156,150,154,brt,Metrobús - Línea 4,2012
-157,150,158,brt,Metrobús - Línea 4,2012
-158,151,152,brt,Metrobús - Línea 4,2012
-159,152,153,brt,Metrobús - Línea 4,2012
-160,154,163,brt,Metrobús - Línea 4,2012
-161,155,156,brt,Metrobús - Línea 4,2012
-162,156,157,brt,Metrobús - Línea 4,2012
-163,157,159,brt,Metrobús - Línea 4,2012
-164,159,160,brt,Metrobús - Línea 4,2012
-165,160,162,brt,Metrobús - Línea 4,2012
-166,161,167,brt,Metrobús - Línea 4,2012
-167,162,164,brt,Metrobús - Línea 4,2012
-168,163,165,brt,Metrobús - Línea 4,2012
-169,165,170,brt,Metrobús - Línea 4,2012
-170,167,171,brt,Metrobús - Línea 4,2012
-171,168,169,brt,Metrobús - Línea 4,2012
-172,169,158,brt,Metrobús - Línea 4,2012
-173,170,172,brt,Metrobús - Línea 4,2012
-174,171,175,brt,Metrobús - Línea 4,2012
-175,172,173,brt,Metrobús - Línea 4,2012
-176,173,174,brt,Metrobús - Línea 4,2012
-177,176,180,brt,Metrobús - Línea 3,2011
-178,177,181,brt,Metrobús - Línea 3,2011
-179,177,180,brt,Metrobús - Línea 3,2011
-180,178,185,brt,Metrobús - Línea 3,2011
-181,178,188,brt,Metrobús - Línea 3,2011
-182,179,188,brt,Metrobús - Línea 3,2011
-183,179,192,brt,Metrobús - Línea 3,2011
-184,181,190,brt,Metrobús - Línea 3,2011
-185,182,186,brt,Metrobús - Línea 3,2011
-186,182,190,brt,Metrobús - Línea 3,2011
-187,183,191,brt,Metrobús - Línea 3,2011
-188,183,186,brt,Metrobús - Línea 3,2011
-189,184,191,brt,Metrobús - Línea 3,2011
-190,184,185,brt,Metrobús - Línea 3,2011
-191,187,200,brt,Metrobús - Línea 3,2011
-192,187,203,brt,Metrobús - Línea 3,2011
-193,189,198,brt,Metrobús - Línea 3,2011
-194,189,197,brt,Metrobús - Línea 3,2011
-195,192,193,brt,Metrobús - Línea 3,2011
-196,193,194,brt,Metrobús - Línea 3,2011
-197,194,196,brt,Metrobús - Línea 3,2011
-198,194,198,brt,Metrobús - Línea 3,2011
-199,195,204,brt,Metrobús - Línea 3,2011
-200,195,206,brt,Metrobús - Línea 3,2011
-201,197,199,brt,Metrobús - Línea 3,2011
-202,199,201,brt,Metrobús - Línea 3,2011
-203,200,205,brt,Metrobús - Línea 3,2011
-204,201,202,brt,Metrobús - Línea 3,2011
-205,202,203,brt,Metrobús - Línea 3,2011
-206,204,207,brt,Metrobús - Línea 3,2011
-207,205,206,brt,Metrobús - Línea 3,2011
-208,177,205,brt,Metrobús - Línea 3,2011
-209,208,212,brt,Metrobús - Línea 2,2008
-210,208,234,brt,Metrobús - Línea 2,2008
-211,209,214,brt,Metrobús - Línea 2,2008
-212,209,210,brt,Metrobús - Línea 2,2008
-213,211,223,brt,Metrobús - Línea 2,2008
-214,212,215,brt,Metrobús - Línea 2,2008
-215,213,216,brt,Metrobús - Línea 2,2008
-216,213,214,brt,Metrobús - Línea 2,2008
-217,215,220,brt,Metrobús - Línea 2,2008
-218,216,217,brt,Metrobús - Línea 2,2008
-219,217,219,brt,Metrobús - Línea 2,2008
-220,218,222,brt,Metrobús - Línea 2,2008
-221,218,210,brt,Metrobús - Línea 2,2008
-222,219,221,brt,Metrobús - Línea 2,2008
-223,220,225,brt,Metrobús - Línea 2,2008
-224,221,226,brt,Metrobús - Línea 2,2008
-225,222,223,brt,Metrobús - Línea 2,2008
-226,224,240,brt,Metrobús - Línea 2,2008
-227,224,235,brt,Metrobús - Línea 2,2008
-228,225,229,brt,Metrobús - Línea 2,2008
-229,226,227,brt,Metrobús - Línea 2,2008
-230,227,228,brt,Metrobús - Línea 2,2008
-231,228,230,brt,Metrobús - Línea 2,2008
-232,229,233,brt,Metrobús - Línea 2,2008
-233,230,231,brt,Metrobús - Línea 2,2008
-234,231,232,brt,Metrobús - Línea 2,2008
-235,232,234,brt,Metrobús - Línea 2,2008
-236,233,236,brt,Metrobús - Línea 2,2008
-237,235,238,brt,Metrobús - Línea 2,2008
-238,237,239,brt,Metrobús - Línea 2,2008
-239,237,236,brt,Metrobús - Línea 2,2008
-240,238,241,brt,Metrobús - Línea 2,2008
-241,239,240,brt,Metrobús - Línea 2,2008
-242,241,242,brt,Metrobús - Línea 2,2008
-243,243,241,brt,Metrobús - Línea 2,2008
-244,224,213,brt,Metrobús - Línea 2,2008
-245,244,251,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-246,244,250,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-247,245,248,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-248,245,246,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-249,246,249,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-250,247,248,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-251,249,250,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-252,251,253,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-253,252,253,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-254,250,251,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
-255,254,255,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-256,255,256,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-257,256,258,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-258,257,263,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-259,257,264,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-260,258,259,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-261,259,260,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-262,260,261,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-263,261,262,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-264,262,263,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-265,264,265,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-266,265,266,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-267,266,267,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-268,267,268,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-269,268,269,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-270,269,270,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-271,270,271,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-272,271,272,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-273,272,273,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-274,273,274,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
-275,263,264,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
-276,275,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-277,275,295,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-278,276,295,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-279,276,279,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-280,277,278,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1984
-281,278,280,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1984
-282,279,281,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-283,280,282,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-284,281,285,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-285,282,283,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-286,283,284,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-287,284,286,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-288,285,289,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-289,286,287,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-290,287,288,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-291,288,290,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-292,289,292,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-293,290,291,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-294,291,293,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-295,292,296,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-296,293,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-297,296,297,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-298,297,298,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-299,296,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
-300,299,300,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-301,299,307,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-302,300,303,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-303,301,309,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
-304,301,308,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
-305,302,309,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
-306,303,308,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
-307,304,305,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-308,305,306,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-309,306,307,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
-310,310,321,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
-311,310,322,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
-312,311,321,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
-313,311,314,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
-314,312,314,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1978
-315,312,319,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1978
-316,313,316,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
-317,313,325,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
-318,315,317,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
-319,316,320,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-320,317,318,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
-321,318,319,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
-322,320,326,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-323,322,323,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
-324,323,324,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
-325,324,325,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
-326,326,327,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-327,327,328,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-328,328,329,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-329,329,330,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
-330,311,310,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
-331,331,336,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-332,332,340,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
-333,332,339,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
-334,333,334,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
-335,333,340,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
-336,335,337,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-337,335,336,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-338,337,338,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-339,338,339,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-340,335,338,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
-341,341,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-342,341,345,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-343,342,346,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-344,342,356,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-345,343,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-346,343,344,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-347,345,356,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-348,346,353,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-349,347,359,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-350,347,349,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-351,348,352,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-352,348,355,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-353,349,350,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-354,350,351,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-355,351,352,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-356,353,357,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-357,357,358,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-358,358,359,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-359,351,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
-360,360,373,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
-361,361,366,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-362,362,363,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-363,362,374,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-364,363,382,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-365,364,373,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
-366,364,365,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
-367,365,382,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-368,366,374,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-369,367,376,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-370,367,375,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-371,368,376,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-372,368,381,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-373,369,381,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-374,369,377,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-375,370,379,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-376,370,378,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-377,371,379,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-378,371,380,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-379,372,378,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-380,372,377,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-381,375,361,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-382,379,363,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
-383,383,387,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-384,383,385,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-385,384,387,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-386,384,390,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
-387,385,386,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-388,386,392,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-389,388,389,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-390,389,391,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-391,390,393,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
-392,391,392,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
-393,393,394,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
-394,395,405,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
-395,395,398,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
-396,396,399,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
-397,396,397,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
-398,398,404,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
-399,399,402,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
-400,400,402,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
-401,400,403,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
-402,401,404,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
-403,401,403,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
-404,405,406,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
-405,406,407,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
-406,407,408,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
-407,409,417,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-408,409,418,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-409,410,411,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1972
-410,411,419,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1970
-411,412,420,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-412,412,419,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1970
-413,413,420,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-414,413,421,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-415,414,415,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-416,414,421,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-417,415,416,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-418,416,422,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-419,417,422,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-420,418,423,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-421,423,424,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-422,424,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-423,425,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-424,425,428,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-425,426,428,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1984
-426,414,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
-427,429,438,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-428,429,437,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-429,430,440,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-430,430,431,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-431,431,432,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
-432,432,434,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
-433,433,435,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-434,434,436,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
-435,435,437,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-436,436,439,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
-437,438,440,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
-438,439,441,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
-439,442,448,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-440,443,456,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-441,443,444,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-442,444,445,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-443,445,446,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-444,446,447,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-445,447,449,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-446,448,450,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-447,449,453,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-448,450,451,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-449,451,452,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-450,452,454,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-451,453,457,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-452,454,455,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-453,455,456,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-454,457,458,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-455,458,459,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-456,456,457,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
-457,460,463,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
-458,460,462,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
-459,461,466,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
-460,463,464,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
-461,464,465,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
-462,465,466,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+nodeID_from,nodeID_to,mode,line,year
+0,1,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
+1,2,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
+2,3,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
+4,5,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
+4,3,inter_city_rail,Secretaría de Comunicaciones y Transportes (SCT) - Tren interurbano México - Toluca,2018
+6,34,brt,Metrobús - Línea 1,2005
+6,27,brt,Metrobús - Línea 1,2005
+7,10,brt,Metrobús - Línea 1,2008
+8,9,brt,Metrobús - Línea 1,2008
+8,11,brt,Metrobús - Línea 1,2008
+9,10,brt,Metrobús - Línea 1,2008
+11,12,brt,Metrobús - Línea 1,2008
+12,13,brt,Metrobús - Línea 1,2008
+13,14,brt,Metrobús - Línea 1,2008
+14,15,brt,Metrobús - Línea 1,2008
+15,17,brt,Metrobús - Línea 1,2008
+16,50,brt,Metrobús - Línea 1,2008
+17,16,brt,Metrobús - Línea 1,2008
+18,30,brt,Metrobús - Línea 1,2005
+18,44,brt,Metrobús - Línea 1,2005
+19,20,brt,Metrobús - Línea 1,2005
+20,21,brt,Metrobús - Línea 1,2005
+21,22,brt,Metrobús - Línea 1,2005
+22,23,brt,Metrobús - Línea 1,2005
+23,24,brt,Metrobús - Línea 1,2005
+24,25,brt,Metrobús - Línea 1,2005
+25,26,brt,Metrobús - Línea 1,2005
+28,40,brt,Metrobús - Línea 1,2005
+28,44,brt,Metrobús - Línea 1,2005
+29,43,brt,Metrobús - Línea 1,2005
+29,51,brt,Metrobús - Línea 1,2005
+30,41,brt,Metrobús - Línea 1,2005
+31,42,brt,Metrobús - Línea 1,2005
+31,43,brt,Metrobús - Línea 1,2005
+32,41,brt,Metrobús - Línea 1,2005
+32,42,brt,Metrobús - Línea 1,2005
+33,46,brt,Metrobús - Línea 1,2005
+33,47,brt,Metrobús - Línea 1,2005
+34,40,brt,Metrobús - Línea 1,2005
+35,51,brt,Metrobús - Línea 1,2005
+35,45,brt,Metrobús - Línea 1,2005
+36,46,brt,Metrobús - Línea 1,2005
+36,45,brt,Metrobús - Línea 1,2005
+37,48,brt,Metrobús - Línea 1,2005
+37,47,brt,Metrobús - Línea 1,2005
+38,48,brt,Metrobús - Línea 1,2005
+38,49,brt,Metrobús - Línea 1,2005
+39,49,brt,Metrobús - Línea 1,2005
+39,50,brt,Metrobús - Línea 1,2005
+15,9,brt,Metrobús - Línea 1,2008
+26,39,brt,Metrobús - Línea 1,2005
+52,61,brt,Metrobús - Línea 7,2017
+52,62,brt,Metrobús - Línea 7,2017
+53,56,brt,Metrobús - Línea 7,2017
+53,54,brt,Metrobús - Línea 7,2017
+54,57,brt,Metrobús - Línea 7,2017
+55,56,brt,Metrobús - Línea 7,2017
+57,58,brt,Metrobús - Línea 7,2017
+58,59,brt,Metrobús - Línea 7,2017
+59,60,brt,Metrobús - Línea 7,2017
+60,61,brt,Metrobús - Línea 7,2017
+62,65,brt,Metrobús - Línea 7,2017
+63,65,brt,Metrobús - Línea 7,2017
+63,66,brt,Metrobús - Línea 7,2017
+64,66,brt,Metrobús - Línea 7,2017
+67,68,brt,Metrobús - Línea 7,2017
+67,64,brt,Metrobús - Línea 7,2017
+68,69,brt,Metrobús - Línea 7,2017
+69,70,brt,Metrobús - Línea 7,2017
+70,71,brt,Metrobús - Línea 7,2017
+71,72,brt,Metrobús - Línea 7,2017
+72,73,brt,Metrobús - Línea 7,2017
+73,74,brt,Metrobús - Línea 7,2017
+74,75,brt,Metrobús - Línea 7,2017
+75,76,brt,Metrobús - Línea 7,2017
+76,77,brt,Metrobús - Línea 7,2017
+77,78,brt,Metrobús - Línea 7,2017
+78,79,brt,Metrobús - Línea 7,2017
+79,82,brt,Metrobús - Línea 7,2017
+80,81,brt,Metrobús - Línea 7,2017
+80,79,brt,Metrobús - Línea 7,2017
+81,82,brt,Metrobús - Línea 7,2017
+83,82,brt,Metrobús - Línea 7,2017
+61,77,brt,Metrobús - Línea 7,2017
+84,86,brt,Metrobús - Línea 6,2016
+84,114,brt,Metrobús - Línea 6,2016
+85,87,brt,Metrobús - Línea 6,2016
+86,98,brt,Metrobús - Línea 6,2016
+87,91,brt,Metrobús - Línea 6,2016
+88,89,brt,Metrobús - Línea 6,2016
+89,90,brt,Metrobús - Línea 6,2016
+90,92,brt,Metrobús - Línea 6,2016
+91,95,brt,Metrobús - Línea 6,2016
+92,93,brt,Metrobús - Línea 6,2016
+93,94,brt,Metrobús - Línea 6,2016
+94,96,brt,Metrobús - Línea 6,2016
+95,100,brt,Metrobús - Línea 6,2016
+96,97,brt,Metrobús - Línea 6,2016
+97,99,brt,Metrobús - Línea 6,2016
+98,117,brt,Metrobús - Línea 6,2016
+99,101,brt,Metrobús - Línea 6,2016
+101,102,brt,Metrobús - Línea 6,2016
+102,103,brt,Metrobús - Línea 6,2016
+103,105,brt,Metrobús - Línea 6,2016
+104,107,brt,Metrobús - Línea 6,2016
+104,100,brt,Metrobús - Línea 6,2016
+105,106,brt,Metrobús - Línea 6,2016
+106,85,brt,Metrobús - Línea 6,2016
+107,109,brt,Metrobús - Línea 6,2016
+108,112,brt,Metrobús - Línea 6,2016
+108,115,brt,Metrobús - Línea 6,2016
+109,110,brt,Metrobús - Línea 6,2016
+110,111,brt,Metrobús - Línea 6,2016
+111,113,brt,Metrobús - Línea 6,2016
+112,116,brt,Metrobús - Línea 6,2016
+113,114,brt,Metrobús - Línea 6,2016
+114,115,brt,Metrobús - Línea 6,2016
+116,117,brt,Metrobús - Línea 6,2016
+118,119,brt,Metrobús - Línea 6,2016
+118,117,brt,Metrobús - Línea 6,2016
+119,120,brt,Metrobús - Línea 6,2016
+117,85,brt,Metrobús - Línea 6,2016
+121,123,brt,Metrobús - Línea 5,2013
+121,130,brt,Metrobús - Línea 5,2013
+122,123,brt,Metrobús - Línea 5,2013
+124,129,brt,Metrobús - Línea 5,2013
+124,131,brt,Metrobús - Línea 5,2013
+125,135,brt,Metrobús - Línea 5,2013
+125,134,brt,Metrobús - Línea 5,2013
+126,137,brt,Metrobús - Línea 5,2013
+126,136,brt,Metrobús - Línea 5,2013
+127,138,brt,Metrobús - Línea 5,2013
+128,133,brt,Metrobús - Línea 5,2013
+128,132,brt,Metrobús - Línea 5,2013
+129,130,brt,Metrobús - Línea 5,2013
+131,132,brt,Metrobús - Línea 5,2013
+133,134,brt,Metrobús - Línea 5,2013
+135,136,brt,Metrobús - Línea 5,2013
+137,138,brt,Metrobús - Línea 5,2013
+137,129,brt,Metrobús - Línea 5,2013
+139,166,brt,Metrobús - Línea 4,2012
+139,141,brt,Metrobús - Línea 4,2012
+140,148,brt,Metrobús - Línea 4,2012
+140,174,brt,Metrobús - Línea 4,2012
+141,164,brt,Metrobús - Línea 4,2012
+141,160,brt,Metrobús - Línea 4,2012
+142,166,brt,Metrobús - Línea 4,2012
+142,145,brt,Metrobús - Línea 4,2012
+143,144,brt,Metrobús - Línea 4,2012
+144,146,brt,Metrobús - Línea 4,2012
+145,154,brt,Metrobús - Línea 4,2012
+146,147,brt,Metrobús - Línea 4,2012
+146,175,brt,Metrobús - Línea 4,2012
+147,149,brt,Metrobús - Línea 4,2012
+148,161,brt,Metrobús - Línea 4,2012
+149,151,brt,Metrobús - Línea 4,2012
+150,154,brt,Metrobús - Línea 4,2012
+150,158,brt,Metrobús - Línea 4,2012
+151,152,brt,Metrobús - Línea 4,2012
+152,153,brt,Metrobús - Línea 4,2012
+154,163,brt,Metrobús - Línea 4,2012
+155,156,brt,Metrobús - Línea 4,2012
+156,157,brt,Metrobús - Línea 4,2012
+157,159,brt,Metrobús - Línea 4,2012
+159,160,brt,Metrobús - Línea 4,2012
+160,162,brt,Metrobús - Línea 4,2012
+161,167,brt,Metrobús - Línea 4,2012
+162,164,brt,Metrobús - Línea 4,2012
+163,165,brt,Metrobús - Línea 4,2012
+165,170,brt,Metrobús - Línea 4,2012
+167,171,brt,Metrobús - Línea 4,2012
+168,169,brt,Metrobús - Línea 4,2012
+169,158,brt,Metrobús - Línea 4,2012
+170,172,brt,Metrobús - Línea 4,2012
+171,175,brt,Metrobús - Línea 4,2012
+172,173,brt,Metrobús - Línea 4,2012
+173,174,brt,Metrobús - Línea 4,2012
+176,180,brt,Metrobús - Línea 3,2011
+177,181,brt,Metrobús - Línea 3,2011
+177,180,brt,Metrobús - Línea 3,2011
+178,185,brt,Metrobús - Línea 3,2011
+178,188,brt,Metrobús - Línea 3,2011
+179,188,brt,Metrobús - Línea 3,2011
+179,192,brt,Metrobús - Línea 3,2011
+181,190,brt,Metrobús - Línea 3,2011
+182,186,brt,Metrobús - Línea 3,2011
+182,190,brt,Metrobús - Línea 3,2011
+183,191,brt,Metrobús - Línea 3,2011
+183,186,brt,Metrobús - Línea 3,2011
+184,191,brt,Metrobús - Línea 3,2011
+184,185,brt,Metrobús - Línea 3,2011
+187,200,brt,Metrobús - Línea 3,2011
+187,203,brt,Metrobús - Línea 3,2011
+189,198,brt,Metrobús - Línea 3,2011
+189,197,brt,Metrobús - Línea 3,2011
+192,193,brt,Metrobús - Línea 3,2011
+193,194,brt,Metrobús - Línea 3,2011
+194,196,brt,Metrobús - Línea 3,2011
+194,198,brt,Metrobús - Línea 3,2011
+195,204,brt,Metrobús - Línea 3,2011
+195,206,brt,Metrobús - Línea 3,2011
+197,199,brt,Metrobús - Línea 3,2011
+199,201,brt,Metrobús - Línea 3,2011
+200,205,brt,Metrobús - Línea 3,2011
+201,202,brt,Metrobús - Línea 3,2011
+202,203,brt,Metrobús - Línea 3,2011
+204,207,brt,Metrobús - Línea 3,2011
+205,206,brt,Metrobús - Línea 3,2011
+177,205,brt,Metrobús - Línea 3,2011
+208,212,brt,Metrobús - Línea 2,2008
+208,234,brt,Metrobús - Línea 2,2008
+209,214,brt,Metrobús - Línea 2,2008
+209,210,brt,Metrobús - Línea 2,2008
+211,223,brt,Metrobús - Línea 2,2008
+212,215,brt,Metrobús - Línea 2,2008
+213,216,brt,Metrobús - Línea 2,2008
+213,214,brt,Metrobús - Línea 2,2008
+215,220,brt,Metrobús - Línea 2,2008
+216,217,brt,Metrobús - Línea 2,2008
+217,219,brt,Metrobús - Línea 2,2008
+218,222,brt,Metrobús - Línea 2,2008
+218,210,brt,Metrobús - Línea 2,2008
+219,221,brt,Metrobús - Línea 2,2008
+220,225,brt,Metrobús - Línea 2,2008
+221,226,brt,Metrobús - Línea 2,2008
+222,223,brt,Metrobús - Línea 2,2008
+224,240,brt,Metrobús - Línea 2,2008
+224,235,brt,Metrobús - Línea 2,2008
+225,229,brt,Metrobús - Línea 2,2008
+226,227,brt,Metrobús - Línea 2,2008
+227,228,brt,Metrobús - Línea 2,2008
+228,230,brt,Metrobús - Línea 2,2008
+229,233,brt,Metrobús - Línea 2,2008
+230,231,brt,Metrobús - Línea 2,2008
+231,232,brt,Metrobús - Línea 2,2008
+232,234,brt,Metrobús - Línea 2,2008
+233,236,brt,Metrobús - Línea 2,2008
+235,238,brt,Metrobús - Línea 2,2008
+237,239,brt,Metrobús - Línea 2,2008
+237,236,brt,Metrobús - Línea 2,2008
+238,241,brt,Metrobús - Línea 2,2008
+239,240,brt,Metrobús - Línea 2,2008
+241,242,brt,Metrobús - Línea 2,2008
+243,241,brt,Metrobús - Línea 2,2008
+224,213,brt,Metrobús - Línea 2,2008
+244,251,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+244,250,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+245,248,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+245,246,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+246,249,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+247,248,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+249,250,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+251,253,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+252,253,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+250,251,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea A,1991
+254,255,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+255,256,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+256,258,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+257,263,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+257,264,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+258,259,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+259,260,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+260,261,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+261,262,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+262,263,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+264,265,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+265,266,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+266,267,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+267,268,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+268,269,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+269,270,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+270,271,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+271,272,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+272,273,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+273,274,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,2000
+263,264,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea B,1999
+275,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+275,295,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+276,295,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+276,279,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+277,278,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1984
+278,280,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1984
+279,281,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+280,282,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+281,285,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+282,283,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+283,284,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+284,286,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+285,289,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+286,287,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+287,288,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+288,290,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+289,292,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+290,291,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+291,293,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+292,296,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+293,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+296,297,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+297,298,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+296,294,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 2,1970
+299,300,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+299,307,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+300,303,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+301,309,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
+301,308,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
+302,309,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
+303,308,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1986
+304,305,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+305,306,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+306,307,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 6,1983
+310,321,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
+310,322,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
+311,321,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
+311,314,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
+312,314,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1978
+312,319,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1978
+313,316,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
+313,325,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
+315,317,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
+316,320,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+317,318,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
+318,319,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1979
+320,326,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+322,323,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
+323,324,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
+324,325,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1980
+326,327,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+327,328,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+328,329,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+329,330,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1983
+311,310,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 3,1970
+331,336,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+332,340,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
+332,339,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
+333,334,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
+333,340,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1982
+335,337,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+335,336,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+337,338,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+338,339,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+335,338,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 4,1981
+341,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+341,345,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+342,346,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+342,356,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+343,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+343,344,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+345,356,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+346,353,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+347,359,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+347,349,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+348,352,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+348,355,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+349,350,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+350,351,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+351,352,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+353,357,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+357,358,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+358,359,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+351,354,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 8,1994
+360,373,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
+361,366,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+362,363,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+362,374,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+363,382,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+364,373,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
+364,365,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2018
+365,382,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+366,374,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+367,376,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+367,375,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+368,376,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+368,381,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+369,381,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+369,377,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+370,379,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+370,378,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+371,379,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+371,380,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+372,378,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+372,377,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+375,361,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+379,363,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 12,2012
+383,387,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+383,385,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+384,387,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+384,390,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
+385,386,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+386,392,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+388,389,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+389,391,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+390,393,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
+391,392,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1987
+393,394,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 9,1988
+395,405,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
+395,398,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
+396,399,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
+396,397,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
+398,404,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
+399,402,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
+400,402,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1985
+400,403,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
+401,404,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
+401,403,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1984
+405,406,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
+406,407,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
+407,408,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 7,1988
+409,417,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+409,418,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+410,411,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1972
+411,419,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1970
+412,420,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+412,419,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1970
+413,420,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+413,421,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+414,415,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+414,421,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+415,416,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+416,422,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+417,422,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+418,423,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+423,424,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+424,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+425,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+425,428,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+426,428,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1984
+414,427,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 1,1969
+429,438,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+429,437,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+430,440,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+430,431,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+431,432,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
+432,434,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
+433,435,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+434,436,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
+435,437,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+436,439,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
+438,440,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1982
+439,441,heavy_rail,Sistema de Transporte Colectivo (STC) - Línea 5,1981
+442,448,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+443,456,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+443,444,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+444,445,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+445,446,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+446,447,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+447,449,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+448,450,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+449,453,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+450,451,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+451,452,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+452,454,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+453,457,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+454,455,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+455,456,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+457,458,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+458,459,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+456,457,light_rail,Servicio de Transportes Eléctricos de CDMX (STE) - Tren Ligero,1986
+460,463,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+460,462,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+461,466,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+463,464,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+464,465,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008
+465,466,commuter_rail,Ferrocarriles Suburbanos - Tren Suburbano,2008

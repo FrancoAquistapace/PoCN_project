@@ -1,93 +1,93 @@
-,nodeID_from,nodeID_to,mode,line,year
-0,0,2,commuter_rail,Suburban Lines - Milngavie Branch,0
-1,1,2,commuter_rail,Suburban Lines - Milngavie Branch,0
-2,3,4,commuter_rail,Suburban Lines - Whifflet Branch,0
-3,4,5,commuter_rail,Suburban Lines - Whifflet Branch,0
-4,5,6,commuter_rail,Suburban Lines - Whifflet Branch,0
-5,6,7,commuter_rail,Suburban Lines - Whifflet Branch,0
-6,7,8,commuter_rail,Suburban Lines - Whifflet Branch,0
-7,9,10,commuter_rail,Glasgow to Edinburgh Lines - via Shotts,0
-8,11,16,commuter_rail,Suburban Lines - Cathcart Circle,0
-9,12,16,commuter_rail,Suburban Lines - Cathcart Circle,0
-10,13,14,commuter_rail,Suburban Lines - Cathcart Circle,0
-11,14,15,commuter_rail,Suburban Lines - Cathcart Circle,0
-12,15,16,commuter_rail,Suburban Lines - Cathcart Circle,0
-13,17,18,commuter_rail,Suburban Lines - Maryhill Branch,0
-14,18,19,commuter_rail,Suburban Lines - Maryhill Branch,0
-15,19,21,commuter_rail,Suburban Lines - Maryhill Branch,0
-16,20,21,commuter_rail,Suburban Lines - Maryhill Branch,0
-17,22,20,commuter_rail,Suburban Lines - Maryhill Branch,0
-18,22,23,commuter_rail,Suburban Lines - Maryhill Branch,0
-19,24,25,commuter_rail,Suburban Lines - Springburn Branch,0
-20,25,28,commuter_rail,Suburban Lines - Springburn Branch,0
-21,26,27,commuter_rail,Suburban Lines - Springburn Branch,0
-22,26,24,commuter_rail,Suburban Lines - Springburn Branch,0
-23,29,30,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-24,29,31,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-25,31,35,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-26,32,33,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-27,33,35,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-28,34,36,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-29,36,37,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-30,32,34,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
-31,38,46,commuter_rail,Suburban Lines - North Clyde Line,0
-32,38,39,commuter_rail,Suburban Lines - North Clyde Line,0
-33,39,42,commuter_rail,Suburban Lines - North Clyde Line,0
-34,40,42,commuter_rail,Suburban Lines - North Clyde Line,0
-35,40,41,commuter_rail,Suburban Lines - North Clyde Line,0
-36,43,50,commuter_rail,Suburban Lines - North Clyde Line,0
-37,44,45,commuter_rail,Suburban Lines - North Clyde Line,0
-38,44,53,commuter_rail,Suburban Lines - North Clyde Line,0
-39,46,47,commuter_rail,Suburban Lines - North Clyde Line,0
-40,47,48,commuter_rail,Suburban Lines - North Clyde Line,0
-41,49,51,commuter_rail,Suburban Lines - North Clyde Line,0
-42,49,52,commuter_rail,Suburban Lines - North Clyde Line,0
-43,50,45,commuter_rail,Suburban Lines - North Clyde Line,0
-44,53,52,commuter_rail,Suburban Lines - North Clyde Line,0
-45,54,48,commuter_rail,Suburban Lines - North Clyde Line,0
-46,43,41,commuter_rail,Suburban Lines - North Clyde Line,0
-47,55,56,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-48,55,61,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-49,56,57,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-50,57,58,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-51,59,60,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-52,59,58,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-53,61,62,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
-54,63,65,commuter_rail,Suburban Lines - Argyle Line,0
-55,64,65,commuter_rail,Suburban Lines - Argyle Line,0
-56,66,67,inter_city_rail,Intercity Lines - West Coast Mainline,0
-57,68,69,inter_city_rail,Intercity Lines - East Coast Mainline,0
-58,70,71,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
-59,71,72,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
-60,72,73,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
-61,75,88,light_rail,Glasgow Subway - Outer Circle,1896
-62,75,78,light_rail,Glasgow Subway - Outer Circle,1896
-63,76,77,light_rail,Glasgow Subway - Outer Circle,1896
-64,76,87,light_rail,Glasgow Subway - Outer Circle,1896
-65,77,88,light_rail,Glasgow Subway - Outer Circle,1896
-66,78,79,light_rail,Glasgow Subway - Outer Circle,1896
-67,79,80,light_rail,Glasgow Subway - Outer Circle,1896
-68,80,83,light_rail,Glasgow Subway - Outer Circle,1896
-69,81,89,light_rail,Glasgow Subway - Outer Circle,1896
-70,81,85,light_rail,Glasgow Subway - Outer Circle,1896
-71,82,89,light_rail,Glasgow Subway - Outer Circle,1896
-72,82,84,light_rail,Glasgow Subway - Outer Circle,1896
-73,83,84,light_rail,Glasgow Subway - Outer Circle,1896
-74,85,86,light_rail,Glasgow Subway - Outer Circle,1896
-75,86,87,light_rail,Glasgow Subway - Outer Circle,1896
-76,90,103,light_rail,Glasgow Subway - Inner Circle,1896
-77,90,93,light_rail,Glasgow Subway - Inner Circle,1896
-78,91,92,light_rail,Glasgow Subway - Inner Circle,1896
-79,91,102,light_rail,Glasgow Subway - Inner Circle,1896
-80,92,103,light_rail,Glasgow Subway - Inner Circle,1896
-81,93,94,light_rail,Glasgow Subway - Inner Circle,1896
-82,94,95,light_rail,Glasgow Subway - Inner Circle,1896
-83,95,98,light_rail,Glasgow Subway - Inner Circle,1896
-84,96,104,light_rail,Glasgow Subway - Inner Circle,1896
-85,96,100,light_rail,Glasgow Subway - Inner Circle,1896
-86,97,104,light_rail,Glasgow Subway - Inner Circle,1896
-87,97,99,light_rail,Glasgow Subway - Inner Circle,1896
-88,98,99,light_rail,Glasgow Subway - Inner Circle,1896
-89,100,101,light_rail,Glasgow Subway - Inner Circle,1896
-90,101,102,light_rail,Glasgow Subway - Inner Circle,1896
-91,105,106,light_rail,Glasgow Subway - Circle,1896
+nodeID_from,nodeID_to,mode,line,year
+0,2,commuter_rail,Suburban Lines - Milngavie Branch,0
+1,2,commuter_rail,Suburban Lines - Milngavie Branch,0
+3,4,commuter_rail,Suburban Lines - Whifflet Branch,0
+4,5,commuter_rail,Suburban Lines - Whifflet Branch,0
+5,6,commuter_rail,Suburban Lines - Whifflet Branch,0
+6,7,commuter_rail,Suburban Lines - Whifflet Branch,0
+7,8,commuter_rail,Suburban Lines - Whifflet Branch,0
+9,10,commuter_rail,Glasgow to Edinburgh Lines - via Shotts,0
+11,16,commuter_rail,Suburban Lines - Cathcart Circle,0
+12,16,commuter_rail,Suburban Lines - Cathcart Circle,0
+13,14,commuter_rail,Suburban Lines - Cathcart Circle,0
+14,15,commuter_rail,Suburban Lines - Cathcart Circle,0
+15,16,commuter_rail,Suburban Lines - Cathcart Circle,0
+17,18,commuter_rail,Suburban Lines - Maryhill Branch,0
+18,19,commuter_rail,Suburban Lines - Maryhill Branch,0
+19,21,commuter_rail,Suburban Lines - Maryhill Branch,0
+20,21,commuter_rail,Suburban Lines - Maryhill Branch,0
+22,20,commuter_rail,Suburban Lines - Maryhill Branch,0
+22,23,commuter_rail,Suburban Lines - Maryhill Branch,0
+24,25,commuter_rail,Suburban Lines - Springburn Branch,0
+25,28,commuter_rail,Suburban Lines - Springburn Branch,0
+26,27,commuter_rail,Suburban Lines - Springburn Branch,0
+26,24,commuter_rail,Suburban Lines - Springburn Branch,0
+29,30,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+29,31,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+31,35,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+32,33,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+33,35,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+34,36,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+36,37,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+32,34,commuter_rail,Glasgow to Edinburgh Lines - Via Falkirk Grahamston,0
+38,46,commuter_rail,Suburban Lines - North Clyde Line,0
+38,39,commuter_rail,Suburban Lines - North Clyde Line,0
+39,42,commuter_rail,Suburban Lines - North Clyde Line,0
+40,42,commuter_rail,Suburban Lines - North Clyde Line,0
+40,41,commuter_rail,Suburban Lines - North Clyde Line,0
+43,50,commuter_rail,Suburban Lines - North Clyde Line,0
+44,45,commuter_rail,Suburban Lines - North Clyde Line,0
+44,53,commuter_rail,Suburban Lines - North Clyde Line,0
+46,47,commuter_rail,Suburban Lines - North Clyde Line,0
+47,48,commuter_rail,Suburban Lines - North Clyde Line,0
+49,51,commuter_rail,Suburban Lines - North Clyde Line,0
+49,52,commuter_rail,Suburban Lines - North Clyde Line,0
+50,45,commuter_rail,Suburban Lines - North Clyde Line,0
+53,52,commuter_rail,Suburban Lines - North Clyde Line,0
+54,48,commuter_rail,Suburban Lines - North Clyde Line,0
+43,41,commuter_rail,Suburban Lines - North Clyde Line,0
+55,56,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+55,61,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+56,57,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+57,58,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+59,60,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+59,58,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+61,62,commuter_rail,Ayrshire & Inverclyde Lines - Paisley Canal,0
+63,65,commuter_rail,Suburban Lines - Argyle Line,0
+64,65,commuter_rail,Suburban Lines - Argyle Line,0
+66,67,inter_city_rail,Intercity Lines - West Coast Mainline,0
+68,69,inter_city_rail,Intercity Lines - East Coast Mainline,0
+70,71,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
+71,72,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
+72,73,inter_city_rail,Glasgow to Edinburgh Lines - Via Falkirk High,0
+75,88,light_rail,Glasgow Subway - Outer Circle,1896
+75,78,light_rail,Glasgow Subway - Outer Circle,1896
+76,77,light_rail,Glasgow Subway - Outer Circle,1896
+76,87,light_rail,Glasgow Subway - Outer Circle,1896
+77,88,light_rail,Glasgow Subway - Outer Circle,1896
+78,79,light_rail,Glasgow Subway - Outer Circle,1896
+79,80,light_rail,Glasgow Subway - Outer Circle,1896
+80,83,light_rail,Glasgow Subway - Outer Circle,1896
+81,89,light_rail,Glasgow Subway - Outer Circle,1896
+81,85,light_rail,Glasgow Subway - Outer Circle,1896
+82,89,light_rail,Glasgow Subway - Outer Circle,1896
+82,84,light_rail,Glasgow Subway - Outer Circle,1896
+83,84,light_rail,Glasgow Subway - Outer Circle,1896
+85,86,light_rail,Glasgow Subway - Outer Circle,1896
+86,87,light_rail,Glasgow Subway - Outer Circle,1896
+90,103,light_rail,Glasgow Subway - Inner Circle,1896
+90,93,light_rail,Glasgow Subway - Inner Circle,1896
+91,92,light_rail,Glasgow Subway - Inner Circle,1896
+91,102,light_rail,Glasgow Subway - Inner Circle,1896
+92,103,light_rail,Glasgow Subway - Inner Circle,1896
+93,94,light_rail,Glasgow Subway - Inner Circle,1896
+94,95,light_rail,Glasgow Subway - Inner Circle,1896
+95,98,light_rail,Glasgow Subway - Inner Circle,1896
+96,104,light_rail,Glasgow Subway - Inner Circle,1896
+96,100,light_rail,Glasgow Subway - Inner Circle,1896
+97,104,light_rail,Glasgow Subway - Inner Circle,1896
+97,99,light_rail,Glasgow Subway - Inner Circle,1896
+98,99,light_rail,Glasgow Subway - Inner Circle,1896
+100,101,light_rail,Glasgow Subway - Inner Circle,1896
+101,102,light_rail,Glasgow Subway - Inner Circle,1896
+105,106,light_rail,Glasgow Subway - Circle,1896
