@@ -39,8 +39,8 @@ nodeID_from,nodeID_to,mode,line,year
 31,35,heavy_rail,Busan Metro - Line 1,1985
 36,37,heavy_rail,Busan Metro - Line 1,1988
 37,39,heavy_rail,Busan Metro - Line 1,1988
-33,32,heavy_rail,Busan Metro - Line 1,1985
 27,26,heavy_rail,Busan Metro - Line 1,1987
+33,3,heavy_rail,Busan Metro - Line 1,1985
 40,41,heavy_rail,Busan Metro - Line 3,2005
 40,53,heavy_rail,Busan Metro - Line 3,2005
 41,42,heavy_rail,Busan Metro - Line 3,2005
@@ -56,7 +56,7 @@ nodeID_from,nodeID_to,mode,line,year
 49,53,heavy_rail,Busan Metro - Line 3,2005
 50,56,heavy_rail,Busan Metro - Line 3,2005
 52,56,heavy_rail,Busan Metro - Line 3,2005
-53,48,heavy_rail,Busan Metro - Line 3,2005
+44,56,heavy_rail,Busan Metro - Line 3,2005
 57,58,heavy_rail,Busan Metro - Line 4,2011
 58,63,heavy_rail,Busan Metro - Line 4,2011
 59,60,heavy_rail,Busan Metro - Line 4,2011
@@ -70,7 +70,7 @@ nodeID_from,nodeID_to,mode,line,year
 65,66,heavy_rail,Busan Metro - Line 4,2011
 66,67,heavy_rail,Busan Metro - Line 4,2011
 68,69,heavy_rail,Busan Metro - Line 4,2011
-64,68,heavy_rail,Busan Metro - Line 4,2011
+64,60,heavy_rail,Busan Metro - Line 4,2011
 71,72,heavy_rail,Busan Metro - Line 2,2002
 71,73,heavy_rail,Busan Metro - Line 2,2002
 73,106,heavy_rail,Busan Metro - Line 2,2002
@@ -112,10 +112,10 @@ nodeID_from,nodeID_to,mode,line,year
 108,109,heavy_rail,Busan Metro - Line 2,2008
 110,111,heavy_rail,Busan Metro - Line 2,1999
 111,112,heavy_rail,Busan Metro - Line 2,1999
-111,104,heavy_rail,Busan Metro - Line 2,1999
-86,81,heavy_rail,Busan Metro - Line 2,2001
 105,109,heavy_rail,Busan Metro - Line 2,2008
 76,74,heavy_rail,Busan Metro - Line 2,2002
+86,85,heavy_rail,Busan Metro - Line 2,2001
+111,91,heavy_rail,Busan Metro - Line 2,1999
 114,115,light_rail,B&G Metro - Busan-Gimhae LRT (BGL),2011
 115,116,light_rail,B&G Metro - Busan-Gimhae LRT (BGL),2011
 116,117,light_rail,B&G Metro - Busan-Gimhae LRT (BGL),2011
@@ -153,5 +153,5 @@ nodeID_from,nodeID_to,mode,line,year
 151,152,commuter_rail,Korail - Donghae Line,2016
 153,154,commuter_rail,Korail - Donghae Line,2016
 153,152,commuter_rail,Korail - Donghae Line,2016
-149,152,commuter_rail,Korail - Donghae Line,2016
+149,150,commuter_rail,Korail - Donghae Line,2016
 155,156,high_speed_rail,KTX - Gyeongbu Line,2010

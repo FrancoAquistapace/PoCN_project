@@ -43,9 +43,9 @@ nodeID_from,nodeID_to,mode,line,year
 48,47,light_rail,TVR - 1,2001
 50,51,light_rail,TVR - 1,2001
 51,52,light_rail,TVR - 1,2001
-38,41,light_rail,TVR - 1,2001
 43,40,light_rail,TVR - 1,2001
 4,0,light_rail,TVR - 1,2001
 1,19,light_rail,TVR - 1,2001
-7,23,light_rail,TVR - 1,2001
 20,25,light_rail,TVR - 1,2001
+38,29,light_rail,TVR - 1,2001
+7,11,light_rail,TVR - 1,2001

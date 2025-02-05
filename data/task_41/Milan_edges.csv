@@ -38,7 +38,7 @@ nodeID_from,nodeID_to,mode,line,year
 35,36,heavy_rail,Metro - M1,1980.0
 37,38,heavy_rail,Metro - M1,1986.0
 38,39,heavy_rail,Metro - M1,2005.0
-18,15,heavy_rail,Metro - M1,1966.0
+18,4,heavy_rail,Metro - M1,1964.0
 40,49,heavy_rail,Metro - M5,2014.0
 40,50,heavy_rail,Metro - M5,2015.0
 41,58,heavy_rail,Metro - M5,2015.0
@@ -131,7 +131,7 @@ nodeID_from,nodeID_to,mode,line,year
 131,132,heavy_rail,Metro - M4,
 133,135,heavy_rail,Metro - M4,2021.0
 134,133,heavy_rail,Metro - M4,2021.0
-127,126,heavy_rail,Metro - M4,
+127,128,heavy_rail,Metro - M4,
 136,142,commuter_rail,Ferrovie Suburbane - S9,2011.0
 136,148,commuter_rail,Ferrovie Suburbane - S9,2011.0
 137,150,commuter_rail,Ferrovie Suburbane - S9,2011.0
@@ -151,8 +151,8 @@ nodeID_from,nodeID_to,mode,line,year
 152,153,commuter_rail,Ferrovie Suburbane - S9,2011.0
 154,155,commuter_rail,Ferrovie Suburbane - S9,2011.0
 156,151,commuter_rail,Ferrovie Suburbane - S9,2011.0
-137,145,commuter_rail,Ferrovie Suburbane - S9,2011.0
-138,136,commuter_rail,Ferrovie Suburbane - S9,2011.0
+145,150,commuter_rail,Ferrovie Suburbane - S9,2011.0
+138,155,commuter_rail,Ferrovie Suburbane - S9,2011.0
 157,158,commuter_rail,Ferrovie Suburbane - S4,2004.0
 157,167,commuter_rail,Ferrovie Suburbane - S4,2004.0
 158,160,commuter_rail,Ferrovie Suburbane - S4,2004.0
@@ -190,7 +190,7 @@ nodeID_from,nodeID_to,mode,line,year
 191,192,commuter_rail,Ferrovie Suburbane - S3,2007.0
 193,195,commuter_rail,Ferrovie Suburbane - S3,2007.0
 194,195,commuter_rail,Ferrovie Suburbane - S3,2007.0
-190,193,commuter_rail,Ferrovie Suburbane - S3,2007.0
+190,188,commuter_rail,Ferrovie Suburbane - S3,2007.0
 198,205,commuter_rail,Ferrovie Suburbane - S1,2007.0
 199,200,commuter_rail,Ferrovie Suburbane - S1,2007.0
 199,205,commuter_rail,Ferrovie Suburbane - S1,2007.0
@@ -210,7 +210,7 @@ nodeID_from,nodeID_to,mode,line,year
 215,213,commuter_rail,Ferrovie Suburbane - S8,2009.0
 216,217,commuter_rail,Ferrovie Suburbane - S8,2009.0
 217,218,commuter_rail,Ferrovie Suburbane - S8,2009.0
-212,213,commuter_rail,Ferrovie Suburbane - S8,2009.0
+212,208,commuter_rail,Ferrovie Suburbane - S8,2009.0
 219,223,commuter_rail,Ferrovie Suburbane - S5,2009.0
 219,225,commuter_rail,Ferrovie Suburbane - S5,2009.0
 220,223,commuter_rail,Ferrovie Suburbane - S5,2009.0
@@ -230,15 +230,15 @@ nodeID_from,nodeID_to,mode,line,year
 236,237,commuter_rail,Ferrovie Suburbane - S5,2004.0
 238,239,commuter_rail,Ferrovie Suburbane - S5,2004.0
 239,240,commuter_rail,Ferrovie Suburbane - S5,2004.0
-235,231,commuter_rail,Ferrovie Suburbane - S5,2004.0
 240,221,commuter_rail,Ferrovie Suburbane - S5,2009.0
-224,219,commuter_rail,Ferrovie Suburbane - S5,2009.0
+224,223,commuter_rail,Ferrovie Suburbane - S5,2009.0
+231,232,commuter_rail,Ferrovie Suburbane - S5,2004.0
 241,244,commuter_rail,Ferrovie Suburbane - R31,1870.0
 242,246,commuter_rail,Ferrovie Suburbane - R31,1870.0
 243,247,commuter_rail,Ferrovie Suburbane - R31,1870.0
 244,245,commuter_rail,Ferrovie Suburbane - R31,1870.0
 246,247,commuter_rail,Ferrovie Suburbane - R31,1870.0
-241,246,commuter_rail,Ferrovie Suburbane - R31,1870.0
+241,242,commuter_rail,Ferrovie Suburbane - R31,1870.0
 248,254,commuter_rail,Ferrovie Suburbane - Passante,2002.0
 248,253,commuter_rail,Ferrovie Suburbane - Passante,2002.0
 249,251,commuter_rail,Ferrovie Suburbane - Passante,2002.0

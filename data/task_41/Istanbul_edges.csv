@@ -65,8 +65,8 @@ nodeID_from,nodeID_to,mode,line,year
 63,58,heavy_rail,Metro İstanbul - M4,2022
 63,64,heavy_rail,Metro İstanbul - M4,2022
 64,65,heavy_rail,Metro İstanbul - M4,2022
-51,39,heavy_rail,Metro İstanbul - M4,2012
 59,61,heavy_rail,Metro İstanbul - M4,2025
+51,49,heavy_rail,Metro İstanbul - M4,2012
 67,68,heavy_rail,Metro İstanbul - M5,2017
 67,72,heavy_rail,Metro İstanbul - M5,2017
 68,87,heavy_rail,Metro İstanbul - M5,2017
@@ -115,7 +115,7 @@ nodeID_from,nodeID_to,mode,line,year
 112,116,heavy_rail,Metro İstanbul - M7,2026
 112,117,heavy_rail,Metro İstanbul - M7,2026
 114,115,heavy_rail,Metro İstanbul - M7,2026
-108,97,heavy_rail,Metro İstanbul - M7,2020
+108,106,heavy_rail,Metro İstanbul - M7,2020
 118,121,heavy_rail,Metro İstanbul - M9,2021
 119,118,heavy_rail,Metro İstanbul - M9,2014
 119,122,heavy_rail,Metro İstanbul - M9,2014
@@ -145,7 +145,7 @@ nodeID_from,nodeID_to,mode,line,year
 144,145,heavy_rail,Metro İstanbul - M8,2023
 145,146,heavy_rail,Metro İstanbul - M8,2023
 147,148,heavy_rail,Metro İstanbul - M8,2023
-142,141,heavy_rail,Metro İstanbul - M8,2023
+142,140,heavy_rail,Metro İstanbul - M8,2023
 150,158,heavy_rail,Metro İstanbul - M12,2026
 150,157,heavy_rail,Metro İstanbul - M12,2026
 151,153,heavy_rail,Metro İstanbul - M12,2026
@@ -156,7 +156,7 @@ nodeID_from,nodeID_to,mode,line,year
 155,156,heavy_rail,Metro İstanbul - M12,2026
 158,159,heavy_rail,Metro İstanbul - M12,2026
 159,160,heavy_rail,Metro İstanbul - M12,2026
-155,158,heavy_rail,Metro İstanbul - M12,2026
+155,152,heavy_rail,Metro İstanbul - M12,2026
 167,172,heavy_rail,UAB - M11,2024
 168,180,heavy_rail,UAB - M11,2025
 168,181,heavy_rail,UAB - M11,2025
@@ -171,7 +171,7 @@ nodeID_from,nodeID_to,mode,line,year
 178,179,heavy_rail,UAB - M11,2024
 179,182,heavy_rail,UAB - M11,2025
 181,182,heavy_rail,UAB - M11,2025
-170,182,heavy_rail,UAB - M11,2025
+182,174,heavy_rail,UAB - M11,2025
 183,202,tram,Metro İstanbul - T4,2007
 184,185,tram,Metro İstanbul - T4,2007
 184,204,tram,Metro İstanbul - T4,2007
@@ -194,7 +194,7 @@ nodeID_from,nodeID_to,mode,line,year
 202,205,tram,Metro İstanbul - T4,2007
 203,204,tram,Metro İstanbul - T4,2007
 203,205,tram,Metro İstanbul - T4,2007
-185,183,tram,Metro İstanbul - T4,2007
+185,204,tram,Metro İstanbul - T4,2007
 206,207,tram,İETT - T2,1990
 207,208,tram,İETT - T2,1990
 208,209,tram,İETT - T2,1990
@@ -212,7 +212,7 @@ nodeID_from,nodeID_to,mode,line,year
 222,223,light_rail,Metro İstanbul - T5,2021
 223,224,light_rail,Metro İstanbul - T5,2021
 224,225,light_rail,Metro İstanbul - T5,2023
-223,219,light_rail,Metro İstanbul - T5,2021
+219,220,light_rail,Metro İstanbul - T5,2021
 227,235,light_rail,Metro İstanbul - M1A,2014
 228,231,light_rail,Metro İstanbul - M1A,1994
 228,232,light_rail,Metro İstanbul - M1A,1994
@@ -280,7 +280,7 @@ nodeID_from,nodeID_to,mode,line,year
 295,296,light_rail,Metro İstanbul - T1,2006
 296,297,light_rail,Metro İstanbul - T1,2006
 297,298,light_rail,Metro İstanbul - T1,2006
-291,277,light_rail,Metro İstanbul - T1,1996
+281,283,light_rail,Metro İstanbul - T1,1992
 300,314,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
 300,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
 301,306,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2013
@@ -323,5 +323,5 @@ nodeID_from,nodeID_to,mode,line,year
 336,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
 336,337,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
 337,338,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
-337,320,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
 314,315,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019
+337,339,commuter_rail,TCDD Taşımacılık - B1 - Marmaray,2019

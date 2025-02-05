@@ -18,7 +18,7 @@ nodeID_from,nodeID_to,mode,line,year
 25,26,heavy_rail,MTA Staten Island Railroad - Mainline,1860
 26,27,heavy_rail,MTA Staten Island Railroad - Mainline,1860
 27,28,heavy_rail,MTA Staten Island Railroad - Mainline,1860
-8,26,heavy_rail,MTA Staten Island Railroad - Mainline,1884
+8,15,heavy_rail,MTA Staten Island Railroad - Mainline,1884
 32,33,heavy_rail,MTA NYC Subway - F,1968
 42,43,light_rail,NJT Newark Light Rail - City Subway,1937
 42,46,light_rail,NJT Newark Light Rail - City Subway,1937

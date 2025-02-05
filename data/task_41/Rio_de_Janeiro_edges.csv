@@ -24,7 +24,7 @@ nodeID_from,nodeID_to,mode,line,year
 21,22,heavy_rail,Metrô Rio - Linha 2,0
 22,23,heavy_rail,Metrô Rio - Linha 2,1998
 24,25,heavy_rail,Metrô Rio - Linha 2,1983
-11,12,heavy_rail,Metrô Rio - Linha 2,1979
+11,5,heavy_rail,Metrô Rio - Linha 2,1979
 26,28,heavy_rail,Metrô Rio - Linha 4,2016
 27,30,heavy_rail,Metrô Rio - Linha 4,2016
 28,29,heavy_rail,Metrô Rio - Linha 4,2016
@@ -50,7 +50,7 @@ nodeID_from,nodeID_to,mode,line,year
 49,51,heavy_rail,Metrô Rio - Linha 1,0
 50,52,heavy_rail,Metrô Rio - Linha 1,0
 50,51,heavy_rail,Metrô Rio - Linha 1,0
-45,46,heavy_rail,Metrô Rio - Linha 1,1979
+45,39,heavy_rail,Metrô Rio - Linha 1,1979
 53,54,heavy_rail,SuperVia - Ramal Japeri,1858
 54,56,heavy_rail,SuperVia - Ramal Japeri,1858
 55,56,heavy_rail,SuperVia - Ramal Japeri,1858

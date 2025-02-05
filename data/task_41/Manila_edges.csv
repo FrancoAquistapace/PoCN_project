@@ -12,7 +12,7 @@ nodeID_from,nodeID_to,mode,line,year
 9,10,heavy_rail,Manila Metro Rail Transit System - Line 9 (Metro Manila Subway),2029
 11,12,heavy_rail,Manila Metro Rail Transit System - Line 9 (Metro Manila Subway),2029
 12,13,heavy_rail,Manila Metro Rail Transit System - Line 9 (Metro Manila Subway),2029
-10,11,heavy_rail,Manila Metro Rail Transit System - Line 9 (Metro Manila Subway),2029
+10,5,heavy_rail,Manila Metro Rail Transit System - Line 9 (Metro Manila Subway),2029
 14,15,heavy_rail,Manila Light Rail Transit System - Line 2,2003
 14,16,heavy_rail,Manila Light Rail Transit System - Line 2,2003
 15,17,heavy_rail,Manila Light Rail Transit System - Line 2,2003
@@ -39,7 +39,7 @@ nodeID_from,nodeID_to,mode,line,year
 39,40,heavy_rail,Manila Metro Rail Transit System - Line 7,2025
 40,41,heavy_rail,Manila Metro Rail Transit System - Line 7,2025
 41,42,heavy_rail,Manila Metro Rail Transit System - Line 7,2025
-40,31,heavy_rail,Manila Metro Rail Transit System - Line 7,2025
+31,35,heavy_rail,Manila Metro Rail Transit System - Line 7,2025
 43,44,ferry,Pasig River Ferry - Guadalupe - Maybunga,2007
 45,47,ferry,Pasig River Ferry - Guadalupe - Pinagbuhatan,2007
 46,47,ferry,Pasig River Ferry - Guadalupe - Pinagbuhatan,2007
@@ -50,7 +50,7 @@ nodeID_from,nodeID_to,mode,line,year
 54,55,ferry,Pasig River Ferry - Guadalupe - Plaza Mexico (Intramuros),2007
 54,53,ferry,Pasig River Ferry - Guadalupe - Plaza Mexico (Intramuros),2007
 55,56,ferry,Pasig River Ferry - Guadalupe - Plaza Mexico (Intramuros),2007
-53,50,ferry,Pasig River Ferry - Guadalupe - Plaza Mexico (Intramuros),2007
+50,51,ferry,Pasig River Ferry - Guadalupe - Plaza Mexico (Intramuros),2007
 57,75,light_rail,Manila Light Rail Transit System - Line 1,1984
 57,58,light_rail,Manila Light Rail Transit System - Line 1,1984
 58,59,light_rail,Manila Light Rail Transit System - Line 1,1984
@@ -120,4 +120,4 @@ nodeID_from,nodeID_to,mode,line,year
 126,127,commuter_rail,PNR - Metro South Commuter,0
 127,128,commuter_rail,PNR - Metro South Commuter,0
 128,129,commuter_rail,PNR - Metro South Commuter,0
-120,109,commuter_rail,PNR - Metro South Commuter,0
+120,116,commuter_rail,PNR - Metro South Commuter,0

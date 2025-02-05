@@ -12,7 +12,7 @@ nodeID_from,nodeID_to,mode,line,year
 5,11,default,Transmilenio - Troncal A - Caracas,2000
 6,13,default,Transmilenio - Troncal A - Caracas,2000
 6,12,default,Transmilenio - Troncal A - Caracas,2000
-10,6,default,Transmilenio - Troncal A - Caracas,2000
+10,9,default,Transmilenio - Troncal A - Caracas,2000
 14,19,default,Transmilenio - Troncal B - Norte,2001
 14,18,default,Transmilenio - Troncal B - Norte,2001
 15,19,default,Transmilenio - Troncal B - Norte,2001
@@ -29,7 +29,7 @@ nodeID_from,nodeID_to,mode,line,year
 25,29,default,Transmilenio - Troncal B - Norte,2001
 26,30,default,Transmilenio - Troncal B - Norte,2012
 26,29,default,Transmilenio - Troncal B - Norte,2012
-28,18,default,Transmilenio - Troncal B - Norte,2001
+28,27,default,Transmilenio - Troncal B - Norte,2001
 31,32,default,Tren de la Sabana - Tren Turístico (Del Norte),1894
 33,35,default,TransmiCable - Ciudad Bolivar,2018
 34,36,default,TransmiCable - Ciudad Bolivar,2018

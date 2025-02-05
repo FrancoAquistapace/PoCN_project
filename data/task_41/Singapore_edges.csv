@@ -46,9 +46,9 @@ nodeID_from,nodeID_to,mode,line,year
 41,42,heavy_rail,SBS Transit - Downtown Line,2025
 42,46,heavy_rail,SBS Transit - Downtown Line,2025
 43,31,heavy_rail,SBS Transit - Downtown Line,2017
-47,21,heavy_rail,SBS Transit - Downtown Line,2015
 39,37,heavy_rail,SBS Transit - Downtown Line,2017
-45,43,heavy_rail,SBS Transit - Downtown Line,2017
+45,33,heavy_rail,SBS Transit - Downtown Line,2017
+47,25,heavy_rail,SBS Transit - Downtown Line,2015
 48,70,heavy_rail,SMRT Trains - North South Line,1989
 49,50,heavy_rail,SMRT Trains - North South Line,1990
 49,52,heavy_rail,SMRT Trains - North South Line,2014
@@ -166,8 +166,8 @@ nodeID_from,nodeID_to,mode,line,year
 163,164,heavy_rail,SMRT Trains - East West Line,1990
 164,165,heavy_rail,SMRT Trains - East West Line,1990
 168,169,heavy_rail,SMRT Trains - East West Line,1987
-165,166,heavy_rail,SMRT Trains - East West Line,1990
-158,160,heavy_rail,SMRT Trains - East West Line,1988
+166,142,heavy_rail,SMRT Trains - East West Line,2001
+160,159,heavy_rail,SMRT Trains - East West Line,1988
 170,171,heavy_rail,SBS Transit - North East Line,2003
 170,186,heavy_rail,SBS Transit - North East Line,2003
 171,172,heavy_rail,SBS Transit - North East Line,2003
@@ -184,7 +184,7 @@ nodeID_from,nodeID_to,mode,line,year
 182,183,heavy_rail,SBS Transit - North East Line,2003
 184,183,heavy_rail,SBS Transit - North East Line,2003
 185,186,heavy_rail,SBS Transit - North East Line,2024
-179,182,heavy_rail,SBS Transit - North East Line,2003
+179,177,heavy_rail,SBS Transit - North East Line,2003
 187,190,heavy_rail,SMRT Trains - Jurong Region Line,2027
 188,189,heavy_rail,SMRT Trains - Jurong Region Line,2027
 189,190,heavy_rail,SMRT Trains - Jurong Region Line,2027

@@ -22,8 +22,8 @@ nodeID_from,nodeID_to,mode,line,year
 19,20,light_rail,Taipei Metro - Wenhu Line,2009
 20,21,light_rail,Taipei Metro - Wenhu Line,2009
 21,22,light_rail,Taipei Metro - Wenhu Line,2009
-11,14,light_rail,Taipei Metro - Wenhu Line,1996
-23,20,light_rail,Taipei Metro - Wenhu Line,2009
+11,12,light_rail,Taipei Metro - Wenhu Line,1996
+23,3,light_rail,Taipei Metro - Wenhu Line,2009
 24,25,light_rail,Taipei Metro - Circular Line,2020
 25,26,light_rail,Taipei Metro - Circular Line,2020
 26,27,light_rail,Taipei Metro - Circular Line,2020
@@ -36,7 +36,7 @@ nodeID_from,nodeID_to,mode,line,year
 35,36,light_rail,Taipei Metro - Circular Line,2020
 35,34,light_rail,Taipei Metro - Circular Line,2020
 36,37,light_rail,Taipei Metro - Circular Line,2020
-31,34,light_rail,Taipei Metro - Circular Line,2020
+31,32,light_rail,Taipei Metro - Circular Line,2020
 38,46,light_rail,New Taipei Metro - Danhai Light Rail,2019
 38,39,light_rail,New Taipei Metro - Danhai Light Rail,2019
 39,40,light_rail,New Taipei Metro - Danhai Light Rail,2019
@@ -47,7 +47,7 @@ nodeID_from,nodeID_to,mode,line,year
 44,45,light_rail,New Taipei Metro - Danhai Light Rail,2019
 45,46,light_rail,New Taipei Metro - Danhai Light Rail,2019
 47,48,light_rail,New Taipei Metro - Danhai Light Rail,2019
-46,40,light_rail,New Taipei Metro - Danhai Light Rail,2019
+46,39,light_rail,New Taipei Metro - Danhai Light Rail,2019
 49,63,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,1998
 49,50,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,1998
 50,75,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,1998
@@ -90,8 +90,8 @@ nodeID_from,nodeID_to,mode,line,year
 88,89,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,2013
 89,90,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,2013
 90,91,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,2013
-66,70,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,1997
-86,89,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,2013
+86,88,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,2013
+66,53,heavy_rail,Taipei Metro - Tamsui-Xinyi Line,1997
 92,101,heavy_rail,Taipei Metro - Songshan-Xindian Line,1999
 92,93,heavy_rail,Taipei Metro - Songshan-Xindian Line,2000
 93,111,heavy_rail,Taipei Metro - Songshan-Xindian Line,2000
@@ -111,7 +111,7 @@ nodeID_from,nodeID_to,mode,line,year
 107,108,heavy_rail,Taipei Metro - Songshan-Xindian Line,2014
 108,111,heavy_rail,Taipei Metro - Songshan-Xindian Line,2000
 109,110,heavy_rail,Taipei Metro - Songshan-Xindian Line,2014
-103,106,heavy_rail,Taipei Metro - Songshan-Xindian Line,2014
+103,105,heavy_rail,Taipei Metro - Songshan-Xindian Line,2014
 112,116,heavy_rail,Taipei Metro - Zhonghe-Xinlu Line,2012
 112,117,heavy_rail,Taipei Metro - Zhonghe-Xinlu Line,2012
 113,114,heavy_rail,Taipei Metro - Zhonghe-Xinlu Line,2010

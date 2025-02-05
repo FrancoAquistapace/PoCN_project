@@ -46,8 +46,8 @@ nodeID_from,nodeID_to,mode,line,year
 42,46,heavy_rail,Metro de Santiago - Línea 4,2005
 43,44,heavy_rail,Metro de Santiago - Línea 4,2005
 45,46,heavy_rail,Metro de Santiago - Línea 4,2005
-39,45,heavy_rail,Metro de Santiago - Línea 4,2005
 44,40,heavy_rail,Metro de Santiago - Línea 4,2005
+39,41,heavy_rail,Metro de Santiago - Línea 4,2005
 49,53,heavy_rail,Metro de Santiago - Línea 4A,2006
 50,51,heavy_rail,Metro de Santiago - Línea 4A,2006
 50,54,heavy_rail,Metro de Santiago - Línea 4A,2006
@@ -80,8 +80,8 @@ nodeID_from,nodeID_to,mode,line,year
 77,79,heavy_rail,Metro de Santiago - Línea 5,2010
 78,80,heavy_rail,Metro de Santiago - Línea 5,2011
 78,79,heavy_rail,Metro de Santiago - Línea 5,2011
-83,61,heavy_rail,Metro de Santiago - Línea 5,1997
 75,70,heavy_rail,Metro de Santiago - Línea 5,2011
+83,59,heavy_rail,Metro de Santiago - Línea 5,1997
 84,87,heavy_rail,Metro de Santiago - Línea 6,2017
 85,92,heavy_rail,Metro de Santiago - Línea 6,2017
 86,90,heavy_rail,Metro de Santiago - Línea 6,2017
@@ -90,7 +90,7 @@ nodeID_from,nodeID_to,mode,line,year
 88,89,heavy_rail,Metro de Santiago - Línea 6,2027
 89,93,heavy_rail,Metro de Santiago - Línea 6,2027
 90,91,heavy_rail,Metro de Santiago - Línea 6,2017
-86,92,heavy_rail,Metro de Santiago - Línea 6,2017
+85,91,heavy_rail,Metro de Santiago - Línea 6,2017
 101,112,heavy_rail,Metro de Santiago - Línea 1 ,1980
 101,103,heavy_rail,Metro de Santiago - Línea 1 ,1980
 102,119,heavy_rail,Metro de Santiago - Línea 1 ,1975
@@ -116,7 +116,7 @@ nodeID_from,nodeID_to,mode,line,year
 118,120,heavy_rail,Metro de Santiago - Línea 1 ,1975
 121,123,heavy_rail,Metro de Santiago - Línea 1 ,2010
 122,124,heavy_rail,Metro de Santiago - Línea 1 ,1980
-108,102,heavy_rail,Metro de Santiago - Línea 1 ,1975
+108,118,heavy_rail,Metro de Santiago - Línea 1 ,1975
 127,142,heavy_rail,Metro de Santiago - Línea 3,2019
 127,145,heavy_rail,Metro de Santiago - Línea 3,2019
 128,129,heavy_rail,Metro de Santiago - Línea 3,2019
@@ -137,11 +137,10 @@ nodeID_from,nodeID_to,mode,line,year
 140,145,heavy_rail,Metro de Santiago - Línea 3,2019
 140,147,heavy_rail,Metro de Santiago - Línea 3,2019
 142,144,heavy_rail,Metro de Santiago - Línea 3,2019
-142,140,heavy_rail,Metro de Santiago - Línea 3,2019
+142,145,heavy_rail,Metro de Santiago - Línea 3,2019
 148,151,heavy_rail,Metro de Santiago - Línea 7,2027
 148,162,heavy_rail,Metro de Santiago - Línea 7,2027
 149,162,heavy_rail,Metro de Santiago - Línea 7,2027
-149,152,heavy_rail,Metro de Santiago - Línea 7,2027
 150,154,heavy_rail,Metro de Santiago - Línea 7,2027
 150,151,heavy_rail,Metro de Santiago - Línea 7,2027
 152,153,heavy_rail,Metro de Santiago - Línea 7,2027
@@ -155,7 +154,8 @@ nodeID_from,nodeID_to,mode,line,year
 159,160,heavy_rail,Metro de Santiago - Línea 7,2027
 160,161,heavy_rail,Metro de Santiago - Línea 7,2027
 163,164,heavy_rail,Metro de Santiago - Línea 7,2027
-163,161,heavy_rail,Metro de Santiago - Línea 7,2027
+152,163,heavy_rail,Metro de Santiago - Línea 7,2027
+149,152,heavy_rail,Metro de Santiago - Línea 7,2027
 166,167,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
 167,174,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
 168,169,commuter_rail,Metrotrén Segunda Etapa - Metrotrén Melipilla,2023
@@ -186,7 +186,7 @@ nodeID_from,nodeID_to,mode,line,year
 192,193,brt,BRT - Grecia,2008
 194,195,brt,BRT - Grecia,2008
 195,196,brt,BRT - Grecia,2008
-188,194,brt,BRT - Grecia,2008
+188,191,brt,BRT - Grecia,2008
 197,212,brt,BRT - Anillo Intermedio,2015
 198,206,brt,BRT - Anillo Intermedio,2008
 198,200,brt,BRT - Anillo Intermedio,2008
@@ -221,7 +221,7 @@ nodeID_from,nodeID_to,mode,line,year
 230,231,brt,BRT - Departamental,2013
 232,233,brt,BRT - Departamental,2013
 233,234,brt,BRT - Departamental,2013
-235,232,brt,BRT - Departamental,2013
+235,229,brt,BRT - Departamental,2013
 236,237,brt,BRT - Las Rejas,2007
 236,242,brt,BRT - Las Rejas,2014
 237,238,brt,BRT - Las Rejas,2007
@@ -275,8 +275,8 @@ nodeID_from,nodeID_to,mode,line,year
 291,292,brt,BRT - Santa Rosa,2009
 293,294,brt,BRT - Santa Rosa,2009
 294,295,brt,BRT - Santa Rosa,2009
-272,266,brt,BRT - Santa Rosa,2008
-293,276,brt,BRT - Santa Rosa,2009
+272,270,brt,BRT - Santa Rosa,2008
+276,278,brt,BRT - Santa Rosa,2009
 296,298,brt,BRT - Vicuña Mackenna,2017
 296,303,brt,BRT - Vicuña Mackenna,2017
 297,303,brt,BRT - Vicuña Mackenna,2017

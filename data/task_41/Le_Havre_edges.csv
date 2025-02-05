@@ -25,8 +25,8 @@ nodeID_from,nodeID_to,mode,line,year
 21,13,light_rail,Tramway - B,2012
 24,28,light_rail,Tramway - B,2012
 9,23,light_rail,Tramway - B,2012
-5,8,light_rail,Tramway - B,2012
-25,13,light_rail,Tramway - B,2012
+8,4,light_rail,Tramway - B,2012
+13,20,light_rail,Tramway - B,2012
 29,32,light_rail,Tramway - A,2012
 29,31,light_rail,Tramway - A,2012
 30,31,light_rail,Tramway - A,2012
@@ -53,4 +53,4 @@ nodeID_from,nodeID_to,mode,line,year
 53,55,light_rail,Tramway - A,2012
 39,44,light_rail,Tramway - A,2012
 49,53,light_rail,Tramway - A,2012
-35,38,light_rail,Tramway - A,2012
+38,34,light_rail,Tramway - A,2012

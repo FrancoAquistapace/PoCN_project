@@ -24,8 +24,8 @@ nodeID_from,nodeID_to,mode,line,year
 23,25,default,Tramway - 4,0
 24,25,default,Tramway - 4,0
 26,1,default,Tramway - 4,0
-17,2,default,Tramway - 4,0
 19,23,default,Tramway - 4,0
+4,6,default,Tramway - 4,0
 27,28,default,Métro de Lyon - B,2000
 27,29,default,Métro de Lyon - B,2000
 28,31,default,Métro de Lyon - B,2000
@@ -52,7 +52,7 @@ nodeID_from,nodeID_to,mode,line,year
 53,54,default,Métro de Lyon - D,1992
 54,55,default,Métro de Lyon - D,1992
 55,56,default,Métro de Lyon - D,1992
-48,42,default,Métro de Lyon - D,1991
+42,43,default,Métro de Lyon - D,1991
 57,68,default,Métro de Lyon - A,1978
 57,62,default,Métro de Lyon - A,1978
 58,69,default,Métro de Lyon - A,1978
@@ -66,7 +66,7 @@ nodeID_from,nodeID_to,mode,line,year
 63,70,default,Métro de Lyon - A,1978
 64,66,default,Métro de Lyon - A,1978
 65,67,default,Métro de Lyon - A,2007
-69,64,default,Métro de Lyon - A,1978
+69,63,default,Métro de Lyon - A,1978
 71,77,default,Tramway - 1,2014
 72,73,default,Tramway - 1,2005
 73,74,default,Tramway - 1,2005
@@ -145,5 +145,5 @@ nodeID_from,nodeID_to,mode,line,year
 148,131,default,Tramway - 2,0
 151,152,default,Tramway - 2,0
 152,138,default,Tramway - 2,0
-147,148,default,Tramway - 2,0
-154,138,default,Tramway - 2,0
+147,132,default,Tramway - 2,0
+154,150,default,Tramway - 2,0

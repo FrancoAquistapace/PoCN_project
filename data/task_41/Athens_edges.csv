@@ -35,8 +35,8 @@ nodeID_from,nodeID_to,mode,line,year
 33,34,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
 34,35,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
 35,36,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2007
-13,1,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
-32,33,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
+32,8,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
+22,21,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 5,2004
 37,62,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
 37,38,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
 38,39,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
@@ -63,7 +63,7 @@ nodeID_from,nodeID_to,mode,line,year
 58,59,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
 60,61,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
 61,62,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
-43,38,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
+58,57,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 4,2004
 64,65,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
 65,75,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
 66,84,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
@@ -93,7 +93,7 @@ nodeID_from,nodeID_to,mode,line,year
 90,91,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
 91,92,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
 92,93,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2007
-89,90,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
+89,70,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 3,2004
 94,127,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2021
 95,109,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
 95,94,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
@@ -136,9 +136,9 @@ nodeID_from,nodeID_to,mode,line,year
 133,134,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
 134,135,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
 135,136,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2007
-132,133,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
-95,114,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
-126,123,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2021
+123,124,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2021
+113,111,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
+132,103,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 7,2004
 137,153,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
 137,138,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
 138,139,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
@@ -157,7 +157,7 @@ nodeID_from,nodeID_to,mode,line,year
 151,152,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
 152,153,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
 154,155,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
-141,138,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
+149,148,light_rail,Σύγχρονο Τραμ / Modern Tram - Γραμμή 6,2004
 156,158,heavy_rail,Μετρό / Metro - Γραμμή 3,2022
 156,159,heavy_rail,Μετρό / Metro - Γραμμή 3,2022
 157,170,heavy_rail,Μετρό / Metro - Γραμμή 3,2007
@@ -221,7 +221,7 @@ nodeID_from,nodeID_to,mode,line,year
 218,219,heavy_rail,Μετρό / Metro - Γραμμή 4,999999
 219,220,heavy_rail,Μετρό / Metro - Γραμμή 4,999999
 220,221,heavy_rail,Μετρό / Metro - Γραμμή 4,999999
-212,221,heavy_rail,Μετρό / Metro - Γραμμή 4,999999
+221,213,heavy_rail,Μετρό / Metro - Γραμμή 4,999999
 222,239,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
 222,235,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
 223,240,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
@@ -241,7 +241,7 @@ nodeID_from,nodeID_to,mode,line,year
 236,239,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
 236,240,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
 238,237,heavy_rail,Μετρό / Metro - Γραμμή 2,2013
-225,222,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
+225,241,heavy_rail,Μετρό / Metro - Γραμμή 2,2000
 242,253,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2004
 242,252,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2004
 243,244,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2004
@@ -296,8 +296,8 @@ nodeID_from,nodeID_to,mode,line,year
 293,292,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,1904
 295,294,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,1904
 252,253,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2004
-256,282,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2005
-256,247,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2005
+256,262,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2005
+272,255,commuter_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Προαστιακός / Suburban Railway,2005
 296,299,commuter_rail,Σιδηρόδρομοι πριν το 1971 / Railways before 1971 - Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.),1870
 296,298,commuter_rail,Σιδηρόδρομοι πριν το 1971 / Railways before 1971 - Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.),1870
 297,300,commuter_rail,Σιδηρόδρομοι πριν το 1971 / Railways before 1971 - Σιδηρόδρομος Αθηνών - Πειραιώς (Σ.Α.Π.),1895
@@ -326,4 +326,4 @@ nodeID_from,nodeID_to,mode,line,year
 324,325,inter_city_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train,1904
 324,323,inter_city_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train,1904
 326,325,inter_city_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train,1904
-314,311,inter_city_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train,1904
+314,319,inter_city_rail,Σιδηρόδρομοι μετά το 1971 / Railways after 1971 - Ο.Σ.Ε. / ΤΡΑΙΝΟΣΕ / Hellenic Train,1904

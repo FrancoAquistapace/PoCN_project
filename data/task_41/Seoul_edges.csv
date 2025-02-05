@@ -51,9 +51,9 @@ nodeID_from,nodeID_to,mode,line,year
 45,44,heavy_rail,Seoul Metropolitan Subway - 2,1984
 46,8,heavy_rail,Seoul Metropolitan Subway - 2,1983
 48,49,heavy_rail,Seoul Metropolitan Subway - 2,1984
-47,33,heavy_rail,Seoul Metropolitan Subway - 2,1982
-26,27,heavy_rail,Seoul Metropolitan Subway - 2,1983
-10,14,heavy_rail,Seoul Metropolitan Subway - 2,1984
+26,7,heavy_rail,Seoul Metropolitan Subway - 2,1983
+18,31,heavy_rail,Seoul Metropolitan Subway - 2,1980
+49,40,heavy_rail,Seoul Metropolitan Subway - 2,1984
 51,127,heavy_rail,Seoul Metropolitan Subway - 1,1974
 51,142,heavy_rail,Seoul Metropolitan Subway - 1,1974
 52,115,heavy_rail,Seoul Metropolitan Subway - 1,1974
@@ -151,12 +151,12 @@ nodeID_from,nodeID_to,mode,line,year
 143,144,heavy_rail,Seoul Metropolitan Subway - 1,1974
 145,146,heavy_rail,Seoul Metropolitan Subway - 1,1974
 147,148,heavy_rail,Seoul Metropolitan Subway - 1,2005
-86,95,heavy_rail,Seoul Metropolitan Subway - 1,2005
-125,137,heavy_rail,Seoul Metropolitan Subway - 1,1974
-92,129,heavy_rail,Seoul Metropolitan Subway - 1,2023
-112,109,heavy_rail,Seoul Metropolitan Subway - 1,2006
-120,119,heavy_rail,Seoul Metropolitan Subway - 1,1974
-54,81,heavy_rail,Seoul Metropolitan Subway - 1,1974
+92,132,heavy_rail,Seoul Metropolitan Subway - 1,2023
+112,110,heavy_rail,Seoul Metropolitan Subway - 1,2006
+120,106,heavy_rail,Seoul Metropolitan Subway - 1,1974
+86,88,heavy_rail,Seoul Metropolitan Subway - 1,2005
+54,70,heavy_rail,Seoul Metropolitan Subway - 1,1974
+125,126,heavy_rail,Seoul Metropolitan Subway - 1,1974
 151,163,heavy_rail,Seoul Metropolitan Subway - 3,1990
 152,153,heavy_rail,Seoul Metropolitan Subway - 3,1985
 152,176,heavy_rail,Seoul Metropolitan Subway - 3,1985
@@ -201,8 +201,8 @@ nodeID_from,nodeID_to,mode,line,year
 191,192,heavy_rail,Seoul Metropolitan Subway - 3,1985
 192,193,heavy_rail,Seoul Metropolitan Subway - 3,1985
 195,162,heavy_rail,Seoul Metropolitan Subway - 3,2010
-174,171,heavy_rail,Seoul Metropolitan Subway - 3,1996
-152,184,heavy_rail,Seoul Metropolitan Subway - 3,1985
+174,172,heavy_rail,Seoul Metropolitan Subway - 3,1996
+184,182,heavy_rail,Seoul Metropolitan Subway - 3,1985
 196,197,heavy_rail,Seoul Metropolitan Subway - 4,1985
 196,204,heavy_rail,Seoul Metropolitan Subway - 4,1993
 197,215,heavy_rail,Seoul Metropolitan Subway - 4,1985
@@ -243,7 +243,7 @@ nodeID_from,nodeID_to,mode,line,year
 233,234,heavy_rail,Seoul Metropolitan Subway - 4,1985
 216,221,heavy_rail,Seoul Metropolitan Subway - 4,1994
 214,223,heavy_rail,Seoul Metropolitan Subway - 4,2022
-199,230,heavy_rail,Seoul Metropolitan Subway - 4,1985
+199,224,heavy_rail,Seoul Metropolitan Subway - 4,1985
 237,262,heavy_rail,Seoul Metropolitan Subway - 5,2020
 237,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
 238,242,heavy_rail,Seoul Metropolitan Subway - 5,1996
@@ -299,9 +299,9 @@ nodeID_from,nodeID_to,mode,line,year
 284,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
 285,286,heavy_rail,Seoul Metropolitan Subway - 5,1995
 287,288,heavy_rail,Seoul Metropolitan Subway - 5,2020
-285,254,heavy_rail,Seoul Metropolitan Subway - 5,1995
-261,260,heavy_rail,Seoul Metropolitan Subway - 5,1996
-245,292,heavy_rail,Seoul Metropolitan Subway - 5,1996
+261,256,heavy_rail,Seoul Metropolitan Subway - 5,1996
+285,290,heavy_rail,Seoul Metropolitan Subway - 5,1995
+245,247,heavy_rail,Seoul Metropolitan Subway - 5,1996
 293,327,heavy_rail,Seoul Metropolitan Subway - 6,2000
 293,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
 294,297,heavy_rail,Seoul Metropolitan Subway - 6,2000
@@ -341,7 +341,7 @@ nodeID_from,nodeID_to,mode,line,year
 325,326,heavy_rail,Seoul Metropolitan Subway - 6,2000
 327,328,heavy_rail,Seoul Metropolitan Subway - 6,2000
 328,329,heavy_rail,Seoul Metropolitan Subway - 6,2000
-316,296,heavy_rail,Seoul Metropolitan Subway - 6,2000
+316,330,heavy_rail,Seoul Metropolitan Subway - 6,2000
 332,356,heavy_rail,Incheon Subway - Line 1,1999
 332,335,heavy_rail,Incheon Subway - Line 1,1999
 333,334,heavy_rail,Incheon Subway - Line 1,1999
@@ -371,7 +371,7 @@ nodeID_from,nodeID_to,mode,line,year
 355,358,heavy_rail,Incheon Subway - Line 1,1999
 355,356,heavy_rail,Incheon Subway - Line 1,1999
 360,361,heavy_rail,Incheon Subway - Line 1,2020
-354,339,heavy_rail,Incheon Subway - Line 1,1999
+354,355,heavy_rail,Incheon Subway - Line 1,1999
 362,403,heavy_rail,Seoul Metropolitan Subway - 9,2028
 362,363,heavy_rail,Seoul Metropolitan Subway - 9,2028
 363,383,heavy_rail,Seoul Metropolitan Subway - 9,2028
@@ -414,7 +414,7 @@ nodeID_from,nodeID_to,mode,line,year
 400,401,heavy_rail,Seoul Metropolitan Subway - 9,2018
 402,403,heavy_rail,Seoul Metropolitan Subway - 9,2018
 399,400,heavy_rail,Seoul Metropolitan Subway - 9,2018
-366,394,heavy_rail,Seoul Metropolitan Subway - 9,2009
+366,368,heavy_rail,Seoul Metropolitan Subway - 9,2009
 404,429,heavy_rail,Seoul Metropolitan Subway - 7,2027
 404,460,heavy_rail,Seoul Metropolitan Subway - 7,2027
 405,436,heavy_rail,Seoul Metropolitan Subway - 7,1996
@@ -473,10 +473,10 @@ nodeID_from,nodeID_to,mode,line,year
 455,456,heavy_rail,Seoul Metropolitan Subway - 7,2012
 457,458,heavy_rail,Seoul Metropolitan Subway - 7,2012
 458,459,heavy_rail,Seoul Metropolitan Subway - 7,2012
-456,417,heavy_rail,Seoul Metropolitan Subway - 7,2012
-435,433,heavy_rail,Seoul Metropolitan Subway - 7,1996
 423,460,heavy_rail,Seoul Metropolitan Subway - 7,2021
-449,420,heavy_rail,Seoul Metropolitan Subway - 7,2000
+456,457,heavy_rail,Seoul Metropolitan Subway - 7,2012
+435,436,heavy_rail,Seoul Metropolitan Subway - 7,1996
+420,411,heavy_rail,Seoul Metropolitan Subway - 7,2000
 465,467,heavy_rail,Seoul Metropolitan Subway - 8,1999
 465,469,heavy_rail,Seoul Metropolitan Subway - 8,1999
 466,483,heavy_rail,Seoul Metropolitan Subway - 8,1996
@@ -498,7 +498,7 @@ nodeID_from,nodeID_to,mode,line,year
 484,485,heavy_rail,Seoul Metropolitan Subway - 8,1996
 485,486,heavy_rail,Seoul Metropolitan Subway - 8,1996
 485,481,heavy_rail,Seoul Metropolitan Subway - 8,1996
-472,471,heavy_rail,Seoul Metropolitan Subway - 8,2023
+472,473,heavy_rail,Seoul Metropolitan Subway - 8,2023
 488,490,commuter_rail,Korail - AREX,2010
 489,494,commuter_rail,Korail - AREX,2010
 489,495,commuter_rail,Korail - AREX,2007
@@ -512,7 +512,7 @@ nodeID_from,nodeID_to,mode,line,year
 498,499,commuter_rail,Korail - AREX,2007
 499,500,commuter_rail,Korail - AREX,2007
 500,501,commuter_rail,Korail - AREX,2018
-499,496,commuter_rail,Korail - AREX,2007
+499,492,commuter_rail,Korail - AREX,2007
 502,516,commuter_rail,Others - Seohae Line,2023
 502,503,commuter_rail,Others - Seohae Line,2018
 503,504,commuter_rail,Others - Seohae Line,2018
@@ -537,7 +537,7 @@ nodeID_from,nodeID_to,mode,line,year
 524,525,commuter_rail,Korail - Ilsan Line,1996
 525,526,commuter_rail,Korail - Ilsan Line,1996
 526,527,commuter_rail,Korail - Ilsan Line,1996
-526,523,commuter_rail,Korail - Ilsan Line,1996
+526,524,commuter_rail,Korail - Ilsan Line,1996
 528,543,commuter_rail,Korail - Gyeongchun Line,2006
 529,531,commuter_rail,Korail - Gyeongchun Line,2011
 529,532,commuter_rail,Korail - Gyeongchun Line,2011
@@ -563,7 +563,7 @@ nodeID_from,nodeID_to,mode,line,year
 550,549,commuter_rail,Korail - Gyeongchun Line,2011
 551,552,commuter_rail,Korail - Gyeongchun Line,2011
 531,532,commuter_rail,Korail - Gyeongchun Line,2011
-550,539,commuter_rail,Korail - Gyeongchun Line,2011
+550,552,commuter_rail,Korail - Gyeongchun Line,2011
 553,574,commuter_rail,Korail - Suin Line,2012
 553,554,commuter_rail,Korail - Suin Line,2012
 554,555,commuter_rail,Korail - Suin Line,2012
@@ -637,7 +637,7 @@ nodeID_from,nodeID_to,mode,line,year
 625,629,commuter_rail,Korail - Gyeongui-Jungang Line,2013
 626,596,commuter_rail,Korail - Gyeongui-Jungang Line,2013
 627,628,commuter_rail,Korail - Gyeongui-Jungang Line,2015
-576,591,commuter_rail,Korail - Gyeongui-Jungang Line,2009
+576,577,commuter_rail,Korail - Gyeongui-Jungang Line,2009
 630,631,commuter_rail,Korail - Gyeonggang Line,2016
 631,632,commuter_rail,Korail - Gyeonggang Line,2016
 632,633,commuter_rail,Korail - Gyeonggang Line,2016
@@ -653,7 +653,6 @@ nodeID_from,nodeID_to,mode,line,year
 642,643,commuter_rail,Korail - Bundang Line,1994
 643,646,commuter_rail,Korail - Bundang Line,1994
 644,645,commuter_rail,Korail - Bundang Line,1994
-644,646,commuter_rail,Korail - Bundang Line,1994
 645,647,commuter_rail,Korail - Bundang Line,1994
 647,648,commuter_rail,Korail - Bundang Line,1994
 648,676,commuter_rail,Korail - Bundang Line,1994
@@ -683,9 +682,10 @@ nodeID_from,nodeID_to,mode,line,year
 670,673,commuter_rail,Korail - Bundang Line,2013
 675,642,commuter_rail,Korail - Bundang Line,1994
 676,677,commuter_rail,Korail - Bundang Line,1994
-642,676,commuter_rail,Korail - Bundang Line,1994
 664,671,commuter_rail,Korail - Bundang Line,2012
 651,653,commuter_rail,Korail - Bundang Line,2003
+646,642,commuter_rail,Korail - Bundang Line,1994
+644,646,commuter_rail,Korail - Bundang Line,1994
 678,682,commuter_rail,Korail - Ansan Line,2000
 678,681,commuter_rail,Korail - Ansan Line,2000
 679,680,commuter_rail,Korail - Ansan Line,2000
@@ -733,8 +733,8 @@ nodeID_from,nodeID_to,mode,line,year
 721,722,commuter_rail,Korail - Gyeongbu Line,1974
 723,724,commuter_rail,Korail - Gyeongbu Line,1974
 725,726,commuter_rail,Korail - Gyeongbu Line,2005
-705,711,commuter_rail,Korail - Gyeongbu Line,2005
-693,701,commuter_rail,Korail - Gyeongbu Line,1974
+705,707,commuter_rail,Korail - Gyeongbu Line,2005
+693,695,commuter_rail,Korail - Gyeongbu Line,1974
 727,730,commuter_rail,Korail - Gyeongin Line,1974
 727,732,commuter_rail,Korail - Gyeongin Line,1974
 728,740,commuter_rail,Korail - Gyeongin Line,1974
@@ -755,7 +755,7 @@ nodeID_from,nodeID_to,mode,line,year
 743,744,commuter_rail,Korail - Gyeongin Line,1974
 745,746,commuter_rail,Korail - Gyeongin Line,1974
 746,747,commuter_rail,Korail - Gyeongin Line,1974
-739,745,commuter_rail,Korail - Gyeongin Line,1974
+739,740,commuter_rail,Korail - Gyeongin Line,1974
 748,769,commuter_rail,Korail - Gyeongwon Line,1974
 748,749,commuter_rail,Korail - Gyeongwon Line,1974
 749,750,commuter_rail,Korail - Gyeongwon Line,1985
@@ -782,8 +782,8 @@ nodeID_from,nodeID_to,mode,line,year
 771,774,commuter_rail,Korail - Gyeongwon Line,2023
 771,772,commuter_rail,Korail - Gyeongwon Line,2023
 773,772,commuter_rail,Korail - Gyeongwon Line,2023
-760,771,commuter_rail,Korail - Gyeongwon Line,2023
-766,763,commuter_rail,Korail - Gyeongwon Line,2006
+760,774,commuter_rail,Korail - Gyeongwon Line,2023
+766,764,commuter_rail,Korail - Gyeongwon Line,2006
 776,777,commuter_rail,Korail - Janghang Line,2008
 777,778,commuter_rail,Korail - Janghang Line,2008
 778,782,commuter_rail,Korail - Janghang Line,2008
@@ -858,7 +858,7 @@ nodeID_from,nodeID_to,mode,line,year
 851,852,commuter_rail,Korail - Gyeongui Line,2022
 854,856,commuter_rail,Korail - Gyeongui Line,2013
 855,848,commuter_rail,Korail - Gyeongui Line,2013
-828,843,commuter_rail,Korail - Gyeongui Line,2009
+828,829,commuter_rail,Korail - Gyeongui Line,2009
 857,860,commuter_rail,Korail - Sin-Ansan Line,2024
 858,859,commuter_rail,Korail - Sin-Ansan Line,2024
 858,860,commuter_rail,Korail - Sin-Ansan Line,2024
@@ -868,7 +868,7 @@ nodeID_from,nodeID_to,mode,line,year
 862,866,commuter_rail,Korail - Sin-Ansan Line,2024
 862,863,commuter_rail,Korail - Sin-Ansan Line,2024
 865,863,commuter_rail,Korail - Sin-Ansan Line,2024
-858,862,commuter_rail,Korail - Sin-Ansan Line,2024
+858,864,commuter_rail,Korail - Sin-Ansan Line,2024
 867,868,light_rail,Seoul Light Rail Transit - Ui LRT,2017
 868,869,light_rail,Seoul Light Rail Transit - Ui LRT,2017
 869,870,light_rail,Seoul Light Rail Transit - Ui LRT,2017
@@ -916,7 +916,7 @@ nodeID_from,nodeID_to,mode,line,year
 912,913,light_rail,Incheon Subway - Line 2,2016
 914,916,light_rail,Incheon Subway - Line 2,2016
 915,916,light_rail,Incheon Subway - Line 2,2016
-891,914,light_rail,Incheon Subway - Line 2,2016
+899,900,light_rail,Incheon Subway - Line 2,2016
 917,918,light_rail,Others - U Line,2012
 917,926,light_rail,Others - U Line,2012
 918,927,light_rail,Others - U Line,2012
@@ -932,7 +932,7 @@ nodeID_from,nodeID_to,mode,line,year
 925,926,light_rail,Others - U Line,2012
 928,926,light_rail,Others - U Line,2012
 930,931,light_rail,Others - U Line,2012
-928,931,light_rail,Others - U Line,2012
+928,920,light_rail,Others - U Line,2012
 933,938,people_mover,Others - Incheon Airport Maglev,2016
 933,937,people_mover,Others - Incheon Airport Maglev,2016
 934,937,people_mover,Others - Incheon Airport Maglev,2016
@@ -965,7 +965,7 @@ nodeID_from,nodeID_to,mode,line,year
 963,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
 963,965,people_mover,Seoul Light Rail Transit - Sillim Line,2022
 966,967,people_mover,Seoul Light Rail Transit - Sillim Line,2022
-958,964,people_mover,Seoul Light Rail Transit - Sillim Line,2022
+958,959,people_mover,Seoul Light Rail Transit - Sillim Line,2022
 969,972,high_speed_rail,SRT - Suseo Line,2016
 969,971,high_speed_rail,SRT - Suseo Line,2016
 970,972,high_speed_rail,SRT - Suseo Line,2016

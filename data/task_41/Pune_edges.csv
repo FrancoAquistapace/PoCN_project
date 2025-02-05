@@ -12,7 +12,7 @@ nodeID_from,nodeID_to,mode,line,year
 9,10,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
 11,10,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
 12,13,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
-13,9,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
+13,4,commuter_rail,Underconstruction - METRO 1 (PCMC-SWARGATE),2021
 14,35,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
 14,19,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
 15,19,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
@@ -38,7 +38,7 @@ nodeID_from,nodeID_to,mode,line,year
 34,35,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
 36,37,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
 38,39,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
-32,17,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
+32,30,commuter_rail,Underconstruction - PMRDA METRO (HINJAWADI -CIVIL COURTS),2023
 40,41,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
 40,45,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
 42,45,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
@@ -54,7 +54,7 @@ nodeID_from,nodeID_to,mode,line,year
 51,52,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
 52,53,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
 53,54,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
-52,41,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
+52,50,commuter_rail,Underconstruction - METRO 2 (VANAZ-RAMWADI),2021
 56,58,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
 57,58,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024
 57,59,commuter_rail,DPR IN PROGRESS - METRO- 4 (CIVIL COURTS TO HADAPSAR),2024

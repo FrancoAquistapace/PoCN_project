@@ -28,7 +28,7 @@ nodeID_from,nodeID_to,mode,line,year
 26,27,heavy_rail,Toronto Transit Commission Subway - Line 2 Bloor-Danforth,1966
 27,28,heavy_rail,Toronto Transit Commission Subway - Line 2 Bloor-Danforth,1966
 17,18,heavy_rail,Toronto Transit Commission Subway - Line 2 Bloor-Danforth,1968
-12,27,heavy_rail,Toronto Transit Commission Subway - Line 2 Bloor-Danforth,1966
+12,20,heavy_rail,Toronto Transit Commission Subway - Line 2 Bloor-Danforth,1966
 31,33,heavy_rail,Toronto Transit Commission Subway - Line 4 Sheppard,2002
 32,33,heavy_rail,Toronto Transit Commission Subway - Line 4 Sheppard,2002
 34,31,heavy_rail,Toronto Transit Commission Subway - Line 4 Sheppard,2002
@@ -66,7 +66,7 @@ nodeID_from,nodeID_to,mode,line,year
 66,67,heavy_rail,Toronto Transit Commission Subway - Line 1 Yonge-University,1978
 66,65,heavy_rail,Toronto Transit Commission Subway - Line 1 Yonge-University,1978
 67,68,heavy_rail,Toronto Transit Commission Subway - Line 1 Yonge-University,1978
-48,46,heavy_rail,Toronto Transit Commission Subway - Line 1 Yonge-University,2017
+48,44,heavy_rail,Toronto Transit Commission Subway - Line 1 Yonge-University,2017
 70,71,commuter_rail,GO Transit - Lakeshore West Line,1996
 71,72,commuter_rail,GO Transit - Lakeshore West Line,1996
 72,73,commuter_rail,GO Transit - Lakeshore West Line,1996
@@ -108,4 +108,4 @@ nodeID_from,nodeID_to,mode,line,year
 110,111,light_rail,Toronto Transit Commission Subway - Line 5 Eglinton,2022
 111,112,light_rail,Toronto Transit Commission Subway - Line 5 Eglinton,2022
 112,113,light_rail,Toronto Transit Commission Subway - Line 5 Eglinton,2022
-102,99,light_rail,Toronto Transit Commission Subway - Line 5 Eglinton,2022
+102,106,light_rail,Toronto Transit Commission Subway - Line 5 Eglinton,2022

@@ -154,8 +154,8 @@ nodeID_from,nodeID_to,mode,line,year
 128,124,default,Tramway de Bordeaux - B,2007
 114,147,default,Tramway de Bordeaux - B,2015
 97,130,default,Tramway de Bordeaux - B,2007
-155,153,default,Tramway de Bordeaux - B,2007
 144,137,default,Tramway de Bordeaux - B,2008
+153,139,default,Tramway de Bordeaux - B,2007
 159,162,default,Tramway de Bordeaux - C,2004
 159,163,default,Tramway de Bordeaux - C,2004
 160,163,default,Tramway de Bordeaux - C,2004
@@ -201,13 +201,13 @@ nodeID_from,nodeID_to,mode,line,year
 203,212,default,Tramway de Bordeaux - C,2016
 203,211,default,Tramway de Bordeaux - C,2016
 210,205,default,Tramway de Bordeaux - C,2016
-162,164,default,Tramway de Bordeaux - C,2004
 160,169,default,Tramway de Bordeaux - C,2004
 184,181,default,Tramway de Bordeaux - C,2008
 186,193,default,Tramway de Bordeaux - C,2008
 206,197,default,Tramway de Bordeaux - C,2014
 204,191,default,Tramway de Bordeaux - C,2007
 209,208,default,Tramway de Bordeaux - C,2015
+162,166,default,Tramway de Bordeaux - C,2004
 213,217,default,Navette fluviale - Bat³,2013
 213,214,default,Navette fluviale - Bat³,2013
 215,214,default,Navette fluviale - Bat³,2013

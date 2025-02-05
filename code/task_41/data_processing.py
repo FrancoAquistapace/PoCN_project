@@ -512,8 +512,93 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
                 link_repeated = (nn_closest in edge_arr) or ([nn_closest[1], nn_closest[0]] in edge_arr)
                 if not link_repeated:
                     edge_arr.append(nn_closest)
-                    
-            
+
+
+            # To avoid spurious connections between sections, we will
+            # perform a rewiring of the edges. We will delete a link
+            # between any two nodes if a shorter link can be done with
+            # one of their neighbors, or in between neighbors.
+            rewiring_done = False
+            while not rewiring_done:
+                old_edge_arr = edge_arr.copy()
+                to_remove = []
+                for oi in range(len(old_edge_arr)):
+                    old_e = old_edge_arr[oi]
+
+                    # Get participating nodes and their positions
+                    n1, n2 = old_e[0], old_e[1]
+
+                    nl1 = nodes_l.iloc[n1]
+                    pos1 = np.array([nl1['latitude'],
+                                    nl1['longitude']])
+
+                    nl2 = nodes_l.iloc[n2]
+                    pos2 = np.array([nl2['latitude'],
+                                    nl2['longitude']])
+
+                    # Get reference distance between them
+                    ref_dist = np.linalg.norm(pos2 - pos1)
+
+                    # Get neighbors
+                    n_neighs = []
+                    for link in edge_arr:
+                        if link[0] in [n1,n2] and not link[1] in [n1, n2]:
+                            n_neighs.append(link[1])
+                        elif link[1] in [n1, n2] and not link[0] in [n1, n2]:
+                            n_neighs.append(link[0])
+
+                    # Get all possible distances among reference
+                    # nodes and the neighbors
+                    neighs_dist = []
+                    for n_ref in [n1, n2]:
+                        n_ref_dist = []
+                        # Get reference position
+                        if n_ref == n1:
+                            n_ref_pos = pos1 
+                        else:
+                            n_ref_pos = pos2
+
+                        for nn in n_neighs:
+                            # Avoid self-interactions
+                            if nn in [n1, n2]:
+                                continue
+                            nn_pos = np.array([nodes_l.iloc[nn]['latitude'],
+                                                nodes_l.iloc[nn]['longitude']])
+                        
+                            n_ref_dist.append(np.linalg.norm(n_ref_pos - nn_pos))
+                        neighs_dist.append(n_ref_dist)
+                    neighs_dist = np.array(neighs_dist)
+
+                    # Proceed with rewiring only if there 
+                    # where neighbors present, and if there
+                    # is a link shorter than the reference
+                    if neighs_dist.shape[1] == 0:
+                        continue
+                    if np.min(neighs_dist) > ref_dist:
+                        continue
+
+                    # Get closest nodes that are not already connected
+                    try_dist = neighs_dist[neighs_dist < ref_dist].flatten()
+                    for td in try_dist:
+                        nn1_closest, nn2_closest = np.where(neighs_dist == td)
+                        nn_closest = [[n1, n2][nn1_closest[0]], n_neighs[nn2_closest[0]]]
+                                
+                        link_repeated = (nn_closest in edge_arr) or ([nn_closest[1], nn_closest[0]] in edge_arr)
+                        if not link_repeated:
+                            edge_arr.append(nn_closest)
+                            # Save which links to remove, in reverse order to avoid problems
+                            to_remove.insert(0, oi)
+
+                            break
+                
+                # After rewiring, remove redundant edges
+                for oi in to_remove:
+                    edge_arr.pop(oi)
+
+                # Check if no more links were rewired and finish process
+                if len(to_remove) == 0:
+                    rewiring_done = True
+
             # Now, we can store the edge data
             for e in edge_arr:
                 # Nodes participating

@@ -48,8 +48,8 @@ nodeID_from,nodeID_to,mode,line,year
 46,48,default,Metro - Yellow,1980
 48,49,default,Metro - Yellow,1980
 49,50,default,Metro - Yellow,1980
-50,37,default,Metro - Yellow,1980
-32,37,default,Metro - Yellow,1982
+32,25,default,Metro - Yellow,1982
+50,21,default,Metro - Yellow,1980
 51,53,default,National Rail - Other National Rail,1838
 52,51,default,National Rail - Other National Rail,1879
 53,54,default,National Rail - Other National Rail,1838

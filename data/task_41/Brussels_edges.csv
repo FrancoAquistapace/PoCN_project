@@ -36,7 +36,7 @@ nodeID_from,nodeID_to,mode,line,year
 36,41,light_rail,Tram CHRONO - 7,0
 39,40,light_rail,Tram CHRONO - 7,0
 41,39,light_rail,Tram CHRONO - 7,0
-42,33,light_rail,Tram CHRONO - 7,0
+42,34,light_rail,Tram CHRONO - 7,0
 43,44,heavy_rail,Metro - 1,0
 43,47,heavy_rail,Metro - 1,0
 44,45,heavy_rail,Metro - 1,0
@@ -56,7 +56,7 @@ nodeID_from,nodeID_to,mode,line,year
 58,62,heavy_rail,Metro - 1,0
 59,63,heavy_rail,Metro - 1,0
 60,54,heavy_rail,Metro - 1,0
-48,63,heavy_rail,Metro - 1,0
+63,50,heavy_rail,Metro - 1,0
 64,66,heavy_rail,Metro - 6,0
 64,65,heavy_rail,Metro - 6,0
 65,79,heavy_rail,Metro - 6,0
@@ -67,7 +67,6 @@ nodeID_from,nodeID_to,mode,line,year
 69,68,heavy_rail,Metro - 6,0
 70,74,heavy_rail,Metro - 6,0
 70,72,heavy_rail,Metro - 6,0
-71,72,heavy_rail,Metro - 6,0
 74,75,heavy_rail,Metro - 6,0
 75,76,heavy_rail,Metro - 6,0
 76,81,heavy_rail,Metro - 6,0
@@ -76,7 +75,8 @@ nodeID_from,nodeID_to,mode,line,year
 78,79,heavy_rail,Metro - 6,0
 78,82,heavy_rail,Metro - 6,0
 80,82,heavy_rail,Metro - 6,0
-71,81,heavy_rail,Metro - 6,0
+72,74,heavy_rail,Metro - 6,0
+71,72,heavy_rail,Metro - 6,0
 83,84,heavy_rail,Metro - 5,0
 83,87,heavy_rail,Metro - 5,0
 84,85,heavy_rail,Metro - 5,0
@@ -103,8 +103,8 @@ nodeID_from,nodeID_to,mode,line,year
 107,108,heavy_rail,Metro - 5,0
 107,91,heavy_rail,Metro - 5,0
 108,110,heavy_rail,Metro - 5,0
-88,110,heavy_rail,Metro - 5,0
 93,91,heavy_rail,Metro - 5,0
+110,90,heavy_rail,Metro - 5,0
 111,113,heavy_rail,Metro - 2,0
 111,112,heavy_rail,Metro - 2,0
 112,127,heavy_rail,Metro - 2,0
@@ -117,7 +117,6 @@ nodeID_from,nodeID_to,mode,line,year
 117,116,heavy_rail,Metro - 2,0
 118,122,heavy_rail,Metro - 2,0
 118,120,heavy_rail,Metro - 2,0
-119,120,heavy_rail,Metro - 2,0
 122,123,heavy_rail,Metro - 2,0
 123,124,heavy_rail,Metro - 2,0
 124,132,heavy_rail,Metro - 2,0
@@ -131,8 +130,9 @@ nodeID_from,nodeID_to,mode,line,year
 129,131,heavy_rail,Metro - 2,0
 130,133,heavy_rail,Metro - 2,0
 135,136,heavy_rail,Metro - 2,0
-128,129,heavy_rail,Metro - 2,0
-119,132,heavy_rail,Metro - 2,0
+128,136,heavy_rail,Metro - 2,0
+120,122,heavy_rail,Metro - 2,0
+119,120,heavy_rail,Metro - 2,0
 137,140,tram,Tram - 62,0
 137,138,tram,Tram - 62,0
 138,139,tram,Tram - 62,0

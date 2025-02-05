@@ -49,8 +49,8 @@ nodeID_from,nodeID_to,mode,line,year
 56,57,light_rail,Tramway (Métro officiellement) - M,1994
 57,48,light_rail,Tramway (Métro officiellement) - M,1994
 59,60,light_rail,Tramway (Métro officiellement) - M,1997
-29,52,light_rail,Tramway (Métro officiellement) - M,1997
-30,35,light_rail,Tramway (Métro officiellement) - M,1997
-42,47,light_rail,Tramway (Métro officiellement) - M,1994
 56,21,light_rail,Tramway (Métro officiellement) - M,1994
+42,46,light_rail,Tramway (Métro officiellement) - M,1994
+52,29,light_rail,Tramway (Métro officiellement) - M,1997
+30,38,light_rail,Tramway (Métro officiellement) - M,1994
 62,63,bus,Bus FAST  - F9,2022

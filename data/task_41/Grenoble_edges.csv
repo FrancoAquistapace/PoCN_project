@@ -50,13 +50,13 @@ nodeID_from,nodeID_to,mode,line,year
 55,56,default,Tram - A,1987
 55,57,default,Tram - A,1987
 57,58,default,Tram - A,1987
-12,5,default,Tram - A,1996
-19,16,default,Tram - A,1996
 49,1,default,Tram - A,1987
 46,40,default,Tram - A,1987
-37,13,default,Tram - A,1987
-30,28,default,Tram - A,1987
 33,25,default,Tram - A,1987
+13,42,default,Tram - A,1987
+30,29,default,Tram - A,1987
+8,5,default,Tram - A,1996
+15,20,default,Tram - A,1996
 59,71,default,Tram - B,1990
 60,73,default,Tram - B,1990
 60,71,default,Tram - B,1990
@@ -94,8 +94,8 @@ nodeID_from,nodeID_to,mode,line,year
 68,78,default,Tram - B,2006
 76,80,default,Tram - B,1990
 96,98,default,Tram - B,1990
-67,63,default,Tram - B,2014
-91,64,default,Tram - B,1987
+63,65,default,Tram - B,2014
+64,93,default,Tram - B,1987
 99,113,default,Tram - C,2006
 99,115,default,Tram - C,2006
 100,125,default,Tram - C,2006
@@ -128,11 +128,11 @@ nodeID_from,nodeID_to,mode,line,year
 133,131,default,Tram - C,2006
 134,128,default,Tram - C,2006
 135,136,default,Tram - C,1987
-106,117,default,Tram - C,2006
 129,107,default,Tram - C,2006
-123,133,default,Tram - C,2006
 114,112,default,Tram - C,1990
-135,134,default,Tram - C,2006
+117,118,default,Tram - C,2006
+121,124,default,Tram - C,2006
+135,126,default,Tram - C,2006
 137,138,default,Téléphérique - Grenoble Bastille,1934
 139,142,default,Tram - D,2007
 140,146,default,Tram - D,2007
@@ -172,7 +172,7 @@ nodeID_from,nodeID_to,mode,line,year
 178,181,default,Tram - E,2015
 181,182,default,Tram - E,2015
 173,175,default,Tram - E,2015
-177,179,default,Tram - E,2015
 170,160,default,Tram - E,2014
-156,162,default,Tram - E,2014
 166,167,default,Tram - E,2014
+156,159,default,Tram - E,2014
+179,150,default,Tram - E,2015

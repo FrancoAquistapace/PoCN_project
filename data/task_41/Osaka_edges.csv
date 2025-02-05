@@ -111,7 +111,7 @@ nodeID_from,nodeID_to,mode,line,year
 119,120,heavy_rail,Kobe Electric Railway - Arima Line,1928
 120,121,heavy_rail,Kobe Electric Railway - Arima Line,1928
 121,122,heavy_rail,Kobe Electric Railway - Arima Line,1928
-114,121,heavy_rail,Kobe Electric Railway - Arima Line,1928
+114,123,heavy_rail,Kobe Electric Railway - Arima Line,1928
 124,125,heavy_rail,Kobe Electric Railway - Sanda Line,1928
 124,127,heavy_rail,Kobe Electric Railway - Sanda Line,1928
 125,130,heavy_rail,Kobe Electric Railway - Sanda Line,1928
@@ -121,7 +121,7 @@ nodeID_from,nodeID_to,mode,line,year
 130,131,heavy_rail,Kobe Electric Railway - Sanda Line,1928
 131,132,heavy_rail,Kobe Electric Railway - Sanda Line,1928
 132,133,heavy_rail,Kobe Electric Railway - Sanda Line,1928
-127,132,heavy_rail,Kobe Electric Railway - Sanda Line,1928
+127,125,heavy_rail,Kobe Electric Railway - Sanda Line,1928
 134,137,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1996
 135,136,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1991
 136,137,heavy_rail,Kobe Electric Railway - Koen-Toshi Line,1996
@@ -144,7 +144,7 @@ nodeID_from,nodeID_to,mode,line,year
 152,153,heavy_rail,Kobe Electric Railway - Ao Line,1937
 155,156,heavy_rail,Kobe Electric Railway - Ao Line,1951
 155,154,heavy_rail,Kobe Electric Railway - Ao Line,1951
-147,150,heavy_rail,Kobe Electric Railway - Ao Line,1936
+147,149,heavy_rail,Kobe Electric Railway - Ao Line,1936
 158,159,heavy_rail,JR West - Wadamisaki Line,1890
 160,164,heavy_rail,Nose Electric Railway - Myoken Line,1913
 160,161,heavy_rail,Nose Electric Railway - Myoken Line,1913
@@ -267,7 +267,7 @@ nodeID_from,nodeID_to,mode,line,year
 295,296,heavy_rail,Osaka Metro - Imazatosuji Line,2006
 296,297,heavy_rail,Osaka Metro - Imazatosuji Line,2006
 297,298,heavy_rail,Osaka Metro - Imazatosuji Line,2006
-297,292,heavy_rail,Osaka Metro - Imazatosuji Line,2006
+297,295,heavy_rail,Osaka Metro - Imazatosuji Line,2006
 299,309,heavy_rail,Osaka Metro - Midosuji Line,1964
 299,301,heavy_rail,Osaka Metro - Midosuji Line,1964
 300,302,heavy_rail,Osaka Metro - Midosuji Line,1933
@@ -400,7 +400,7 @@ nodeID_from,nodeID_to,mode,line,year
 434,435,heavy_rail,JR West - Yamatoji Line,1890
 436,438,heavy_rail,JR West - Yamatoji Line,1907
 437,438,heavy_rail,JR West - Yamatoji Line,1907
-424,428,heavy_rail,JR West - Yamatoji Line,1889
+424,426,heavy_rail,JR West - Yamatoji Line,1889
 439,445,heavy_rail,JR West - Tozai Line,1997
 440,441,heavy_rail,JR West - Tozai Line,1997
 440,442,heavy_rail,JR West - Tozai Line,1997
@@ -423,7 +423,7 @@ nodeID_from,nodeID_to,mode,line,year
 459,460,heavy_rail,JR West - Kyoto Line,1876
 459,461,heavy_rail,JR West - Kyoto Line,1876
 462,461,heavy_rail,JR West - Kyoto Line,1876
-462,449,heavy_rail,JR West - Kyoto Line,1876
+462,448,heavy_rail,JR West - Kyoto Line,1876
 463,467,heavy_rail,JR West - Nara Line,1921
 464,469,heavy_rail,JR West - Nara Line,1921
 464,470,heavy_rail,JR West - Nara Line,1896
@@ -444,7 +444,7 @@ nodeID_from,nodeID_to,mode,line,year
 479,480,heavy_rail,JR West - Nara Line,1896
 480,481,heavy_rail,JR West - Nara Line,1896
 481,483,heavy_rail,JR West - Nara Line,1896
-472,477,heavy_rail,JR West - Nara Line,1896
+472,474,heavy_rail,JR West - Nara Line,1896
 484,485,heavy_rail,JR West - Kobe Line,1888
 484,520,heavy_rail,JR West - Kobe Line,1889
 485,486,heavy_rail,JR West - Kobe Line,1888
@@ -482,8 +482,8 @@ nodeID_from,nodeID_to,mode,line,year
 513,515,heavy_rail,JR West - Kobe Line,1874
 515,516,heavy_rail,JR West - Kobe Line,1874
 520,522,heavy_rail,JR West - Kobe Line,1889
-511,517,heavy_rail,JR West - Kobe Line,1874
 488,490,heavy_rail,JR West - Kobe Line,1888
+517,514,heavy_rail,JR West - Kobe Line,1874
 523,524,heavy_rail,JR West - Sakurajima Line,1898
 524,526,heavy_rail,JR West - Sakurajima Line,1910
 525,526,heavy_rail,JR West - Sakurajima Line,1910
@@ -543,8 +543,8 @@ nodeID_from,nodeID_to,mode,line,year
 583,584,heavy_rail,JR West - Hanwa Line,1930
 583,582,heavy_rail,JR West - Hanwa Line,1930
 584,585,heavy_rail,JR West - Hanwa Line,1930
-569,570,heavy_rail,JR West - Hanwa Line,1929
-552,584,heavy_rail,JR West - Hanwa Line,1930
+569,556,heavy_rail,JR West - Hanwa Line,1929
+552,573,heavy_rail,JR West - Hanwa Line,1930
 586,587,heavy_rail,JR West - Fukuchiyama Line,1986
 587,600,heavy_rail,JR West - Fukuchiyama Line,1986
 588,589,heavy_rail,JR West - Fukuchiyama Line,1899
@@ -620,7 +620,7 @@ nodeID_from,nodeID_to,mode,line,year
 660,661,heavy_rail,Kintetsu - Osaka Line,1930
 661,662,heavy_rail,Kintetsu - Osaka Line,1930
 662,663,heavy_rail,Kintetsu - Osaka Line,1930
-658,662,heavy_rail,Kintetsu - Osaka Line,1930
+658,659,heavy_rail,Kintetsu - Osaka Line,1930
 664,671,heavy_rail,Kintetsu - Nara Line,1914
 665,670,heavy_rail,Kintetsu - Nara Line,1914
 666,667,heavy_rail,Kintetsu - Nara Line,1914
@@ -637,7 +637,7 @@ nodeID_from,nodeID_to,mode,line,year
 678,679,heavy_rail,Kintetsu - Nara Line,1914
 679,680,heavy_rail,Kintetsu - Nara Line,1914
 681,682,heavy_rail,Kintetsu - Nara Line,1914
-673,669,heavy_rail,Kintetsu - Nara Line,1914
+673,681,heavy_rail,Kintetsu - Nara Line,1914
 683,701,heavy_rail,Kintetsu - Minami Osaka Line,1929
 683,700,heavy_rail,Kintetsu - Minami Osaka Line,1922
 684,700,heavy_rail,Kintetsu - Minami Osaka Line,1922
@@ -664,7 +664,7 @@ nodeID_from,nodeID_to,mode,line,year
 708,709,heavy_rail,Kintetsu - Minami Osaka Line,1929
 708,707,heavy_rail,Kintetsu - Minami Osaka Line,1929
 709,710,heavy_rail,Kintetsu - Minami Osaka Line,1929
-702,709,heavy_rail,Kintetsu - Minami Osaka Line,1929
+702,703,heavy_rail,Kintetsu - Minami Osaka Line,1929
 711,713,heavy_rail,Kintetsu - Domyoji Line,1898
 712,713,heavy_rail,Kintetsu - Domyoji Line,1898
 714,717,heavy_rail,Kintetsu - Kyoto Line,1928
@@ -691,7 +691,7 @@ nodeID_from,nodeID_to,mode,line,year
 736,737,heavy_rail,Kintetsu - Kyoto Line,1928
 737,738,heavy_rail,Kintetsu - Kyoto Line,1928
 738,739,heavy_rail,Kintetsu - Kyoto Line,1928
-738,726,heavy_rail,Kintetsu - Kyoto Line,1928
+718,721,heavy_rail,Kintetsu - Kyoto Line,1928
 740,744,heavy_rail,Kintetsu - Kashihara Line,1921
 741,746,heavy_rail,Kintetsu - Kashihara Line,1921
 742,748,heavy_rail,Kintetsu - Kashihara Line,1923
@@ -750,8 +750,8 @@ nodeID_from,nodeID_to,mode,line,year
 796,795,heavy_rail,Nankai - Nankai Main Line,1898
 797,798,heavy_rail,Nankai - Nankai Main Line,1898
 798,799,heavy_rail,Nankai - Nankai Main Line,1898
-764,767,heavy_rail,Nankai - Nankai Main Line,1885
 796,798,heavy_rail,Nankai - Nankai Main Line,1898
+764,765,heavy_rail,Nankai - Nankai Main Line,1885
 800,811,heavy_rail,Nankai - Koya Line,1898
 800,810,heavy_rail,Nankai - Koya Line,1900
 801,803,heavy_rail,Nankai - Koya Line,1914
@@ -788,7 +788,7 @@ nodeID_from,nodeID_to,mode,line,year
 832,836,heavy_rail,Nankai - Koya Line,1928
 833,835,heavy_rail,Nankai - Koya Line,1924
 835,836,heavy_rail,Nankai - Koya Line,1928
-813,823,heavy_rail,Nankai - Koya Line,1898
+813,814,heavy_rail,Nankai - Koya Line,1898
 837,839,heavy_rail,Nankai - Shiomibashi Line,1900
 838,842,heavy_rail,Nankai - Shiomibashi Line,1900
 839,840,heavy_rail,Nankai - Shiomibashi Line,1900
@@ -895,7 +895,7 @@ nodeID_from,nodeID_to,mode,line,year
 954,955,heavy_rail,Keihan - Keihan Main Line,1910
 955,957,heavy_rail,Keihan - Keihan Main Line,1910
 957,958,heavy_rail,Keihan - Keihan Main Line,1910
-958,948,heavy_rail,Keihan - Keihan Main Line,1910
+958,928,heavy_rail,Keihan - Keihan Main Line,1910
 959,960,heavy_rail,Mizuma Railway - Mizuma Line,1926
 959,961,heavy_rail,Mizuma Railway - Mizuma Line,1926
 962,963,heavy_rail,Semboku Rapid Railway - Semboku Rapid Railway Line,1977
@@ -992,7 +992,7 @@ nodeID_from,nodeID_to,mode,line,year
 1060,1065,heavy_rail,Hankyu - Hankyu Kobe Main Line,1936
 1061,1064,heavy_rail,Hankyu - Hankyu Kobe Main Line,1921
 1062,1064,heavy_rail,Hankyu - Hankyu Kobe Main Line,1921
-1056,1054,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
+1056,1057,heavy_rail,Hankyu - Hankyu Kobe Main Line,1920
 1066,1069,heavy_rail,Hankyu - Imazu Line,1926
 1066,1070,heavy_rail,Hankyu - Imazu Line,1921
 1067,1069,heavy_rail,Hankyu - Imazu Line,1926
@@ -1025,7 +1025,7 @@ nodeID_from,nodeID_to,mode,line,year
 1098,1099,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
 1099,1100,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
 1100,1101,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
-1094,1100,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
+1094,1095,heavy_rail,Hankyu - Hankyu Takarazuka Main Line,1910
 1102,1105,heavy_rail,Hankyu - Mino Line,1910
 1103,1104,heavy_rail,Hankyu - Mino Line,1910
 1104,1105,heavy_rail,Hankyu - Mino Line,1910
@@ -1062,7 +1062,7 @@ nodeID_from,nodeID_to,mode,line,year
 1136,1137,heavy_rail,Hanshin - Hanshin Main Line,1905
 1137,1138,heavy_rail,Hanshin - Hanshin Main Line,1905
 1138,1139,heavy_rail,Hanshin - Hanshin Main Line,1905
-1125,1138,heavy_rail,Hanshin - Hanshin Main Line,1905
+1125,1127,heavy_rail,Hanshin - Hanshin Main Line,1905
 1140,1148,heavy_rail,Hanshin - Namba Line,2009
 1140,1141,heavy_rail,Hanshin - Namba Line,2009
 1142,1149,heavy_rail,Hanshin - Namba Line,1924
@@ -1100,7 +1100,7 @@ nodeID_from,nodeID_to,mode,line,year
 1177,1178,heavy_rail,JR West - Biwako Line,1889
 1178,1179,heavy_rail,JR West - Biwako Line,1889
 1179,1180,heavy_rail,JR West - Biwako Line,1889
-1169,1179,heavy_rail,JR West - Biwako Line,1889
+1169,1171,heavy_rail,JR West - Biwako Line,1889
 1181,1191,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
 1181,1182,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
 1182,1183,heavy_rail,Kyoto Municipal Subway - Karasuma Line,1988
@@ -1131,7 +1131,7 @@ nodeID_from,nodeID_to,mode,line,year
 1207,1211,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
 1208,1211,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
 1208,1212,heavy_rail,Kyoto Municipal Subway - Tozai Line,2008
-1202,1206,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
+1202,1200,heavy_rail,Kyoto Municipal Subway - Tozai Line,1997
 1213,1214,heavy_rail,Kobe Municipal Subway - Hokushin Line,1988
 1215,1220,people_mover,Osaka Monorail - Main Line,1997
 1215,1216,people_mover,Osaka Monorail - Main Line,1990
@@ -1147,7 +1147,7 @@ nodeID_from,nodeID_to,mode,line,year
 1227,1228,people_mover,Osaka Metro - Nanko Port Town Line,1997
 1229,1230,people_mover,Osaka Metro - Nanko Port Town Line,1981
 1231,1232,people_mover,Osaka Metro - Nanko Port Town Line,1981
-1230,1223,people_mover,Osaka Metro - Nanko Port Town Line,1981
+1230,1231,people_mover,Osaka Metro - Nanko Port Town Line,1981
 1233,1245,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
 1234,1235,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
 1235,1236,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
@@ -1160,7 +1160,7 @@ nodeID_from,nodeID_to,mode,line,year
 1242,1243,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
 1243,1244,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
 1244,1245,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
-1244,1241,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
+1244,1242,light_rail,Keifuku Electric Railroad - Arashiyama Line,1910
 1246,1251,light_rail,Keifuku Electric Railroad - Kitano Line,1925
 1246,1252,light_rail,Keifuku Electric Railroad - Kitano Line,1926
 1247,1254,light_rail,Keifuku Electric Railroad - Kitano Line,1926

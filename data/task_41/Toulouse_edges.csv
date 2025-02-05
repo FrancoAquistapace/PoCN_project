@@ -63,7 +63,7 @@ nodeID_from,nodeID_to,mode,line,year
 38,42,light_rail,Tramway - T1,0
 47,46,light_rail,Tramway - T1,0
 45,41,light_rail,Tramway - T1,0
-57,53,light_rail,Tramway - T1,0
+53,54,light_rail,Tramway - T1,0
 66,67,light_rail,Tramway - T2,0
 66,69,light_rail,Tramway - T2,0
 68,75,light_rail,Tramway - T2,0
@@ -95,4 +95,4 @@ nodeID_from,nodeID_to,mode,line,year
 75,74,light_rail,Tramway - T2,0
 80,79,light_rail,Tramway - T2,0
 78,73,light_rail,Tramway - T2,0
-90,86,light_rail,Tramway - T2,0
+86,87,light_rail,Tramway - T2,0

@@ -21,7 +21,7 @@ nodeID_from,nodeID_to,mode,line,year
 19,18,light_rail,Tramway - Ligne 1,2006
 21,22,light_rail,Tramway - Ligne 1,2006
 7,16,light_rail,Tramway - Ligne 1,2006
-2,5,light_rail,Tramway - Ligne 1,2006
+2,0,light_rail,Tramway - Ligne 1,2006
 23,30,light_rail,Tramway - Ligne 2,2006
 24,33,light_rail,Tramway - Ligne 2,2006
 25,34,light_rail,Tramway - Ligne 2,2006
@@ -46,9 +46,9 @@ nodeID_from,nodeID_to,mode,line,year
 46,50,light_rail,Tramway - Ligne 2,2006
 46,47,light_rail,Tramway - Ligne 2,2006
 49,45,light_rail,Tramway - Ligne 2,2006
-31,36,light_rail,Tramway - Ligne 2,2006
-39,41,light_rail,Tramway - Ligne 2,2006
-47,38,light_rail,Tramway - Ligne 2,2006
+39,37,light_rail,Tramway - Ligne 2,2006
+36,29,light_rail,Tramway - Ligne 2,2006
+38,44,light_rail,Tramway - Ligne 2,2006
 51,52,light_rail,Tramway - Ligne 3,2006
 51,56,light_rail,Tramway - Ligne 3,2006
 53,57,light_rail,Tramway - Ligne 3,2006
@@ -67,7 +67,7 @@ nodeID_from,nodeID_to,mode,line,year
 68,69,light_rail,Tramway - Ligne 3,2009
 68,65,light_rail,Tramway - Ligne 3,2009
 63,52,light_rail,Tramway - Ligne 3,2009
-55,57,light_rail,Tramway - Ligne 3,2006
+55,53,light_rail,Tramway - Ligne 3,2006
 70,71,commuter_rail,Tramway - Tram-train,2006
 70,75,commuter_rail,Tramway - Tram-train,2006
 72,76,commuter_rail,Tramway - Tram-train,2006
@@ -97,5 +97,5 @@ nodeID_from,nodeID_to,mode,line,year
 97,100,commuter_rail,Tramway - Tram-train,2009
 97,99,commuter_rail,Tramway - Tram-train,2009
 82,71,commuter_rail,Tramway - Tram-train,2009
-74,76,commuter_rail,Tramway - Tram-train,2006
 88,91,commuter_rail,Tramway - Tram-train,2009
+74,72,commuter_rail,Tramway - Tram-train,2006

@@ -90,7 +90,7 @@ nodeID_from,nodeID_to,mode,line,year
 115,118,inter_city_rail,Rodalies - R2 Nord,1958
 115,112,inter_city_rail,Rodalies - R2 Nord,1958
 119,114,inter_city_rail,Rodalies - R2 Nord,1854
-111,109,inter_city_rail,Rodalies - R2 Nord,1861
+111,103,inter_city_rail,Rodalies - R2 Nord,1861
 145,150,heavy_rail,Metro - L2,1997
 145,155,heavy_rail,Metro - L2,1997
 146,151,heavy_rail,Metro - L2,1997
@@ -209,8 +209,8 @@ nodeID_from,nodeID_to,mode,line,year
 283,287,heavy_rail,Metro - L1,0
 288,287,heavy_rail,Metro - L1,0
 291,266,heavy_rail,Metro - L1,1989
-278,282,heavy_rail,Metro - L1,0
 274,285,heavy_rail,Metro - L1,1926
+278,262,heavy_rail,Metro - L1,0
 292,295,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1959
 292,296,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1959
 293,294,heavy_rail,Ferrocarril Metropolitano de Barcelona SA - Línea II,1967

@@ -89,7 +89,7 @@ nodeID_from,nodeID_to,mode,line,year
 78,79,heavy_rail,(TfL) Underground - Circle,1863
 79,62,heavy_rail,(TfL) Underground - Circle,1863
 81,56,heavy_rail,(TfL) Underground - Circle,1871
-72,74,heavy_rail,(TfL) Underground - Circle,1864
+72,68,heavy_rail,(TfL) Underground - Circle,1864
 87,122,heavy_rail,(TfL) Underground - Central,1947
 87,125,heavy_rail,(TfL) Underground - Central,1947
 88,112,heavy_rail,(TfL) Underground - Central,1900
@@ -142,7 +142,7 @@ nodeID_from,nodeID_to,mode,line,year
 135,136,heavy_rail,(TfL) Underground - Central,1920
 137,129,heavy_rail,(TfL) Underground - Central,1865
 92,100,heavy_rail,(TfL) Underground - Central,1947
-127,112,heavy_rail,(TfL) Underground - Central,1900
+127,106,heavy_rail,(TfL) Underground - Central,1900
 138,153,heavy_rail,(TfL) Underground - Piccadilly,1879
 138,169,heavy_rail,(TfL) Underground - Piccadilly,1904
 139,163,heavy_rail,(TfL) Underground - Piccadilly,1933
@@ -404,7 +404,7 @@ nodeID_from,nodeID_to,mode,line,year
 397,378,heavy_rail,(TfL) Underground - Hammersmith & City,1863
 398,404,heavy_rail,(TfL) Underground - Hammersmith & City,1858
 401,403,heavy_rail,(TfL) Underground - Hammersmith & City,1864
-401,392,heavy_rail,(TfL) Underground - Hammersmith & City,1864
+401,390,heavy_rail,(TfL) Underground - Hammersmith & City,1864
 405,406,heavy_rail,(TfL) Underground - Waterloo & City,1898
 407,408,heavy_rail,(TfL) Underground - East London,1869
 408,409,heavy_rail,(TfL) Underground - East London,1849
@@ -479,8 +479,8 @@ nodeID_from,nodeID_to,mode,line,year
 446,447,commuter_rail,(NR) Thameslink - Thameslink,1868
 438,429,commuter_rail,(NR) Thameslink - Thameslink,1865
 420,480,commuter_rail,(NR) Thameslink - Thameslink,1892
-424,452,commuter_rail,(NR) Thameslink - Thameslink,1868
-459,422,commuter_rail,(NR) Thameslink - Thameslink,1892
+424,451,commuter_rail,(NR) Thameslink - Thameslink,1868
+459,429,commuter_rail,(NR) Thameslink - Thameslink,1892
 496,498,commuter_rail,(NR) Chiltern Railways - Main Line,1906
 497,503,commuter_rail,(NR) Chiltern Railways - Main Line,1906
 497,498,commuter_rail,(NR) Chiltern Railways - Main Line,1906
@@ -574,10 +574,10 @@ nodeID_from,nodeID_to,mode,line,year
 544,518,commuter_rail,(NR) Southeastern Railway - Southeastern,1841
 565,561,commuter_rail,(NR) Southeastern Railway - Southeastern,1901
 555,563,commuter_rail,(NR) Southeastern Railway - Southeastern,1897
-531,557,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
 520,586,commuter_rail,(NR) Southeastern Railway - Southeastern,1865
-558,517,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
-551,579,commuter_rail,(NR) Southeastern Railway - Southeastern,1858
+517,537,commuter_rail,(NR) Southeastern Railway - Southeastern,1863
+551,515,commuter_rail,(NR) Southeastern Railway - Southeastern,1878
+531,556,commuter_rail,(NR) Southeastern Railway - Southeastern,1839
 587,593,commuter_rail,(NR) Great Western Railway - GWR,1903
 587,594,commuter_rail,(NR) Great Western Railway - GWR,1903
 588,596,commuter_rail,(NR) Great Western Railway - GWR,1838
@@ -588,7 +588,7 @@ nodeID_from,nodeID_to,mode,line,year
 595,596,commuter_rail,(NR) Great Western Railway - GWR,1838
 595,591,commuter_rail,(NR) Great Western Railway - GWR,1903
 597,588,commuter_rail,(NR) Great Western Railway - GWR,1838
-594,591,commuter_rail,(NR) Great Western Railway - GWR,1903
+594,593,commuter_rail,(NR) Great Western Railway - GWR,1903
 598,601,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
 599,600,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
 600,603,commuter_rail,(NR) West Midlands Trains - West Midlands Trains/LNWR,1837
@@ -613,7 +613,7 @@ nodeID_from,nodeID_to,mode,line,year
 620,610,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1875
 621,622,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
 617,612,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
-616,612,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
+614,615,commuter_rail,(NR) Greater Anglia - West Anglia Main Line,1840
 623,645,commuter_rail,(TfL) Crossrail - Elizabeth,1838
 623,636,commuter_rail,(TfL) Crossrail - Elizabeth,1838
 624,644,commuter_rail,(TfL) Crossrail - Elizabeth,2022
@@ -642,7 +642,7 @@ nodeID_from,nodeID_to,mode,line,year
 647,648,commuter_rail,(TfL) Crossrail - Elizabeth,1986
 649,644,commuter_rail,(TfL) Crossrail - Elizabeth,2022
 642,628,commuter_rail,(TfL) Crossrail - Elizabeth,2018
-632,623,commuter_rail,(TfL) Crossrail - Elizabeth,2019
+632,626,commuter_rail,(TfL) Crossrail - Elizabeth,2019
 651,660,commuter_rail,(TfL) Overground - North London,1860
 652,659,commuter_rail,(TfL) Overground - North London,1850
 653,654,commuter_rail,(TfL) Overground - North London,1877
@@ -705,7 +705,7 @@ nodeID_from,nodeID_to,mode,line,year
 713,714,commuter_rail,(TfL) Overground - Lea Valley,2015
 715,707,commuter_rail,(TfL) Overground - Lea Valley,2015
 717,704,commuter_rail,(TfL) Overground - Lea Valley,1875
-704,709,commuter_rail,(TfL) Overground - Lea Valley,2015
+704,708,commuter_rail,(TfL) Overground - Lea Valley,2015
 720,737,commuter_rail,(TfL) Overground - East London,1839
 720,734,commuter_rail,(TfL) Overground - East London,1839
 721,726,commuter_rail,(TfL) Overground - East London,1869
@@ -751,7 +751,6 @@ nodeID_from,nodeID_to,mode,line,year
 771,773,commuter_rail,(NR) LNER - Main Line,1850
 772,775,commuter_rail,(NR) LNER - Main Line,1850
 773,775,commuter_rail,(NR) LNER - Main Line,1850
-774,778,commuter_rail,(NR) LNER - Main Line,1850
 774,772,commuter_rail,(NR) LNER - Main Line,1850
 776,777,commuter_rail,(NR) LNER - Main Line,1852
 777,782,commuter_rail,(NR) LNER - Main Line,1852
@@ -759,7 +758,8 @@ nodeID_from,nodeID_to,mode,line,year
 779,780,commuter_rail,(NR) LNER - Main Line,1850
 779,782,commuter_rail,(NR) LNER - Main Line,1850
 781,771,commuter_rail,(NR) LNER - Main Line,1850
-779,775,commuter_rail,(NR) LNER - Main Line,1850
+778,779,commuter_rail,(NR) LNER - Main Line,1850
+774,778,commuter_rail,(NR) LNER - Main Line,1850
 783,785,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
 784,785,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
 784,786,commuter_rail,(NR) West Midlands Trains - Abbey Branch,1865
@@ -818,7 +818,6 @@ nodeID_from,nodeID_to,mode,line,year
 831,828,inter_city_rail,(NR) South Western Railway - South Western,1939
 832,833,inter_city_rail,(NR) South Western Railway - South Western,1938
 832,837,inter_city_rail,(NR) South Western Railway - South Western,1938
-834,817,inter_city_rail,(NR) South Western Railway - South Western,1863
 836,837,inter_city_rail,(NR) South Western Railway - South Western,1938
 839,823,inter_city_rail,(NR) South Western Railway - South Western,1850
 840,841,inter_city_rail,(NR) South Western Railway - South Western,1864
@@ -828,9 +827,10 @@ nodeID_from,nodeID_to,mode,line,year
 846,845,inter_city_rail,(NR) South Western Railway - South Western,1864
 847,848,inter_city_rail,(NR) South Western Railway - South Western,1845
 846,810,inter_city_rail,(NR) South Western Railway - South Western,1848
-822,840,inter_city_rail,(NR) South Western Railway - South Western,1864
-842,844,inter_city_rail,(NR) South Western Railway - South Western,1864
-834,846,inter_city_rail,(NR) South Western Railway - South Western,1849
+841,842,inter_city_rail,(NR) South Western Railway - South Western,1864
+817,843,inter_city_rail,(NR) South Western Railway - South Western,1864
+834,817,inter_city_rail,(NR) South Western Railway - South Western,1863
+830,839,inter_city_rail,(NR) South Western Railway - South Western,1850
 851,859,inter_city_rail,(NR) Southern Railway - Southern,1847
 851,890,inter_city_rail,(NR) Southern Railway - Southern,1865
 852,864,inter_city_rail,(NR) Southern Railway - Southern,1867
@@ -894,11 +894,11 @@ nodeID_from,nodeID_to,mode,line,year
 910,904,inter_city_rail,(NR) Southern Railway - Southern,1860
 912,915,inter_city_rail,(NR) Southern Railway - Southern,2016
 914,912,inter_city_rail,(NR) Southern Railway - Southern,2016
-889,885,inter_city_rail,(NR) Southern Railway - Southern,1868
-903,915,inter_city_rail,(NR) Southern Railway - Southern,2016
 854,888,inter_city_rail,(NR) Southern Railway - Southern,1862
-860,885,inter_city_rail,(NR) Southern Railway - Southern,1868
-905,894,inter_city_rail,(NR) Southern Railway - Southern,1847
+889,915,inter_city_rail,(NR) Southern Railway - Southern,2016
+860,895,inter_city_rail,(NR) Southern Railway - Southern,1847
+860,914,inter_city_rail,(NR) Southern Railway - Southern,2016
+867,885,inter_city_rail,(NR) Southern Railway - Southern,1868
 922,923,light_rail,(TfL) Other - DLR,1987
 923,929,light_rail,(TfL) Other - DLR,1987
 924,953,light_rail,(TfL) Other - DLR,2009
@@ -942,10 +942,10 @@ nodeID_from,nodeID_to,mode,line,year
 960,939,light_rail,(TfL) Other - DLR,1994
 961,922,light_rail,(TfL) Other - DLR,1987
 962,937,light_rail,(TfL) Other - DLR,1987
-966,941,light_rail,(TfL) Other - DLR,1994
 922,929,light_rail,(TfL) Other - DLR,1987
-941,953,light_rail,(TfL) Other - DLR,2009
 940,926,light_rail,(TfL) Other - DLR,1994
+941,948,light_rail,(TfL) Other - DLR,1994
+951,942,light_rail,(TfL) Other - DLR,2005
 967,980,tram,(TfL) Other - Tramlink,1864
 967,998,tram,(TfL) Other - Tramlink,1864
 968,976,tram,(TfL) Other - Tramlink,1864
@@ -982,7 +982,7 @@ nodeID_from,nodeID_to,mode,line,year
 996,997,tram,(TfL) Other - Tramlink,1864
 998,995,tram,(TfL) Other - Tramlink,1864
 998,980,tram,(TfL) Other - Tramlink,1864
-984,1001,tram,(TfL) Other - Tramlink,2000
 999,977,tram,(TfL) Other - Tramlink,1864
+984,993,tram,(TfL) Other - Tramlink,2000
 1003,1005,high_speed_rail,National Rail - Eurostar/HS1,2007
 1004,1005,high_speed_rail,National Rail - Eurostar/HS1,2007

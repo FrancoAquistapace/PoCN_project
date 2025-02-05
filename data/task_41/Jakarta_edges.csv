@@ -18,7 +18,7 @@ nodeID_from,nodeID_to,mode,line,year
 16,17,heavy_rail,Jakarta MRT - Line 1,2029.0
 17,18,heavy_rail,Jakarta MRT - Line 1,2029.0
 18,19,heavy_rail,Jakarta MRT - Line 1,2029.0
-10,4,heavy_rail,Jakarta MRT - Line 1,2019.0
+10,7,heavy_rail,Jakarta MRT - Line 1,2019.0
 21,23,heavy_rail,Railink - Soekarno-Hatta Airport Line,2018.0
 22,23,heavy_rail,Railink - Soekarno-Hatta Airport Line,2018.0
 24,28,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
@@ -30,7 +30,7 @@ nodeID_from,nodeID_to,mode,line,year
 31,32,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
 34,33,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
 32,26,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
-24,30,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
+24,29,heavy_rail,Greater Jakarta LRT - Cibubur Line,2023.0
 35,36,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
 35,40,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
 36,37,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
@@ -41,7 +41,7 @@ nodeID_from,nodeID_to,mode,line,year
 43,44,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
 44,45,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
 45,46,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
-39,36,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
+39,40,heavy_rail,Greater Jakarta LRT - Bekasi Line,2023.0
 47,58,commuter_rail,Commuter Line - Central Line,2011.0
 47,57,commuter_rail,Commuter Line - Central Line,2011.0
 48,49,commuter_rail,Commuter Line - Central Line,2011.0
@@ -65,8 +65,8 @@ nodeID_from,nodeID_to,mode,line,year
 67,68,commuter_rail,Commuter Line - Central Line,2021.0
 68,48,commuter_rail,Commuter Line - Central Line,2011.0
 69,70,commuter_rail,Commuter Line - Central Line,2011.0
-65,56,commuter_rail,Commuter Line - Central Line,2011.0
 50,48,commuter_rail,Commuter Line - Central Line,2011.0
+65,63,commuter_rail,Commuter Line - Central Line,2011.0
 71,97,commuter_rail,Commuter Line - Cikarang Line,2011.0
 72,84,commuter_rail,Commuter Line - Cikarang Line,2011.0
 72,83,commuter_rail,Commuter Line - Cikarang Line,2011.0
@@ -94,8 +94,8 @@ nodeID_from,nodeID_to,mode,line,year
 94,95,commuter_rail,Commuter Line - Cikarang Line,2011.0
 95,96,commuter_rail,Commuter Line - Cikarang Line,2011.0
 96,97,commuter_rail,Commuter Line - Cikarang Line,2011.0
-83,73,commuter_rail,Commuter Line - Cikarang Line,2011.0
-96,80,commuter_rail,Commuter Line - Cikarang Line,2011.0
+83,84,commuter_rail,Commuter Line - Cikarang Line,2011.0
+80,81,commuter_rail,Commuter Line - Cikarang Line,2011.0
 98,113,commuter_rail,Commuter Line - Loop Line,2011.0
 98,112,commuter_rail,Commuter Line - Loop Line,2011.0
 99,126,commuter_rail,Commuter Line - Loop Line,2011.0
@@ -125,7 +125,7 @@ nodeID_from,nodeID_to,mode,line,year
 123,124,commuter_rail,Commuter Line - Loop Line,2011.0
 124,125,commuter_rail,Commuter Line - Loop Line,2011.0
 125,126,commuter_rail,Commuter Line - Loop Line,2011.0
-120,111,commuter_rail,Commuter Line - Loop Line,2011.0
+120,118,commuter_rail,Commuter Line - Loop Line,2011.0
 128,130,commuter_rail,Commuter Line - Rangkas Bitung Line,2011.0
 129,133,commuter_rail,Commuter Line - Rangkas Bitung Line,2011.0
 130,129,commuter_rail,Commuter Line - Rangkas Bitung Line,2011.0
@@ -181,8 +181,8 @@ nodeID_from,nodeID_to,mode,line,year
 184,183,commuter_rail,Commuter Line - Bogor Line,2021.0
 185,164,commuter_rail,Commuter Line - Bogor Line,2011.0
 186,187,commuter_rail,Commuter Line - Bogor Line,2011.0
-181,173,commuter_rail,Commuter Line - Bogor Line,2011.0
 166,164,commuter_rail,Commuter Line - Bogor Line,2011.0
+181,179,commuter_rail,Commuter Line - Bogor Line,2011.0
 188,212,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
 189,202,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
 189,200,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
@@ -208,7 +208,7 @@ nodeID_from,nodeID_to,mode,line,year
 210,211,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
 211,212,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
 213,201,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
-200,190,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
+200,202,commuter_rail,Commuter Line - Cikarang Loop Line,2011.0
 214,215,brt,Jakarta BRT - TJ koridor 1,2004.0
 214,219,brt,Jakarta BRT - TJ koridor 1,2004.0
 215,230,brt,Jakarta BRT - TJ koridor 1,2004.0
@@ -227,7 +227,7 @@ nodeID_from,nodeID_to,mode,line,year
 225,228,brt,Jakarta BRT - TJ koridor 1,2004.0
 229,230,brt,Jakarta BRT - TJ koridor 1,2004.0
 231,232,brt,Jakarta BRT - TJ koridor 1,2004.0
-219,222,brt,Jakarta BRT - TJ koridor 1,2004.0
+219,215,brt,Jakarta BRT - TJ koridor 1,2004.0
 233,256,brt,Jakarta BRT - TJ koridor 2,2006.0
 233,234,brt,Jakarta BRT - TJ koridor 2,2006.0
 234,235,brt,Jakarta BRT - TJ koridor 2,2006.0
@@ -251,7 +251,7 @@ nodeID_from,nodeID_to,mode,line,year
 251,252,brt,Jakarta BRT - TJ koridor 2,2006.0
 252,249,brt,Jakarta BRT - TJ koridor 2,2006.0
 254,255,brt,Jakarta BRT - TJ koridor 2,2006.0
-241,243,brt,Jakarta BRT - TJ koridor 2,2006.0
+243,246,brt,Jakarta BRT - TJ koridor 2,2006.0
 258,273,brt,Jakarta BRT - TJ koridor 3,2006.0
 259,258,brt,Jakarta BRT - TJ koridor 3,2006.0
 260,270,brt,Jakarta BRT - TJ koridor 3,2006.0
@@ -282,7 +282,7 @@ nodeID_from,nodeID_to,mode,line,year
 284,285,brt,Jakarta BRT - TJ koridor 4,2007.0
 287,286,brt,Jakarta BRT - TJ koridor 4,2007.0
 288,289,brt,Jakarta BRT - TJ koridor 4,2007.0
-285,286,brt,Jakarta BRT - TJ koridor 4,2007.0
+285,290,brt,Jakarta BRT - TJ koridor 4,2007.0
 291,292,brt,Jakarta BRT - TJ koridor 5,2007.0
 292,293,brt,Jakarta BRT - TJ koridor 5,2007.0
 293,306,brt,Jakarta BRT - TJ koridor 5,2007.0
@@ -300,7 +300,7 @@ nodeID_from,nodeID_to,mode,line,year
 302,304,brt,Jakarta BRT - TJ koridor 5,2007.0
 303,304,brt,Jakarta BRT - TJ koridor 5,2007.0
 305,301,brt,Jakarta BRT - TJ koridor 5,2007.0
-308,296,brt,Jakarta BRT - TJ koridor 5,2007.0
+308,298,brt,Jakarta BRT - TJ koridor 5,2007.0
 309,310,brt,Jakarta BRT - TJ koridor 6,2007.0
 310,313,brt,Jakarta BRT - TJ koridor 6,2007.0
 311,313,brt,Jakarta BRT - TJ koridor 6,2007.0
@@ -319,7 +319,7 @@ nodeID_from,nodeID_to,mode,line,year
 324,325,brt,Jakarta BRT - TJ koridor 6,2007.0
 325,326,brt,Jakarta BRT - TJ koridor 6,2007.0
 327,326,brt,Jakarta BRT - TJ koridor 6,2007.0
-319,325,brt,Jakarta BRT - TJ koridor 6,2007.0
+322,320,brt,Jakarta BRT - TJ koridor 6,2007.0
 329,333,brt,Jakarta BRT - TJ koridor 7,2007.0
 329,330,brt,Jakarta BRT - TJ koridor 7,2007.0
 330,341,brt,Jakarta BRT - TJ koridor 7,2007.0
@@ -444,7 +444,7 @@ nodeID_from,nodeID_to,mode,line,year
 455,456,brt,Jakarta BRT - TJ koridor 13,2017.0
 457,459,brt,Jakarta BRT - TJ koridor 13,2017.0
 457,458,brt,Jakarta BRT - TJ koridor 13,2018.0
-450,459,brt,Jakarta BRT - TJ koridor 13,2017.0
+459,456,brt,Jakarta BRT - TJ koridor 13,2017.0
 462,464,light_rail,Jakarta LRT - Line A,2019.0
 462,465,light_rail,Jakarta LRT - Line A,2019.0
 463,467,light_rail,Jakarta LRT - Line A,2019.0

@@ -37,7 +37,7 @@ nodeID_from,nodeID_to,mode,line,year
 40,41,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1974.0
 42,43,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
 43,44,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
-44,34,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
+44,25,heavy_rail,Metroferroviário - Linha 1 • Azul (CMSP),1975.0
 46,48,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
 46,50,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1981.0
 47,51,heavy_rail,Metroferroviário - Linha 3 • Vermelha (CMSP),1982.0
@@ -72,7 +72,7 @@ nodeID_from,nodeID_to,mode,line,year
 77,74,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
 78,79,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
 78,81,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
-76,72,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
+76,65,heavy_rail,Metroferroviário - Linha 7 • Rubi (CPTM),1867.0
 82,89,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
 83,88,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
 83,97,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
@@ -88,7 +88,7 @@ nodeID_from,nodeID_to,mode,line,year
 92,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
 93,95,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
 94,96,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
-96,90,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
+96,86,heavy_rail,Metroferroviário - Linha 11 • Coral (CPTM),1875.0
 99,100,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
 99,104,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
 100,102,heavy_rail,Metroferroviário - Linha 15 • Prata (CMSP),2018.0
@@ -113,7 +113,7 @@ nodeID_from,nodeID_to,mode,line,year
 118,119,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),999999.0
 122,124,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
 122,123,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
-122,112,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
+122,117,heavy_rail,Metroferroviário - Linha 6 • Laranja (MoveSP),
 125,130,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
 125,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2010.0
 126,128,heavy_rail,Metroferroviário - Linha 2 • Verde (CMSP),2006.0
@@ -165,7 +165,7 @@ nodeID_from,nodeID_to,mode,line,year
 175,176,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
 176,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
 178,179,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
-169,177,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
+169,168,heavy_rail,Metroferroviário - Linha 10 • Turquesa (CPTM),1867.0
 180,185,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
 180,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
 181,186,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
@@ -179,7 +179,7 @@ nodeID_from,nodeID_to,mode,line,year
 188,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
 189,190,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
 190,193,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
-193,184,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
+193,192,heavy_rail,Metroferroviário - Linha 12 • Safira (CPTM),1934.0
 194,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
 195,196,heavy_rail,Metroferroviário - Linha 13 • Jade (CPTM),2018.0
 197,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
@@ -203,7 +203,7 @@ nodeID_from,nodeID_to,mode,line,year
 209,210,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
 210,211,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
 213,212,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
-201,197,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
+201,200,heavy_rail,Metroferroviário - Linha 8 • Diamante (ViaMobilidade),1875.0
 219,220,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),
 220,225,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
 221,227,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
@@ -221,7 +221,7 @@ nodeID_from,nodeID_to,mode,line,year
 233,234,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
 236,231,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
 237,238,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
-231,237,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
+237,229,heavy_rail,Metroferroviário - Linha 9 • Esmeralda (ViaMobilidade),1957.0
 239,240,bus,Metrorrodoviário - Linha B • Diadema-Berrini (Metra),2010.0
 241,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2014.0
 242,243,bus,Metrorrodoviário - Linha C • Guarulhos-Tucuruvi (EMTU),2013.0

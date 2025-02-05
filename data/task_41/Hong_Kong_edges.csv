@@ -26,7 +26,6 @@ nodeID_from,nodeID_to,mode,line,year
 26,35,heavy_rail,MTR - Tsuen Wan Line,1979
 26,27,heavy_rail,MTR - Tsuen Wan Line,1979
 28,38,heavy_rail,MTR - Tsuen Wan Line,1982
-28,29,heavy_rail,MTR - Tsuen Wan Line,1982
 29,30,heavy_rail,MTR - Tsuen Wan Line,1982
 30,31,heavy_rail,MTR - Tsuen Wan Line,1982
 31,32,heavy_rail,MTR - Tsuen Wan Line,1982
@@ -37,7 +36,8 @@ nodeID_from,nodeID_to,mode,line,year
 37,38,heavy_rail,MTR - Tsuen Wan Line,1982
 39,40,heavy_rail,MTR - Tsuen Wan Line,1980
 40,25,heavy_rail,MTR - Tsuen Wan Line,1980
-31,38,heavy_rail,MTR - Tsuen Wan Line,1982
+29,31,heavy_rail,MTR - Tsuen Wan Line,1982
+28,29,heavy_rail,MTR - Tsuen Wan Line,1982
 41,48,heavy_rail,MTR - Kwun Tong Line,2016
 42,45,heavy_rail,MTR - Kwun Tong Line,1979
 42,44,heavy_rail,MTR - Kwun Tong Line,1979
@@ -54,7 +54,7 @@ nodeID_from,nodeID_to,mode,line,year
 52,53,heavy_rail,MTR - Kwun Tong Line,2002
 53,54,heavy_rail,MTR - Kwun Tong Line,2002
 55,56,heavy_rail,MTR - Kwun Tong Line,1979
-43,57,heavy_rail,MTR - Kwun Tong Line,1979
+43,55,heavy_rail,MTR - Kwun Tong Line,1979
 58,59,heavy_rail,MTR - South Island Line,2016
 59,60,heavy_rail,MTR - South Island Line,2016
 60,61,heavy_rail,MTR - South Island Line,2016
@@ -83,8 +83,8 @@ nodeID_from,nodeID_to,mode,line,year
 85,86,heavy_rail,MTR - Tuen Ma Line,2021
 86,87,heavy_rail,MTR - Tuen Ma Line,2021
 71,67,heavy_rail,MTR - Tuen Ma Line,2020
-72,89,heavy_rail,MTR - Tuen Ma Line,2004
-82,88,heavy_rail,MTR - Tuen Ma Line,2003
+89,70,heavy_rail,MTR - Tuen Ma Line,2004
+88,78,heavy_rail,MTR - Tuen Ma Line,2003
 90,91,heavy_rail,MTR - Disneyland Resort Line,2005
 92,93,heavy_rail,KCR - Ma On Shan,2004
 93,95,heavy_rail,KCR - Ma On Shan,2004
@@ -93,7 +93,7 @@ nodeID_from,nodeID_to,mode,line,year
 97,98,heavy_rail,KCR - Ma On Shan,2004
 97,99,heavy_rail,KCR - Ma On Shan,2004
 98,100,heavy_rail,KCR - Ma On Shan,2004
-96,100,heavy_rail,KCR - Ma On Shan,2004
+100,94,heavy_rail,KCR - Ma On Shan,2004
 101,102,heavy_rail,MTR - Ma On Shan,2004
 102,104,heavy_rail,MTR - Ma On Shan,2004
 103,105,heavy_rail,MTR - Ma On Shan,2004
@@ -101,7 +101,7 @@ nodeID_from,nodeID_to,mode,line,year
 106,107,heavy_rail,MTR - Ma On Shan,2004
 106,108,heavy_rail,MTR - Ma On Shan,2004
 107,109,heavy_rail,MTR - Ma On Shan,2004
-105,109,heavy_rail,MTR - Ma On Shan,2004
+109,103,heavy_rail,MTR - Ma On Shan,2004
 110,120,commuter_rail,MTR - East Rail Line,2004
 110,121,commuter_rail,MTR - East Rail Line,2022
 111,123,commuter_rail,MTR - East Rail Line,1910
@@ -127,7 +127,7 @@ nodeID_from,nodeID_to,mode,line,year
 133,134,commuter_rail,MTR - West Rail Line,2003
 134,135,commuter_rail,MTR - West Rail Line,2003
 136,135,commuter_rail,MTR - West Rail Line,2003
-135,137,commuter_rail,MTR - West Rail Line,2003
+137,132,commuter_rail,MTR - West Rail Line,2003
 138,142,commuter_rail,MTR - Airport Express,2005
 139,140,commuter_rail,MTR - Airport Express,1998
 140,141,commuter_rail,MTR - Airport Express,1998
@@ -146,7 +146,7 @@ nodeID_from,nodeID_to,mode,line,year
 155,156,commuter_rail,KCR - West Rail,2003
 156,157,commuter_rail,KCR - West Rail,2003
 158,157,commuter_rail,KCR - West Rail,2003
-157,159,commuter_rail,KCR - West Rail,2003
+159,154,commuter_rail,KCR - West Rail,2003
 160,161,tram,Trams - Peak Tram,1888
 161,162,tram,Trams - Peak Tram,1888
 162,163,tram,Trams - Peak Tram,1888
@@ -231,7 +231,7 @@ nodeID_from,nodeID_to,mode,line,year
 242,243,tram,Trams - Hong Kong Tramways,1922
 244,245,tram,Trams - Hong Kong Tramways,1922
 245,246,tram,Trams - Hong Kong Tramways,1922
-176,236,tram,Trams - Hong Kong Tramways,1904
+211,199,tram,Trams - Hong Kong Tramways,1904
 249,258,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),2004
 250,259,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910
 250,256,inter_city_rail,KCR - Kowloon-Canton Railway (East Rail),1910

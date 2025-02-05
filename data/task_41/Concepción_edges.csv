@@ -18,7 +18,7 @@ nodeID_from,nodeID_to,mode,line,year
 16,17,brt,Corredor Bus - Colón,1908
 17,18,brt,Corredor Bus - Colón,1908
 18,19,brt,Corredor Bus - Colón,1908
-12,17,brt,Corredor Bus - Colón,1908
+12,14,brt,Corredor Bus - Colón,1908
 20,31,default,Biotrén - Línea 2,2005
 20,27,default,Biotrén - Línea 2,2005
 21,26,default,Biotrén - Línea 2,2005
@@ -31,8 +31,8 @@ nodeID_from,nodeID_to,mode,line,year
 28,29,default,Biotrén - Línea 2,2016
 29,32,default,Biotrén - Línea 2,2016
 32,33,default,Biotrén - Línea 2,2016
-23,29,default,Biotrén - Línea 2,2016
 27,31,default,Biotrén - Línea 2,2005
+23,24,default,Biotrén - Línea 2,2016
 34,44,default,Biotrén - Línea 1,1999
 35,42,default,Biotrén - Línea 1,2001
 35,45,default,Biotrén - Línea 1,2001

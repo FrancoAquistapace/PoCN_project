@@ -24,8 +24,8 @@ nodeID_from,nodeID_to,mode,line,year
 21,22,default,Metro - MB,1955
 22,23,default,Metro - MB,1955
 24,25,default,Metro - MB,1955
-6,3,default,Metro - MB,1990
 23,24,default,Metro - MB,1955
+6,10,default,Metro - MB,1990
 26,27,default,Ferrovie Urbane - Roma-Lido,1924
 26,32,default,Ferrovie Urbane - Roma-Lido,1924
 27,29,default,Ferrovie Urbane - Roma-Lido,1924
@@ -37,7 +37,7 @@ nodeID_from,nodeID_to,mode,line,year
 34,37,default,Ferrovie Urbane - Roma-Lido,1948
 36,38,default,Ferrovie Urbane - Roma-Lido,1959
 37,38,default,Ferrovie Urbane - Roma-Lido,1959
-32,33,default,Ferrovie Urbane - Roma-Lido,1924
+33,29,default,Ferrovie Urbane - Roma-Lido,1924
 39,49,default,Metro - MC,2014
 39,44,default,Metro - MC,2014
 40,41,default,Metro - MC,2014
@@ -61,7 +61,7 @@ nodeID_from,nodeID_to,mode,line,year
 58,61,default,Metro - MC,2018
 60,61,default,Metro - MC,2025
 60,62,default,Metro - MC,2025
-51,45,default,Metro - MC,2014
+51,44,default,Metro - MC,2014
 63,68,default,Ferrovie Urbane - Roma-Viterbo,1932
 63,80,default,Ferrovie Urbane - Roma-Viterbo,1932
 64,73,default,Ferrovie Urbane - Roma-Viterbo,1932
@@ -85,7 +85,7 @@ nodeID_from,nodeID_to,mode,line,year
 81,82,default,Ferrovie Urbane - Roma-Viterbo,1932
 83,85,default,Ferrovie Urbane - Roma-Viterbo,1932
 86,87,default,Ferrovie Urbane - Roma-Viterbo,1932
-74,86,default,Ferrovie Urbane - Roma-Viterbo,1932
+86,85,default,Ferrovie Urbane - Roma-Viterbo,1932
 88,89,default,Metro - MA,1980
 88,93,default,Metro - MA,1980
 89,94,default,Metro - MA,1980
@@ -112,5 +112,5 @@ nodeID_from,nodeID_to,mode,line,year
 107,108,default,Metro - MA,1980
 111,112,default,Metro - MA,1999
 113,114,default,Metro - MA,2000
-93,106,default,Metro - MA,1980
 99,100,default,Metro - MA,1980
+93,89,default,Metro - MA,1980

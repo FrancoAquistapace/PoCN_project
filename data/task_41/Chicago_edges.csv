@@ -36,9 +36,9 @@ nodeID_from,nodeID_to,mode,line,year
 39,37,heavy_rail,CTA - Brown Line,1900
 35,11,heavy_rail,CTA - Brown Line,1907
 0,4,heavy_rail,CTA - Brown Line,1907
-39,23,heavy_rail,CTA - Brown Line,1900
-24,31,heavy_rail,CTA - Brown Line,1900
 24,23,heavy_rail,CTA - Brown Line,1900
+23,38,heavy_rail,CTA - Brown Line,1900
+24,30,heavy_rail,CTA - Brown Line,1900
 40,50,heavy_rail,CTA - Red Line,1900
 41,40,heavy_rail,CTA - Red Line,1943
 42,49,heavy_rail,CTA - Red Line,1900
@@ -47,9 +47,9 @@ nodeID_from,nodeID_to,mode,line,year
 45,46,heavy_rail,CTA - Red Line,1900
 46,47,heavy_rail,CTA - Red Line,1900
 48,47,heavy_rail,CTA - Red Line,1900
-49,45,heavy_rail,CTA - Red Line,1900
 50,42,heavy_rail,CTA - Red Line,1900
-47,42,heavy_rail,CTA - Red Line,1900
+45,47,heavy_rail,CTA - Red Line,1900
+49,45,heavy_rail,CTA - Red Line,1900
 51,52,heavy_rail,CTA - Purple Line,1900
 51,53,heavy_rail,CTA - Purple Line,1900
 52,54,heavy_rail,CTA - Purple Line,1900
@@ -61,7 +61,7 @@ nodeID_from,nodeID_to,mode,line,year
 58,59,heavy_rail,CTA - Purple Line,1900
 60,61,heavy_rail,CTA - Purple Line,1900
 61,59,heavy_rail,CTA - Purple Line,1900
-61,52,heavy_rail,CTA - Purple Line,1900
+52,60,heavy_rail,CTA - Purple Line,1900
 63,64,heavy_rail,CTA - Orange Line,1897
 64,65,heavy_rail,CTA - Orange Line,0
 66,67,heavy_rail,CTA - Green Line,1893
@@ -79,4 +79,4 @@ nodeID_from,nodeID_to,mode,line,year
 79,80,heavy_rail,CTA - Green Line,0
 79,81,heavy_rail,CTA - Green Line,0
 81,82,heavy_rail,CTA - Green Line,0
-81,78,heavy_rail,CTA - Green Line,0
+78,69,heavy_rail,CTA - Green Line,0

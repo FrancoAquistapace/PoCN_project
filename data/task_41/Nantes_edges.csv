@@ -59,7 +59,6 @@ nodeID_from,nodeID_to,mode,line,year
 61,69,light_rail,Tramway - Ligne 1,2007
 66,65,light_rail,Tramway - Ligne 1,2000
 9,24,light_rail,Tramway - Ligne 1,1989
-21,19,light_rail,Tramway - Ligne 1,1985
 40,38,light_rail,Tramway - Ligne 1,1985
 35,26,light_rail,Tramway - Ligne 1,1985
 32,39,light_rail,Tramway - Ligne 1,1985
@@ -67,6 +66,7 @@ nodeID_from,nodeID_to,mode,line,year
 64,41,light_rail,Tramway - Ligne 1,2000
 54,61,light_rail,Tramway - Ligne 1,2000
 56,62,light_rail,Tramway - Ligne 1,2000
+21,43,light_rail,Tramway - Ligne 1,1985
 70,77,light_rail,Tramway - Ligne 2,1994
 70,75,light_rail,Tramway - Ligne 2,1994
 71,79,light_rail,Tramway - Ligne 2,1994
@@ -109,12 +109,12 @@ nodeID_from,nodeID_to,mode,line,year
 115,117,light_rail,Tramway - Ligne 2,1992
 118,116,light_rail,Tramway - Ligne 2,1992
 119,114,light_rail,Tramway - Ligne 2,1992
-103,101,light_rail,Tramway - Ligne 2,1994
 117,107,light_rail,Tramway - Ligne 2,1992
 70,71,light_rail,Tramway - Ligne 2,1994
 107,106,light_rail,Tramway - Ligne 2,2007
 112,113,light_rail,Tramway - Ligne 2,1992
-83,85,light_rail,Tramway - Ligne 2,1994
+101,87,light_rail,Tramway - Ligne 2,1994
+83,86,light_rail,Tramway - Ligne 2,1994
 122,172,light_rail,Tramway - Ligne 3,2007
 122,171,light_rail,Tramway - Ligne 3,2007
 123,142,light_rail,Tramway - Ligne 3,2000
@@ -183,7 +183,7 @@ nodeID_from,nodeID_to,mode,line,year
 186,187,brt,Busway - Ligne 4,2006
 187,188,brt,Busway - Ligne 4,2006
 188,190,brt,Busway - Ligne 4,2006
-187,182,brt,Busway - Ligne 4,2006
+187,185,brt,Busway - Ligne 4,2006
 191,192,brt,Busway - Ligne 5,2020
 192,193,brt,Busway - Ligne 5,2020
 194,195,brt,Busway - Ligne 5,2020

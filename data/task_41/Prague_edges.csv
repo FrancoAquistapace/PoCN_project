@@ -37,8 +37,8 @@ nodeID_from,nodeID_to,mode,line,year
 37,41,default,Metro - Metro B,0
 39,9,default,Metro - Metro B,0
 45,37,default,Metro - Metro B,0
-30,21,default,Metro - Metro B,0
-22,15,default,Metro - Metro B,0
 40,44,default,Metro - Metro B,0
 34,20,default,Metro - Metro B,0
-43,15,default,Metro - Metro B,0
+21,29,default,Metro - Metro B,0
+15,17,default,Metro - Metro B,0
+43,39,default,Metro - Metro B,0

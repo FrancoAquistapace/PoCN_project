@@ -31,8 +31,8 @@ nodeID_from,nodeID_to,mode,line,year
 29,24,default,Tram - 3,0
 33,34,default,Tram - 3,0
 5,17,default,Tram - 3,0
-9,31,default,Tram - 3,0
 32,25,default,Tram - 3,0
+9,22,default,Tram - 3,0
 35,46,default,Tram - 1,0
 36,43,default,Tram - 1,0
 37,51,default,Tram - 1,0
@@ -82,14 +82,14 @@ nodeID_from,nodeID_to,mode,line,year
 88,93,default,Tram - 1,0
 89,93,default,Tram - 1,0
 91,90,default,Tram - 1,0
-47,45,default,Tram - 1,0
 35,47,default,Tram - 1,0
-60,59,default,Tram - 1,0
 72,73,default,Tram - 1,0
 84,75,default,Tram - 1,0
 80,78,default,Tram - 1,0
 82,86,default,Tram - 1,0
 87,92,default,Tram - 1,0
+60,56,default,Tram - 1,0
+45,39,default,Tram - 1,0
 95,103,default,Tram - 6,0
 95,96,default,Tram - 6,0
 97,99,default,Tram - 6,0

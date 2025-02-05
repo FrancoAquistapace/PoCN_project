@@ -8,7 +8,7 @@ nodeID_from,nodeID_to,mode,line,year
 3,9,light_rail,Tren Eléctrico Urbano  - Línea 2,0
 3,8,light_rail,Tren Eléctrico Urbano  - Línea 2,0
 4,9,light_rail,Tren Eléctrico Urbano  - Línea 2,0
-8,1,light_rail,Tren Eléctrico Urbano  - Línea 2,0
+8,7,light_rail,Tren Eléctrico Urbano  - Línea 2,0
 10,16,light_rail,Tren Eléctrico Urbano  - Línea 1,0
 11,15,light_rail,Tren Eléctrico Urbano  - Línea 1,0
 11,16,light_rail,Tren Eléctrico Urbano  - Línea 1,0
@@ -18,4 +18,4 @@ nodeID_from,nodeID_to,mode,line,year
 13,17,light_rail,Tren Eléctrico Urbano  - Línea 1,0
 14,18,light_rail,Tren Eléctrico Urbano  - Línea 1,0
 14,19,light_rail,Tren Eléctrico Urbano  - Línea 1,0
-18,11,light_rail,Tren Eléctrico Urbano  - Línea 1,0
+18,17,light_rail,Tren Eléctrico Urbano  - Línea 1,0

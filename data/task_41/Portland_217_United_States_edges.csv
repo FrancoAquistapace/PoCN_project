@@ -38,7 +38,7 @@ nodeID_from,nodeID_to,mode,line,year
 42,43,tram,Portland Streetcar - North South Line,2001
 43,44,tram,Portland Streetcar - North South Line,2001
 44,45,tram,Portland Streetcar - North South Line,2001
-18,33,tram,Portland Streetcar - North South Line,2001
+18,29,tram,Portland Streetcar - North South Line,2001
 46,47,tram,Portland Streetcar - A Loop,2006
 47,48,tram,Portland Streetcar - A Loop,2005
 48,49,tram,Portland Streetcar - A Loop,2005
@@ -96,8 +96,8 @@ nodeID_from,nodeID_to,mode,line,year
 101,102,tram,Portland Streetcar - B Loop,2015
 83,85,tram,Portland Streetcar - B Loop,2001
 88,90,tram,Portland Streetcar - B Loop,2012
-99,96,tram,Portland Streetcar - B Loop,2012
 74,102,tram,Portland Streetcar - B Loop,2015
+99,97,tram,Portland Streetcar - B Loop,2012
 103,104,light_rail,TriMet - MAX Red Line,1986
 104,105,light_rail,TriMet - MAX Red Line,1986
 105,106,light_rail,TriMet - MAX Red Line,1986
@@ -123,7 +123,7 @@ nodeID_from,nodeID_to,mode,line,year
 127,128,light_rail,TriMet - MAX Red Line,2001
 129,128,light_rail,TriMet - MAX Red Line,2001
 103,124,light_rail,TriMet - MAX Red Line,1997
-109,105,light_rail,TriMet - MAX Red Line,1986
+107,106,light_rail,TriMet - MAX Red Line,1986
 130,131,light_rail,TriMet - MAX Yellow Line,2004
 131,132,light_rail,TriMet - MAX Yellow Line,2004
 132,133,light_rail,TriMet - MAX Yellow Line,2004
@@ -160,7 +160,7 @@ nodeID_from,nodeID_to,mode,line,year
 167,168,light_rail,TriMet - MAX Green Line,2009
 167,166,light_rail,TriMet - MAX Green Line,2009
 153,165,light_rail,TriMet - MAX Green Line,2009
-158,165,light_rail,TriMet - MAX Green Line,2009
+158,160,light_rail,TriMet - MAX Green Line,2009
 169,170,light_rail,TriMet - MAX Blue Line,1986
 170,171,light_rail,TriMet - MAX Blue Line,1986
 171,172,light_rail,TriMet - MAX Blue Line,1986
@@ -204,10 +204,10 @@ nodeID_from,nodeID_to,mode,line,year
 213,214,light_rail,TriMet - MAX Blue Line,1998
 214,215,light_rail,TriMet - MAX Blue Line,1998
 215,216,light_rail,TriMet - MAX Blue Line,1997
-195,186,light_rail,TriMet - MAX Blue Line,1986
 169,216,light_rail,TriMet - MAX Blue Line,1997
-175,171,light_rail,TriMet - MAX Blue Line,1986
 213,212,light_rail,TriMet - MAX Blue Line,1998
+186,194,light_rail,TriMet - MAX Blue Line,1986
+173,172,light_rail,TriMet - MAX Blue Line,1986
 218,228,light_rail,TriMet - MAX Orange Line,2015
 219,220,light_rail,TriMet - MAX Orange Line,2015
 219,218,light_rail,TriMet - MAX Orange Line,2015

@@ -32,7 +32,7 @@ nodeID_from,nodeID_to,mode,line,year
 31,32,heavy_rail,Metro - L2,2011
 32,34,heavy_rail,Metro - L2,2011
 34,33,heavy_rail,Metro - L2,2011
-15,21,heavy_rail,Metro - L2,1932
+15,20,heavy_rail,Metro - L2,1932
 37,41,heavy_rail,Metro - L3,1941
 37,43,heavy_rail,Metro - L3,1941
 38,39,heavy_rail,Metro - L3,1936
@@ -103,7 +103,7 @@ nodeID_from,nodeID_to,mode,line,year
 103,107,heavy_rail,Metro - L5,1968
 104,105,heavy_rail,Metro - L5,1980
 105,108,heavy_rail,Metro - L5,1980
-97,101,heavy_rail,Metro - L5,1968
+106,92,heavy_rail,Metro - L5,1968
 109,115,heavy_rail,Metro - L6,1987
 109,124,heavy_rail,Metro - L6,1979
 110,121,heavy_rail,Metro - L6,1981
@@ -132,8 +132,8 @@ nodeID_from,nodeID_to,mode,line,year
 131,132,heavy_rail,Metro - L6,1995
 133,136,heavy_rail,Metro - L6,1979
 134,135,heavy_rail,Metro - L6,1981
-123,116,heavy_rail,Metro - L6,1979
 117,135,heavy_rail,Metro - L6,1981
+123,120,heavy_rail,Metro - L6,1979
 137,138,heavy_rail,Metro - L8,1999
 137,144,heavy_rail,Metro - L8,2007
 139,140,heavy_rail,Metro - L8,2002
@@ -235,7 +235,7 @@ nodeID_from,nodeID_to,mode,line,year
 238,234,heavy_rail,Metro - L7,2007
 240,241,heavy_rail,Metro - L7,1975
 228,233,heavy_rail,Metro - L7,1999
-239,238,heavy_rail,Metro - L7,2007
+239,235,heavy_rail,Metro - L7,2007
 242,243,heavy_rail,Metro - L9,1999
 243,244,heavy_rail,Metro - L9,1999
 244,248,heavy_rail,Metro - L9,1999
@@ -264,7 +264,7 @@ nodeID_from,nodeID_to,mode,line,year
 265,267,heavy_rail,Metro - L9,1999
 268,269,heavy_rail,Metro - L9,1986
 266,245,heavy_rail,Metro - L9,1999
-253,270,heavy_rail,Metro - L9,1983
+253,251,heavy_rail,Metro - L9,1983
 271,294,heavy_rail,Metro - L10,2007
 271,284,heavy_rail,Metro - L10,2007
 272,273,heavy_rail,Metro - L10,2007
