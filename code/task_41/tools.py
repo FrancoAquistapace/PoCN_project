@@ -11,7 +11,24 @@ import time
 
 
 # ----------- Analysis --------------
-
+# Function to get degree frequencies from data
+def get_deg_frequencies(deg_list):
+    '''
+    Params:
+        deg_list : numpy array
+            Array containing node degree observations.
+    Output:
+        Returns a tuple (k_vals, k_freqs) where k_vals
+        is an array with the unique degree values found
+        in the given data, and k_freqs an array with the
+        corresponding frequency of the unique values.
+    '''
+    # Get unique values
+    k_vals = np.unique(deg_list)
+    # Get corresponding frequencies
+    k_freqs = np.array(
+        [np.sum(deg_list == k)/len(deg_list) for k in k_vals])
+    return k_vals, k_freqs
 # -----------------------------------
 
 
