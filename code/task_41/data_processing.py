@@ -567,7 +567,7 @@ def build_node_edge_lists(city_data, to_year=2025, verbose=False):
     
     # We need to consider nodes without lines
     nodes_nl = city_data['stations']
-    nodes_nl = nodes_nl.loc[~nodes_nl.id.isin(city_data['station_lines'])]
+    nodes_nl = nodes_nl.loc[~nodes_nl.id.isin(city_data['station_lines']['station_id'])]
 
     # Keep stations that have not been closed up to the ref year
     nodes_nl = nodes_nl.loc[nodes_nl.closure >= to_year].copy()

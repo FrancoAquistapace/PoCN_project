@@ -4,9 +4,4 @@ nodeID,nodeLabel,latitude,longitude,mode,year
 2,Campus,3.1138121,45.7588841,default,2007.0
 3,Margeride,3.1199901,45.7608607,default,2007.0
 4,Cézeaux Pellez,3.1088806,45.7611166,default,2007.0
-5,Lagarlaye,3.0825838,45.7733321,None,2006.0
-6,Gaillard,3.0818161,45.7797168,None,0.0
-7,Lagarlaye,3.0826306,45.7733374,None,2006.0
-8,Campus,3.1138121,45.7588841,None,2007.0
-9,Margeride,3.1199901,45.7608607,None,2007.0
-10,Cézeaux Pellez,3.1088806,45.7611166,None,2007.0
+5,Gaillard,3.0818161,45.7797168,None,0.0
