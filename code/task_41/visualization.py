@@ -35,7 +35,39 @@ print('Cities with data: %d' % (cities_with_data))
 
 # ------------ FIGURES ------------------
 
-# SM Figure:
+# SM Figure: Size distribution of the networks
+# Figure params
+FONTSIZE = 13
+
+# Init figure
+fig, ax = plt.subplots(figsize=(5,3), dpi=200, nrows=1, ncols=1)
+
+# Get city sizes 
+city_sizes = []
+for city in city_nets:
+    g = city_nets[city]
+    city_sizes.append(len(g.nodes()))
+
+# Plot results
+plt.hist(city_sizes, bins='sturges')
+
+# Scale
+plt.yscale('log')
+
+# Labels
+plt.ylabel('Count', fontsize=FONTSIZE)
+plt.xlabel(r'$N$', fontsize=FONTSIZE)
+plt.tick_params(labelsize=FONTSIZE-2)
+
+# Limits
+plt.xlim(left=0, right=2500)
+
+plt.tight_layout()
+plt.savefig('../../latex/images/task_41/networks_size_dist.png', dpi=200)
+
+
+
+# SM Figure - Cities:
 # Plot of two given cities
 city_plot_1 = 'Tokyo'
 city_plot_2 = 'Seoul'
