@@ -35,6 +35,137 @@ print('Cities with data: %d' % (cities_with_data))
 
 # ------------ FIGURES ------------------
 
+# MAIN TEXT Figure: Degree distribution of small, medium and large cities
+# Get the degree distribution of the small, medium and large cities
+deg_small = []
+deg_medium = []
+deg_large = []
+for city in city_nets:
+    g = city_nets[city]
+    size = len(g.nodes)
+    deg = list(dict(g.degree()).values())
+    if size < 100:
+        deg_small.extend(deg)
+    elif size >= 100 and size < 500:
+        deg_medium.extend(deg)
+    else:
+        deg_large.extend(deg)
+
+# Turn into numpy arrays
+deg_small = np.array(deg_small)
+deg_medium = np.array(deg_medium)
+deg_large = np.array(deg_large)
+
+# Figure params
+FONTSIZE = 13
+
+# Init figure
+fig, ax = plt.subplots(figsize=(5,3), dpi=200, nrows=1, ncols=1)
+
+# Get degree freqs and plot
+k_vals_small, k_freqs_small = get_deg_frequencies(deg_small)
+k_vals_medium, k_freqs_medium = get_deg_frequencies(deg_medium)
+k_vals_large, k_freqs_large = get_deg_frequencies(deg_large)
+
+# Plot degree frequencies
+plt.plot(k_vals_small, k_freqs_small, label='Small')
+plt.plot(k_vals_medium, k_freqs_medium, label='Medium')
+plt.plot(k_vals_large, k_freqs_large, label='Large')
+
+# Labels
+plt.xlabel(r'$k$', fontsize=FONTSIZE)
+plt.ylabel(r'$P(k)$', fontsize=FONTSIZE)
+plt.tick_params(labelsize=FONTSIZE-2)
+
+# Limits
+plt.ylim(bottom=0, top=0.8)
+plt.xlim(left=0, right=4)
+
+# Legend
+plt.legend(fontsize=FONTSIZE-2)
+
+plt.tight_layout()
+plt.savefig('../../latex/images/task_41/degree_dist_cities.png', dpi=200)
+
+
+
+# MAIN TEXT Figure: Average shortest path length
+# Get average shortest path length as a function of city size
+N_vals = []
+spath_large_vals = []
+spath_mean_vals = []
+for city in city_nets:
+    g = city_nets[city]
+    N_vals.append(len(g.nodes()))
+
+    # Get largest connected component and its avg path
+    g_lcc = max(nx.connected_components(g), key=len) 
+    g_lcc = g.subgraph(g_lcc).copy()
+    spath_large_vals.append(nx.average_shortest_path_length(g_lcc))
+
+    # Get average from all connected components
+    path_cc = []
+    for C in (g.subgraph(c).copy() for c in nx.connected_components(g)):
+        path_cc.append(nx.average_shortest_path_length(C))
+    spath_mean_vals.append(np.mean(path_cc))
+
+# Turn into numpy arrays
+N_vals = np.array(N_vals)
+spath_large_vals = np.array(spath_large_vals)
+spath_mean_vals = np.array(spath_mean_vals)
+
+# Now, get average value among all cities in a size bin (logarithmic)
+n_bins = 6
+N_bins = np.logspace(start=0, stop=np.log10(2200), num=n_bins)
+spath_large = []
+spath_large_err = []
+spath_mean = []
+spath_mean_err = []
+for i in range(n_bins):
+    if i == n_bins-1:
+        N_mask = N_vals >= N_bins[i]
+    else:
+        N_mask = (N_vals >= N_bins[i]) * (N_vals < N_bins[i+1])
+        
+    # Get values for LCC 
+    spath_large.append(np.mean(spath_large_vals[N_mask]))
+    spath_large_err.append(np.std(spath_large_vals[N_mask]))
+                           
+    # Get mean values
+    spath_mean.append(np.mean(spath_mean_vals[N_mask]))
+    spath_mean_err.append(np.std(spath_mean_vals[N_mask]))
+
+# Figure params
+FONTSIZE = 13
+CAPSIZE = 4
+
+# Init figure
+fig, ax = plt.subplots(figsize=(5,3), dpi=200, nrows=1, ncols=1)
+
+# Plot results
+plt.errorbar(N_bins, spath_large, yerr=spath_large_err, label='LCC', 
+            capsize=CAPSIZE, marker='o')
+plt.errorbar(N_bins, spath_mean, yerr=spath_mean_err, label='Average', 
+            capsize=CAPSIZE, marker='o')
+
+# Reference curves
+#plt.plot(N_bins, 6*np.log10(N_bins))
+#plt.plot(N_bins, 3*np.sqrt(np.log10(N_bins)))
+
+# Labels
+plt.ylabel(r'$l_G$', fontsize=FONTSIZE)
+plt.xlabel(r'$N$', fontsize=FONTSIZE)
+
+# Legend
+plt.legend(fontsize=FONTSIZE-2)
+
+# Scale
+plt.xscale('log')
+
+plt.tight_layout()
+plt.savefig('../../latex/images/task_41/avg_path_length_cities.png', dpi=200)
+
+
 # SM Figure: Size distribution of the networks
 # Figure params
 FONTSIZE = 13
