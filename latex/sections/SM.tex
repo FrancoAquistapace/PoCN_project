@@ -157,10 +157,20 @@ Another relevant factor when considering interconnected systems is the size of t
 \label{sec:DATN_SM}
 
 \subsubsection*{Description of the Citylines dataset}
-The totality of the data contained in the Citylines platform is distributed into the following files:
+The totality of the data contained in the Citylines platform is distributed into separate files that contain the following information:
 \begin{itemize}
-	\item 
+	\item Cities: Basic information about each city, including its name, location, identifier (ID) and name of the country.
+	\item Systems: Name and ID of each transport system, as well as the city ID.
+	\item Lines: Name and ID of each line, as well as the IDs of the corresponding city, system and transport mode.
+	\item Sections: Geographical locations, historical data, length and ID for each section of each line, as well as the corresponding city ID.
+	\item Section lines: Connects every section to its corresponding line by means of their respective IDs.
+	\item Stations: Geographical location, historical data, name and ID of each station, as well as the corresponding city ID.
+	\item Station lines: Connects every station to its corresponding line through their respective IDs.
+	\item Transport modes: Name and ID of each transport mode.
 \end{itemize}
 
+Fig. \ref{} displays a network representation of the Citylines dataset files, as well as a simple mapping between them without redundancies. The links may represent a one--to--one or a one--to--many mapping.
 
 \newpage
+
+

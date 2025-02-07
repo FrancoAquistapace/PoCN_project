@@ -12,4 +12,4 @@
 \contentsline {section}{\numberline {4.1}Song-Havlin-Makse self-similar model}{6}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Sandpile dynamics on complex networks}{7}{section.4.2}%
 \contentsline {section}{\numberline {4.3}Data analytics of public transport networks}{10}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Bibliography}{11}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Bibliography}{12}{chapter.5}%
