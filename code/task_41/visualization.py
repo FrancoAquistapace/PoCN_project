@@ -68,9 +68,9 @@ k_vals_medium, k_freqs_medium = get_deg_frequencies(deg_medium)
 k_vals_large, k_freqs_large = get_deg_frequencies(deg_large)
 
 # Plot degree frequencies
-plt.plot(k_vals_small, k_freqs_small, label='Small')
-plt.plot(k_vals_medium, k_freqs_medium, label='Medium')
-plt.plot(k_vals_large, k_freqs_large, label='Large')
+plt.plot(k_vals_small, k_freqs_small, label='Small', marker='o')
+plt.plot(k_vals_medium, k_freqs_medium, label='Medium', marker='o')
+plt.plot(k_vals_large, k_freqs_large, label='Large', marker='o')
 
 # Labels
 plt.xlabel(r'$k$', fontsize=FONTSIZE)
@@ -211,7 +211,7 @@ city_plot_nodes_2 = pd.read_csv(data_path + city_plot_2 + '_nodes.csv')
 city_plot_edges_2 = pd.read_csv(data_path + city_plot_2 + '_edges.csv')
 
 # Figure params
-FONTSIZE = 13
+FONTSIZE = 15
 NODE_SIZE = 3.2
 LINE_WIDTH = 1.8
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  10 FEB 2025 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  10 FEB 2025 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1492,9 +1492,51 @@ _S_vs_p_joint_AB.png>]) (./sections/task3.tex
 Chapter 3.
 [5
 
-]) (./sections/SM.tex
+]
+<./images/task_41/degree_dist_cities.png, id=183, 361.35pt x 216.81pt>
+File: ./images/task_41/degree_dist_cities.png Graphic file (type png)
+<use ./images/task_41/degree_dist_cities.png>
+Package pdftex.def Info: ./images/task_41/degree_dist_cities.png  used on input
+ line 20.
+(pdftex.def)             Requested size: 271.01184pt x 162.60709pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+
+ []
+
+<./images/task_41/avg_path_length_cities.png, id=184, 361.35pt x 216.81pt>
+File: ./images/task_41/avg_path_length_cities.png Graphic file (type png)
+<use ./images/task_41/avg_path_length_cities.png>
+Package pdftex.def Info: ./images/task_41/avg_path_length_cities.png  used on i
+nput line 29.
+(pdftex.def)             Requested size: 271.01184pt x 162.60709pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.36 \newpage
+             pdfTeX warning (ext4): destination with the same identifier (name{
+figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.36 \newpage
+              <./images/task_41/degree_dist_cities.png> <./images/task_41/avg_p
+ath_length_cities.png>]) (./sections/SM.tex
 Chapter 4.
-[6
+[7
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
@@ -1510,7 +1552,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7]
+[8]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1519,8 +1561,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8]
-<./images/task_15/SM_scale_free_distributions.png, id=219, 578.16pt x 216.81pt>
+[9]
+<./images/task_15/SM_scale_free_distributions.png, id=233, 578.16pt x 216.81pt>
 
 File: ./images/task_15/SM_scale_free_distributions.png Graphic file (type png)
 <use ./images/task_15/SM_scale_free_distributions.png>
@@ -1540,13 +1582,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}
-) has been already used, duplicate ignored
+[10pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.130 
        <./images/task_15/SM_scale_free_distributions.png>]
-<./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png, id=232, 361.35pt x
+<./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png, id=245, 361.35pt x
  216.81pt>
 File: ./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png Graphic file (
 type png)
@@ -1567,14 +1609,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
 l.166 	\item S
               ection lines: Connects every section to its corresponding line...
  <./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png>]
-<./images/task_41/citylines_dataset.png, id=242, 918.93312pt x 373.89688pt>
+<./images/task_41/citylines_dataset.png, id=256, 918.93312pt x 373.89688pt>
 File: ./images/task_41/citylines_dataset.png Graphic file (type png)
 <use ./images/task_41/citylines_dataset.png>
 Package pdftex.def Info: ./images/task_41/citylines_dataset.png  used on input 
@@ -1593,35 +1635,63 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.190 \newpage
-               <./images/task_41/citylines_dataset.png>]) (./main.bbl
+l.192 \end{itemize}
+                    <./images/task_41/citylines_dataset.png>]
+<./images/task_41/tokyo_seul_networks.png, id=264, 722.7pt x 361.35pt>
+File: ./images/task_41/tokyo_seul_networks.png Graphic file (type png)
+<use ./images/task_41/tokyo_seul_networks.png>
+Package pdftex.def Info: ./images/task_41/tokyo_seul_networks.png  used on inpu
+t line 197.
+(pdftex.def)             Requested size: 433.62334pt x 216.81168pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.214 \newpage
+               <./images/task_41/tokyo_seul_networks.png>]) (./main.bbl
 Chapter 5.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 0.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) [12
+)) [14
 
 ] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5B0349BB0B13F7ED74148C60A2A4F614;2831.
  ) 
 Here is how much of TeX's memory you used:
- 28182 strings out of 478994
- 503153 string characters out of 5858184
- 951403 words of memory out of 5000000
- 44998 multiletter control sequences out of 15000+600000
+ 28208 strings out of 478994
+ 504012 string characters out of 5858184
+ 952134 words of memory out of 5000000
+ 45016 multiletter control sequences out of 15000+600000
  463617 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,129p,1229b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,11n,129p,1229b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/20
-21/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/texmf-dist
-/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc
+texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/
+texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist
+/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc
 /dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/
 lm-rm.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/loca
@@ -1636,10 +1706,10 @@ ive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/
 fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
 /public/lm/lmtt12.pfb>
-Output written on main.pdf (14 pages, 1750278 bytes).
+Output written on main.pdf (16 pages, 2083991 bytes).
 PDF statistics:
- 326 PDF objects out of 1000 (max. 8388607)
- 259 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 266 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 272 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 

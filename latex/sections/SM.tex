@@ -184,6 +184,30 @@ Fig. \ref{fig:SM_cityline_dataset} displays a network representation of the City
 
 \subsubsection*{Generation of transport networks from data}
 
+As described in the main text, the edges of each transport network are built using a set of criteria, which are motivated by the following reasoning:
+\begin{itemize}
+	\item The first two edges attempted from every node to its closest neighbours are based on the assumption that stations belonging to the same line which are spatially close are likely to be connected.
+	\item Since there is no data available to match line sections to specific stations, the spatial proximity of the stations to the section endpoints is used instead to infer such mapping. 
+	\item The edge rewiring process is based on the assumption that transport lines are built in an optimised fashion, where the different sections of the line are connected by means of their closest stations.
+\end{itemize}
+As an example of the obtained results, Fig. \ref{fig:tokyo_seul_networks} presents the generated networks for the cities of Tokyo and Seoul, where each color represents a transport mode. 
+
+\begin{figure}[!h]
+	\begin{center}
+	\includegraphics[scale=0.6]{./images/task_41/tokyo_seul_networks.png} 
+	\end{center}
+	\caption{Transport networks for the cities of Tokyo (left) and Seoul (right), generated from the Citylines dataset. Nodes, representing stations, are displayed as dots at their geographical location, while edges are shown as lines and colored according to the corresponding transport mode.\\} 
+	\label{fig:tokyo_seul_networks} 
+\end{figure}
+
+For each city in the dataset, the respective transport network is saved as two files, one with node attributes and one with edge attributes. For the nodes, the stored information consists of a unique ID, the name of the station, its geographical location, the corresponding transport mode and its opening year. For the edges, on the other hand, the stored information consists of the IDs of the associated nodes, the transport mode, the name of the line and its opening year. The opening year of an edge is inferred as the opening year of the closest line section, and as the maximum between the opening years of the connected stations if section data is unavailable. 
+
+
+
+\subsubsection*{Topological characterisation of transport networks}
+
+
+
 
 
 
