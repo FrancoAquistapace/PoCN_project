@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  7 FEB 2025 23:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  10 FEB 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1574,8 +1574,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 l.166 	\item S
               ection lines: Connects every section to its corresponding line...
  <./images/task_15/SM_large_avalanche_rank_plot_joint_AB.png>]
+<./images/task_41/citylines_dataset.png, id=242, 918.93312pt x 373.89688pt>
+File: ./images/task_41/citylines_dataset.png Graphic file (type png)
+<use ./images/task_41/citylines_dataset.png>
+Package pdftex.def Info: ./images/task_41/citylines_dataset.png  used on input 
+line 177.
+(pdftex.def)             Requested size: 367.56674pt x 149.55609pt.
 
-LaTeX Warning: Reference `' on page 11 undefined on input line 172.
+Underfull \hbox (badness 10000) in paragraph at lines 179--179
+
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1585,7 +1593,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[11]) (./main.bbl
+[11pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.190 \newpage
+               <./images/task_41/citylines_dataset.png>]) (./main.bbl
 Chapter 5.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 0.
@@ -1594,20 +1607,17 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )) [12
 
 ] (./main.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5B0349BB0B13F7ED74148C60A2A4F614;2831.
  ) 
 Here is how much of TeX's memory you used:
- 28174 strings out of 478994
- 502873 string characters out of 5858184
- 951172 words of memory out of 5000000
- 44993 multiletter control sequences out of 15000+600000
+ 28182 strings out of 478994
+ 503153 string characters out of 5858184
+ 951403 words of memory out of 5000000
+ 44998 multiletter control sequences out of 15000+600000
  463617 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,129p,1193b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,11n,129p,1229b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/20
 21/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/texmf-dist
@@ -1626,10 +1636,10 @@ ive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/
 fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
 /public/lm/lmtt12.pfb>
-Output written on main.pdf (14 pages, 1684273 bytes).
+Output written on main.pdf (14 pages, 1750278 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 326 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 266 words of extra memory for PDF output out of 10000 (max. 10000000)
 
