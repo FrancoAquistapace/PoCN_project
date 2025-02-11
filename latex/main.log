@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  10 FEB 2025 18:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  11 FEB 2025 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1652,6 +1652,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--199
 
  []
 
+<./images/task_41/networks_size_dist.png, id=266, 361.35pt x 216.81pt>
+File: ./images/task_41/networks_size_dist.png Graphic file (type png)
+<use ./images/task_41/networks_size_dist.png>
+Package pdftex.def Info: ./images/task_41/networks_size_dist.png  used on input
+ line 213.
+(pdftex.def)             Requested size: 271.01184pt x 162.60709pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1664,35 +1678,46 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 }) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.214 \newpage
-               <./images/task_41/tokyo_seul_networks.png>]) (./main.bbl
+l.225 \end{equation}
+                     <./images/task_41/tokyo_seul_networks.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.238 \newpage
+               <./images/task_41/networks_size_dist.png>]) (./main.bbl
 Chapter 5.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
 0.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) [14
+)) [15
 
 ] (./main.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5B0349BB0B13F7ED74148C60A2A4F614;2831.
  ) 
 Here is how much of TeX's memory you used:
- 28208 strings out of 478994
- 504012 string characters out of 5858184
- 952134 words of memory out of 5000000
- 45016 multiletter control sequences out of 15000+600000
+ 28221 strings out of 478994
+ 504362 string characters out of 5858184
+ 952325 words of memory out of 5000000
+ 45024 multiletter control sequences out of 15000+600000
  463617 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,11n,129p,1229b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,12n,129p,1229b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/
-texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist
-/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc
-/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/
+texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/20
+21/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2021/texmf-dist
+/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc
+/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/
 lm-rm.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/loca
 l/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2
@@ -1704,12 +1729,13 @@ i8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2021/t
 exmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/
-fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
-/public/lm/lmtt12.pfb>
-Output written on main.pdf (16 pages, 2083991 bytes).
+fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1
+/public/lm/lmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/
+lmtt12.pfb>
+Output written on main.pdf (17 pages, 2103702 bytes).
 PDF statistics:
- 347 PDF objects out of 1000 (max. 8388607)
- 272 compressed objects within 3 object streams
- 60 named destinations out of 1000 (max. 500000)
- 281 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 

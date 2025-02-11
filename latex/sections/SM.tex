@@ -200,14 +200,38 @@ As an example of the obtained results, Fig. \ref{fig:tokyo_seul_networks} presen
 	\label{fig:tokyo_seul_networks} 
 \end{figure}
 
-For each city in the dataset, the respective transport network is saved as two files, one with node attributes and one with edge attributes. For the nodes, the stored information consists of a unique ID, the name of the station, its geographical location, the corresponding transport mode and its opening year. For the edges, on the other hand, the stored information consists of the IDs of the associated nodes, the transport mode, the name of the line and its opening year. The opening year of an edge is inferred as the opening year of the closest line section, and as the maximum between the opening years of the connected stations if section data is unavailable. 
+For each city in the dataset, the respective transport network is saved as two files, one with node attributes and one with edge attributes. For the nodes, the stored information consists of a unique ID, the name of the station, its geographical location, the corresponding transport mode and its opening year. For the edges, on the other hand, the stored information consists of the IDs of the associated nodes, the transport mode, the name of the line and its opening year. The opening year of an edge is inferred as the opening year of the closest line section, and as the maximum between the opening years of the connected stations if section data is unavailable. Whenever the available data is not sufficient to reconstruct the network of a given city, the node and edge files are stored empty.
 
 
 
 \subsubsection*{Topological characterisation of transport networks}
 
+All topological descriptors are estimated either with respect to the size of the network, given by the number of nodes $N$, or its discrete size classification as small, medium or large. Fig. \ref{fig:networks_size_dist} presents a histogram with the distribution of $N$ for all the generated networks. After applying the size criteria presented in the main text, a total of 64 small cities, 42 medium cities and 9 large cities are obtained.
+
+\begin{figure}[!h]
+	\begin{center}
+	\includegraphics[scale=0.75]{./images/task_41/networks_size_dist.png} 
+	\end{center}
+	\caption{Histogram of the number of nodes, $N$, for the transport networks generated from the Citylines dataset.\\} 
+	\label{fig:networks_size_dist} 
+\end{figure}
 
 
+The degree distribution $P_{S}(k)$ for a given city size $S$ is estimated in a frequentist approach as in Eq. \ref{eq:SM_deg_dist_city}:
+
+\begin{equation}
+	P_{S}(k) = \frac{N_S(k)}{\sum_{k'}N_S(k') } \ \ ,
+	\label{eq:SM_deg_dist_city}
+\end{equation}
+where $S\in\{Small, Medium, Large\}$ and $N_S(k)$ is the number of nodes with degree $k$ accumulated over all networks in class $S$.
+
+Additionally, the average shortest path length $I_G$ is defined for a connected component $G$ by Eq. \ref{eq:SM_I_G_def_cities}:
+
+\begin{equation}
+	I_G = \frac{1}{N_G(N_G-1)}\sum_{i\neq j}d(\nu_i, \nu_j) \ \ ,
+	\label{eq:SM_I_G_def_cities}
+\end{equation}
+where $N_G$ is the number of nodes, each $\nu_i$ is a node in $G$ and $d(\nu_i, \nu_j)$ is the distance, or the length of the shortest path, between nodes $\nu_i$ and $\nu_j$.
 
 
 
