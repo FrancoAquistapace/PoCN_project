@@ -10,4 +10,6 @@ Final project for the Physics of Complex Networks course, from the Physics of Da
 The project is separated into three main parts:
 - **code:** All of the necessary code for each task is developed and documented here. This includes all of the simulation, network generation, data analysis and visualization tools.
 - **data:** The generated networks and simulation output from each task are stored here.
-- **latex:** Contains all of the text and image files required to reproduce the final report, which is also present in this folder.
+- **latex:** Contains all of the text and image files required to reproduce the final report.
+
+Additionally, a report with the details and results achieved for each task can be found in the parent folder.
